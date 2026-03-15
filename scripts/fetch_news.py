@@ -45,7 +45,7 @@ def generate_cn_summary(headline, deck, source):
                 "content-type": "application/json"
             },
             json={
-               "model": "claude-haiku-4-5",
+                "model": "claude-haiku-4-5",
                 "max_tokens": 200,
                 "messages": [{
                     "role": "user",
@@ -55,14 +55,15 @@ def generate_cn_summary(headline, deck, source):
             timeout=15
         )
         data = response.json()
+        print(f"API response: {str(data)[:200]}")
         return data["content"][0]["text"].strip()
-   except Exception as e:
-    print(f"Claude API error: {e}")
-    try:
-        print(f"Response: {response.text[:200]}")
-    except:
-        pass
-    return ""
+    except Exception as e:
+        print(f"Claude API error: {e}")
+        try:
+            print(f"Response: {response.text[:200]}")
+        except:
+            pass
+        return ""
 
 def fetch_news():
     news = []
