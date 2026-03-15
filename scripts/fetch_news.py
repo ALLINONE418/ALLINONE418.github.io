@@ -3,16 +3,62 @@ import json
 import os
 import requests
 from datetime import datetime
+from email.utils import parsedate_to_datetime
 
-# RSS 源
 RSS_FEEDS = [
     {"url": "https://feeds.reuters.com/reuters/businessNews", "source": "Reuters", "cat": "economy"},
     {"url": "https://feeds.reuters.com/reuters/technologyNews", "source": "Reuters", "cat": "tech"},
-    {"url": "https://feeds.bloomberg.com/markets/news.rss", "source": "Bloomberg", "cat": "finance"},
     {"url": "http://feeds.bbci.co.uk/news/business/rss.xml", "source": "BBC", "cat": "economy"},
     {"url": "http://feeds.bbci.co.uk/news/technology/rss.xml", "source": "BBC", "cat": "tech"},
     {"url": "http://feeds.bbci.co.uk/news/world/rss.xml", "source": "BBC", "cat": "politics"},
+    {"url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114", "source": "CNBC", "cat": "finance"},
+    {"url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664", "source": "CNBC", "cat": "tech"},
 ]
+
+ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
+
+def get_time_ago(published):
+    try:
+        dt = parsedate_to_datetime(published)
+        now = datetime.utcnow().replace(tzinfo=dt.tzinfo)
+        diff = now - dt
+        hours = int(diff.total_seconds() / 3600)
+        if hours < 1:
+            return "刚刚"
+        elif hours < 24:
+            return f"{hours}小时前"
+        else:
+            days = hours // 24
+            return f"{days}天前"
+    except:
+        return "今天"
+
+def generate_cn_summary(headline, deck, source):
+    if not ANTHROPIC_API_KEY:
+        return ""
+    try:
+        response = requests.post(
+            "https://api.anthropic.com/v1/messages",
+            headers={
+                "x-api-key": ANTHROPIC_API_KEY,
+                "anthropic-version": "2023-06-01",
+                "content-type": "application/json"
+            },
+            json={
+                "model": "claude-haiku-4-5-20251001",
+                "max_tokens": 200,
+                "messages": [{
+                    "role": "user",
+                    "content": f"用简洁中文（80字以内）概括以下新闻的核心内容，直接输出中文，不要任何前缀：\n标题：{headline}\n内容：{deck}"
+                }]
+            },
+            timeout=15
+        )
+        data = response.json()
+        return data["content"][0]["text"].strip()
+    except Exception as e:
+        print(f"Claude API error: {e}")
+        return ""
 
 def fetch_news():
     news = []
@@ -22,46 +68,52 @@ def fetch_news():
     for feed_info in RSS_FEEDS:
         try:
             feed = feedparser.parse(feed_info["url"])
-            for entry in feed.entries[:3]:  # 每个源取3条
+            for entry in feed.entries[:3]:
                 title = entry.get("title", "").strip()
-                if title in seen:
+                if not title or title in seen:
                     continue
                 seen.add(title)
 
-                # 时间处理
-                published = entry.get("published", "")
-                try:
-                    from email.utils import parsedate_to_datetime
-                    dt = parsedate_to_datetime(published)
-                    now = datetime.utcnow().replace(tzinfo=dt.tzinfo)
-                    diff = now - dt
-                    hours = int(diff.total_seconds() / 3600)
-                    time_str = f"{hours}h ago" if hours > 0 else "Just now"
-                except:
-                    time_str = "Today"
+                # 获取原文链接
+                link = entry.get("link", "")
+                if not link:
+                    continue
+
+                deck = entry.get("summary", "")
+                # 清理 HTML 标签
+                import re
+                deck = re.sub(r'<[^>]+>', '', deck).strip()[:300]
+
+                time_str = get_time_ago(entry.get("published", ""))
+
+                # 生成中文摘要
+                print(f"Generating CN summary for: {title[:50]}...")
+                cn_summary = generate_cn_summary(title, deck, feed_info["source"])
 
                 news.append({
                     "id": f"n{idx}",
                     "cat": feed_info["cat"],
                     "source": feed_info["source"],
                     "headline": title,
-                    "deck": entry.get("summary", "")[:200],
+                    "deck": deck,
+                    "cnSummary": cn_summary,
                     "time": time_str,
-                    "url": entry.get("link", "#"),
+                    "url": link,
                     "lead": idx == 1
                 })
                 idx += 1
-
+                if idx > 12:
+                    break
         except Exception as e:
             print(f"Error fetching {feed_info['url']}: {e}")
+        if idx > 12:
+            break
 
-    # 用 Claude API 生成中文摘要（可选）
-    # 保存 JSON
     os.makedirs("data", exist_ok=True)
     with open("data/news.json", "w", encoding="utf-8") as f:
-        json.dump(news[:10], f, ensure_ascii=False, indent=2)
+        json.dump(news, f, ensure_ascii=False, indent=2)
 
-    print(f"Updated news.json with {len(news[:10])} articles")
+    print(f"Done: {len(news)} articles saved to data/news.json")
 
 if __name__ == "__main__":
     fetch_news()
