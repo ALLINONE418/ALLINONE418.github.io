@@ -1,102 +1,134 @@
 [
   {
     "id": "n1",
-    "cat": "finance",
-    "source": "Bloomberg",
-    "headline": "Bahrain Starts Output Cuts at World’s Top Aluminum Smelter",
-    "deck": "Aluminium Bahrain BSC started a phased production shutdown at the world’s largest single-site smelter of the metal, deepening the disruptions that have rocked the industry and sent prices soaring amid",
-    "time": "3h ago",
-    "url": "https://www.bloomberg.com/news/articles/2026-03-15/bahrain-starts-cutting-output-at-world-s-top-aluminum-smelter",
-    "lead": true
-  },
-  {
-    "id": "n2",
-    "cat": "finance",
-    "source": "Bloomberg",
-    "headline": "Asia Should Buy More Oil From the US, Says Zeldin",
-    "deck": "Indo-Pacific Countries Shift Energy Deals Toward the United States Amid Supply Chain Advantages. EPA Administrator Lee Zeldin speaks with David Gura, Christina Ruffini and Lisa Mateo on \"Bloomberg Thi",
-    "time": "Just now",
-    "url": "https://www.bloomberg.com/news/videos/2026-03-15/asia-should-buy-more-oil-from-the-us-says-zeldin-video",
-    "lead": false
-  },
-  {
-    "id": "n3",
-    "cat": "finance",
-    "source": "Bloomberg",
-    "headline": "New Strikes In Iran As War Enters Day 16",
-    "deck": "Drone Attacks on UAE Oil Facility Mark Escalation in US-Israel-Iran Conflict as War Enters Day 16. Joumanna Bercetche, Philip Crowther and Laura Davison speak with David Gura, Christina Ruffini and Li",
-    "time": "Just now",
-    "url": "https://www.bloomberg.com/news/videos/2026-03-15/new-strikes-in-iran-as-war-enters-day-16-video",
-    "lead": false
-  },
-  {
-    "id": "n4",
     "cat": "economy",
     "source": "BBC",
     "headline": "We will intervene on energy bills if necessary, says Miliband",
     "deck": "Oil and gas prices have surged due to the US-Israel war in Iran, with fears over the cost of living.",
-    "time": "1h ago",
+    "cnSummary": "",
+    "time": "1小时前",
     "url": "https://www.bbc.com/news/articles/cj4z7zr4kd8o?at_medium=RSS&at_campaign=rss",
-    "lead": false
+    "lead": true
   },
   {
-    "id": "n5",
+    "id": "n2",
     "cat": "economy",
     "source": "BBC",
     "headline": "Banknotes, beavers and a very British backlash",
     "deck": "Politicians are furious Churchill will be replaced on banknotes. The RSPCA wants rats and pigeons to feature.",
-    "time": "12h ago",
+    "cnSummary": "",
+    "time": "12小时前",
     "url": "https://www.bbc.com/news/articles/cy03zy1lr8go?at_medium=RSS&at_campaign=rss",
     "lead": false
   },
   {
-    "id": "n6",
+    "id": "n3",
     "cat": "economy",
     "source": "BBC",
     "headline": "How the Iran war may affect your money and bills",
     "deck": "The conflict in the Middle East could raise the cost of petrol, household energy bills and even food.",
-    "time": "2h ago",
+    "cnSummary": "",
+    "time": "2小时前",
     "url": "https://www.bbc.com/news/articles/c2e4ygndjpwo?at_medium=RSS&at_campaign=rss",
     "lead": false
   },
   {
-    "id": "n7",
+    "id": "n4",
     "cat": "tech",
     "source": "BBC",
     "headline": "Games with loot boxes to get minimum 16 age rating across Europe",
     "deck": "The new changes by the Pan-European Game Information age-ratings body (PEGI) will start from June.",
-    "time": "48h ago",
+    "cnSummary": "",
+    "time": "2天前",
     "url": "https://www.bbc.com/news/articles/cge84xqjg5lo?at_medium=RSS&at_campaign=rss",
     "lead": false
   },
   {
-    "id": "n8",
+    "id": "n5",
     "cat": "tech",
     "source": "BBC",
     "headline": "AI toys for children misread emotions and respond inappropriately, researchers warn",
     "deck": "In first study of its kind, Cambridge researchers found AI toys could misread some children's emotions.",
-    "time": "52h ago",
+    "cnSummary": "",
+    "time": "2天前",
     "url": "https://www.bbc.com/news/articles/clyg4wx6nxgo?at_medium=RSS&at_campaign=rss",
     "lead": false
   },
   {
-    "id": "n9",
+    "id": "n6",
     "cat": "tech",
     "source": "BBC",
     "headline": "Grammarly pulls AI author-impersonation tool after backlash",
     "deck": "Writers criticised the feature which used their names and styles as \"AI personas\" without consent.",
-    "time": "67h ago",
+    "cnSummary": "",
+    "time": "2天前",
     "url": "https://www.bbc.com/news/articles/cx28v08jpe7o?at_medium=RSS&at_campaign=rss",
     "lead": false
   },
   {
-    "id": "n10",
+    "id": "n7",
     "cat": "politics",
     "source": "BBC",
     "headline": "BBC visits aftermath of Israeli strike on Lebanon that killed family as IDF targets Hezbollah",
     "deck": "A relative tells BBC those killed were civilians and not Hezbollah operatives, but the Israel Defense Forces says it was targeting \"terrorist infrastructure\".",
-    "time": "14h ago",
+    "cnSummary": "",
+    "time": "14小时前",
     "url": "https://www.bbc.com/news/articles/c20lvn0ex6yo?at_medium=RSS&at_campaign=rss",
+    "lead": false
+  },
+  {
+    "id": "n8",
+    "cat": "politics",
+    "source": "BBC",
+    "headline": "Zelensky accuses EU allies of 'blackmail' in oil pipeline row",
+    "deck": "Volodymyr Zelensky says restoring the flow of Russian oil via Ukraine into the EU would be like lifting sanctions on Russia.",
+    "cnSummary": "",
+    "time": "1小时前",
+    "url": "https://www.bbc.com/news/articles/c3v7q6d0nq0o?at_medium=RSS&at_campaign=rss",
+    "lead": false
+  },
+  {
+    "id": "n9",
+    "cat": "politics",
+    "source": "BBC",
+    "headline": "Severe flooding kills 62 in Kenya, as heavy rains continue",
+    "deck": "Eleven people were rescued overnight after a minibus taxi got stuck in rising floodwaters in Nairobi.",
+    "cnSummary": "",
+    "time": "刚刚",
+    "url": "https://www.bbc.com/news/articles/cz6e5eng03yo?at_medium=RSS&at_campaign=rss",
+    "lead": false
+  },
+  {
+    "id": "n10",
+    "cat": "finance",
+    "source": "CNBC",
+    "headline": "Iran vows to kill Israel's Netanyahu as impact of war on Gulf region widens",
+    "deck": "Israel says it has killed two senior Iranian intelligence officials as oil loading reportedly resumes in the UAE's Fujairah port following a fire.",
+    "cnSummary": "",
+    "time": "2小时前",
+    "url": "https://www.cnbc.com/2026/03/15/iran-war.html",
+    "lead": false
+  },
+  {
+    "id": "n11",
+    "cat": "finance",
+    "source": "CNBC",
+    "headline": "U.S. and China economic chiefs meet in Paris to clear path to Trump-Xi summit",
+    "deck": "Trade analysts said that with Washington's focus on the U.S.-Israeli war on Iran, prospects for a major trade breakthrough are limited.",
+    "cnSummary": "",
+    "time": "3小时前",
+    "url": "https://www.cnbc.com/2026/03/15/trump-xi-trade-talks.html",
+    "lead": false
+  },
+  {
+    "id": "n12",
+    "cat": "finance",
+    "source": "CNBC",
+    "headline": "Price caps, taking the stairs, and short-sleeved shirts: How countries are coping with the Iran war energy shock",
+    "deck": "Some countries have imposed price caps and released oil stockpiles to maintain energy supplies, while others are trying to reduce consumption.",
+    "cnSummary": "",
+    "time": "2小时前",
+    "url": "https://www.cnbc.com/2026/03/15/price-caps-and-stairs-how-nations-are-coping-with-the-iran-oil-shock.html",
     "lead": false
   }
 ]
