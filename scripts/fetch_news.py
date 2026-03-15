@@ -15,7 +15,7 @@ RSS_FEEDS = [
     {"url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664", "source": "CNBC", "cat": "tech"},
 ]
 
-OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+
 
 def get_time_ago(published):
     try:
