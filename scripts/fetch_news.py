@@ -55,8 +55,10 @@ def generate_cn_summary(headline, deck, source):
             timeout=15
         )
         data = response.json()
-        print(f"API response: {str(data)[:200]}")
-        return data["choices"][0]["message"]["content"].strip()
+       print(f"choices: {str(data.get('choices', 'NO CHOICES KEY'))[:300]}")
+content = data["choices"][0]["message"]["content"].strip()
+print(f"content: {content[:100]}")
+return content
     except Exception as e:
         print(f"OpenRouter API error: {e}")
         try:
