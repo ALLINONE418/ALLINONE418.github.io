@@ -948,7 +948,7 @@ document.getElementById('mdate').textContent=new Date().toLocaleDateString('en-U
 
 async function loadData(){
   try{
-    const r=await fetch('data/news.json?t='+Date.now());
+    const r=await fetch('./data/news.json?t='+Date.now());
     if(r.ok){
       const data=await r.json();
       NEWS.length=0;
