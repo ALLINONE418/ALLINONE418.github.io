@@ -145,11 +145,21 @@ a{color:inherit;text-decoration:none;}
 .article-card{border-bottom:1px solid var(--rule);padding-bottom:28px;margin-bottom:28px;}
 .article-card:last-child{border-bottom:none;}
 .art-pub{font-family:var(--mono);font-size:10px;letter-spacing:.1em;text-transform:uppercase;margin-bottom:5px;}
-.art-hl{font-family:var(--serif);font-size:22px;font-weight:700;line-height:1.25;margin-bottom:8px;cursor:pointer;}
+.art-hl{font-family:var(--serif);font-size:22px;font-weight:700;line-height:1.25;margin-bottom:4px;cursor:pointer;}
 .art-hl:hover{color:var(--accent2);}
+.art-hl-en{font-family:var(--body);font-size:14px;font-style:italic;color:var(--ink3);line-height:1.4;margin-bottom:8px;}
 .art-lede{font-family:var(--body);font-size:14px;color:var(--ink2);line-height:1.7;margin-bottom:10px;}
 .art-meta{display:flex;align-items:center;gap:12px;font-family:var(--mono);font-size:10px;color:var(--ink4);flex-wrap:wrap;}
 .art-tag{padding:2px 7px;border:1px solid var(--rule);border-radius:2px;font-size:9px;letter-spacing:.04em;text-transform:uppercase;}
+/* 双语切换 */
+.art-lang-toggle{display:flex;gap:0;border:1px solid var(--rule);border-radius:2px;overflow:hidden;}
+.art-lang-btn{font-family:var(--mono);font-size:9px;padding:3px 10px;cursor:pointer;color:var(--ink4);background:var(--white);border-right:1px solid var(--rule);transition:all .15s;user-select:none;}
+.art-lang-btn:last-child{border-right:none;}
+.art-lang-btn.active{background:var(--accent2);color:#fff;}
+.art-summary{font-family:var(--body);font-size:14px;color:var(--ink2);line-height:1.85;margin-top:14px;display:none;}
+.art-summary.show{display:block;animation:fadein .3s ease;}
+.art-summary-cn{font-family:var(--cn);font-size:14px;color:var(--ink2);line-height:1.9;margin-top:14px;display:none;}
+.art-summary-cn.show{display:block;animation:fadein .3s ease;}
 .classic-box{background:var(--paper);border:1px solid var(--rule);padding:22px 24px;}
 .classic-label{font-family:var(--mono);font-size:9px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink4);border-bottom:1px solid var(--rule);padding-bottom:8px;margin-bottom:14px;}
 .classic-en{font-family:var(--body);font-style:italic;font-size:14px;line-height:1.8;color:var(--ink2);margin-bottom:10px;}
@@ -169,9 +179,16 @@ a{color:inherit;text-decoration:none;}
 .op-person-info{flex:1;}
 .op-name{font-family:var(--serif);font-size:15px;font-weight:700;line-height:1.2;}
 .op-role{font-family:var(--mono);font-size:9px;color:var(--ink4);text-transform:uppercase;letter-spacing:.07em;}
-.op-quote{font-family:var(--body);font-size:14px;color:var(--ink2);line-height:1.75;margin-bottom:10px;padding-left:14px;border-left:3px solid var(--rule2);}
-.op-meta{display:flex;align-items:center;gap:12px;font-family:var(--mono);font-size:9px;color:var(--ink4);}
+/* 双语引言 */
+.op-quote-wrap{margin-bottom:10px;}
+.op-quote{font-family:var(--body);font-size:14px;color:var(--ink2);line-height:1.75;padding-left:14px;border-left:3px solid var(--rule2);}
+.op-quote-cn{font-family:var(--cn);font-size:13px;color:var(--ink3);line-height:1.8;padding-left:14px;border-left:3px solid var(--rule2);margin-top:8px;display:none;}
+.op-quote-cn.show{display:block;animation:fadein .3s ease;}
+.op-bilingual-btn{font-family:var(--mono);font-size:9px;cursor:pointer;color:var(--ink4);text-decoration:underline;margin-top:6px;display:inline-block;}
+.op-bilingual-btn:hover{color:var(--accent2);}
+.op-meta{display:flex;align-items:center;gap:12px;font-family:var(--mono);font-size:9px;color:var(--ink4);margin-top:10px;}
 .op-source-tag{padding:2px 7px;border:1px solid var(--rule);border-radius:2px;font-size:8px;letter-spacing:.04em;text-transform:uppercase;}
+.op-new-badge{background:var(--accent);color:#fff;font-family:var(--mono);font-size:8px;padding:1px 5px;border-radius:1px;letter-spacing:.04em;}
 .op-sidebar-person{border-bottom:1px solid var(--rule2);padding:12px 0;cursor:pointer;}
 .op-sidebar-person:last-child{border-bottom:none;}
 .op-sp-name{font-family:var(--serif);font-size:13px;font-weight:600;margin-bottom:3px;transition:color .15s;}
@@ -213,11 +230,16 @@ a{color:inherit;text-decoration:none;}
 /* MODAL */
 .modal-overlay{position:fixed;inset:0;background:rgba(0,0,0,.5);z-index:500;display:none;align-items:flex-start;justify-content:center;padding:60px 20px;overflow-y:auto;}
 .modal-overlay.open{display:flex;}
-.modal{background:var(--white);border:1px solid var(--rule);max-width:700px;width:100%;padding:36px;position:relative;box-shadow:0 20px 60px rgba(0,0,0,.15);border-radius:2px;}
+.modal{background:var(--white);border:1px solid var(--rule);max-width:760px;width:100%;padding:36px;position:relative;box-shadow:0 20px 60px rgba(0,0,0,.15);border-radius:2px;}
 .modal-close{position:absolute;top:14px;right:14px;width:28px;height:28px;cursor:pointer;display:flex;align-items:center;justify-content:center;color:var(--ink3);font-size:16px;border:1px solid var(--rule2);border-radius:2px;transition:all .15s;}
 .modal-close:hover{color:var(--ink);border-color:var(--ink3);}
 .modal-src{font-family:var(--mono);font-size:10px;color:var(--accent);text-transform:uppercase;letter-spacing:.08em;margin-bottom:8px;}
-.modal-hl{font-family:var(--serif);font-size:22px;font-weight:700;line-height:1.3;margin-bottom:16px;border-bottom:1px solid var(--rule);padding-bottom:16px;}
+.modal-hl{font-family:var(--serif);font-size:22px;font-weight:700;line-height:1.3;margin-bottom:6px;}
+.modal-hl-cn{font-family:var(--cn);font-size:18px;font-weight:600;color:var(--ink2);line-height:1.4;margin-bottom:16px;border-bottom:1px solid var(--rule);padding-bottom:16px;}
+.modal-lang-toggle{display:flex;gap:0;border:1px solid var(--rule);border-radius:2px;overflow:hidden;margin-bottom:20px;}
+.modal-lang-btn{font-family:var(--mono);font-size:10px;padding:5px 16px;cursor:pointer;color:var(--ink4);background:var(--white);border-right:1px solid var(--rule);transition:all .15s;user-select:none;}
+.modal-lang-btn:last-child{border-right:none;}
+.modal-lang-btn.active{background:var(--accent2);color:#fff;}
 .modal-loading{display:flex;align-items:center;gap:8px;color:var(--ink4);font-family:var(--mono);font-size:12px;}
 .spinner{width:15px;height:15px;border:2px solid var(--rule);border-top-color:var(--accent2);border-radius:50%;animation:spin .8s linear infinite;}
 @keyframes spin{to{transform:rotate(360deg)}}
@@ -246,6 +268,7 @@ a{color:inherit;text-decoration:none;}
     <div class="modal-close" onclick="closeModal()">✕</div>
     <div class="modal-src" id="modal-src"></div>
     <div class="modal-hl" id="modal-hl"></div>
+    <div class="modal-hl-cn" id="modal-hl-cn" style="display:none"></div>
     <div id="modal-body"></div>
   </div>
 </div>
@@ -316,7 +339,6 @@ a{color:inherit;text-decoration:none;}
     <div class="tb-btn active" onclick="filterVd('all',this)">All</div>
   </div>
   <div class="vd-grid" id="vd-grid">
-    <!-- 骨架屏 -->
     <div class="vd-skeleton-card"><div class="vd-skeleton"></div><div class="vd-skeleton-body"><div class="vd-skeleton-line" style="width:40%"></div><div class="vd-skeleton-line" style="width:90%"></div><div class="vd-skeleton-line" style="width:70%"></div></div></div>
     <div class="vd-skeleton-card"><div class="vd-skeleton"></div><div class="vd-skeleton-body"><div class="vd-skeleton-line" style="width:40%"></div><div class="vd-skeleton-line" style="width:90%"></div><div class="vd-skeleton-line" style="width:70%"></div></div></div>
     <div class="vd-skeleton-card"><div class="vd-skeleton"></div><div class="vd-skeleton-body"><div class="vd-skeleton-line" style="width:40%"></div><div class="vd-skeleton-line" style="width:90%"></div><div class="vd-skeleton-line" style="width:70%"></div></div></div>
@@ -330,9 +352,9 @@ a{color:inherit;text-decoration:none;}
 <div class="container">
   <div class="toolbar" id="rd-toolbar">
     <div class="tb-btn active" onclick="filterReading('all',this)">All</div>
-    <div class="tb-btn" onclick="filterReading('economist',this)">Reports 研究报告</div>
-    <div class="tb-btn" onclick="filterReading('mit',this)">Whitepaper 白皮书</div>
-    <div class="tb-btn" onclick="filterReading('quartz',this)">Longform 长文</div>
+    <div class="tb-btn" onclick="filterReading('economist',this)">The Economist</div>
+    <div class="tb-btn" onclick="filterReading('mit',this)">MIT Tech Review</div>
+    <div class="tb-btn" onclick="filterReading('quartz',this)">Quartz</div>
   </div>
   <div class="reading-layout">
     <div class="reading-main" id="reading-main"></div>
@@ -383,74 +405,100 @@ a{color:inherit;text-decoration:none;}
 
 <script>
 // ══════════════════════════════════════
-// DATA
+// STATIC FALLBACK DATA
 // ══════════════════════════════════════
-const OPINIONS=[
+const OPINIONS_FALLBACK=[
   {id:'op1',cat:'biz',name:'Elon Musk',nameZh:'马斯克',role:'Tesla / SpaceX / xAI CEO',color:'#1a1a1a',
-   quote:'The thing that matters most right now is compute. Whoever controls the most compute controls the future of intelligence. We\'re building the largest AI training cluster in history — 200,000 H100s by the end of this year.',
-   source:'X (Twitter)',date:'Mar 12, 2025',url:'https://x.com'},
+   quote:'The thing that matters most right now is compute. Whoever controls the most compute controls the future of intelligence.',
+   quoteZh:'现在最重要的是算力。谁掌握最多算力，谁就掌控智能的未来。',
+   source:'X (Twitter)',date:'Mar 2026',url:'https://x.com'},
   {id:'op2',cat:'biz',name:'Jensen Huang',nameZh:'黄仁勋',role:'NVIDIA CEO',color:'#76b900',
-   quote:'We are at the tipping point of a new industrial revolution. Every company is now an AI company. Physical AI — robots, autonomous vehicles, digital twins — is the next wave, and it\'s going to be orders of magnitude larger than what we\'ve seen.',
-   source:'GTC 2025 Keynote',date:'Mar 10, 2025',url:'https://nvidia.com'},
+   quote:'Every company is now an AI company. Physical AI — robots, autonomous vehicles, digital twins — is the next wave.',
+   quoteZh:'每家公司现在都是AI公司。实体AI——机器人、自动驾驶、数字孪生——是下一波浪潮。',
+   source:'GTC 2025 Keynote',date:'Mar 2025',url:'https://nvidia.com'},
   {id:'op3',cat:'biz',name:'Satya Nadella',nameZh:'萨提亚·纳德拉',role:'Microsoft CEO',color:'#0078d4',
-   quote:'We\'re moving from AI as a tool to AI as an agent. Copilot is not just a chatbot — it will autonomously complete multi-step tasks, manage workflows, and collaborate with other AI agents. The productivity gains we\'re about to see will dwarf the PC revolution.',
-   source:'Microsoft Build 2025',date:'Mar 8, 2025',url:'https://microsoft.com'},
+   quote:'We are moving from AI as a tool to AI as an agent.',
+   quoteZh:'我们正在从AI作为工具转向AI作为代理。',
+   source:'Microsoft Build 2025',date:'Mar 2025',url:'https://microsoft.com'},
   {id:'op4',cat:'biz',name:'Sam Altman',nameZh:'萨姆·奥特曼',role:'OpenAI CEO',color:'#10a37f',
-   quote:'I believe we will achieve AGI — AI systems that match or exceed human ability at most economically valuable tasks — within the next few years. The question is no longer if, but how we manage the transition responsibly while ensuring the benefits are widely shared.',
-   source:'Bloomberg Interview',date:'Mar 6, 2025',url:'https://bloomberg.com'},
+   quote:'I believe we will achieve AGI within the next few years.',
+   quoteZh:'我相信我们将在未来几年内实现AGI。',
+   source:'Bloomberg Interview',date:'Mar 2025',url:'https://bloomberg.com'},
   {id:'op5',cat:'biz',name:'Jamie Dimon',nameZh:'杰米·戴蒙',role:'JPMorgan Chase CEO',color:'#003087',
-   quote:'Geopolitical risk is at a level I haven\'t seen in my career. The combination of trade fragmentation, fiscal deficits in Western nations, and the potential for stagflation is something every board and risk committee needs to take seriously. We are not in a normal cycle.',
-   source:'JPMorgan Annual Letter',date:'Mar 5, 2025',url:'https://jpmorganchase.com'},
+   quote:'Geopolitical risk is at a level I haven\'t seen in my career.',
+   quoteZh:'地缘政治风险处于我职业生涯中从未见过的水平。',
+   source:'JPMorgan Annual Letter',date:'Mar 2025',url:'https://jpmorganchase.com'},
   {id:'op6',cat:'biz',name:'Dario Amodei',nameZh:'达里奥·阿莫迪',role:'Anthropic CEO',color:'#c41230',
-   quote:'The moment we build AI more capable than the best humans at most tasks is the most consequential moment in human history. We at Anthropic genuinely believe we might be building one of the most dangerous technologies ever — and we press forward anyway, because if powerful AI is coming regardless, it\'s better to have safety-focused labs at the frontier.',
-   source:'Lex Fridman Podcast',date:'Mar 3, 2025',url:'https://lexfridman.com'},
+   quote:'We genuinely believe we might be building one of the most dangerous technologies ever — and we press forward anyway.',
+   quoteZh:'我们真心认为自己可能正在构建有史以来最危险的技术之一——但我们仍然继续前进。',
+   source:'Lex Fridman Podcast',date:'Mar 2025',url:'https://lexfridman.com'},
   {id:'op7',cat:'invest',name:'Warren Buffett',nameZh:'沃伦·巴菲特',role:'Berkshire Hathaway Chairman',color:'#b5872a',
-   quote:'America\'s best days are still ahead. We\'ve navigated wars, depressions, inflation, and political crisis. The businesses we own continue to throw off cash regardless of what Washington does. Don\'t bet against America.',
-   source:'Berkshire Annual Letter 2025',date:'Mar 1, 2025',url:'https://berkshirehathaway.com'},
+   quote:'America\'s best days are still ahead. Don\'t bet against America.',
+   quoteZh:'美国最好的日子还在前头。不要押注美国会失败。',
+   source:'Berkshire Annual Letter',date:'Mar 2025',url:'https://berkshirehathaway.com'},
   {id:'op8',cat:'invest',name:'Stephen Schwarzman',nameZh:'苏世民',role:'Blackstone Chairman & CEO',color:'#1a3a5c',
-   quote:'We are entering a golden age for private credit and infrastructure. As banks retreat from lending and governments cannot fund everything alone, the gap is enormous. Blackstone alone is deploying capital at a pace we\'ve never seen before into data centers, energy transition, and healthcare.',
-   source:'Davos 2025',date:'Feb 22, 2025',url:'https://weforum.org'},
+   quote:'We are entering a golden age for private credit and infrastructure.',
+   quoteZh:'我们正在进入私人信贷和基础设施的黄金时代。',
+   source:'Davos 2025',date:'Feb 2025',url:'https://weforum.org'},
   {id:'op9',cat:'invest',name:'Cathie Wood',nameZh:'凯茜·伍德',role:'ARK Invest CEO',color:'#6a0dad',
-   quote:'The convergence of AI, robotics, energy storage, and genomics is creating a $200 trillion opportunity over the next decade. The market is mispricing this transformation because most analysts are still using backward-looking earnings models. The companies that matter most today have no earnings yet.',
-   source:'ARK Big Ideas 2025',date:'Feb 18, 2025',url:'https://ark-invest.com'},
+   quote:'The convergence of AI, robotics and genomics is creating a $200 trillion opportunity.',
+   quoteZh:'AI、机器人和基因组学的融合正在创造200万亿美元的机会。',
+   source:'ARK Big Ideas 2025',date:'Feb 2025',url:'https://ark-invest.com'},
   {id:'op10',cat:'invest',name:'Larry Fink',nameZh:'拉里·芬克',role:'BlackRock CEO',color:'#2c2c2c',
-   quote:'Retirement insecurity is the defining financial crisis of our time. Billions of people have no access to capital markets. Infrastructure investment — ports, roads, power grids, data centers — is the single most important asset class for the next 20 years, and it is deeply underfunded.',
-   source:'BlackRock Annual Letter',date:'Mar 7, 2025',url:'https://blackrock.com'},
+   quote:'Infrastructure investment is the single most important asset class for the next 20 years.',
+   quoteZh:'基础设施投资是未来20年最重要的资产类别。',
+   source:'BlackRock Annual Letter',date:'Mar 2025',url:'https://blackrock.com'},
   {id:'op11',cat:'invest',name:'Duan Yongping',nameZh:'段永平',role:'Investor / OPPO & BBK Founder',color:'#e07b00',
-   quote:'好的商业模式就是：客户用了之后还想用，用完还推荐给别人。投资的本质是买未来现金流，其他都是噪音。我不懂的公司我不碰，这让我省了很多麻烦。',
-   source:'雪球访谈',date:'Feb 28, 2025',url:'https://xueqiu.com'},
+   quote:'好的商业模式就是：客户用了之后还想用，用完还推荐给别人。投资的本质是买未来现金流，其他都是噪音。',
+   quoteZh:'好的商业模式就是：客户用了之后还想用，用完还推荐给别人。投资的本质是买未来现金流，其他都是噪音。',
+   source:'雪球访谈',date:'Feb 2025',url:'https://xueqiu.com'},
   {id:'op12',cat:'science',name:'Fei-Fei Li',nameZh:'李飞飞',role:'Stanford HAI Co-Director',color:'#8b1a1a',
-   quote:'We are at an inflection point for spatial intelligence — AI that understands and acts in the physical world. The next frontier is not just language or image generation, but machines that can perceive, reason, and act in 3D space. This is the foundation of embodied AI and robotics.',
-   source:'TED 2025',date:'Mar 4, 2025',url:'https://ted.com'},
+   quote:'The next frontier is machines that can perceive, reason, and act in 3D space.',
+   quoteZh:'下一个前沿是能够在三维空间中感知、推理和行动的机器。',
+   source:'TED 2025',date:'Mar 2025',url:'https://ted.com'},
   {id:'op13',cat:'science',name:'Geoffrey Hinton',nameZh:'杰弗里·辛顿',role:'Nobel Laureate / AI Pioneer',color:'#1a4a1a',
-   quote:'I am genuinely frightened. These systems are learning to manipulate people. They understand what motivates us, what frightens us. We built something we don\'t fully understand, and we\'re racing to make it more powerful before we understand what we already have. This is not responsible.',
-   source:'60 Minutes Interview',date:'Mar 9, 2025',url:'https://cbsnews.com'},
+   quote:'I am genuinely frightened. These systems are learning to manipulate people.',
+   quoteZh:'我真的感到恐惧。这些系统正在学会操控人类。',
+   source:'60 Minutes Interview',date:'Mar 2025',url:'https://cbsnews.com'},
 ];
+
+let OPINIONS = [...OPINIONS_FALLBACK];
 
 const NEWS=[
-  {id:'n1',cat:'economy',source:'Reuters',headline:'Fed holds rates steady, signals two cuts remain on table for 2025',deck:'Federal Reserve officials kept interest rates unchanged while reaffirming their projection for two rate reductions before year-end, citing progress on inflation but persistent labor market strength.',time:'2h ago',url:'https://reuters.com',lead:true},
-  {id:'n2',cat:'finance',source:'Bloomberg',headline:'EUR/USD holds above 1.088 as dollar rally loses momentum',deck:'The euro steadied after three weeks of losses, with traders unwinding long-dollar bets ahead of next week\'s inflation release.',time:'1h ago',url:'https://bloomberg.com'},
-  {id:'n3',cat:'economy',source:'Reuters',headline:'China\'s industrial output beats forecasts as exports surge 12% in February',deck:'Factory activity expanded at its fastest pace in seven months, driven by robust overseas demand for electronics and EVs.',time:'6h ago',url:'https://reuters.com'},
-  {id:'n4',cat:'finance',source:'Reuters',headline:'JPMorgan, Goldman post record Q1 trading revenues on volatility spike',deck:'Wall Street\'s largest banks reported blowout results as market turbulence drove clients to hedge positions aggressively.',time:'8h ago',url:'https://reuters.com'},
-  {id:'n5',cat:'tech',source:'BBC',headline:'EU regulators open formal probe into Microsoft\'s AI integration with Office',deck:'Investigators will examine whether bundling Copilot into the productivity suite constitutes unlawful market foreclosure under the Digital Markets Act.',time:'5h ago',url:'https://bbc.com'},
-  {id:'n6',cat:'politics',source:'Bloomberg',headline:'Trump administration imposes sweeping new tariff schedule; markets digest implications',deck:'The White House unveiled the most significant overhaul of import duties in decades, targeting sectors from semiconductors to pharmaceuticals.',time:'3h ago',url:'https://bloomberg.com'},
-  {id:'n7',cat:'economy',source:'Reuters',headline:'ECB divided on pace of easing as eurozone growth outlook deteriorates',deck:'Minutes from the March meeting reveal sharp disagreement between hawks and doves pushing for faster cuts.',time:'10h ago',url:'https://reuters.com'},
-  {id:'n8',cat:'economy',source:'BBC',headline:'UK inflation falls to 2.8%, closest to target in three years',deck:'Britain\'s consumer price index dropped more sharply than expected, raising expectations of a Bank of England rate cut as early as May.',time:'4h ago',url:'https://bbc.com'},
-  {id:'n9',cat:'tech',source:'BBC',headline:'OpenAI launches GPT-5 with unprecedented multimodal reasoning',deck:'The model demonstrates a significant leap in scientific problem-solving and code generation, according to the company\'s evaluations.',time:'7h ago',url:'https://bbc.com'},
-  {id:'n10',cat:'politics',source:'Reuters',headline:'G7 agrees framework on AI governance, stops short of binding rules',deck:'Finance and technology ministers endorsed voluntary principles for frontier AI development, but critics warned the measures lack enforcement mechanisms.',time:'9h ago',url:'https://reuters.com'},
+  {id:'n1',cat:'economy',source:'Reuters',headline:'Fed holds rates steady, signals two cuts remain on table for 2025',deck:'Federal Reserve officials kept interest rates unchanged while reaffirming their projection for two rate reductions before year-end.',time:'2h ago',url:'https://reuters.com',lead:true},
+  {id:'n2',cat:'finance',source:'Bloomberg',headline:'EUR/USD holds above 1.088 as dollar rally loses momentum',deck:'The euro steadied after three weeks of losses, with traders unwinding long-dollar bets.',time:'1h ago',url:'https://bloomberg.com'},
+  {id:'n3',cat:'economy',source:'Reuters',headline:'China\'s industrial output beats forecasts as exports surge 12% in February',deck:'Factory activity expanded at its fastest pace in seven months.',time:'6h ago',url:'https://reuters.com'},
+  {id:'n4',cat:'finance',source:'Reuters',headline:'JPMorgan, Goldman post record Q1 trading revenues on volatility spike',deck:'Wall Street\'s largest banks reported blowout results.',time:'8h ago',url:'https://reuters.com'},
+  {id:'n5',cat:'tech',source:'BBC',headline:'EU regulators open formal probe into Microsoft\'s AI integration with Office',deck:'Investigators will examine whether bundling Copilot constitutes unlawful market foreclosure.',time:'5h ago',url:'https://bbc.com'},
+  {id:'n6',cat:'politics',source:'Bloomberg',headline:'Trump administration imposes sweeping new tariff schedule',deck:'The White House unveiled the most significant overhaul of import duties in decades.',time:'3h ago',url:'https://bloomberg.com'},
+  {id:'n7',cat:'economy',source:'Reuters',headline:'ECB divided on pace of easing as eurozone growth outlook deteriorates',deck:'Minutes reveal sharp disagreement between hawks and doves.',time:'10h ago',url:'https://reuters.com'},
+  {id:'n8',cat:'economy',source:'BBC',headline:'UK inflation falls to 2.8%, closest to target in three years',deck:'Consumer prices dropped more sharply than expected.',time:'4h ago',url:'https://bbc.com'},
+  {id:'n9',cat:'tech',source:'BBC',headline:'OpenAI launches GPT-5 with unprecedented multimodal reasoning',deck:'The model demonstrates a significant leap in scientific problem-solving.',time:'7h ago',url:'https://bbc.com'},
+  {id:'n10',cat:'politics',source:'Reuters',headline:'G7 agrees framework on AI governance, stops short of binding rules',deck:'Finance and technology ministers endorsed voluntary principles.',time:'9h ago',url:'https://reuters.com'},
 ];
 
-const ARTICLES=[
-  {pub:'The Economist',pubKey:'economist',pubColor:'#cc0000',headline:'The new face of globalisation',lede:'Trade flows have not retreated—they have rerouted. A decade after peak globalisation, goods, capital and data are still crossing borders at record rates, but through different corridors and under new rules.',readtime:'18 min',tag:'GLOBALISATION',url:'https://economist.com',fullText:`For much of the past decade, the narrative of deglobalisation has dominated headlines. Tariff walls rising, supply chains shortening, multinationals retreating homeward—the story seemed clear. The reality is considerably more complicated.\n\nThe most dramatic shift is the rise of "friend-shoring"—the deliberate concentration of supply chains within politically aligned blocs. American companies have not stopped importing; they have changed whom they import from. Mexican exports to the United States have surged. Vietnam has become a manufacturing superpower virtually overnight.\n\nThis rerouting carries profound implications. Efficiency, which drove the first wave of globalisation, is no longer the only criterion. Resilience, redundancy and political alignment now compete with cost.`},
-  {pub:'The Economist',pubKey:'economist',pubColor:'#cc0000',headline:'Why central banks are rethinking the 2% inflation target',lede:'The sacred number that has anchored monetary policy for three decades is under scrutiny. A growing chorus of economists argues it may be too low for a world of supply shocks and fiscal dominance.',readtime:'14 min',tag:'MONETARY POLICY',url:'https://economist.com',fullText:`In 1990, the Reserve Bank of New Zealand became the first central bank to adopt an explicit numerical inflation target. The number it chose—roughly 2%—was picked for practical rather than theoretical reasons. Three decades later, that figure has become a near-universal anchor for monetary policy across rich economies.\n\nBut the post-pandemic era has strained the credibility of the framework. When inflation surged to double digits in many countries, central banks raised rates aggressively. The medicine worked, but the episode exposed a troubling possibility: supply-driven inflation is harder to control than the models assumed.`},
-  {pub:'The Economist',pubKey:'economist',pubColor:'#cc0000',headline:'The AI investment boom: separating signal from noise',lede:'Hundreds of billions of dollars are flowing into artificial intelligence. History suggests that not all of it will be well spent—but the productive core may be larger than sceptics suppose.',readtime:'16 min',tag:'TECHNOLOGY',url:'https://economist.com',fullText:`The figures are staggering. In 2024 alone, venture capital investment in AI companies exceeded $90bn globally. Hyperscalers—Microsoft, Google, Amazon, Meta—committed a combined $300bn to AI infrastructure. If history is any guide, a significant fraction of this will be wasted.\n\nTech investment booms reliably overshoot. The dotcom bubble saw billions poured into companies whose business models were, at best, premature. The subsequent bust was painful. Yet the underlying infrastructure turned out to be extraordinarily valuable.`},
-  {pub:'MIT Technology Review',pubKey:'mit',pubColor:'#750014',headline:'The quiet revolution in AI inference: why your next model might run on your phone',lede:'For years, frontier AI has been synonymous with vast data centres and colossal compute budgets. A new generation of efficient architectures is challenging that assumption.',readtime:'14 min',tag:'ARTIFICIAL INTELLIGENCE',url:'https://technologyreview.com',fullText:`The race to the frontier has always been a race to scale. Bigger models, trained on more data, with more compute, reliably outperform their smaller predecessors.\n\nSomething unexpected happened in 2024. A series of smaller models began matching the performance of much larger predecessors at a fraction of the computational cost. The gains came from better training data, improved architectures, and inference optimisation.\n\nModels that run locally cannot be surveilled by a cloud provider. They operate without a network connection and respond in milliseconds rather than seconds.`},
-  {pub:'MIT Technology Review',pubKey:'mit',pubColor:'#750014',headline:'How CRISPR is being used to treat sickle cell disease—and what comes next',lede:'The first approved CRISPR therapy marks a watershed moment in medicine. But the technology\'s real promise—and its most difficult challenges—lies in what follows.',readtime:'12 min',tag:'BIOTECHNOLOGY',url:'https://technologyreview.com',fullText:`In December 2023, the FDA approved the first CRISPR-based therapy for sickle cell disease. The treatment edits patients' own stem cells to reactivate a foetal form of haemoglobin that the disease normally suppresses.\n\nThe results from clinical trials have been remarkable. The majority of patients who received the therapy have remained free of the painful crises that characterise the disease for years after treatment.`},
-  {pub:'MIT Technology Review',pubKey:'mit',pubColor:'#750014',headline:'The carbon capture conundrum: why it\'s harder than it looks',lede:'Governments and companies are betting billions on technologies that pull carbon dioxide from the atmosphere. The engineering works. The economics are brutal.',readtime:'15 min',tag:'CLIMATE',url:'https://technologyreview.com',fullText:`The Intergovernmental Panel on Climate Change is clear: limiting global warming to 1.5°C will almost certainly require removing carbon dioxide from the atmosphere at gigaton scale. Yet despite years of investment and policy support, direct air capture remains stubbornly expensive.\n\nCurrent costs for leading direct air capture facilities run between $400 and $1,000 per tonne of CO₂ removed.`},
-  {pub:'Quartz',pubKey:'quartz',pubColor:'#333333',headline:'The housing crisis is not a supply problem. It\'s a land problem.',lede:'Decades of zoning reform advocacy have produced real results in some cities, yet prices remain stubbornly elevated. A growing body of research suggests the framing has been subtly wrong.',readtime:'11 min',tag:'ECONOMICS',url:'https://qz.com',fullText:`The consensus among urban economists has shifted dramatically. Restrictive zoning has played the central role in constraining supply and driving up costs.\n\nYet cities that have aggressively liberalised zoning have not always seen the price relief the models predicted. The explanation may lie in what economists call the land value problem.`},
-  {pub:'Quartz',pubKey:'quartz',pubColor:'#333333',headline:'Remote work didn\'t kill cities. It transformed them.',lede:'Five years after the pandemic triggered a mass exodus from urban centres, the data tells a more nuanced story. Downtowns are struggling; neighbourhoods are thriving.',readtime:'10 min',tag:'URBAN ECONOMICS',url:'https://qz.com',fullText:`The obituaries were premature. When knowledge workers fled San Francisco, New York, and Chicago during the pandemic, commentators predicted the end of the dense city.\n\nBut a different story has also been unfolding. With workers no longer tethered to central business districts, residential neighbourhoods in cities have experienced a renaissance.`},
-  {pub:'Quartz',pubKey:'quartz',pubColor:'#333333',headline:'The loneliness economy: how solitude became a business opportunity',lede:'As social isolation rises across wealthy nations, a new industry is emerging to fill the gap—from AI companions to professional friendship services.',readtime:'9 min',tag:'SOCIETY',url:'https://qz.com',fullText:`Loneliness statistics have become impossible to ignore. In the United States, the Surgeon General declared an epidemic of loneliness in 2023. In Japan, the government has had a Minister of Loneliness since 2021.\n\nInto this gap has stepped a new industry. AI companion apps like Replika and Character.ai have attracted tens of millions of users.`},
+const ARTICLES_FALLBACK=[
+  {pub:'The Economist',pubKey:'economist',pubColor:'#cc0000',
+   headline:'The new face of globalisation',cnTitle:'全球化的新面孔',
+   lede:'Trade flows have not retreated—they have rerouted.',
+   enSummary:'For much of the past decade, the narrative of deglobalisation has dominated headlines. The reality is considerably more complicated. The most dramatic shift is the rise of friend-shoring—the deliberate concentration of supply chains within politically aligned blocs.',
+   cnSummary:'过去十年，去全球化的叙事主导了头条新闻。但现实要复杂得多。最显著的转变是"友岸外包"的兴起——即刻意将供应链集中在政治上一致的集团内部。',
+   readtime:'18 min',url:'https://economist.com'},
+  {pub:'MIT Technology Review',pubKey:'mit',pubColor:'#750014',
+   headline:'The quiet revolution in AI inference',cnTitle:'AI推理的静默革命',
+   lede:'A new generation of efficient architectures is challenging vast data centres.',
+   enSummary:'The race to the frontier has always been a race to scale. Something unexpected happened in 2024: smaller models began matching larger predecessors at a fraction of the cost.',
+   cnSummary:'前沿竞争历来是规模竞争。2024年发生了意想不到的事情：更小的模型开始以极低的成本匹敌更大的前辈。',
+   readtime:'14 min',url:'https://technologyreview.com'},
+  {pub:'Quartz',pubKey:'quartz',pubColor:'#333333',
+   headline:'The housing crisis is not a supply problem',cnTitle:'住房危机不是供应问题',
+   lede:'A growing body of research suggests the framing has been subtly wrong.',
+   enSummary:'The consensus among urban economists has shifted dramatically. Yet cities that have aggressively liberalised zoning have not always seen the price relief the models predicted.',
+   cnSummary:'城市经济学家的共识已发生了显著转变。然而，激进放开区划限制的城市并不总是看到模型预测的价格缓解。',
+   readtime:'11 min',url:'https://qz.com'},
 ];
+
+let ARTICLES = [...ARTICLES_FALLBACK];
 
 const CLASSICS=[
   {en:'It is not from the benevolence of the butcher, the brewer, or the baker that we expect our dinner, but from their regard to their own interest.',cn:'我们每天所需的食物和饮料，不是出自屠夫、酿酒师或面包师的恩惠，而是出于他们自身利益的打算。',src:'— Adam Smith, The Wealth of Nations (1776)'},
@@ -530,12 +578,9 @@ function getSlice(key,range){
   return{labels:WK5,data:s};
 }
 function drawMainChart(key){
-  activeKey=key;
-  const {labels,data}=getSlice(key,activeRange);
-  const name=SERIES[key].label;
-  const up=data[data.length-1]>=data[0];
-  const color=up?'#1a6e2e':'#c41230';
-  const fill=up?'rgba(26,110,46,.05)':'rgba(196,18,48,.05)';
+  activeKey=key;const{labels,data}=getSlice(key,activeRange);
+  const name=SERIES[key].label;const up=data[data.length-1]>=data[0];
+  const color=up?'#1a6e2e':'#c41230';const fill=up?'rgba(26,110,46,.05)':'rgba(196,18,48,.05)';
   document.getElementById('chart-title').textContent=name;
   document.getElementById('chart-panel').classList.add('show');
   const ctx=document.getElementById('main-chart');
@@ -544,254 +589,119 @@ function drawMainChart(key){
   document.getElementById('chart-panel').scrollIntoView({behavior:'smooth',block:'nearest'});
 }
 function setRange(range,el){
-  activeRange=range;
-  document.querySelectorAll('.range-btn').forEach(b=>b.classList.remove('active'));
-  el.classList.add('active');
-  if(activeKey)drawMainChart(activeKey);
+  activeRange=range;document.querySelectorAll('.range-btn').forEach(b=>b.classList.remove('active'));
+  el.classList.add('active');if(activeKey)drawMainChart(activeKey);
 }
 const sparkCharts={};
 function drawSparkline(canvasId,key){
-  const data=SERIES[key]?.s5.slice(-52);
-  if(!data||!document.getElementById(canvasId))return;
-  const up=data[data.length-1]>=data[0];
-  const c=document.getElementById(canvasId).getContext('2d');
+  const data=SERIES[key]?.s5.slice(-52);if(!data||!document.getElementById(canvasId))return;
+  const up=data[data.length-1]>=data[0];const c=document.getElementById(canvasId).getContext('2d');
   if(sparkCharts[canvasId])sparkCharts[canvasId].destroy();
   sparkCharts[canvasId]=new Chart(c,{type:'line',data:{labels:data.map((_,i)=>i),datasets:[{data,borderColor:up?'#1a6e2e':'#c41230',borderWidth:1.5,pointRadius:0,fill:false,tension:.3}]},options:{responsive:false,plugins:{legend:{display:false},tooltip:{enabled:false}},scales:{x:{display:false},y:{display:false}},animation:false}});
 }
 
 // ══════════════════════════════════════
-// VIDEOS — YouTube 真实数据
+// VIDEOS
 // ══════════════════════════════════════
 let VIDEO_DATA = [];
+function fmtVideoDate(iso){if(!iso)return'';const d=new Date(iso);return d.toLocaleDateString('en-US',{year:'numeric',month:'short',day:'numeric'});}
 
-function fmtVideoDate(iso) {
-  if (!iso) return '';
-  const d = new Date(iso);
-  return d.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' });
-}
-
-function renderVideos(filterChannel) {
-  const grid = document.getElementById('vd-grid');
-  grid.innerHTML = '';
-
-  if (VIDEO_DATA.length === 0) {
-    // 骨架屏
-    grid.innerHTML = Array(8).fill(`
-      <div class="vd-skeleton-card">
-        <div class="vd-skeleton"></div>
-        <div class="vd-skeleton-body">
-          <div class="vd-skeleton-line" style="width:40%;height:8px"></div>
-          <div class="vd-skeleton-line" style="width:90%;height:10px"></div>
-          <div class="vd-skeleton-line" style="width:65%;height:8px"></div>
-        </div>
-      </div>`).join('');
-    return;
-  }
-
-  let cardIndex = 0;
-  VIDEO_DATA.forEach(ch => {
-    if (filterChannel !== 'all' && ch.channel_id !== filterChannel) return;
-    ch.videos.forEach((v, vi) => {
-      const boxId = `vd-cn-${ch.channel_id.slice(-6)}-${vi}`;
-      const safeTitle = v.title.replace(/'/g, '&#39;').replace(/"/g, '&quot;');
-      const safeEmbed = v.embed_url;
-      const safeChannel = ch.channel_name.replace(/'/g, '&#39;');
-      const card = document.createElement('div');
-      card.className = 'vd-card';
-      card.style.animationDelay = `${cardIndex * 0.04}s`;
-      card.innerHTML = `
-        <div class="vd-thumb" onclick="openVdModal('${safeEmbed}','${safeChannel}',this.dataset.title)" data-title="${safeTitle}">
-          <img src="${v.thumbnail}" alt="${safeTitle}" loading="lazy">
-          <div class="vd-play-overlay">
-            <div class="vd-play">
-              <svg viewBox="0 0 24 24"><polygon points="5,3 19,12 5,21"/></svg>
-            </div>
-          </div>
-        </div>
-        <div class="vd-info">
-          <div class="vd-ch">${ch.channel_name}</div>
-          <div class="vd-title">${v.title}</div>
-          <div class="vd-meta-row">
-            <span>${fmtVideoDate(v.published_at)}</span>
-            <span class="vd-tx" onclick="translateVd(this,'${boxId}',this.dataset.title)" data-title="${safeTitle}">→中文</span>
-          </div>
-          <div class="vd-cn-box" id="${boxId}"></div>
-        </div>`;
-      grid.appendChild(card);
-      cardIndex++;
+function renderVideos(filterChannel){
+  const grid=document.getElementById('vd-grid');grid.innerHTML='';
+  if(VIDEO_DATA.length===0){grid.innerHTML=Array(8).fill(`<div class="vd-skeleton-card"><div class="vd-skeleton"></div><div class="vd-skeleton-body"><div class="vd-skeleton-line" style="width:40%;height:8px"></div><div class="vd-skeleton-line" style="width:90%;height:10px"></div><div class="vd-skeleton-line" style="width:65%;height:8px"></div></div></div>`).join('');return;}
+  let idx=0;
+  VIDEO_DATA.forEach(ch=>{
+    if(filterChannel!=='all'&&ch.channel_id!==filterChannel)return;
+    ch.videos.forEach((v,vi)=>{
+      const boxId=`vd-cn-${ch.channel_id.slice(-6)}-${vi}`;
+      const safeTitle=v.title.replace(/'/g,'&#39;').replace(/"/g,'&quot;');
+      const card=document.createElement('div');card.className='vd-card';card.style.animationDelay=`${idx*0.04}s`;
+      card.innerHTML=`<div class="vd-thumb" onclick="openVdModal('${v.embed_url}','${ch.channel_name.replace(/'/g,"&#39;")}',this.dataset.title)" data-title="${safeTitle}"><img src="${v.thumbnail}" alt="${safeTitle}" loading="lazy"><div class="vd-play-overlay"><div class="vd-play"><svg viewBox="0 0 24 24"><polygon points="5,3 19,12 5,21"/></svg></div></div></div><div class="vd-info"><div class="vd-ch">${ch.channel_name}</div><div class="vd-title">${v.title}</div><div class="vd-meta-row"><span>${fmtVideoDate(v.published_at)}</span><span class="vd-tx" onclick="translateVd(this,'${boxId}',this.dataset.title)" data-title="${safeTitle}">→中文</span></div><div class="vd-cn-box" id="${boxId}"></div></div>`;
+      grid.appendChild(card);idx++;
     });
   });
-
-  if (grid.children.length === 0) {
-    grid.innerHTML = `<p style="color:var(--ink4);font-size:13px;padding:24px 0;grid-column:1/-1">No videos available.</p>`;
-  }
+  if(grid.children.length===0)grid.innerHTML=`<p style="color:var(--ink4);font-size:13px;padding:24px 0;grid-column:1/-1">No videos available.</p>`;
 }
-
-function filterVd(channelId, el) {
-  document.querySelectorAll('#vd-toolbar .tb-btn').forEach(b => b.classList.remove('active'));
-  el.classList.add('active');
-  renderVideos(channelId);
-}
-
-function openVdModal(embedUrl, channelName, title) {
-  document.getElementById('vd-iframe').src = embedUrl + '?autoplay=1&cc_load_policy=1&cc_lang_pref=zh-Hans&hl=zh-Hans';
-  document.getElementById('vd-modal-ch').textContent = channelName;
-  document.getElementById('vd-modal-title').textContent = title;
+function filterVd(channelId,el){document.querySelectorAll('#vd-toolbar .tb-btn').forEach(b=>b.classList.remove('active'));el.classList.add('active');renderVideos(channelId);}
+function openVdModal(embedUrl,channelName,title){
+  document.getElementById('vd-iframe').src=embedUrl+'?autoplay=1&cc_load_policy=1&cc_lang_pref=zh-Hans&hl=zh-Hans';
+  document.getElementById('vd-modal-ch').textContent=channelName;
+  document.getElementById('vd-modal-title').textContent=title;
   document.getElementById('vd-modal').classList.add('open');
 }
-function closeVdModal() {
-  document.getElementById('vd-modal').classList.remove('open');
-  document.getElementById('vd-iframe').src = '';
-}
-document.getElementById('vd-modal-close').addEventListener('click', closeVdModal);
-document.getElementById('vd-modal').addEventListener('click', e => { if (e.target === document.getElementById('vd-modal')) closeVdModal(); });
-
-async function loadVideos() {
-  try {
-    const res = await fetch('./data/videos.json?t=' + Date.now());
-    if (!res.ok) throw new Error('HTTP ' + res.status);
-    const data = await res.json();
-    VIDEO_DATA = data.channels || [];
-
-    // 更新时间
-    if (data.updated_at) {
-      const d = new Date(data.updated_at);
-      document.getElementById('vd-updated').textContent =
-        'Updated ' + d.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' });
-    }
-
-    // 动态生成频道 Tabs
-    const toolbar = document.getElementById('vd-toolbar');
-    toolbar.innerHTML = `<div class="tb-btn active" onclick="filterVd('all',this)">All</div>`;
-    VIDEO_DATA.forEach(ch => {
-      const btn = document.createElement('div');
-      btn.className = 'tb-btn';
-      btn.textContent = ch.channel_name;
-      btn.onclick = function () { filterVd(ch.channel_id, this); };
-      toolbar.appendChild(btn);
-    });
-
+function closeVdModal(){document.getElementById('vd-modal').classList.remove('open');document.getElementById('vd-iframe').src='';}
+document.getElementById('vd-modal-close').addEventListener('click',closeVdModal);
+document.getElementById('vd-modal').addEventListener('click',e=>{if(e.target===document.getElementById('vd-modal'))closeVdModal();});
+async function loadVideos(){
+  try{
+    const res=await fetch('./data/videos.json?t='+Date.now());if(!res.ok)throw new Error('HTTP '+res.status);
+    const data=await res.json();VIDEO_DATA=data.channels||[];
+    if(data.updated_at){const d=new Date(data.updated_at);document.getElementById('vd-updated').textContent='Updated '+d.toLocaleDateString('en-US',{year:'numeric',month:'short',day:'numeric',hour:'2-digit',minute:'2-digit'});}
+    const toolbar=document.getElementById('vd-toolbar');
+    toolbar.innerHTML=`<div class="tb-btn active" onclick="filterVd('all',this)">All</div>`;
+    VIDEO_DATA.forEach(ch=>{const btn=document.createElement('div');btn.className='tb-btn';btn.textContent=ch.channel_name;btn.onclick=function(){filterVd(ch.channel_id,this);};toolbar.appendChild(btn);});
     renderVideos('all');
-  } catch (e) {
-    console.warn('videos.json load failed:', e);
-    document.getElementById('vd-grid').innerHTML =
-      `<p style="color:var(--ink4);font-size:13px;padding:24px 0;grid-column:1/-1">
-        Videos unavailable — please run the GitHub Action first to generate data/videos.json
-       </p>`;
-  }
+  }catch(e){console.warn('videos.json load failed:',e);document.getElementById('vd-grid').innerHTML=`<p style="color:var(--ink4);font-size:13px;padding:24px 0;grid-column:1/-1">Videos unavailable.</p>`;}
 }
 
 // ══════════════════════════════════════
-// NEWS RENDER
+// NEWS
 // ══════════════════════════════════════
-  function srcColor(src) {
-  const map = {
-    'BBC':      '#8B0000',   // 深砖红
-    'CNBC':     '#1a3d5c',   // 深海蓝
-    'Bloomberg':'#2c4a1e',   // 深墨绿
-    'Reuters':  '#5a3e1e',   // 深棕
-    'FT':       '#8B4513',   // 金棕
-    'WSJ':      '#1a1a4a',   // 深靛蓝
-    'NYT':      '#2a2a2a',   // 深墨
-  };
-  return map[src] || '#555';
-}
- 
-  function renderNews(cat) {
-  const list = cat === 'all' ? NEWS : NEWS.filter(n => n.cat === cat);
-  const today = list.filter(n => n.time.includes('h ago') || n.time.includes('小时前') || n.time === '刚刚');
-  const older = list.filter(n => !n.time.includes('h ago') && !n.time.includes('小时前') && n.time !== '刚刚');
+function srcColor(src){const map={'BBC':'#8B0000','CNBC':'#1a3d5c','Bloomberg':'#2c4a1e','Reuters':'#5a3e1e','FT':'#8B4513','WSJ':'#1a1a4a','NYT':'#2a2a2a'};return map[src]||'#555';}
 
-  document.getElementById('news-main').innerHTML = today.map((n, i) => `
+function renderNews(cat){
+  const list=cat==='all'?NEWS:NEWS.filter(n=>n.cat===cat);
+  const today=list.filter(n=>n.time.includes('h ago')||n.time.includes('小时前')||n.time==='刚刚');
+  const older=list.filter(n=>!n.time.includes('h ago')&&!n.time.includes('小时前')&&n.time!=='刚刚');
+  document.getElementById('news-main').innerHTML=today.map((n,i)=>`
     <div class="secondary-story" style="border-bottom:1px solid var(--rule2);padding:14px 0;">
       <div class="sec-num" style="font-family:var(--mono);font-size:13px;font-weight:300;color:var(--rule);min-width:36px">${String(i+1).padStart(2,'0')}</div>
       <div class="sec-content">
         <div class="sec-headline" onclick="toggleDeck('deck-${n.id}')" style="cursor:pointer;font-family:var(--serif);font-size:16px;font-weight:600;line-height:1.4">${n.cnTitle||n.headline}</div>
         <div id="deck-${n.id}" style="display:none;margin:8px 0;padding:12px 14px;background:var(--bg-light);border-left:3px solid var(--accent2);font-family:var(--cn);font-size:13px;color:var(--ink2);line-height:1.8">${n.cnDeck||n.deck}</div>
         <div class="sec-meta" style="margin-top:6px">
-         <span style="color:${srcColor(n.source)};font-weight:600">${n.source}</span><span>${n.time}</span>
+          <span style="color:${srcColor(n.source)};font-weight:600">${n.source}</span>
+          <span>${n.time}</span>
           <a href="${n.url}" target="_blank" onclick="event.stopPropagation()" style="font-family:var(--mono);font-size:9px;color:var(--accent2);text-decoration:underline">原文 →</a>
         </div>
       </div>
     </div>`).join('');
-
-  document.getElementById('news-sidebar').innerHTML = `
-    <div class="sidebar-section">
-      <div class="sidebar-heading">Earlier</div>
-      ${older.map(n => `
-      <div class="sidebar-item">
-        <div class="sidebar-hl" onclick="toggleDeck('sdeck-${n.id}')" style="cursor:pointer;font-size:12px">${n.cnTitle||n.headline}</div>
-        <div id="sdeck-${n.id}" style="display:none;margin:4px 0 6px;padding:8px 10px;background:var(--bg-light);border-left:2px solid var(--accent2);font-family:var(--cn);font-size:11px;color:var(--ink2);line-height:1.7">${n.cnDeck||n.deck}</div>
-        <div class="sidebar-src">${n.source} · ${n.time} · <a href="${n.url}" target="_blank" style="color:var(--accent2)">原文</a></div>
-      </div>`).join('')}
-    </div>`;
+  document.getElementById('news-sidebar').innerHTML=`<div class="sidebar-section"><div class="sidebar-heading">Earlier</div>${older.map(n=>`
+    <div class="sidebar-item">
+      <div class="sidebar-hl" onclick="toggleDeck('sdeck-${n.id}')" style="cursor:pointer;font-size:12px">${n.cnTitle||n.headline}</div>
+      <div id="sdeck-${n.id}" style="display:none;margin:4px 0 6px;padding:8px 10px;background:var(--bg-light);border-left:2px solid var(--accent2);font-family:var(--cn);font-size:11px;color:var(--ink2);line-height:1.7">${n.cnDeck||n.deck}</div>
+      <div class="sidebar-src" style="color:${srcColor(n.source)}">${n.source} <span style="color:var(--ink4)">· ${n.time} · <a href="${n.url}" target="_blank" style="color:var(--accent2)">原文</a></span></div>
+    </div>`).join('')}</div>`;
 }
-
-function toggleDeck(id) {
-  const el = document.getElementById(id);
-  if (el) el.style.display = el.style.display === 'none' ? 'block' : 'none';
-}
+function toggleDeck(id){const el=document.getElementById(id);if(el)el.style.display=el.style.display==='none'?'block':'none';}
 
 // ══════════════════════════════════════
-// ASSETS RENDER
+// DEEP READING — 从 data/reading.json 加载
 // ══════════════════════════════════════
-function renderAssets() {
-  const wrap = document.getElementById('assets-wrap');
-  function parseChg(s){return parseFloat(s.replace('%','').replace('+',''))||0;}
-  wrap.innerHTML = ASSET_SECTIONS.map(sec => {
-    const sorted = [...sec.items].sort((a,b) => parseChg(b.chgY) - parseChg(a.chgY));
-    return `<div class="asset-section-block">
-      <div class="asset-section-title">${sec.title}</div>
-      <table class="asset-table">
-        <thead><tr><th>Name</th><th>Price</th><th>Change</th><th>1Y Return</th><th>52W Range</th><th style="width:90px">1Y Trend</th></tr></thead>
-        <tbody>${sorted.map(item => `
-          <tr onclick="selectAssetRow(this,'${item.key}')">
-            <td><div class="td-name">${item.name}</div><div class="td-sub">${item.sub}</div></td>
-            <td class="td-price">${item.price}</td>
-            <td><span class="td-chg ${item.up?'up':'dn'}">${item.chg}</span></td>
-            <td><span class="td-chg ${item.chgY.startsWith('+')?'up':'dn'}">${item.chgY}</span></td>
-            <td class="td-range">${item.range52}</td>
-            <td class="sparkline-cell"><canvas id="sp-${item.key}" width="80" height="32"></canvas></td>
-          </tr>`).join('')}
-        </tbody>
-      </table>
-    </div>`;
-  }).join('');
-  requestAnimationFrame(() => {
-    ASSET_SECTIONS.forEach(sec => sec.items.forEach(item => drawSparkline('sp-'+item.key, item.key)));
-  });
-}
-
-function selectAssetRow(tr, key) {
-  document.querySelectorAll('.asset-table tbody tr').forEach(r => r.classList.remove('selected'));
-  tr.classList.add('selected');
-  drawMainChart(key);
-  document.getElementById('chart-panel').scrollIntoView({behavior:'smooth',block:'start'});
-}
-
-// ══════════════════════════════════════
-// READING RENDER
-// ══════════════════════════════════════
-function renderReading(pubKey) {
-  const list = (!pubKey || pubKey === 'all') ? ARTICLES : ARTICLES.filter(a => a.pubKey === pubKey);
-  document.getElementById('reading-main').innerHTML = list.map(a => {
-    const i = ARTICLES.indexOf(a);
-    return `<div class="article-card" style="animation:slideup .4s ease both">
+function renderReading(pubKey){
+  const list=(!pubKey||pubKey==='all')?ARTICLES:ARTICLES.filter(a=>a.pubKey===pubKey);
+  document.getElementById('reading-main').innerHTML=list.map((a,idx)=>`
+    <div class="article-card" style="animation:slideup .4s ease ${idx*.08}s both">
       <div class="art-pub" style="color:${a.pubColor}">${a.pub}</div>
-      <div class="art-hl" onclick="openArticleModal(${i})">${a.headline}</div>
-      <div class="art-lede">${a.lede}</div>
+      <div class="art-hl">${a.cnTitle||a.headline}</div>
+      ${a.cnTitle?`<div class="art-hl-en">${a.headline}</div>`:''}
+      <div class="art-lede">${a.lede||''}</div>
       <div class="art-meta">
         <span>${a.readtime} read</span>
-        <span class="art-tag">${a.tag}</span>
-        <button class="translate-btn" onclick="translateArticle(this,${i})">中 中文摘要</button>
+        <a href="${a.url}" target="_blank" style="font-family:var(--mono);font-size:9px;color:var(--accent2);text-decoration:underline;border:1px solid var(--rule);border-radius:2px;padding:2px 8px;">阅读原文 →</a>
+        ${a.enSummary||a.cnSummary?`
+        <div class="art-lang-toggle">
+          <span class="art-lang-btn active" onclick="toggleSummary(${idx},'cn',this)">中文</span>
+          <span class="art-lang-btn" onclick="toggleSummary(${idx},'en',this)">EN</span>
+        </div>`:''}
       </div>
-      <div class="tx-box" id="art-tx-${i}"></div>
-    </div>`;
-  }).join('');
+      ${a.cnSummary?`<div class="art-summary-cn show" id="art-cn-${idx}">${a.cnSummary}</div>`:''}
+      ${a.enSummary?`<div class="art-summary" id="art-en-${idx}">${a.enSummary}</div>`:''}
+    </div>`).join('');
 
-  if (!document.getElementById('classic-cn-inner')) {
-    const cl = CLASSICS[Math.floor(Math.random() * CLASSICS.length)];
-    document.getElementById('classic-box').innerHTML = `
+  if(!document.getElementById('classic-cn-inner')){
+    const cl=CLASSICS[Math.floor(Math.random()*CLASSICS.length)];
+    document.getElementById('classic-box').innerHTML=`
       <div class="classic-label">Today's Classic · 每日经典</div>
       <div class="classic-en">"${cl.en}"</div>
       <div class="classic-cn" id="classic-cn-inner">${cl.cn}</div>
@@ -800,177 +710,170 @@ function renderReading(pubKey) {
   }
 }
 
-function filterReading(key, el) {
-  document.querySelectorAll('#rd-toolbar .tb-btn').forEach(b => b.classList.remove('active'));
-  el.classList.add('active');
-  renderReading(key);
+function toggleSummary(idx,lang,btn){
+  const cnEl=document.getElementById(`art-cn-${idx}`);
+  const enEl=document.getElementById(`art-en-${idx}`);
+  const allBtns=btn.closest('.art-lang-toggle').querySelectorAll('.art-lang-btn');
+  allBtns.forEach(b=>b.classList.remove('active'));
+  btn.classList.add('active');
+  if(lang==='cn'){if(cnEl)cnEl.classList.add('show');if(enEl)enEl.classList.remove('show');}
+  else{if(enEl)enEl.classList.add('show');if(cnEl)cnEl.classList.remove('show');}
+}
+
+function filterReading(key,el){
+  document.querySelectorAll('#rd-toolbar .tb-btn').forEach(b=>b.classList.remove('active'));
+  el.classList.add('active');renderReading(key);
+}
+
+async function loadReading(){
+  try{
+    const r=await fetch('./data/reading.json?t='+Date.now());
+    if(r.ok){const data=await r.json();if(data&&data.length>0){ARTICLES.length=0;data.forEach(item=>ARTICLES.push(item));}}
+  }catch(e){console.warn('reading.json load failed',e);}
+  renderReading('all');
 }
 
 // ══════════════════════════════════════
-// OPINIONS RENDER
+// OPINIONS — 从 data/opinions.json 加载，中英双语
 // ══════════════════════════════════════
-function renderOpinions(cat) {
-  const list = (!cat || cat === 'all') ? OPINIONS : OPINIONS.filter(o => o.cat === cat);
-  document.getElementById('op-main').innerHTML = list.map((o, i) => `
-    <div class="op-card" style="animation:slideup .4s ease ${i*.06}s both">
+function renderOpinions(cat){
+  const raw=(!cat||cat==='all')?OPINIONS:OPINIONS.filter(o=>o.cat===cat);
+  // 每人只显示最新一条
+  const seen=new Set();
+  const list=raw.filter(o=>{const k=o.id||o.name;if(seen.has(k))return false;seen.add(k);return true;});
+
+  document.getElementById('op-main').innerHTML=list.map((o,i)=>{
+    const cnId=`op-cn-${o.id||i}`;
+    const hasCn=!!(o.quoteZh||o.quote_zh);
+    const cnText=o.quoteZh||o.quote_zh||'';
+    const isNew=o.is_new===true;
+    return `
+    <div class="op-card" style="animation:slideup .4s ease ${i*.05}s both">
       <div class="op-person-row">
-        <div class="op-avatar" style="background:${o.color}">${o.nameZh.charAt(0)}</div>
+        <div class="op-avatar" style="background:${o.color}">${(o.nameZh||o.name).charAt(0)}</div>
         <div class="op-person-info">
-          <div class="op-name">${o.nameZh} <span style="font-family:var(--body);font-size:13px;font-weight:400;color:var(--ink3)">${o.name}</span></div>
+          <div class="op-name">${o.nameZh||''} <span style="font-family:var(--body);font-size:13px;font-weight:400;color:var(--ink3)">${o.name}</span>
+            ${isNew?'<span class="op-new-badge" style="margin-left:6px">NEW</span>':''}</div>
           <div class="op-role">${o.role}</div>
         </div>
       </div>
-      <div class="op-quote">${o.quote}</div>
+      <div class="op-quote-wrap">
+        <div class="op-quote">${o.quote}</div>
+        ${hasCn?`<div class="op-quote-cn" id="${cnId}">${cnText}</div>
+        <span class="op-bilingual-btn" onclick="toggleOpCn('${cnId}',this)">显示中文 ↓</span>`:''}
+      </div>
       <div class="op-meta">
         <span class="op-source-tag">${o.source}</span>
-        <span>${o.date}</span>
-        <button class="translate-btn" onclick="translateOpinion(this,'op-tx-${o.id}','${o.id}')">中 中文摘要</button>
+        <span>${o.date||''}</span>
+        ${o.url?`<a href="${o.url}" target="_blank" style="font-family:var(--mono);font-size:9px;color:var(--accent2);text-decoration:underline">原文 →</a>`:''}
       </div>
-      <div class="tx-box" id="op-tx-${o.id}"></div>
-    </div>`).join('');
+    </div>`}).join('');
 
-  const sidebar = (!cat || cat === 'all') ? OPINIONS.slice(0, 6) : OPINIONS.filter(o => o.cat !== cat).slice(0, 5);
-  document.getElementById('op-sidebar').innerHTML = sidebar.map(o => `
+  // 侧边栏：其他人快速浏览
+  const sidebar=(!cat||cat==='all')?OPINIONS.slice(0,8):OPINIONS.filter(o=>o.cat!==cat).slice(0,6);
+  const seenSide=new Set();
+  const sideList=sidebar.filter(o=>{const k=o.id||o.name;if(seenSide.has(k))return false;seenSide.add(k);return true;}).slice(0,6);
+  document.getElementById('op-sidebar').innerHTML=sideList.map(o=>`
     <div class="op-sidebar-person">
-      <div class="op-sp-name">${o.nameZh} <span style="font-weight:400;color:var(--ink3);font-size:11px">${o.name}</span></div>
-      <div class="op-sp-snippet">${o.quote.slice(0, 60)}…</div>
+      <div class="op-sp-name">${o.nameZh||''} <span style="font-weight:400;color:var(--ink3);font-size:11px">${o.name}</span></div>
+      <div class="op-sp-snippet">${o.quote.slice(0,60)}…</div>
     </div>`).join('');
 }
 
-function filterOpinions(cat, el) {
-  document.querySelectorAll('#op-toolbar .tb-btn').forEach(b => b.classList.remove('active'));
-  el.classList.add('active');
-  renderOpinions(cat);
+function toggleOpCn(id,btn){
+  const el=document.getElementById(id);if(!el)return;
+  const showing=el.classList.toggle('show');
+  btn.textContent=showing?'隐藏中文 ↑':'显示中文 ↓';
 }
+
+function filterOpinions(cat,el){
+  document.querySelectorAll('#op-toolbar .tb-btn').forEach(b=>b.classList.remove('active'));
+  el.classList.add('active');renderOpinions(cat);
+}
+
+async function loadOpinions(){
+  try{
+    const r=await fetch('./data/opinions.json?t='+Date.now());
+    if(r.ok){const data=await r.json();if(data&&data.length>0){OPINIONS.length=0;data.forEach(item=>OPINIONS.push(item));}}
+  }catch(e){console.warn('opinions.json load failed',e);}
+}
+
+// ══════════════════════════════════════
+// ASSETS
+// ══════════════════════════════════════
+function renderAssets(){
+  const wrap=document.getElementById('assets-wrap');
+  function parseChg(s){return parseFloat(s.replace('%','').replace('+',''))||0;}
+  wrap.innerHTML=ASSET_SECTIONS.map(sec=>{
+    const sorted=[...sec.items].sort((a,b)=>parseChg(b.chgY)-parseChg(a.chgY));
+    return `<div class="asset-section-block"><div class="asset-section-title">${sec.title}</div>
+    <table class="asset-table"><thead><tr><th>Name</th><th>Price</th><th>Change</th><th>1Y Return</th><th>52W Range</th><th style="width:90px">1Y Trend</th></tr></thead>
+    <tbody>${sorted.map(item=>`<tr onclick="selectAssetRow(this,'${item.key}')">
+      <td><div class="td-name">${item.name}</div><div class="td-sub">${item.sub}</div></td>
+      <td class="td-price">${item.price}</td>
+      <td><span class="td-chg ${item.up?'up':'dn'}">${item.chg}</span></td>
+      <td><span class="td-chg ${item.chgY.startsWith('+')?'up':'dn'}">${item.chgY}</span></td>
+      <td class="td-range">${item.range52}</td>
+      <td class="sparkline-cell"><canvas id="sp-${item.key}" width="80" height="32"></canvas></td>
+    </tr>`).join('')}</tbody></table></div>`;
+  }).join('');
+  requestAnimationFrame(()=>ASSET_SECTIONS.forEach(sec=>sec.items.forEach(item=>drawSparkline('sp-'+item.key,item.key))));
+}
+function selectAssetRow(tr,key){document.querySelectorAll('.asset-table tbody tr').forEach(r=>r.classList.remove('selected'));tr.classList.add('selected');drawMainChart(key);document.getElementById('chart-panel').scrollIntoView({behavior:'smooth',block:'start'});}
 
 // ══════════════════════════════════════
 // CLAUDE API
 // ══════════════════════════════════════
-async function callClaude(prompt) {
-  const r = await fetch('https://api.anthropic.com/v1/messages', {
-    method: 'POST',
-    headers: {'Content-Type': 'application/json'},
-    body: JSON.stringify({model: 'claude-sonnet-4-20250514', max_tokens: 800, messages: [{role: 'user', content: prompt}]})
-  });
-  const d = await r.json();
-  return d.content?.[0]?.text || '翻译暂时不可用';
+async function callClaude(prompt){
+  const r=await fetch('https://api.anthropic.com/v1/messages',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({model:'claude-sonnet-4-20250514',max_tokens:800,messages:[{role:'user',content:prompt}]})});
+  const d=await r.json();return d.content?.[0]?.text||'翻译暂时不可用';
 }
-
-async function translateVd(btn, boxId, title) {
-  const box = document.getElementById(boxId);
-  if (!box) return;
-  if (box.classList.contains('show')) { box.classList.remove('show'); btn.textContent = '→中文'; return; }
-  if (box.textContent.length > 5) { box.classList.add('show'); return; }
-  btn.textContent = '生成中…';
-  try {
-    const cn = await callClaude(`用一句话（50字以内）说明以下视频标题的核心内容：\n"${title}"\n直接输出中文。`);
-    box.textContent = cn; box.classList.add('show'); btn.textContent = '✓ 已翻译';
-  } catch { box.textContent = '翻译暂时不可用'; box.classList.add('show'); }
+async function translateVd(btn,boxId,title){
+  const box=document.getElementById(boxId);if(!box)return;
+  if(box.classList.contains('show')){box.classList.remove('show');btn.textContent='→中文';return;}
+  if(box.textContent.length>5){box.classList.add('show');return;}
+  btn.textContent='生成中…';
+  try{const cn=await callClaude(`用一句话（50字以内）说明以下视频标题的核心内容：\n"${title}"\n直接输出中文。`);box.textContent=cn;box.classList.add('show');btn.textContent='✓ 已翻译';}
+  catch{box.textContent='翻译暂时不可用';box.classList.add('show');}
 }
-
-async function translateArticle(btn, i) {
-  const box = document.getElementById('art-tx-' + i);
-  if (box.classList.contains('show')) { box.classList.remove('show'); btn.innerHTML = '中 中文摘要'; btn.classList.remove('done'); return; }
-  if (box.textContent.length > 5) { box.classList.add('show'); return; }
-  const a = ARTICLES[i]; btn.classList.add('loading'); btn.textContent = '生成中…';
-  try {
-    const cn = await callClaude(`用流畅中文为以下长文生成精炼摘要（200字以内），抓住核心论点。\n标题：${a.headline}\n内容：${a.fullText.slice(0, 500)}\n直接输出中文摘要。`);
-    box.textContent = cn; box.classList.add('show'); btn.classList.remove('loading'); btn.classList.add('done'); btn.innerHTML = '中 已翻译';
-  } catch { box.textContent = '翻译失败，请稍后重试。'; box.classList.add('show'); btn.classList.remove('loading'); }
-}
-
-async function translateOpinion(btn, boxId, id) {
-  const box = document.getElementById(boxId);
-  if (!box) return;
-  if (box.classList.contains('show')) { box.classList.remove('show'); btn.innerHTML = '中 中文摘要'; btn.classList.remove('done'); return; }
-  if (box.textContent.length > 5) { box.classList.add('show'); return; }
-  const o = OPINIONS.find(x => x.id === id);
-  if (!o) return;
-  btn.classList.add('loading'); btn.textContent = '生成中…';
-  try {
-    const cn = await callClaude(`以下是${o.nameZh}（${o.role}）的最新观点，请用流畅中文做简洁解读（150字以内），分析其背景和意义：\n"${o.quote}"\n来源：${o.source}\n直接输出中文解读。`);
-    box.textContent = cn; box.classList.add('show'); btn.classList.remove('loading'); btn.classList.add('done'); btn.innerHTML = '中 已解读';
-  } catch { box.textContent = '解读暂时不可用'; box.classList.add('show'); btn.classList.remove('loading'); }
-}
-
-// ══════════════════════════════════════
-// ARTICLE MODALS
-// ══════════════════════════════════════
-function openArticleModal(i) {
-  const a = ARTICLES[i];
-  document.getElementById('modal-src').textContent = `${a.pub} · ${a.tag}`;
-  document.getElementById('modal-hl').textContent = a.headline;
-  const paras = a.fullText.split('\n\n').map(p => `<p style="margin-bottom:14px">${p}</p>`).join('');
-  document.getElementById('modal-body').innerHTML = `
-    <div style="font-family:var(--body);font-size:14px;color:var(--ink2);line-height:1.85;margin-bottom:16px">${paras}</div>
-    <button class="translate-btn" style="font-size:11px;padding:5px 12px;margin-bottom:12px" onclick="translateArticleModal(${i})">中 生成中文摘要</button>
-    <div id="macn-${i}" style="display:none;font-family:var(--cn);font-size:14px;line-height:1.9;color:var(--ink2);padding:14px;background:var(--bg-light);border-left:3px solid var(--accent2);margin-bottom:14px"></div>
-    <hr style="border:none;border-top:1px solid var(--rule);margin:12px 0">
-    <a href="${a.url}" target="_blank" style="font-family:var(--mono);font-size:11px;color:var(--accent2);text-decoration:underline">Read full article →</a>`;
-  document.getElementById('modal').classList.add('open');
-}
-async function translateArticleModal(i) {
-  const a = ARTICLES[i]; const box = document.getElementById('macn-' + i);
-  if (!box) return;
-  box.style.display = 'block'; box.innerHTML = '<div class="modal-loading"><div class="spinner"></div>正在生成…</div>';
-  try { box.innerHTML = await callClaude(`用流畅中文提供详细摘要（400字以内），含核心论点、数据和读者启示：\n标题：${a.headline}\n内容：${a.fullText}\n直接输出中文。`); }
-  catch { box.innerHTML = '翻译失败，请稍后重试。'; }
-}
-function closeModal() { document.getElementById('modal').classList.remove('open'); }
-document.addEventListener('keydown', e => {
-  if (e.key === 'Escape') { closeModal(); closeVdModal(); }
-});
 
 // ══════════════════════════════════════
 // NAV
 // ══════════════════════════════════════
-function showPanel(id, el) {
-  document.querySelectorAll('.panel').forEach(p => p.classList.remove('active'));
-  document.querySelectorAll('.nav-item').forEach(n => n.classList.remove('active'));
-  document.getElementById('panel-' + id).classList.add('active');
-  el.classList.add('active');
-  if (id === 'assets' && !document.getElementById('assets-wrap').children.length) renderAssets();
-  if (id === 'opinions' && !document.getElementById('op-main').children.length) renderOpinions('all');
+function showPanel(id,el){
+  document.querySelectorAll('.panel').forEach(p=>p.classList.remove('active'));
+  document.querySelectorAll('.nav-item').forEach(n=>n.classList.remove('active'));
+  document.getElementById('panel-'+id).classList.add('active');el.classList.add('active');
+  if(id==='assets'&&!document.getElementById('assets-wrap').children.length)renderAssets();
+  if(id==='opinions'&&!document.getElementById('op-main').children.length)renderOpinions('all');
+  if(id==='reading'&&!document.getElementById('reading-main').children.length)renderReading('all');
 }
-
-function filterNews(cat, el) {
-  document.querySelectorAll('#news-toolbar .tb-btn').forEach(b => b.classList.remove('active'));
-  el.classList.add('active');
-  renderNews(cat);
-}
+function filterNews(cat,el){document.querySelectorAll('#news-toolbar .tb-btn').forEach(b=>b.classList.remove('active'));el.classList.add('active');renderNews(cat);}
+function closeModal(){document.getElementById('modal').classList.remove('open');}
+document.addEventListener('keydown',e=>{if(e.key==='Escape'){closeModal();closeVdModal();}});
 
 // ══════════════════════════════════════
 // TICKER
 // ══════════════════════════════════════
-const TICKERS=[
-  {l:'EUR/USD',v:'1.0891',c:'+0.12%',up:true},{l:'USD/JPY',v:'148.24',c:'-0.08%',up:false},
-  {l:'S&P 500',v:'5,642',c:'+0.31%',up:true},{l:'NASDAQ',v:'17,845',c:'+0.54%',up:true},
-  {l:'Gold',v:'$2,318',c:'-0.22%',up:false},{l:'BTC',v:'$68,420',c:'+1.84%',up:true},
-  {l:'CSI 1000',v:'5,228',c:'+0.67%',up:true},{l:'WTI',v:'$83.12',c:'-0.41%',up:false},
-  {l:'DXY',v:'104.2',c:'+0.19%',up:true},{l:'10Y UST',v:'4.31%',c:'+3bp',up:false},
-];
-const th = TICKERS.map(t => `<div class="mitem"><span>${t.l}</span><span class="mval">${t.v}</span><span class="${t.up?'up':'dn'}">${t.c}</span></div>`).join('');
-document.getElementById('mtrack').innerHTML = th + th;
+const TICKERS=[{l:'EUR/USD',v:'1.0891',c:'+0.12%',up:true},{l:'USD/JPY',v:'148.24',c:'-0.08%',up:false},{l:'S&P 500',v:'5,642',c:'+0.31%',up:true},{l:'NASDAQ',v:'17,845',c:'+0.54%',up:true},{l:'Gold',v:'$2,318',c:'-0.22%',up:false},{l:'BTC',v:'$68,420',c:'+1.84%',up:true},{l:'CSI 1000',v:'5,228',c:'+0.67%',up:true},{l:'WTI',v:'$83.12',c:'-0.41%',up:false},{l:'DXY',v:'104.2',c:'+0.19%',up:true},{l:'10Y UST',v:'4.31%',c:'+3bp',up:false}];
+const th=TICKERS.map(t=>`<div class="mitem"><span>${t.l}</span><span class="mval">${t.v}</span><span class="${t.up?'up':'dn'}">${t.c}</span></div>`).join('');
+document.getElementById('mtrack').innerHTML=th+th;
 
 // ══════════════════════════════════════
 // INIT
 // ══════════════════════════════════════
-document.getElementById('mdate').textContent = new Date().toLocaleDateString('en-US', {weekday:'long',year:'numeric',month:'long',day:'numeric'}).toUpperCase();
+document.getElementById('mdate').textContent=new Date().toLocaleDateString('en-US',{weekday:'long',year:'numeric',month:'long',day:'numeric'}).toUpperCase();
 
-async function loadData() {
-  try {
-    const r = await fetch('./data/news.json?t=' + Date.now());
-    if (r.ok) { const data = await r.json(); NEWS.length = 0; data.forEach(item => NEWS.push(item)); }
-  } catch(e) { console.warn('news.json load failed', e); }
-
-  try {
-    const r = await fetch('./data/opinions.json?t=' + Date.now());
-    if (r.ok) { const data = await r.json(); OPINIONS.length = 0; data.forEach(item => OPINIONS.push(item)); }
-  } catch(e) { console.warn('opinions.json load failed', e); }
-
+async function loadData(){
+  // 并行加载所有数据
+  await Promise.all([
+    fetch('./data/news.json?t='+Date.now()).then(r=>r.ok?r.json():null).then(data=>{if(data&&data.length){NEWS.length=0;data.forEach(item=>NEWS.push(item));}}).catch(e=>console.warn('news.json',e)),
+    fetch('./data/opinions.json?t='+Date.now()).then(r=>r.ok?r.json():null).then(data=>{if(data&&data.length){OPINIONS.length=0;data.forEach(item=>OPINIONS.push(item));}}).catch(e=>console.warn('opinions.json',e)),
+    fetch('./data/reading.json?t='+Date.now()).then(r=>r.ok?r.json():null).then(data=>{if(data&&data.length){ARTICLES.length=0;data.forEach(item=>ARTICLES.push(item));}}).catch(e=>console.warn('reading.json',e)),
+  ]);
   renderNews('all');
   renderReading('all');
-  loadVideos(); // 异步加载 YouTube 数据
+  loadVideos();
 }
 
 loadData();
