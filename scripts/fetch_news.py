@@ -18,6 +18,8 @@ RSS_FEEDS = [
     {"url": "https://news.google.com/rss/search?q=when:24h+allinurl:bloomberg.com+technology&ceid=US:en&hl=en-US&gl=US", "source": "Bloomberg", "cat": "tech"},
 ]
 
+MAX_PER_SOURCE = 10  # 每个媒体最多10条
+
 def get_time_ago(published):
     try:
         dt = parsedate_to_datetime(published)
@@ -50,14 +52,14 @@ def generate_cn_content(headline, deck):
                 "max_tokens": 300,
                 "messages": [{
                     "role": "user",
-                    "content": f"判断以下新闻是否值得关注。\n只保留：重大地缘政治事件、全球金融市场动态、科技巨头重要动态、央行货币政策、重大经济数据、战争冲突、重要人物言论。\n不要：本地小事、娱乐体育、消费提示、交通延误、地方政策、动物故事、软性生活内容。\n如果值得关注，输出两行：\n第一行：15字以内的中文标题，不含任何前缀\n第二行：200字以内的中文摘要，不含任何前缀\n如果不值得关注，只回复单词：SKIP，不要任何其他文字\n直接输出，不要任何前缀标签：\n标题：{headline}\n内容：{deck}"
+                    "content": f"判断以下新闻是否值得关注。\n只保留：重大地缘政治事件、全球金融市场动态、科技巨头重要动态、央行货币政策、重大经济数据、战争冲突、重要人物言论。\n不要：本地小事、娱乐体育、消费提示、交通延误、地方政策、动物故事、软性生活内容。\n如果值得关注，输出两行：\n第一行：15字以内的中文标题，不含任何前缀\n第二行：200字以内的中文摘要，不含任何前缀\n如果不值得关注，只回复：SKIP\n直接输出，不要任何前缀标签：\n标题：{headline}\n内容：{deck}"
                 }]
             },
             timeout=15
         )
         data = response.json()
         content = data["choices"][0]["message"]["content"].strip()
-        if "SKIP" in content.upper() or "不值得" in content or len(content) < 5:
+        if "SKIP" in content.upper() or "不值得" in content or "无需关注" in content or len(content) < 5:
             return "SKIP", ""
         lines = content.split('\n', 1)
         cn_title = lines[0].strip()
@@ -73,56 +75,71 @@ def generate_cn_content(headline, deck):
         return "", ""
 
 def fetch_news():
-    news = []
+    # 先按媒体分组收集候选新闻
+    source_candidates = {}
     seen = set()
-    idx = 1
 
     for feed_info in RSS_FEEDS:
+        source = feed_info["source"]
+        if source not in source_candidates:
+            source_candidates[source] = []
         try:
             feed = feedparser.parse(feed_info["url"])
-            for entry in feed.entries[:5]:
+            for entry in feed.entries[:15]:  # 每个feed多抓一些候选
                 title = entry.get("title", "").strip()
                 if not title or title in seen:
                     continue
                 seen.add(title)
-
                 link = entry.get("link", "")
                 if not link:
                     continue
-
                 deck = entry.get("summary", "")
                 deck = re.sub(r'<[^>]+>', '', deck).strip()[:300]
-                time_str = get_time_ago(entry.get("published", ""))
-
-                print(f"Processing: {title[:50]}...")
-                cn_title, cn_deck = generate_cn_content(title, deck)
-
-                if cn_title == "SKIP":
-                    print(f"Skipped: {title[:40]}")
-                    continue
-
-                news.append({
-                    "id": f"n{idx}",
-                    "cat": feed_info["cat"],
-                    "source": feed_info["source"],
-                    "headline": title,
+                source_candidates[source].append({
+                    "title": title,
                     "deck": deck,
-                    "cnTitle": cn_title,
-                    "cnDeck": cn_deck,
-                    "time": time_str,
-                    "url": link,
-                    "lead": idx == 1
+                    "link": link,
+                    "cat": feed_info["cat"],
+                    "source": source,
+                    "published": entry.get("published", "")
                 })
-                idx += 1
-
         except Exception as e:
             print(f"Error fetching {feed_info['url']}: {e}")
+
+    # 每个媒体筛选最多10条重要新闻
+    news = []
+    idx = 1
+    for source, candidates in source_candidates.items():
+        count = 0
+        for item in candidates:
+            if count >= MAX_PER_SOURCE:
+                break
+            print(f"Processing [{source}]: {item['title'][:50]}...")
+            cn_title, cn_deck = generate_cn_content(item['title'], item['deck'])
+            if cn_title == "SKIP":
+                print(f"Skipped: {item['title'][:40]}")
+                continue
+            time_str = get_time_ago(item['published'])
+            news.append({
+                "id": f"n{idx}",
+                "cat": item["cat"],
+                "source": source,
+                "headline": item["title"],
+                "deck": item["deck"],
+                "cnTitle": cn_title,
+                "cnDeck": cn_deck,
+                "time": time_str,
+                "url": item["link"],
+                "lead": idx == 1
+            })
+            count += 1
+            idx += 1
 
     os.makedirs("data", exist_ok=True)
     with open("data/news.json", "w", encoding="utf-8") as f:
         json.dump(news, f, ensure_ascii=False, indent=2)
 
-    print(f"Done: {len(news)} articles")
+    print(f"Done: {len(news)} articles from {len(source_candidates)} sources")
 
 if __name__ == "__main__":
     fetch_news()
