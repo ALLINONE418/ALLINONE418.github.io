@@ -9,11 +9,14 @@ from email.utils import parsedate_to_datetime
 RSS_FEEDS = [
     {"url": "https://feeds.reuters.com/reuters/businessNews", "source": "Reuters", "cat": "economy"},
     {"url": "https://feeds.reuters.com/reuters/technologyNews", "source": "Reuters", "cat": "tech"},
+    {"url": "https://feeds.reuters.com/reuters/worldNews", "source": "Reuters", "cat": "politics"},
     {"url": "http://feeds.bbci.co.uk/news/business/rss.xml", "source": "BBC", "cat": "economy"},
     {"url": "http://feeds.bbci.co.uk/news/technology/rss.xml", "source": "BBC", "cat": "tech"},
     {"url": "http://feeds.bbci.co.uk/news/world/rss.xml", "source": "BBC", "cat": "politics"},
     {"url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114", "source": "CNBC", "cat": "finance"},
     {"url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664", "source": "CNBC", "cat": "tech"},
+    {"url": "https://feeds.ft.com/rss/home/uk", "source": "FT", "cat": "finance"},
+    {"url": "https://www.wsj.com/xml/rss/3_7085.xml", "source": "WSJ", "cat": "finance"},
 ]
 
 def get_time_ago(published):
@@ -48,7 +51,7 @@ def generate_cn_content(headline, deck):
                 "max_tokens": 200,
                 "messages": [{
                     "role": "user",
-                    "content": f"针对以下新闻，请输出两行：\n第一行：15字以内的中文标题\n第二行：100字以内的中文摘要\n不要任何前缀和标签，直接输出两行：\n标题：{headline}\n内容：{deck}"
+                    "content": f"针对以下新闻，请输出两行：\n第一行：15字以内的中文标题\n第二行：200字以内的中文摘要\n不要任何前缀和标签，直接输出两行：\n标题：{headline}\n内容：{deck}"
                 }]
             },
             timeout=15
