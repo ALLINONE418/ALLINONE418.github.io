@@ -21,6 +21,12 @@ RSS_FEEDS = [
 MAX_PER_SOURCE = 10
 KEEP_HOURS = 48
 
+# 无效标题集合
+INVALID_TITLES = {
+    '标题', '标题：', '标题:', '题目', '无', '无标题',
+    'n/a', 'none', 'null', '/', '-', '', 'title', 'headline'
+}
+
 
 def parse_published(published_str):
     try:
@@ -44,6 +50,25 @@ def get_time_ago(dt):
         return f"{days}天前"
 
 
+def clean_title(raw):
+    """清理标题，去除所有可能的前缀，返回干净标题或空字符串"""
+    t = raw.strip()
+    # 去除各种前缀
+    for prefix in ['标题：', '标题:', '第一行：', '第一行:', '中文标题：', '中文标题:',
+                   '一、', '1. ', '1、', '【标题】', 'Title:', 'title:']:
+        if t.startswith(prefix):
+            t = t[len(prefix):].strip()
+
+    # 如果还有冒号且总长度很短，取冒号后面部分（说明是"xx：内容"格式）
+    if '：' in t and len(t) < 20:
+        t = t.split('：', 1)[-1].strip()
+
+    # 验证是否有效
+    if t.lower() in INVALID_TITLES or len(t) < 3:
+        return ""
+    return t
+
+
 def generate_cn_content(headline, deck):
     api_key = os.environ.get("OPENROUTER_API_KEY", "")
     if not api_key:
@@ -64,17 +89,15 @@ def generate_cn_content(headline, deck):
                         f"判断以下新闻是否值得关注。\n"
                         f"只保留：重大地缘政治事件、全球金融市场动态、科技巨头重要动态、央行货币政策、重大经济数据、战争冲突、重要人物言论。\n"
                         f"不要：本地小事、娱乐体育、消费提示、交通延误、地方政策、动物故事、软性生活内容。\n"
-                        f"如果值得关注，输出三行：\n"
-                        f"第一行：15字以内的中文标题，不含任何前缀\n"
-                        f"第二行：将原文核心内容直译为中文，保留原文的数字、人名、机构名、直接引语，300字以内。"
-                        f"不要用「背景/分析/影响」结构，不要总结归纳，就像在读原文中文版一样自然流畅。\n"
-                        f"第三行：分类，只能从以下四个选一个：economy / tech / finance / politics\n"
-                        f"分类说明：economy=宏观经济/央行/贸易/通胀，tech=科技/AI/芯片/互联网公司，"
-                        f"finance=金融市场/股票/外汇/加密货币/银行，politics=地缘政治/战争/选举/外交\n"
-                        f"如果不值得关注，只回复：SKIP\n"
-                        f"直接输出，不要任何前缀标签：\n"
-                        f"标题：{headline}\n"
-                        f"内容：{deck}"
+                        f"如果值得关注，严格按以下格式输出，共三行，每行之间用换行分隔，不加任何前缀标签：\n"
+                        f"[中文标题，15字以内]\n"
+                        f"[原文直译，保留数字/人名/机构名/引语，300字以内，不要总结归纳]\n"
+                        f"[分类：economy 或 tech 或 finance 或 politics 其中一个]\n"
+                        f"分类说明：economy=宏观经济/央行/贸易/通胀，tech=科技/AI/芯片/互联网，"
+                        f"finance=金融市场/股票/外汇/加密/银行，politics=地缘政治/战争/选举/外交\n"
+                        f"如果不值得关注，只回复：SKIP\n\n"
+                        f"新闻标题：{headline}\n"
+                        f"新闻内容：{deck}"
                     )
                 }]
             },
@@ -86,31 +109,32 @@ def generate_cn_content(headline, deck):
         if "SKIP" in content.upper() or "不值得" in content or "无需关注" in content or len(content) < 5:
             return "SKIP", "", ""
 
-        # 解析三行输出
+        # 解析三行
         lines = [l.strip() for l in content.split('\n') if l.strip()]
-        cn_title = lines[0] if len(lines) > 0 else ""
-        cn_deck  = lines[1] if len(lines) > 1 else ""
-        ai_cat   = lines[2].lower() if len(lines) > 2 else ""
 
-        # 清理残留前缀
-        for prefix in ['标题：', '标题:', '第一行：', '中文标题：', '一、', '1.', '1、']:
-            cn_title = cn_title.replace(prefix, '').strip()
-        for prefix in ['摘要：', '摘要:', '第二行：', '中文摘要：', '翻译：']:
-            cn_deck = cn_deck.replace(prefix, '').strip()
-        for prefix in ['分类：', '分类:', '第三行：', 'category:', 'Category:']:
-            ai_cat = ai_cat.replace(prefix, '').strip()
-
-        # 验证标题有效
-        invalid_titles = {'标题', '无', 'n/a', 'none', '/', '-', ''}
-        if cn_title.lower() in invalid_titles or len(cn_title) < 3:
-            print(f"  Invalid title: '{cn_title}', skipping")
+        if len(lines) < 1:
             return "SKIP", "", ""
 
-        # 验证分类合法
+        # 清理并验证标题
+        cn_title = clean_title(lines[0])
+        if not cn_title:
+            print(f"  Invalid title after cleaning: '{lines[0]}', skipping")
+            return "SKIP", "", ""
+
+        cn_deck = lines[1] if len(lines) > 1 else ""
+        ai_cat  = lines[2].lower() if len(lines) > 2 else ""
+
+        # 清理摘要前缀
+        for prefix in ['摘要：', '摘要:', '第二行：', '中文摘要：', '翻译：', '内容：']:
+            cn_deck = cn_deck.replace(prefix, '').strip()
+
+        # 清理分类前缀并验证
+        for prefix in ['分类：', '分类:', '第三行：', 'category:', 'Category:']:
+            ai_cat = ai_cat.replace(prefix, '').strip()
         if ai_cat not in ('economy', 'tech', 'finance', 'politics'):
             ai_cat = ""
 
-        print(f"  cnTitle: {cn_title[:30]} | cat: {ai_cat}")
+        print(f"  ✅ '{cn_title[:25]}' | cat={ai_cat}")
         return cn_title, cn_deck, ai_cat
 
     except Exception as e:
@@ -122,7 +146,7 @@ def fetch_news():
     now = datetime.now(timezone.utc)
     cutoff = now - timedelta(hours=KEEP_HOURS)
 
-    # ── 加载现有历史数据，保留48小时内的 ──
+    # ── 加载历史数据，保留48小时内的 ──
     existing = []
     existing_headlines = set()
     try:
@@ -183,7 +207,7 @@ def fetch_news():
                 break
             print(f"Processing [{source}]: {item['title'][:50]}...")
             cn_title, cn_deck, ai_cat = generate_cn_content(item['title'], item['deck'])
-            if cn_title == "SKIP":
+            if cn_title == "SKIP" or not cn_title:
                 print(f"  Skipped.")
                 continue
             dt = item["published_dt"]
@@ -201,7 +225,7 @@ def fetch_news():
             })
             count += 1
 
-    # ── 合并新旧，按时间排序，超48小时自动淘汰 ──
+    # ── 合并新旧，按时间排序 ──
     all_news = new_items + existing
     all_news.sort(key=lambda x: x.get("published_iso", ""), reverse=True)
 
