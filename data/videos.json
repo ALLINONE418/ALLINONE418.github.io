@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-03-17T12:50:10.547204+00:00",
-  "keep_hours": 168,
-  "total_videos": 44,
+  "updated_at": "2026-03-17T15:07:51.248313+00:00",
+  "keep_hours": 336,
+  "total_videos": 70,
   "channels": [
     {
       "channel_name": "方方土",
@@ -205,6 +205,15 @@
       "lang": "cn",
       "videos": [
         {
+          "id": "8nsgIzew3rA",
+          "title": "我误闯了巴黎贫民窟: 欧洲各国为何「哄抢」难民/黑民？【黑在欧洲】可行吗？",
+          "description": "最近在巴黎出差，欧洲为何大量接纳，甚至争抢黑民/难民？人道主义，还是另有隐情？中国人也能通过这种几乎零成本的“黑洗白”方式移民欧洲吗？\n\n0:00 想象中的巴黎 VS 真的巴黎\n1:01 我误入巴黎黑/难民聚集地\n5:41 欧洲接纳难民的根源：默克尔\n7:33 接纳难民的意识形态原因：进步主义\n9:41 接纳难民的经济原因（真正原因）\n11:54 欧洲各国如何“争抢”难民/黑民？\n15:17 详解",
+          "thumbnail": "https://i.ytimg.com/vi/8nsgIzew3rA/maxresdefault.jpg",
+          "published_at": "2026-03-17T14:01:07Z",
+          "url": "https://www.youtube.com/watch?v=8nsgIzew3rA",
+          "embed_url": "https://www.youtube.com/embed/8nsgIzew3rA"
+        },
+        {
           "id": "p4X2A0eYl5M",
           "title": "美伊若【持久战】: 对中国人真的好吗？战狼外交去哪儿了？",
           "description": "日前，老哈梅内伊的儿子穆杰塔巴‧哈梅内伊被推举最高领袖，并宣称：要穷举国之力和美国以色列打最少六个月，同时封锁霍尔木兹海峡。中国国内媒体鼓吹的“持久战”对中国真的好吗？会怎样伤害中国政府和中国民众的利益？通过伊朗战事，为什么国际社会都说习近平的“战狼外交”是假的呢？\n\n0:00 小哈梅内伊“世袭”颠覆伊朗立国之本？\n1:11 伊朗战事会走向持久战吗？最终结果是？\n4:57 “持久战”对中国好吗？对",
@@ -212,6 +221,24 @@
           "published_at": "2026-03-13T11:28:52Z",
           "url": "https://www.youtube.com/watch?v=p4X2A0eYl5M",
           "embed_url": "https://www.youtube.com/embed/p4X2A0eYl5M"
+        },
+        {
+          "id": "aHf5UQRImAE",
+          "title": "【解读两会】李强政府工作报告：2026年中国经济会好转吗？",
+          "description": "李强日前的政府工作报告将今年的GDP增速目标调低到了25年来的最低点：4.5-5%, 同时宣称将关注民生、扩大内需，但实际上有什么作为吗？本期节目，我们就来破解李强报告的党八股，从他的政策来看：今年的经济会好转吗？\n\n0:00 报告重点：GDP目标调低至25年最低的信号\n2:07 【财政政策】:口号高调，政策保守\n8:24 外资投行为何总“误判”中国政府？\n9:15 财政赤字4%：意味着什么？\n1",
+          "thumbnail": "https://i.ytimg.com/vi/aHf5UQRImAE/maxresdefault.jpg",
+          "published_at": "2026-03-08T08:00:00Z",
+          "url": "https://www.youtube.com/watch?v=aHf5UQRImAE",
+          "embed_url": "https://www.youtube.com/embed/aHf5UQRImAE"
+        },
+        {
+          "id": "MkBe3RyG4fo",
+          "title": "一个视频了解：哈梅内伊的伊朗，是怎么没的？",
+          "description": "哈梅内伊同志过早的离开了我们。对我而言，伊朗是个神奇的国家，为什么一个国家越是喊着独立、自主、反帝，最后反而越孤立，越独裁，越腐败，越贫穷？为什么每一次“民族复兴”，都伴随着更沉重的代价？这背后，真的只是伊朗人运气不好吗？我想有些运气，有些命运，是历史上慢慢形成的。所以本期节目，我们就先说现在的伊朗是怎么来的，再说哈梅内伊是怎么没的。\n\n0:00 Intro\n0:39 历史溯源：伊朗为何总这么乱？",
+          "thumbnail": "https://i.ytimg.com/vi/MkBe3RyG4fo/maxresdefault.jpg",
+          "published_at": "2026-03-04T15:15:03Z",
+          "url": "https://www.youtube.com/watch?v=MkBe3RyG4fo",
+          "embed_url": "https://www.youtube.com/embed/MkBe3RyG4fo"
         }
       ]
     },
@@ -229,6 +256,15 @@
           "published_at": "2026-03-14T14:02:54Z",
           "url": "https://www.youtube.com/watch?v=Lb60mjM5B1U",
           "embed_url": "https://www.youtube.com/embed/Lb60mjM5B1U"
+        },
+        {
+          "id": "ETsxqjHGKSg",
+          "title": "来南极旅游是种什么体验? #antarctica  #企鹅 #Antarctica21 @TravelBankAntarctica",
+          "description": "",
+          "thumbnail": "https://i.ytimg.com/vi/ETsxqjHGKSg/maxresdefault.jpg",
+          "published_at": "2026-03-06T01:38:35Z",
+          "url": "https://www.youtube.com/watch?v=ETsxqjHGKSg",
+          "embed_url": "https://www.youtube.com/embed/ETsxqjHGKSg"
         }
       ]
     },
@@ -255,6 +291,15 @@
       "channel_thumb": "https://yt3.ggpht.com/WhzJ3yv-Rq94cOerhulvUyRHuAn6N0JMG9qv2r2LYFOzfMuif_22bfWr5ey1aHgLNt_oXCklBdo=s88-c-k-c0x00ffffff-no-rj",
       "lang": "cn",
       "videos": [
+        {
+          "id": "kpRiPRPVpYM",
+          "title": "「帝都經濟圈」是什麼？它的崩塌讓400萬人失色！",
+          "description": "本期完整20分鐘影片，請看： https://youtu.be/3lP3nicdZb4",
+          "thumbnail": "https://i.ytimg.com/vi/kpRiPRPVpYM/maxresdefault.jpg",
+          "published_at": "2026-03-17T13:01:33Z",
+          "url": "https://www.youtube.com/watch?v=kpRiPRPVpYM",
+          "embed_url": "https://www.youtube.com/embed/kpRiPRPVpYM"
+        },
         {
           "id": "3lP3nicdZb4",
           "title": "「帝都經濟圈」崩潰的真相——北京，請不要為我哭泣！（1679期）",
@@ -317,6 +362,69 @@
           "published_at": "2026-03-11T02:02:28Z",
           "url": "https://www.youtube.com/watch?v=u27Xn8lEiEc",
           "embed_url": "https://www.youtube.com/embed/u27Xn8lEiEc"
+        },
+        {
+          "id": "C-S1tfryi7E",
+          "title": "史無前例：油價一日內巨幅波動；局勢失控、經濟要崩？（文昭談古論今20260309第1676期）",
+          "description": "👉🛒多項文昭精選商品，請訪問文昭網店，點擊鏈接：https://wenzhao.shop/  或YouTube視頻下方的商品櫥窗\n🛒Wise Quest 明目冷敷眼貼\n日本製造｜天然草本｜護眼首選\n古法配方：菊花、薄荷、甘草等精華直達穴位，舒緩乾眼、眼壓與飛蚊不適，重拾明亮清晰視界。",
+          "thumbnail": "https://i.ytimg.com/vi/C-S1tfryi7E/maxresdefault.jpg",
+          "published_at": "2026-03-10T00:17:14Z",
+          "url": "https://www.youtube.com/watch?v=C-S1tfryi7E",
+          "embed_url": "https://www.youtube.com/embed/C-S1tfryi7E"
+        },
+        {
+          "id": "7C9aOYhqpqE",
+          "title": "史上最強迴旋鏢：領袖監控人民，結果自己裸奔了！🤣",
+          "description": "完整20分鐘影片請看：https://youtu.be/Ed70FTenny8",
+          "thumbnail": "https://i.ytimg.com/vi/7C9aOYhqpqE/maxresdefault.jpg",
+          "published_at": "2026-03-09T00:30:06Z",
+          "url": "https://www.youtube.com/watch?v=7C9aOYhqpqE",
+          "embed_url": "https://www.youtube.com/embed/7C9aOYhqpqE"
+        },
+        {
+          "id": "Ed70FTenny8",
+          "title": "重磅：川普要伊朗無條件投降！領袖「裸奔」了，這件事的反噬可能讓中共崩潰（文昭談古論今20260306第1675期）",
+          "description": "👉🛒多項文昭精選商品，請訪問文昭網店，點擊鏈接：https://wenzhao.shop/  或YouTube視頻下方的商品櫥窗\n🛒Wise Quest 明目冷敷眼貼\n日本製造｜天然草本｜護眼首選\n古法配方：菊花、薄荷、甘草等精華直達穴位，舒緩乾眼、眼壓與飛蚊不適，重拾明亮清晰視界。",
+          "thumbnail": "https://i.ytimg.com/vi/Ed70FTenny8/maxresdefault.jpg",
+          "published_at": "2026-03-07T01:15:21Z",
+          "url": "https://www.youtube.com/watch?v=Ed70FTenny8",
+          "embed_url": "https://www.youtube.com/embed/Ed70FTenny8"
+        },
+        {
+          "id": "Vd4K8DBbMB0",
+          "title": "伊朗向中國示範：獨裁者垮了，誰能接管社會？",
+          "description": "完整20分鐘影片，請看：https://youtu.be/1vBU5inv9qY",
+          "thumbnail": "https://i.ytimg.com/vi/Vd4K8DBbMB0/maxresdefault.jpg",
+          "published_at": "2026-03-06T14:00:53Z",
+          "url": "https://www.youtube.com/watch?v=Vd4K8DBbMB0",
+          "embed_url": "https://www.youtube.com/embed/Vd4K8DBbMB0"
+        },
+        {
+          "id": "lwU1fmQOjLo",
+          "title": "伊朗突變，中共戰略在那些方面大潰敗？",
+          "description": "觀看20分鐘完整影片，請看： https://youtu.be/No-BL3ww3A8",
+          "thumbnail": "https://i.ytimg.com/vi/lwU1fmQOjLo/maxresdefault.jpg",
+          "published_at": "2026-03-05T14:01:20Z",
+          "url": "https://www.youtube.com/watch?v=lwU1fmQOjLo",
+          "embed_url": "https://www.youtube.com/embed/lwU1fmQOjLo"
+        },
+        {
+          "id": "1vBU5inv9qY",
+          "title": "來得太快，伊朗地面戰開始了！毛拉「黨中央」也沒了，習主席真的慌了！（文昭談古論今20260304第1674期）",
+          "description": "💝 神韻演出購票優惠\n購票網站：https://shenyun.com\n優惠碼：wzofficial26（僅限購買美國、加拿大演出票）\n\n💜 誠摯邀請您參加文昭粉絲見面會\n⏰：3月29日（週日）下午1-2點\n🗺️：加拿大多倫多四季劇院\n\n參加多倫多粉絲見面會，您只需做兩件事：\n1、購買多倫多四季劇院3月29日神韻演出票；\n2、填寫此報名表：https://forms.gle/Z64iqdwEDQX",
+          "thumbnail": "https://i.ytimg.com/vi/1vBU5inv9qY/maxresdefault.jpg",
+          "published_at": "2026-03-05T01:34:24Z",
+          "url": "https://www.youtube.com/watch?v=1vBU5inv9qY",
+          "embed_url": "https://www.youtube.com/embed/1vBU5inv9qY"
+        },
+        {
+          "id": "dQqGx3KE1SU",
+          "title": "哈梅內伊被擊殺，觸動習近平的最大心病！",
+          "description": "完整20分鐘影片，請看： https://youtu.be/No-BL3ww3A8",
+          "thumbnail": "https://i.ytimg.com/vi/dQqGx3KE1SU/maxresdefault.jpg",
+          "published_at": "2026-03-04T14:01:03Z",
+          "url": "https://www.youtube.com/watch?v=dQqGx3KE1SU",
+          "embed_url": "https://www.youtube.com/embed/dQqGx3KE1SU"
         }
       ]
     },
@@ -343,6 +451,15 @@
       "channel_thumb": "https://yt3.ggpht.com/Xfsv8L8S4Dt2PPpgaexoMluK9gkm4H77TY-Sae7DbY8qKSaGI0FOS_uzw65kxVtdQlYvc02bB6k=s88-c-k-c0x00ffffff-no-rj",
       "lang": "en",
       "videos": [
+        {
+          "id": "nc0oIVfpSqo",
+          "title": "Perplexity’s New “Computer” Feature is Kind of Insane",
+          "description": "Perplexity is apparently giving people a dedicated Mac Mini to run their AI agents on 24/7.\n\nIt's available now on the paid plans, and this video shows just a teaser of all the cool things you can bui",
+          "thumbnail": "https://i.ytimg.com/vi/nc0oIVfpSqo/maxresdefault.jpg",
+          "published_at": "2026-03-17T14:50:08Z",
+          "url": "https://www.youtube.com/watch?v=nc0oIVfpSqo",
+          "embed_url": "https://www.youtube.com/embed/nc0oIVfpSqo"
+        },
         {
           "id": "JyWdgDcsmbk",
           "title": "NVIDIA Is Everywhere Right Now",
@@ -414,6 +531,78 @@
           "published_at": "2026-03-10T14:23:03Z",
           "url": "https://www.youtube.com/watch?v=UgS5PihUBQM",
           "embed_url": "https://www.youtube.com/embed/UgS5PihUBQM"
+        },
+        {
+          "id": "njIDEpMolRA",
+          "title": "AI Is Frying Your Brain",
+          "description": "Is AI hurting or helping? Here's some research that explains what's going on.\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter",
+          "thumbnail": "https://i.ytimg.com/vi/njIDEpMolRA/maxresdefault.jpg",
+          "published_at": "2026-03-10T04:10:38Z",
+          "url": "https://www.youtube.com/watch?v=njIDEpMolRA",
+          "embed_url": "https://www.youtube.com/embed/njIDEpMolRA"
+        },
+        {
+          "id": "BIp9Q8M2QUw",
+          "title": "The Coolest New Google AI Feature",
+          "description": "Is this the end After Effects?\n\nGoogle just dropped a massive update for NotebookLM with Cinematic Video Overviews.\n\nUnlike the old slideshow-style overviews, this new feature actually bakes real, mot",
+          "thumbnail": "https://i.ytimg.com/vi/BIp9Q8M2QUw/maxresdefault.jpg",
+          "published_at": "2026-03-09T14:13:32Z",
+          "url": "https://www.youtube.com/watch?v=BIp9Q8M2QUw",
+          "embed_url": "https://www.youtube.com/embed/BIp9Q8M2QUw"
+        },
+        {
+          "id": "dEH17qq7wJQ",
+          "title": "New Google AI Model: Hype or Actually Good?",
+          "description": "Not every AI update needs to be smartest model ever.\n\nGoogle just rolled out Gemini 3.1 Flash-Lite, and honestly… it’s not trying to be the best model in the world. It’s designed to be fast, efficient",
+          "thumbnail": "https://i.ytimg.com/vi/dEH17qq7wJQ/maxresdefault.jpg",
+          "published_at": "2026-03-08T13:27:21Z",
+          "url": "https://www.youtube.com/watch?v=dEH17qq7wJQ",
+          "embed_url": "https://www.youtube.com/embed/dEH17qq7wJQ"
+        },
+        {
+          "id": "g0AxIEMcEfM",
+          "title": "New ChatGPT Model: My Honest Review",
+          "description": "OpenAI just dropped GPT-5.4... but should you care?\n\nTo be totally honest: If you use ChatGPT for brainstorming or basic questions, you probably won’t notice a huge difference. It’s a marginal upgrade",
+          "thumbnail": "https://i.ytimg.com/vi/g0AxIEMcEfM/maxresdefault.jpg",
+          "published_at": "2026-03-07T14:21:10Z",
+          "url": "https://www.youtube.com/watch?v=g0AxIEMcEfM",
+          "embed_url": "https://www.youtube.com/embed/g0AxIEMcEfM"
+        },
+        {
+          "id": "W240HYPt38w",
+          "title": "News Update: OpenAI & Anthropic Feud Heats Up",
+          "description": "This story just keeps getting crazier and crazier.\n\nIf you haven't been keeping up with all of this, I do a quick backstory in my latest AI news video linked here, and go into all the updates in more ",
+          "thumbnail": "https://i.ytimg.com/vi/W240HYPt38w/maxresdefault.jpg",
+          "published_at": "2026-03-06T18:37:43Z",
+          "url": "https://www.youtube.com/watch?v=W240HYPt38w",
+          "embed_url": "https://www.youtube.com/embed/W240HYPt38w"
+        },
+        {
+          "id": "JH2ak7kS43E",
+          "title": "AI News: Everyone's Leaving ChatGPT!",
+          "description": "Here's all the AI News you probably missed this week. Learn more about how Box AI can unlock key insights for your business here: https://www.box.com/ai?utm_source=youtube&utm_medium=paidinfluencer&ut",
+          "thumbnail": "https://i.ytimg.com/vi/JH2ak7kS43E/maxresdefault.jpg",
+          "published_at": "2026-03-06T17:25:19Z",
+          "url": "https://www.youtube.com/watch?v=JH2ak7kS43E",
+          "embed_url": "https://www.youtube.com/embed/JH2ak7kS43E"
+        },
+        {
+          "id": "-Ow2PsJUWO8",
+          "title": "How To Use AI On Your Phone WITHOUT Internet",
+          "description": "No WiFi? No problem. \n\nHere is how I’m running advanced AI models like Qwen 3.5 directly on my phone without any internet connection. It’s an app called Locally AI.\n\nThis is NOT sponsored, just sharin",
+          "thumbnail": "https://i.ytimg.com/vi/-Ow2PsJUWO8/maxresdefault.jpg",
+          "published_at": "2026-03-04T15:05:05Z",
+          "url": "https://www.youtube.com/watch?v=-Ow2PsJUWO8",
+          "embed_url": "https://www.youtube.com/embed/-Ow2PsJUWO8"
+        },
+        {
+          "id": "4dZ0VYjB8N8",
+          "title": "This Free App Runs AI Offline On Your iPhone",
+          "description": "Trying out locally AI to run AI models on my phone without internet.\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n🎙️ The N",
+          "thumbnail": "https://i.ytimg.com/vi/4dZ0VYjB8N8/maxresdefault.jpg",
+          "published_at": "2026-03-04T04:25:57Z",
+          "url": "https://www.youtube.com/watch?v=4dZ0VYjB8N8",
+          "embed_url": "https://www.youtube.com/embed/4dZ0VYjB8N8"
         }
       ]
     },
@@ -440,6 +629,24 @@
           "published_at": "2026-03-10T14:07:49Z",
           "url": "https://www.youtube.com/watch?v=oshQg1uSRvg",
           "embed_url": "https://www.youtube.com/embed/oshQg1uSRvg"
+        },
+        {
+          "id": "oqe2LpDyxyA",
+          "title": "3 Opensource AI Tools For 2026",
+          "description": "🤖 Want to get ahead in your career using AI? Join the waitlist for my AI Agent Bootcamp: https://www.lonelyoctopus.com/ai-agent-bootcamp",
+          "thumbnail": "https://i.ytimg.com/vi/oqe2LpDyxyA/maxresdefault.jpg",
+          "published_at": "2026-03-08T15:01:18Z",
+          "url": "https://www.youtube.com/watch?v=oqe2LpDyxyA",
+          "embed_url": "https://www.youtube.com/embed/oqe2LpDyxyA"
+        },
+        {
+          "id": "0JnWV5n1TJA",
+          "title": "My Favourite AI Use Cases",
+          "description": "🤖 Want to get ahead in your career using AI? Join the waitlist for my AI Agent Bootcamp: https://www.lonelyoctopus.com/ai-agent-bootcamp",
+          "thumbnail": "https://i.ytimg.com/vi/0JnWV5n1TJA/maxresdefault.jpg",
+          "published_at": "2026-03-05T15:36:01Z",
+          "url": "https://www.youtube.com/watch?v=0JnWV5n1TJA",
+          "embed_url": "https://www.youtube.com/embed/0JnWV5n1TJA"
         }
       ]
     },
@@ -449,6 +656,15 @@
       "channel_thumb": "https://yt3.ggpht.com/fHDMaIjQYS0XTz17AL-iIxdfyrGJfLliAJTQmJE931P1OareLsLIvFeJDcDtI3QpkD9HLnvI7Gw=s88-c-k-c0x00ffffff-no-rj",
       "lang": "en",
       "videos": [
+        {
+          "id": "_uXnyhrqmsU",
+          "title": "NotebookLM Changed Completely: Here's What Matters (in 2026)",
+          "description": "✅ Grab HubSpot’s NotebookLM guide: https://clickhubspot.com/414d85\n\n#NotebookLM just got a massive wave of updates and is now more popular than #Gemini itself. In this full walkthrough, I break down t",
+          "thumbnail": "https://i.ytimg.com/vi/_uXnyhrqmsU/maxresdefault.jpg",
+          "published_at": "2026-03-17T13:01:14Z",
+          "url": "https://www.youtube.com/watch?v=_uXnyhrqmsU",
+          "embed_url": "https://www.youtube.com/embed/_uXnyhrqmsU"
+        },
         {
           "id": "Nfe5OCLeD38",
           "title": "NotebookLM is now bigger than Gemini",
@@ -483,6 +699,24 @@
           "published_at": "2026-03-11T16:00:09Z",
           "url": "https://www.youtube.com/watch?v=Q5GxIpzOxOI",
           "embed_url": "https://www.youtube.com/embed/Q5GxIpzOxOI"
+        },
+        {
+          "id": "9FruIqE0OEw",
+          "title": "OpenAI Strikes Back & More AI News You Can Use",
+          "description": "Subscribe for more weekly AI news you can use!\n\nThis week, Igor covers the new model releases from OpenAI including GPT-5.3 and 5.4, plus he shows off the new Project Sources update for ChatGPT. He al",
+          "thumbnail": "https://i.ytimg.com/vi/9FruIqE0OEw/maxresdefault.jpg",
+          "published_at": "2026-03-06T16:30:24Z",
+          "url": "https://www.youtube.com/watch?v=9FruIqE0OEw",
+          "embed_url": "https://www.youtube.com/embed/9FruIqE0OEw"
+        },
+        {
+          "id": "VXA6TBO8tls",
+          "title": "Try This Out While It's Still Free!",
+          "description": "Subscribe for more like this!\n\nLinks:\n🔑  Free ChatGPT Prompt Templates: https://bit.ly/newsletter-aia\n🧑‍💻 Igor Pogany on LinkedIn: https://bit.ly/IgorLinkedIn\n🐦Twitter/X: https://bit.ly/AIAonTwitter\n📸",
+          "thumbnail": "https://i.ytimg.com/vi/VXA6TBO8tls/maxresdefault.jpg",
+          "published_at": "2026-03-05T16:02:11Z",
+          "url": "https://www.youtube.com/watch?v=VXA6TBO8tls",
+          "embed_url": "https://www.youtube.com/embed/VXA6TBO8tls"
         }
       ]
     }
