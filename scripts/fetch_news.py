@@ -89,6 +89,9 @@ def fetch_news():
 
                 print(f"Processing: {title[:50]}...")
                 cn_title, cn_deck = generate_cn_content(title, deck)
+if cn_title == 'SKIP':
+    print(f"Skipped: {title[:40]}")
+    continue
 
                 news.append({
                     "id": f"n{idx}",
