@@ -2,20 +2,16 @@ name: Fetch YouTube Videos
 
 on:
   schedule:
-    # 每6小时执行一次（UTC时间 0/6/12/18 点）
-    - cron: "0 0,6,12,18 * * *"
-  workflow_dispatch:  # 允许手动触发
+    - cron: "0 6,18 * * *"   # 每12小时：UTC 6点 和 18点（错开新闻更新时间）
+  workflow_dispatch:
 
 jobs:
   fetch-videos:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
@@ -27,7 +23,7 @@ jobs:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: python scripts/fetch_videos.py
 
-      - name: Commit and push data
+      - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
