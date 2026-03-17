@@ -1,24 +1,14 @@
 {
-  "updated_at": "2026-03-17T12:44:51.218182+00:00",
+  "updated_at": "2026-03-17T12:50:10.547204+00:00",
   "keep_hours": 168,
-  "total_videos": 64,
+  "total_videos": 44,
   "channels": [
     {
       "channel_name": "方方土",
-      "channel_id": "UCjuNibFJ21MiSNpu8LZyV4w",
-      "channel_thumb": "https://yt3.ggpht.com/g0cH597imPPxPZ_Op4BOKyufZAtUSJQ-K_5fmLBb8aFS2eV9CP6bEIL4KxsFMPEgDp69pnCeFw=s88-c-k-c0x00ffffff-no-rj",
+      "channel_id": "UC-CckeotGQCZigg3nETreCQ",
+      "channel_thumb": "https://yt3.ggpht.com/SvpnEbqrBleL8RsXMsIa_F_BBXkkD5xtzWfA8sOgjPDu4hRShPuHRFUPLnzaIypkpRAwuFUq6g=s88-c-k-c0x00ffffff-no-rj",
       "lang": "cn",
-      "videos": [
-        {
-          "id": "Fh5HeQN5kI8",
-          "title": "宋美龄：如果人生重来，我不会结婚｜柴静访谈",
-          "description": "作为中华民国第一夫人，宋美龄拒绝写回忆录。但有一个人是她一生的镜子：“只有在你面前，我才能审视自己。”六十年间，她向她坦露：婚礼时“又惊又怕”，战争中“鞋子沾满鲜血”；她会问：“你会觉得我专横吗？”也承认自己的弱点——“我可以滔滔不绝，但内心并不成熟。”在美国演讲结束后，卸妆后镜子前，她问艾玛“恋情结束是什么感觉？”\n\n宋美龄是20世纪最知名的中国女性政治人物之一，也是抗战时期中国面向世界的重要声",
-          "thumbnail": "https://i.ytimg.com/vi/Fh5HeQN5kI8/maxresdefault.jpg",
-          "published_at": "2026-03-14T13:47:58Z",
-          "url": "https://www.youtube.com/watch?v=Fh5HeQN5kI8",
-          "embed_url": "https://www.youtube.com/embed/Fh5HeQN5kI8"
-        }
-      ]
+      "videos": []
     },
     {
       "channel_name": "王志安",
@@ -210,10 +200,20 @@
     },
     {
       "channel_name": "马斯库",
-      "channel_id": "UC-CckeotGQCZigg3nETreCQ",
-      "channel_thumb": "https://yt3.ggpht.com/SvpnEbqrBleL8RsXMsIa_F_BBXkkD5xtzWfA8sOgjPDu4hRShPuHRFUPLnzaIypkpRAwuFUq6g=s88-c-k-c0x00ffffff-no-rj",
+      "channel_id": "UC3411UsjUC2t-Xfr1gwIhzg",
+      "channel_thumb": "https://yt3.ggpht.com/0JgVi6uYNJNL9JdTN5IXhd1bGhn5aWcpDQzLvYlk732Q0vHw_vAQx__AjoKQzGGzzj88pnI1hq4=s88-c-k-c0x00ffffff-no-rj",
       "lang": "cn",
-      "videos": []
+      "videos": [
+        {
+          "id": "p4X2A0eYl5M",
+          "title": "美伊若【持久战】: 对中国人真的好吗？战狼外交去哪儿了？",
+          "description": "日前，老哈梅内伊的儿子穆杰塔巴‧哈梅内伊被推举最高领袖，并宣称：要穷举国之力和美国以色列打最少六个月，同时封锁霍尔木兹海峡。中国国内媒体鼓吹的“持久战”对中国真的好吗？会怎样伤害中国政府和中国民众的利益？通过伊朗战事，为什么国际社会都说习近平的“战狼外交”是假的呢？\n\n0:00 小哈梅内伊“世袭”颠覆伊朗立国之本？\n1:11 伊朗战事会走向持久战吗？最终结果是？\n4:57 “持久战”对中国好吗？对",
+          "thumbnail": "https://i.ytimg.com/vi/p4X2A0eYl5M/maxresdefault.jpg",
+          "published_at": "2026-03-13T11:28:52Z",
+          "url": "https://www.youtube.com/watch?v=p4X2A0eYl5M",
+          "embed_url": "https://www.youtube.com/embed/p4X2A0eYl5M"
+        }
+      ]
     },
     {
       "channel_name": "小Lin说",
@@ -321,36 +321,19 @@
       ]
     },
     {
-      "channel_name": "凤凰卫视Official",
-      "channel_id": "UCwAnu01qlnVg1Ai2AbtTMaA",
-      "channel_thumb": "https://yt3.ggpht.com/fHDMaIjQYS0XTz17AL-iIxdfyrGJfLliAJTQmJE931P1OareLsLIvFeJDcDtI3QpkD9HLnvI7Gw=s88-c-k-c0x00ffffff-no-rj",
-      "lang": "cn",
-      "videos": [
-        {
-          "id": "Nfe5OCLeD38",
-          "title": "NotebookLM is now bigger than Gemini",
-          "description": "#NotebookLM now has more search interest than even Google Gemini.\n\nIts core advantage is the same as before though: you throw in documents across different formats and get a grounded answer instead of",
-          "thumbnail": "https://i.ytimg.com/vi/Nfe5OCLeD38/maxresdefault.jpg",
-          "published_at": "2026-03-11T12:11:32Z",
-          "url": "https://www.youtube.com/watch?v=Nfe5OCLeD38",
-          "embed_url": "https://www.youtube.com/embed/Nfe5OCLeD38"
-        }
-      ]
-    },
-    {
       "channel_name": "柴静",
-      "channel_id": "UC3411UsjUC2t-Xfr1gwIhzg",
-      "channel_thumb": "https://yt3.ggpht.com/0JgVi6uYNJNL9JdTN5IXhd1bGhn5aWcpDQzLvYlk732Q0vHw_vAQx__AjoKQzGGzzj88pnI1hq4=s88-c-k-c0x00ffffff-no-rj",
+      "channel_id": "UCjuNibFJ21MiSNpu8LZyV4w",
+      "channel_thumb": "https://yt3.ggpht.com/g0cH597imPPxPZ_Op4BOKyufZAtUSJQ-K_5fmLBb8aFS2eV9CP6bEIL4KxsFMPEgDp69pnCeFw=s88-c-k-c0x00ffffff-no-rj",
       "lang": "cn",
       "videos": [
         {
-          "id": "p4X2A0eYl5M",
-          "title": "美伊若【持久战】: 对中国人真的好吗？战狼外交去哪儿了？",
-          "description": "日前，老哈梅内伊的儿子穆杰塔巴‧哈梅内伊被推举最高领袖，并宣称：要穷举国之力和美国以色列打最少六个月，同时封锁霍尔木兹海峡。中国国内媒体鼓吹的“持久战”对中国真的好吗？会怎样伤害中国政府和中国民众的利益？通过伊朗战事，为什么国际社会都说习近平的“战狼外交”是假的呢？\n\n0:00 小哈梅内伊“世袭”颠覆伊朗立国之本？\n1:11 伊朗战事会走向持久战吗？最终结果是？\n4:57 “持久战”对中国好吗？对",
-          "thumbnail": "https://i.ytimg.com/vi/p4X2A0eYl5M/maxresdefault.jpg",
-          "published_at": "2026-03-13T11:28:52Z",
-          "url": "https://www.youtube.com/watch?v=p4X2A0eYl5M",
-          "embed_url": "https://www.youtube.com/embed/p4X2A0eYl5M"
+          "id": "Fh5HeQN5kI8",
+          "title": "宋美龄：如果人生重来，我不会结婚｜柴静访谈",
+          "description": "作为中华民国第一夫人，宋美龄拒绝写回忆录。但有一个人是她一生的镜子：“只有在你面前，我才能审视自己。”六十年间，她向她坦露：婚礼时“又惊又怕”，战争中“鞋子沾满鲜血”；她会问：“你会觉得我专横吗？”也承认自己的弱点——“我可以滔滔不绝，但内心并不成熟。”在美国演讲结束后，卸妆后镜子前，她问艾玛“恋情结束是什么感觉？”\n\n宋美龄是20世纪最知名的中国女性政治人物之一，也是抗战时期中国面向世界的重要声",
+          "thumbnail": "https://i.ytimg.com/vi/Fh5HeQN5kI8/maxresdefault.jpg",
+          "published_at": "2026-03-14T13:47:58Z",
+          "url": "https://www.youtube.com/watch?v=Fh5HeQN5kI8",
+          "embed_url": "https://www.youtube.com/embed/Fh5HeQN5kI8"
         }
       ]
     },
@@ -462,189 +445,18 @@
     },
     {
       "channel_name": "Jeff Su",
-      "channel_id": "UCMtFAi84ehTSYSE9XoHefig",
-      "channel_thumb": "https://yt3.ggpht.com/ytc/AIdro_m65RzRXyEAIlIg5E84TdMr1Q-8uVzCoAjGOR4GjR9AnCQ=s88-c-k-c0x00ffffff-no-rj",
+      "channel_id": "UCwAnu01qlnVg1Ai2AbtTMaA",
+      "channel_thumb": "https://yt3.ggpht.com/fHDMaIjQYS0XTz17AL-iIxdfyrGJfLliAJTQmJE931P1OareLsLIvFeJDcDtI3QpkD9HLnvI7Gw=s88-c-k-c0x00ffffff-no-rj",
       "lang": "en",
       "videos": [
         {
-          "id": "KNhwlY9aFx8",
-          "title": "\"There Are Filthy People Everywhere\" - Andrew Rannells On The Broad Appeal Of \"The Book of Mormon\"",
-          "description": "GRAMMY-winner Andrew Rannells shares his personal recollections about auditioning for the role of Elder Price in the original Broadway production of \"The Book of Mormon,\" and says audiences never get ",
-          "thumbnail": "https://i.ytimg.com/vi/KNhwlY9aFx8/hqdefault.jpg",
-          "published_at": "2026-03-17T07:35:01Z",
-          "url": "https://www.youtube.com/watch?v=KNhwlY9aFx8",
-          "embed_url": "https://www.youtube.com/embed/KNhwlY9aFx8"
-        },
-        {
-          "id": "rJh5hsiy0LM",
-          "title": "\"I Believe\" - Andrew Rannells and the Broadway Company of The Book of Mormon (LIVE on The Late Show)",
-          "description": "Original Broadway cast member Andrew Rannells is joined by the current company of \"The Book of Mormon\" for a performance of \"I Believe\" in honor of the show's 15-year run. Catch special performances o",
-          "thumbnail": "https://i.ytimg.com/vi/rJh5hsiy0LM/hqdefault.jpg",
-          "published_at": "2026-03-17T07:35:01Z",
-          "url": "https://www.youtube.com/watch?v=rJh5hsiy0LM",
-          "embed_url": "https://www.youtube.com/embed/rJh5hsiy0LM"
-        },
-        {
-          "id": "F0kQWM80etI",
-          "title": "\"They Were Super Nice About It\" - How the Mormon Church Reacted To \"The Book of Mormon\"",
-          "description": "Trey Parker, Matt Stone and Robert Lopez created an obscenity-riddled Broadway musical so funny that even the Mormon Church itself got in on the joke. Keep watching for a performance by Andrew Rannell",
-          "thumbnail": "https://i.ytimg.com/vi/F0kQWM80etI/hqdefault.jpg",
-          "published_at": "2026-03-17T07:35:00Z",
-          "url": "https://www.youtube.com/watch?v=F0kQWM80etI",
-          "embed_url": "https://www.youtube.com/embed/F0kQWM80etI"
-        },
-        {
-          "id": "_XNCkoQIwBo",
-          "title": "There Would Be No \"Avenue Q\" Without You Guys - Robert Lopez To Trey Parker And Matt Stone",
-          "description": "Tony-winners Trey Parker, Matt Stone and Robert Lopez each talk about their early efforts as songwriters and what brought them together to create \"The Book of Mormon.\" Stick around for more with Trey,",
-          "thumbnail": "https://i.ytimg.com/vi/_XNCkoQIwBo/hqdefault.jpg",
-          "published_at": "2026-03-17T07:35:00Z",
-          "url": "https://www.youtube.com/watch?v=_XNCkoQIwBo",
-          "embed_url": "https://www.youtube.com/embed/_XNCkoQIwBo"
-        },
-        {
-          "id": "EegiHAKC8qM",
-          "title": "Trump: I'll Bomb Iran \"Just For Fun\" | Hegseth Wants A Patriotic Press | Dig We Must?",
-          "description": "President Trump told reporters he might bomb Iranian oil facilities for the fun of it, Pete Hegseth is mad at the media for accurately reporting on the war, and the president is having trouble remembe",
-          "thumbnail": "https://i.ytimg.com/vi/EegiHAKC8qM/hqdefault.jpg",
-          "published_at": "2026-03-17T03:50:00Z",
-          "url": "https://www.youtube.com/watch?v=EegiHAKC8qM",
-          "embed_url": "https://www.youtube.com/embed/EegiHAKC8qM"
-        },
-        {
-          "id": "uBkJEX5Pkps",
-          "title": "Surprise Her With A 2026 Lexus",
-          "description": "As a result of high gas prices, car companies are making adjustments.\n\n#Colbert #Comedy #ColdOpens #StephenColbert #TheLateShow\nSubscribe To \"The Late Show\" Channel: http://bit.ly/ColbertYouTube\n\nWatc",
-          "thumbnail": "https://i.ytimg.com/vi/uBkJEX5Pkps/hqdefault.jpg",
-          "published_at": "2026-03-17T02:05:39Z",
-          "url": "https://www.youtube.com/watch?v=uBkJEX5Pkps",
-          "embed_url": "https://www.youtube.com/embed/uBkJEX5Pkps"
-        },
-        {
-          "id": "k2dspRpGxmI",
-          "title": "Conan O'Brien Takes The Colbert Questionert",
-          "description": "If you don't know his favorite action movie, or who performed at his first concert, do you really know late night comedy legend Conan O'Brien? After the clip, get to know other big stars on a deeper l",
-          "thumbnail": "https://i.ytimg.com/vi/k2dspRpGxmI/hqdefault.jpg",
-          "published_at": "2026-03-13T15:45:05Z",
-          "url": "https://www.youtube.com/watch?v=k2dspRpGxmI",
-          "embed_url": "https://www.youtube.com/embed/k2dspRpGxmI"
-        },
-        {
-          "id": "qLPiXCRcORU",
-          "title": "\"Pay These People!\" - Wanda Sykes Shows Some Love For The TSA Agents Currently Working Without Pay",
-          "description": "Emmy-winner Wanda Sykes thinks the government should prioritize paying the salaries of TSA workers over spending money on foreign wars. Stick around for more with Wanda Sykes and watch \"Undercard,\" av",
-          "thumbnail": "https://i.ytimg.com/vi/qLPiXCRcORU/hqdefault.jpg",
-          "published_at": "2026-03-13T07:35:04Z",
-          "url": "https://www.youtube.com/watch?v=qLPiXCRcORU",
-          "embed_url": "https://www.youtube.com/embed/qLPiXCRcORU"
-        },
-        {
-          "id": "rYQRW79pBV0",
-          "title": "\"Maybe\" - Dan & Peggy Reeder (LIVE on The Late Show)",
-          "description": "Cult-favorite folk songwriter Dan Reeder is joined by his daughter Peggy Reeder for a performance of \"Maybe\" from their new album, 'LIVE,' which is available now. Keep watching for a bonus performance",
-          "thumbnail": "https://i.ytimg.com/vi/rYQRW79pBV0/hqdefault.jpg",
-          "published_at": "2026-03-13T07:35:02Z",
-          "url": "https://www.youtube.com/watch?v=rYQRW79pBV0",
-          "embed_url": "https://www.youtube.com/embed/rYQRW79pBV0"
-        },
-        {
-          "id": "5SnG53wJxP8",
-          "title": "\"I Just Wanted To Create The Magic Of The Writers' Room\" - Why Robert Smigel's Podcast Is Different",
-          "description": "Comedy legend Robert Smigel stops by to promote his upcoming charity show at the Hollywood Bowl and to explain the fun premise of his new podcast. Sadly, his friend Triumph the Insult Comic Dog couldn",
-          "thumbnail": "https://i.ytimg.com/vi/5SnG53wJxP8/hqdefault.jpg",
-          "published_at": "2026-03-13T07:35:00Z",
-          "url": "https://www.youtube.com/watch?v=5SnG53wJxP8",
-          "embed_url": "https://www.youtube.com/embed/5SnG53wJxP8"
-        },
-        {
-          "id": "MMueOnpeAVA",
-          "title": "Meanwhile... Middle Earth Weather Report | Clooney's Near-Beer | Why Cats Land On Their Feet",
-          "description": "Meanwhile... Stephen has a few words for the nerds who created an advanced \"Lord of the Rings\" climate model, tequila magnate George Clooney is introducing a non-alcoholic beer, and researchers claim ",
-          "thumbnail": "https://i.ytimg.com/vi/MMueOnpeAVA/hqdefault.jpg",
-          "published_at": "2026-03-13T07:35:00Z",
-          "url": "https://www.youtube.com/watch?v=MMueOnpeAVA",
-          "embed_url": "https://www.youtube.com/embed/MMueOnpeAVA"
-        },
-        {
-          "id": "ROv4J9uFF_Y",
-          "title": "\"Not One Laugh\" - Wanda Sykes On Making Her Dramatic Acting Debut In \"Undercard\"",
-          "description": "Comedy icon Wanda Sykes branches out into her first dramatic role in the new film, \"Undercard,\" and she enjoyed every moment of shooting the film in Puerto Rico. \"Undercard\" is available on demand on ",
-          "thumbnail": "https://i.ytimg.com/vi/ROv4J9uFF_Y/hqdefault.jpg",
-          "published_at": "2026-03-13T07:35:00Z",
-          "url": "https://www.youtube.com/watch?v=ROv4J9uFF_Y",
-          "embed_url": "https://www.youtube.com/embed/ROv4J9uFF_Y"
-        },
-        {
-          "id": "0QjLRlOqYoc",
-          "title": "\"Speed of the Sound of Loneliness\" - Dan & Peggy Reeder (LIVE on The Late Show)",
-          "description": "Dan & Peggy Reeder stick around to do a bonus song for The Late Show audience, performing a gorgeous cover of John Prine's \"Speed of the Sound of Loneliness.\" Dan & Peggy Reeder's new album, 'LIVE,' i",
-          "thumbnail": "https://i.ytimg.com/vi/0QjLRlOqYoc/hqdefault.jpg",
-          "published_at": "2026-03-13T04:05:00Z",
-          "url": "https://www.youtube.com/watch?v=0QjLRlOqYoc",
-          "embed_url": "https://www.youtube.com/embed/0QjLRlOqYoc"
-        },
-        {
-          "id": "LQZRMZOnTJQ",
-          "title": "Trump Got To Name The War | Tankers On Fire | Hegseth's Insecurity | 'Squatch Watch",
-          "description": "President Trump boasted about how much he likes the name \"Operation Epic Fury,\" Iran is following through on threats to attack ships in the Strait of Hormuz, Pete Hegseth can't stand the sight of his ",
-          "thumbnail": "https://i.ytimg.com/vi/LQZRMZOnTJQ/hqdefault.jpg",
-          "published_at": "2026-03-13T03:50:00Z",
-          "url": "https://www.youtube.com/watch?v=LQZRMZOnTJQ",
-          "embed_url": "https://www.youtube.com/embed/LQZRMZOnTJQ"
-        },
-        {
-          "id": "Szxeqe2dado",
-          "title": "Donald Trump Declares War On Asian Carp",
-          "description": "Only Trump can do it. \n\n#Colbert #Comedy #ColdOpens #PresidentTrump #AsianCarp #StephenColbert #TheLateShow\nSubscribe To \"The Late Show\" Channel: http://bit.ly/ColbertYouTube\n\nWatch full episodes of \"",
-          "thumbnail": "https://i.ytimg.com/vi/Szxeqe2dado/hqdefault.jpg",
-          "published_at": "2026-03-13T01:56:22Z",
-          "url": "https://www.youtube.com/watch?v=Szxeqe2dado",
-          "embed_url": "https://www.youtube.com/embed/Szxeqe2dado"
-        },
-        {
-          "id": "yuGXoOhjZDk",
-          "title": "The Penny Is More Than Just Currency, It's A Symbol Of America",
-          "description": "The United States government has stopped minting pennies, but we can still have fun with them! \n\n#Colbert #Comedy #Pennies #PennyPress #USMint #StephenColbert #TheLateShow\nSubscribe To \"The Late Show\"",
-          "thumbnail": "https://i.ytimg.com/vi/yuGXoOhjZDk/hqdefault.jpg",
-          "published_at": "2026-03-12T07:35:03Z",
-          "url": "https://www.youtube.com/watch?v=yuGXoOhjZDk",
-          "embed_url": "https://www.youtube.com/embed/yuGXoOhjZDk"
-        },
-        {
-          "id": "K-k7OEXTupY",
-          "title": "\"A Staggering Lack Of Humility\" - Clarissa Ward On The Pentagon’s Glib Glorification Of War Violence",
-          "description": "CNN Chief International Correspondent Clarissa Ward appears live from Erbil, Iraq to provide an on-the-ground perspective on what's happening in the Middle East as the United States and Israel continu",
-          "thumbnail": "https://i.ytimg.com/vi/K-k7OEXTupY/maxresdefault.jpg",
-          "published_at": "2026-03-12T07:35:01Z",
-          "url": "https://www.youtube.com/watch?v=K-k7OEXTupY",
-          "embed_url": "https://www.youtube.com/embed/K-k7OEXTupY"
-        },
-        {
-          "id": "_uBZVJ-iNUQ",
-          "title": "\"Like Looking Through A Keyhole\" - Clarissa Ward On Reporting Amid A Communications Blackout In Iran",
-          "description": "Peabody-winning journalist Clarissa Ward joins Stephen remotely from Erbil, Iraq where she is covering America's war on Iran. Watch as she provides updates on what's happening on the ground across the",
-          "thumbnail": "https://i.ytimg.com/vi/_uBZVJ-iNUQ/hqdefault.jpg",
-          "published_at": "2026-03-12T07:35:01Z",
-          "url": "https://www.youtube.com/watch?v=_uBZVJ-iNUQ",
-          "embed_url": "https://www.youtube.com/embed/_uBZVJ-iNUQ"
-        },
-        {
-          "id": "fK0QEA4pLSQ",
-          "title": "Five Kids Soaring High In The Sky - Pete Holmes Says Playground Rules Never Change",
-          "description": "Comedian Pete Holmes says being 47 years old isn't so bad when you are the father of a youngster who loves to be pushed on the playground swings. Pete's new comedy special, \"Silly Silly Fun Boy,\" is a",
-          "thumbnail": "https://i.ytimg.com/vi/fK0QEA4pLSQ/hqdefault.jpg",
-          "published_at": "2026-03-12T07:35:01Z",
-          "url": "https://www.youtube.com/watch?v=fK0QEA4pLSQ",
-          "embed_url": "https://www.youtube.com/embed/fK0QEA4pLSQ"
-        },
-        {
-          "id": "rvcixiHTNKQ",
-          "title": "Oil Market Chaos | Trump: Expensive Gas Is \"A Small Price To Pay\" | D.C. Hot Rods",
-          "description": "Energy investors are struggling to keep up as America's war against Iran roils the markets, President Trump says higher gas prices will be worth it in the long run, and this summer our nation's capita",
-          "thumbnail": "https://i.ytimg.com/vi/rvcixiHTNKQ/hqdefault.jpg",
-          "published_at": "2026-03-12T03:50:00Z",
-          "url": "https://www.youtube.com/watch?v=rvcixiHTNKQ",
-          "embed_url": "https://www.youtube.com/embed/rvcixiHTNKQ"
+          "id": "Nfe5OCLeD38",
+          "title": "NotebookLM is now bigger than Gemini",
+          "description": "#NotebookLM now has more search interest than even Google Gemini.\n\nIts core advantage is the same as before though: you throw in documents across different formats and get a grounded answer instead of",
+          "thumbnail": "https://i.ytimg.com/vi/Nfe5OCLeD38/maxresdefault.jpg",
+          "published_at": "2026-03-11T12:11:32Z",
+          "url": "https://www.youtube.com/watch?v=Nfe5OCLeD38",
+          "embed_url": "https://www.youtube.com/embed/Nfe5OCLeD38"
         }
       ]
     },
