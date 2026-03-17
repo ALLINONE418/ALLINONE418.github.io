@@ -1,5 +1,18 @@
 [
   {
+    "headline": "Diesel prices surge to $5 per gallon, highest since 2022, as Iran war disrupts global oil supplies",
+    "deck": "Fuel prices are likely to keep rising until crude oil flows through the Strait of Hormuz return to normal.",
+    "cnTitle": "柴油价格飙升至每加仑5美元，创2022年来新高",
+    "cnDeck": "Diesel prices surge to $5 per gallon, highest since 2022, as Iran war disrupts global oil supplies. Fuel prices are likely to keep rising until crude oil flows through the Strait of Hormuz return to normal. 伊朗战争扰乱全球石油供应，柴油价格可能继续上升，直到通过霍尔木兹海峡的原油流量恢复正常。",
+    "cat": "economy",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/17/diesel-gas-oil-price-iran-war-hormuz.html",
+    "time": "刚刚",
+    "published_iso": "2026-03-17T13:49:11+00:00",
+    "id": "n1",
+    "lead": true
+  },
+  {
     "headline": "Delta, American raise revenue guidance, citing growth in demand",
     "deck": "CEO Ed Bastian told CNBC's Phil LeBeau that Delta had taken a $400 million hit so far for the fourth quarter, but that demand has been \"really, really great.\"",
     "cnTitle": "[美国航空公司上调收入预期，需求强劲]",
@@ -9,8 +22,8 @@
     "url": "https://www.cnbc.com/2026/03/17/airline-guidance-iran-war-oil.html",
     "time": "刚刚",
     "published_iso": "2026-03-17T13:37:27+00:00",
-    "id": "n1",
-    "lead": true
+    "id": "n2",
+    "lead": false
   },
   {
     "headline": "Goldman Sachs thinks stock market underestimates Iran war risk after Monday's bounce",
@@ -22,7 +35,7 @@
     "url": "https://www.cnbc.com/2026/03/17/goldman-sachs-thinks-stock-market-underestimates-iran-war-risk-after-mondays-bounce.html",
     "time": "刚刚",
     "published_iso": "2026-03-17T13:31:03+00:00",
-    "id": "n2",
+    "id": "n3",
     "lead": false
   },
   {
@@ -35,7 +48,7 @@
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaDVZeWVPbmxOenNucjNJcUdoT0poZWhDcl94LWh4ZmppQ0lDSEsxODhXTGd3WXlBMjFLY01JR3RBRGEwcGh3X25HLVFjdDdWUmRySU5TR29lMmRHLU1NdmpMVzRLN3czaWE5cnJPWmhOcUVRZ1ExZFd5SEhtSG1qMFRKeDJJdURXVl9iSzM4Qy1VUlV6SDI5SFBsS05qT290bG5EamNGWV9pcE5xa0R1aDNIOXo?oc=5",
     "time": "刚刚",
     "published_iso": "2026-03-17T13:02:50+00:00",
-    "id": "n3",
+    "id": "n4",
     "lead": false
   },
   {
@@ -48,7 +61,7 @@
     "url": "https://www.bbc.com/news/articles/c0k16zdr1r1o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-03-17T12:50:37+00:00",
-    "id": "n4",
+    "id": "n5",
     "lead": false
   },
   {
@@ -61,7 +74,7 @@
     "url": "https://www.cnbc.com/2026/03/17/iran-war-uae-energy-gas-field-oil-fujairah-strait-of-hormuz.html",
     "time": "刚刚",
     "published_iso": "2026-03-17T12:48:36+00:00",
-    "id": "n5",
+    "id": "n6",
     "lead": false
   },
   {
@@ -74,7 +87,7 @@
     "url": "https://www.cnbc.com/2026/03/17/gecko-robotics-navy-contract-ship-repair-trump.html",
     "time": "刚刚",
     "published_iso": "2026-03-17T12:43:51+00:00",
-    "id": "n6",
+    "id": "n7",
     "lead": false
   },
   {
@@ -87,7 +100,7 @@
     "url": "https://www.cnbc.com/2026/03/17/eli-lilly-stock-lly-novo-downgrade-hsbc-obesity-market.html",
     "time": "1小时前",
     "published_iso": "2026-03-17T12:37:07+00:00",
-    "id": "n7",
+    "id": "n8",
     "lead": false
   },
   {
@@ -100,7 +113,7 @@
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORW9WWDdfaHk1NTRMbXBJTFpXaWk2UEo1eUpoV2xlWVFGVWRxd0c2RlJRSmo5Vm9GdkJxemlJanVpOHdQdV84UWtEci1JdFlRMmZoQ2FreUJXUks4S2d2ZjN3T2Vsdm1BV3VDS3BWcWlLNG5NNUpRa20tNGwtX2RwVnRCNW5SS2ttQ1ZTXzVaMVdPZkJRV0E?oc=5",
     "time": "1小时前",
     "published_iso": "2026-03-17T12:36:00+00:00",
-    "id": "n8",
+    "id": "n9",
     "lead": false
   },
   {
@@ -113,7 +126,7 @@
     "url": "https://www.cnbc.com/2026/03/17/iran-war-ali-larijani-israel-united-states-middle-east-crisis.html",
     "time": "1小时前",
     "published_iso": "2026-03-17T12:27:42+00:00",
-    "id": "n9",
+    "id": "n10",
     "lead": false
   },
   {
@@ -126,7 +139,20 @@
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcnZUV1haT0FNVkMxU3k4X3NaVFNBcVowRENJc19sQjRsM2xWZzNsMTJSV0tXMGJwYWl6a2NUOWVVRHBIbTUydEN1aVFPcWN6SUhJa0RnQmh0Z3U5Q1NQSnAzR09GYXNVRGZfM1Q3YUlraHQ1Rk1yLTlXUGtiOXNLQ1h0SVlEakRINmx0UWFWdjhfdGJzWTFEWkJBMWFLdnJscUctQ3k3UFRxb29mZjJOX2ZlUWY?oc=5",
     "time": "1小时前",
     "published_iso": "2026-03-17T12:21:28+00:00",
-    "id": "n10",
+    "id": "n11",
+    "lead": false
+  },
+  {
+    "headline": "Stocks making the biggest moves premarket: Nvidia, Delta Air Lines, Eli Lilly & more",
+    "deck": "These are the stocks posting the largest moves premarket.",
+    "cnTitle": "科技金融股盘前大幅波动",
+    "cnDeck": "[英伟达、德尔塔航空、礼来公司等股票盘前出现最大幅度波动。这些是盘前波幅最大的股票。]",
+    "cat": "tech",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/17/stocks-making-the-biggest-moves-premarket-nvda-dal-lly.html",
+    "time": "1小时前",
+    "published_iso": "2026-03-17T12:15:49+00:00",
+    "id": "n12",
     "lead": false
   },
   {
@@ -139,7 +165,7 @@
     "url": "https://www.bbc.com/news/articles/c4gqnjjy9edo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-03-17T12:00:43+00:00",
-    "id": "n11",
+    "id": "n13",
     "lead": false
   },
   {
@@ -152,7 +178,7 @@
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcmlTenFPazFWM21WaFh0UmpRY2tpNW9uYnVGY0VubGNKNUNXUUdyaC1iWHlMNWdTU2h2cEhQcGpxd2N5cWZmaUJ0RXdOQ1dMQTAyaG50UjlQek4tNnludmE4RE5qM1NaTTYxN3NLc2pkd2FxZkhQTWM4N0FKaF82OXJ3WUhheU1hX2d0aS1HR3dvYTJZeFFYcmthLUUyaVFEeUVtaXN2NnhTQWsxdHlnQ3pjVEdzZw?oc=5",
     "time": "2小时前",
     "published_iso": "2026-03-17T11:29:53+00:00",
-    "id": "n12",
+    "id": "n14",
     "lead": false
   },
   {
@@ -165,7 +191,7 @@
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNWR2ZDlsaGFaRHR4NzB0dzMwWkRwem1UdHJPbVNoSjZsT1pNSklJYWtfQkVuQUJKNEtQMDR1NENPbmJQdkpjY0tlaklmeDNZWUYyWE9WTXZ4VDFYNmNlRjZ5WUxYQmlkY2d6SlptdEtYU2lwWUZBTzloc0tQWjNOV0xfenpnc0lsa2VZRlpZcHg2N1dlQ3JQcVJrajhMUk1HUks3X1RPVkZWLU1tbzV5T1RsWWo?oc=5",
     "time": "2小时前",
     "published_iso": "2026-03-17T11:29:50+00:00",
-    "id": "n13",
+    "id": "n15",
     "lead": false
   },
   {
@@ -178,7 +204,7 @@
     "url": "https://www.bbc.com/news/articles/c0mgd3z1e9ko?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-03-17T11:25:13+00:00",
-    "id": "n14",
+    "id": "n16",
     "lead": false
   },
   {
@@ -191,7 +217,7 @@
     "url": "https://www.bbc.com/news/articles/cn9e0z7v3nxo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-03-17T10:33:49+00:00",
-    "id": "n15",
+    "id": "n17",
     "lead": false
   },
   {
@@ -204,7 +230,20 @@
     "url": "https://www.bbc.com/news/articles/c07j40dyx53o?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-03-17T10:32:25+00:00",
-    "id": "n16",
+    "id": "n18",
+    "lead": false
+  },
+  {
+    "headline": "Alibaba launches agentic AI tool for businesses with Slack, Teams integration plans",
+    "deck": "Alibaba unveiled a new enterprise artificial intelligence tool on Tuesday amid a series of other developments in the company's AI space.",
+    "cnTitle": "Alibaba推出企业级AI代理工具",
+    "cnDeck": "阿里巴巴周二推出了一款新的企业人工智能工具，这是该公司AI领域一系列进展中的最新动作。该工具计划与Slack和Teams集成。",
+    "cat": "tech",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/17/alibaba-wukong-ai-enterprise-tool-restructuring-qwen-exits.html",
+    "time": "3小时前",
+    "published_iso": "2026-03-17T10:29:21+00:00",
+    "id": "n19",
     "lead": false
   },
   {
@@ -217,7 +256,20 @@
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWWRHeEdJUTRDSDZEQVNqd0NIMi1PS2JsZVF2ZTlXWE1PVTFLSkQ1TUQ4TzRyRXRqX01vWkJVZ3ZNc3J2R092S1FubE5uZnNlY3hTUzRQMFZSLWVTYjJWLThHVkUyclFfSzdVTWN4UUdGMmdpd3d1bVkwdmZxUXBTTkNoMzFiU19DdVptRkEzd2JjV21JX3RXdXZrUVVjN3B3?oc=5",
     "time": "3小时前",
     "published_iso": "2026-03-17T10:21:23+00:00",
-    "id": "n17",
+    "id": "n20",
+    "lead": false
+  },
+  {
+    "headline": "Private credit’s ‘off-ramp’ emerges as investors look to cash out and default fears grow",
+    "deck": "A \"robust and growing\" private credit secondaries market could serve as a pressure valve for the industry's current liquidity squeeze.",
+    "cnTitle": "私人信贷市场流动性压力加大",
+    "cnDeck": "私募信贷二级市场的兴起为投资者提供了退出通道。随着投资者寻求现金退出机会，以及违约风险担忧增加，一个\"强劲且不断增长\"的私募信贷二级市场可能成为该行业当前流动性压力的缓解阀。业内人士指出，二级市场的发展为陷入困境的私募基金提供了重要的流动性出口。这反映出私人信贷市场面临的挑战，包括投资者对违约风险的担忧加剧。私募信贷市场规模庞大，但流动性相对有限，二级市场的发展标志着市场参与者正在寻求新的方式来应对当前的市场压力和风险环境。",
+    "cat": "finance",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/17/private-credit-liquidity-jitters-crisis-investors-redemptions-withdrawals-defaults-risk-debt.html",
+    "time": "3小时前",
+    "published_iso": "2026-03-17T10:13:57+00:00",
+    "id": "n21",
     "lead": false
   },
   {
@@ -230,7 +282,20 @@
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPXzVwS2JkaGRVbk0zbjYtck52MEl2eFc4bXJOU0RZY2xxRnBtdDNEYWc4QTFxQWgyZkZHTzJNMW0tNkJQeE5xN2VrWjlTNC1xRVg0VlJYa2cxTWphNTJRaUVLLU82MXRqYlFmNHEyOF9ZNjRad3RLbldQYkczVjJERFN5UjVUTUxVQ0NIT0tQcWFUSnZJNllaSm1CNDFTRFNscUFjSmU4U1JJS1lRRllTSTgyYWg?oc=5",
     "time": "3小时前",
     "published_iso": "2026-03-17T09:54:24+00:00",
-    "id": "n18",
+    "id": "n22",
+    "lead": false
+  },
+  {
+    "headline": "Senators tell ByteDance to 'immediately shut down' Seedance AI video app",
+    "deck": "Lawmakers say the new version of the Seedance AI video-generation app violates copyright and intellectual property laws.",
+    "cnTitle": "科技巨头面临美国议员施压关停AI应用",
+    "cnDeck": "美国参议员要求字节跳动立即关闭Seedance AI视频应用。议员们表示，这款新版本的Seedance AI视频生成应用违反了版权和知识产权法律。",
+    "cat": "tech",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/17/bytedance-seedance-shut-down-tiktok-marsha-blackburn-peter-welch.html",
+    "time": "4小时前",
+    "published_iso": "2026-03-17T09:00:01+00:00",
+    "id": "n23",
     "lead": false
   },
   {
@@ -243,7 +308,7 @@
     "url": "https://www.cnbc.com/2026/03/17/oil-prices-wti-brent-hormuz-coalition-shipping-trump.html",
     "time": "4小时前",
     "published_iso": "2026-03-17T08:44:48+00:00",
-    "id": "n19",
+    "id": "n24",
     "lead": false
   },
   {
@@ -256,7 +321,20 @@
     "url": "https://www.bbc.com/news/articles/cp816jwg411o?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-03-17T08:25:53+00:00",
-    "id": "n20",
+    "id": "n25",
+    "lead": false
+  },
+  {
+    "headline": "Gas on the line: will the Iran war squeeze India's piped gas next?",
+    "deck": "The Iran war has already rattled LPG users. Will India’s piped gas network face the next squeeze?",
+    "cnTitle": "伊朗局势可能影响印度管道天然气供应",
+    "cnDeck": "[伊朗战争已经冲击液化石油气用户。印度的管道天然气网络是否会面临下一轮压力？中东地区的地缘政治紧张局势可能对印度能源供应造成影响。伊朗作为重要能源生产国，其战争风险可能导致全球能源市场波动，进而影响印度的天然气进口和管道供应稳定性。]",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cj6dl175w01o?at_medium=RSS&at_campaign=rss",
+    "time": "7小时前",
+    "published_iso": "2026-03-17T06:47:42+00:00",
+    "id": "n26",
     "lead": false
   },
   {
@@ -269,7 +347,7 @@
     "url": "https://www.cnbc.com/2026/03/17/us-dollar-recovery-forex-currencies-gold-sterling-euro.html",
     "time": "7小时前",
     "published_iso": "2026-03-17T06:42:59+00:00",
-    "id": "n21",
+    "id": "n27",
     "lead": false
   },
   {
@@ -282,7 +360,33 @@
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTzZIMkUyOUgwQXR6WDFWNTQ5aE1CdU4tQUFybm9SckRIbElNc0VjNWc1bHZaREdWTVV1Y0tORHpGZXdLbG1pOTZQRjdZVEJ5OFExc09VU0ZsTU1mUG9YNmFDMDFsMHNlNFROdGNiNmR2WXF2SDRad3VseUpXaXJqR21HbXJQR3VBUk5GR0hKM2U5WHNaV0dnNlZxWXlaTEZGV3lYMjJVVkU2bEFNQnBZTXItbw?oc=5",
     "time": "8小时前",
     "published_iso": "2026-03-17T05:20:00+00:00",
-    "id": "n22",
+    "id": "n28",
+    "lead": false
+  },
+  {
+    "headline": "Surge in US gas prices deepens political peril for Trump over Iran",
+    "deck": "The odds of a quick resolution to the war appear to be dwindling by the day, and the political stakes for the president are only growing.",
+    "cnTitle": "US汽油价格飙升加重特朗普政治困境",
+    "cnDeck": "油价上升源于伊朗局势紧张，美国总统面临日益增大的政治压力。战争快速解决的可能性逐日下降，总统面临的政治赌注不断增加。能源价格波动直接影响消费者生活成本和政治支持率，成为总统任期内的关键议题。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c70k29914q4o?at_medium=RSS&at_campaign=rss",
+    "time": "13小时前",
+    "published_iso": "2026-03-17T00:24:01+00:00",
+    "id": "n29",
+    "lead": false
+  },
+  {
+    "headline": "'Fire came from the sky and burned them' - life on the brink of civil war in South Sudan",
+    "deck": "Some 50,000 people are told to flee their homes as the army warns of a huge military offensive in Jonglei state.",
+    "cnTitle": "南苏丹琼莱州五万人被迫撤离",
+    "cnDeck": "[南苏丹军方警告琼莱州将发动大规模军事攻势,约五万人被要求撤离家园。报道引述当地居民证词\"火从天空降下来,烧死了他们\",反映该地区已处于内战边缘状态。琼莱州作为南苏丹重要地区,此次军事行动可能引发新一轮冲突升级。]",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cx2g4v9mzxro?at_medium=RSS&at_campaign=rss",
+    "time": "13小时前",
+    "published_iso": "2026-03-17T00:08:56+00:00",
+    "id": "n30",
     "lead": false
   },
   {
@@ -295,7 +399,7 @@
     "url": "https://www.bbc.com/news/articles/c74721xyd1wo?at_medium=RSS&at_campaign=rss",
     "time": "13小时前",
     "published_iso": "2026-03-17T00:08:32+00:00",
-    "id": "n23",
+    "id": "n31",
     "lead": false
   },
   {
@@ -308,7 +412,7 @@
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT2NJR2NhQUZWVzUxWGwya3BhS2FHR0w5eFVmREZJSXl5TVRQREVyRzlaNldNbVpkSS11UVRJUEJJTXRPYWRtNWtYbE5rTENXVnJhNzdnM0ZoQW1XUnpDZS10bFYxQWxCS3ZrRnp6U2xodEZURUM0WjZlV1l5RVRKYWhka1VOM05BY0EtSEI3dnlVVUdzSXdQdHVNS2NldmcxUXZUbnFnT0taWVgx?oc=5",
     "time": "14小时前",
     "published_iso": "2026-03-16T23:03:27+00:00",
-    "id": "n24",
+    "id": "n32",
     "lead": false
   },
   {
@@ -321,7 +425,7 @@
     "url": "https://www.bbc.com/news/articles/cp9mgpzn901o?at_medium=RSS&at_campaign=rss",
     "time": "16小时前",
     "published_iso": "2026-03-16T21:25:52+00:00",
-    "id": "n25",
+    "id": "n33",
     "lead": false
   },
   {
@@ -334,7 +438,7 @@
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRGFUVExEbXkxV1kzT2hGMmdiTVNDa2tXQXRqeEpmU2Z5Uk9JYlJSQXp4OExSY19paXpJalhmczhuMXBIRDlNelVDcngyOUg0R3NvLVEyeUtMZHZYQ2F5bVlKaXV5MUl2QUp4X183dlhaVVRSSHM0U2NqSnBYRE95QlBvQ180dUNleVpXZ2NGY1RnYl9ZTExoQjhaMGNXNDhTNVJKQTVoTV9fbjdjMEE?oc=5",
     "time": "16小时前",
     "published_iso": "2026-03-16T21:03:56+00:00",
-    "id": "n26",
+    "id": "n34",
     "lead": false
   },
   {
@@ -347,7 +451,7 @@
     "url": "https://www.cnbc.com/2026/03/16/nvidia-gtc-2026-ceo-jensen-huang-keynote-blackwell-vera-rubin.html",
     "time": "16小时前",
     "published_iso": "2026-03-16T20:51:22+00:00",
-    "id": "n27",
+    "id": "n35",
     "lead": false
   },
   {
@@ -360,7 +464,59 @@
     "url": "https://www.cnbc.com/2026/03/16/strait-of-hormuz-trump-says-coalition-to-protect-oil-tankers-not-ready-yet.html",
     "time": "17小时前",
     "published_iso": "2026-03-16T19:44:15+00:00",
-    "id": "n28",
+    "id": "n36",
+    "lead": false
+  },
+  {
+    "headline": "Wary allies show there's no quick fix to Trump's Iran crisis",
+    "deck": "European leaders are hesitant to help Trump secure the Strait of Hormuz, but they know inaction on the Iran war is not really an option.",
+    "cnTitle": "欧洲盟国对特朗普伊朗政策态度谨慎",
+    "cnDeck": "欧洲领导人对特朗普政府要求帮助保护霍尔木兹海峡的呼吁持谨慎态度。虽然欧洲知道对伊朗问题不作为不是真正的选择，但对参与此事存在顾虑。伊朗问题的解决没有快速修复方案，美国盟国在平衡对美承诺与自身利益之间面临困境。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c8r17plnvy3o?at_medium=RSS&at_campaign=rss",
+    "time": "20小时前",
+    "published_iso": "2026-03-16T17:34:13+00:00",
+    "id": "n37",
+    "lead": false
+  },
+  {
+    "headline": "Apollo's John Zito questions private equity's software valuations: 'All the marks are wrong'",
+    "deck": "While Wall Street figures have flagged risks in private credit, Apollo's Zito is among the first within private credit to candidly acknowledge weakness.",
+    "cnTitle": "私募股权软件估值存疑 Apollo高管发声",
+    "cnDeck": "Apollo全球管理公司首席投资官John Zito质疑私募股权对软件公司的估值方法，表示\"所有的估值标准都错了\"。Zito在接受采访时指出，私募信贷领域存在估值风险。他是私募信贷行业内首批公开承认估值存在弱点的高管之一。此前华尔街人士已经对私募信贷风险进行过预警，但Zito的言论更为直言不讳地指向软件资产的定价问题。这一表态反映了私募股权基金对其投资组合中软件资产真实价值的担忧。",
+    "cat": "tech",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/16/apollo-john-zito-private-equity-software-valuations.html",
+    "time": "20小时前",
+    "published_iso": "2026-03-16T17:17:36+00:00",
+    "id": "n38",
+    "lead": false
+  },
+  {
+    "headline": "Stocks making the biggest moves midday: Nvidia, Peloton, Meta, Dollar Tree & more",
+    "deck": "These are the stocks posting the largest moves in midday trading.",
+    "cnTitle": "美股午盘异动：英伟达、Meta等科技股波动",
+    "cnDeck": "[英伟达、Peloton、Meta、Dollar Tree等股票在午盘交易中出现最大幅度波动。这些是午盘交易中波动最大的股票。]",
+    "cat": "tech",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/16/stocks-making-the-biggest-moves-midday-nvda-pton-meta-dltr.html",
+    "time": "21小时前",
+    "published_iso": "2026-03-16T16:27:04+00:00",
+    "id": "n39",
+    "lead": false
+  },
+  {
+    "headline": "China talks up oil sufficiency as Trump seeks Beijing's help on securing Hormuz energy route",
+    "deck": "The statistics bureau said that China's energy supply is \"relatively strong,\" while announcing an uptick in domestic production.",
+    "cnTitle": "中国强调能源充足，特朗普寻求北京协助",
+    "cnDeck": "中国统计局表示，中国能源供应\"相对充足\"，同时宣布国内产量上升。特朗普正在寻求北京在确保霍尔木兹海峡能源路线上的帮助。",
+    "cat": "politics",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/16/china-oil-reserves-trump-iran-war-hormuz.html",
+    "time": "23小时前",
+    "published_iso": "2026-03-16T13:56:51+00:00",
+    "id": "n40",
     "lead": false
   },
   {
@@ -373,7 +529,46 @@
     "url": "https://www.bbc.com/news/articles/crl4gxgkkylo?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-03-16T12:43:32+00:00",
-    "id": "n29",
+    "id": "n41",
+    "lead": false
+  },
+  {
+    "headline": "Stocks making the biggest moves premarket: Micron Technology, Nebius Group, Dollar Tree & more",
+    "deck": "These are the stocks posting the largest moves before the bell.",
+    "cnTitle": "美光科技等个股大幅波动",
+    "cnDeck": "[盘前交易中波动最大的股票包括美光科技（Micron Technology）、Nebius集团和Dollar Tree等公司。这些股票在美国股市开盘前出现较大幅度的价格变动。]",
+    "cat": "tech",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/16/stocks-making-the-biggest-moves-premarket-mu-nbis-dltr.html",
+    "time": "1天前",
+    "published_iso": "2026-03-16T12:20:38+00:00",
+    "id": "n42",
+    "lead": false
+  },
+  {
+    "headline": "Alcohol-free beer and pet grooming used to measure inflation",
+    "deck": "Houmous and motorhomes are also added to the basket of goods and services used to chart the rising cost of living.",
+    "cnTitle": "通胀篮子更新纳入无酒精啤酒宠物美容",
+    "cnDeck": "[无酒精啤酒和宠物美容服务被纳入用于衡量生活成本上升的商品和服务篮子中。鹰嘴豆泥和房车也被添加到这个篮子里。这反映了消费者支出模式的变化，统计机构通过追踪这些代表性商品和服务的价格变动来计算通胀率。]",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c8eg3g4lklno?at_medium=RSS&at_campaign=rss",
+    "time": "1天前",
+    "published_iso": "2026-03-16T12:14:45+00:00",
+    "id": "n43",
+    "lead": false
+  },
+  {
+    "headline": "Holiday spending, export demand drive China’s economic momentum as Iran war headwinds loom",
+    "deck": "Beijing tamped down its GDP growth target this year to a range of 4.5% to 5%, the least ambitious goal on record going back to the early 1990s.",
+    "cnTitle": "中国经济增长目标下调至4.5%-5%",
+    "cnDeck": "北京将今年GDP增长目标下调至4.5%-5%的区间，这是追溯到1990年代初以来最不雄心勃勃的目标。假日消费和出口需求推动中国经济发展势头，但伊朗战争风险可能带来逆风。",
+    "cat": "economy",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/16/china-data-today-retail-sales-property-industrial-production.html",
+    "time": "1天前",
+    "published_iso": "2026-03-16T06:11:06+00:00",
+    "id": "n44",
     "lead": false
   },
   {
@@ -386,7 +581,7 @@
     "url": "https://www.bbc.com/news/articles/cj0dlvl086eo?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-03-15T20:08:33+00:00",
-    "id": "n30",
+    "id": "n45",
     "lead": false
   }
 ]
