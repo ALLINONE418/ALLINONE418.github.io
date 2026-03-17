@@ -6,6 +6,7 @@ import re
 from datetime import datetime
 from email.utils import parsedate_to_datetime
 
+
 RSS_FEEDS = [
     {"url": "http://feeds.bbci.co.uk/news/business/rss.xml", "source": "BBC", "cat": "economy"},
     {"url": "http://feeds.bbci.co.uk/news/technology/rss.xml", "source": "BBC", "cat": "tech"},
@@ -50,7 +51,7 @@ def generate_cn_content(headline, deck):
                 "max_tokens": 300,
                 "messages": [{
                     "role": "user",
-                    "content": f"判断以下新闻是否值得关注。\n只保留：重大地缘政治事件、全球金融市场动态、科技巨头重要动态、央行货币政策、重大经济数据、战争冲突、重要人物言论。\n不要：本地小事、娱乐体育、消费提示、交通延误、地方政策、动物故事、软性生活内容。\n如果值得关注，输出两行：\n第一行：15字以内的中文标题\n第二行：200字以内的中文摘要\n如果不值得关注，只输出：SKIP\n直接输出，不要任何前缀：\n标题：{headline}\n内容：{deck}"
+                    "content": f"判断以下新闻是否值得关注。\n只保留：重大地缘政治事件、全球金融市场动态、科技巨头重要动态、央行货币政策、重大经济数据、战争冲突、重要人物言论。\n不要：本地小事、娱乐体育、消费提示、交通延误、地方政策、动物故事、软性生活内容。\n如果值得关注，输出两行：\n第一行：15字以内的中文标题，不要包含'标题：'等前缀\n第二行：200字以内的中文摘要，不要包含'摘要：'等前缀\n如果不值得关注，只输出：SKIP\n直接输出内容，绝对不要任何前缀标签：\n标题：{headline}\n内容：{deck}"
                 }]
             },
             timeout=15
@@ -59,11 +60,11 @@ def generate_cn_content(headline, deck):
         content = data["choices"][0]["message"]["content"].strip()
         if content == "SKIP":
             return "SKIP", ""
-     lines = content.split('\n', 1)
-cn_title = lines[0].strip()
-# 清理可能的前缀
-cn_title = cn_title.replace('标题：', '').replace('第一行：', '').replace('15字以内标题：', '').strip()
+        lines = content.split('\n', 1)
+        cn_title = lines[0].strip()
+        cn_title = cn_title.replace('标题：', '').replace('第一行：', '').replace('15字以内标题：', '').strip()
         cn_deck = lines[1].strip() if len(lines) > 1 else ""
+        cn_deck = cn_deck.replace('摘要：', '').replace('第二行：', '').strip()
         print(f"cnTitle: {cn_title[:30]}")
         return cn_title, cn_deck
     except Exception as e:
