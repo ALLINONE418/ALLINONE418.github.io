@@ -1,8 +1,25 @@
 {
-  "updated_at": "2026-03-17T12:25:03.872713+00:00",
+  "updated_at": "2026-03-17T12:35:22.408750+00:00",
   "keep_hours": 72,
-  "total_videos": 18,
+  "total_videos": 23,
   "channels": [
+    {
+      "channel_name": "方方土",
+      "channel_id": "UCjuNibFJ21MiSNpu8LZyV4w",
+      "channel_thumb": "https://yt3.ggpht.com/g0cH597imPPxPZ_Op4BOKyufZAtUSJQ-K_5fmLBb8aFS2eV9CP6bEIL4KxsFMPEgDp69pnCeFw=s88-c-k-c0x00ffffff-no-rj",
+      "lang": "cn",
+      "videos": [
+        {
+          "id": "Fh5HeQN5kI8",
+          "title": "宋美龄：如果人生重来，我不会结婚｜柴静访谈",
+          "description": "作为中华民国第一夫人，宋美龄拒绝写回忆录。但有一个人是她一生的镜子：“只有在你面前，我才能审视自己。”六十年间，她向她坦露：婚礼时“又惊又怕”，战争中“鞋子沾满鲜血”；她会问：“你会觉得我专横吗？”也承认自己的弱点——“我可以滔滔不绝，但内心并不成熟。”在美国演讲结束后，卸妆后镜子前，她问艾玛“恋情结束是什么感觉？”\n\n宋美龄是20世纪最知名的中国女性政治人物之一，也是抗战时期中国面向世界的重要声",
+          "thumbnail": "https://i.ytimg.com/vi/Fh5HeQN5kI8/maxresdefault.jpg",
+          "published_at": "2026-03-14T13:47:58Z",
+          "url": "https://www.youtube.com/watch?v=Fh5HeQN5kI8",
+          "embed_url": "https://www.youtube.com/embed/Fh5HeQN5kI8"
+        }
+      ]
+    },
     {
       "channel_name": "王志安",
       "channel_id": "UCBKDRq35-L8xev4O7ZqBeLg",
@@ -75,6 +92,13 @@
       ]
     },
     {
+      "channel_name": "马斯库",
+      "channel_id": "UC-CckeotGQCZigg3nETreCQ",
+      "channel_thumb": "https://yt3.ggpht.com/SvpnEbqrBleL8RsXMsIa_F_BBXkkD5xtzWfA8sOgjPDu4hRShPuHRFUPLnzaIypkpRAwuFUq6g=s88-c-k-c0x00ffffff-no-rj",
+      "lang": "cn",
+      "videos": []
+    },
+    {
       "channel_name": "小Lin说",
       "channel_id": "UCilwQlk62k1z7aUEZPOB6yw",
       "channel_thumb": "https://yt3.ggpht.com/dDOuCyzkVBwGapJot3mAGqq1_2_sng7pgnPtkGF1uSmcleO4p6O4Ox6flFzwF7vYDiuNv2I_mA=s88-c-k-c0x00ffffff-no-rj",
@@ -107,6 +131,64 @@
           "embed_url": "https://www.youtube.com/embed/280QV9d-RvM"
         }
       ]
+    },
+    {
+      "channel_name": "文昭谈古论今",
+      "channel_id": "UCtAIPjABiQD3qjlEl1T5VpA",
+      "channel_thumb": "https://yt3.ggpht.com/WhzJ3yv-Rq94cOerhulvUyRHuAn6N0JMG9qv2r2LYFOzfMuif_22bfWr5ey1aHgLNt_oXCklBdo=s88-c-k-c0x00ffffff-no-rj",
+      "lang": "cn",
+      "videos": [
+        {
+          "id": "3lP3nicdZb4",
+          "title": "「帝都經濟圈」崩潰的真相——北京，請不要為我哭泣！（1679期）",
+          "description": "神韻演出購票優惠\n購票網站：https://shenyun.com\n優惠碼：wzofficial26（在神韻官網購買美國、加拿大演出票通用）\n\n💝 誠摯邀請您參加文昭粉絲見面會\n⏰：3月29日（週日）下午1-2點（神韻演出時間：2:00 - 4:30）\n🗺️：加拿大多倫多四季劇院（Four Seasons Centre for the Performing Arts）\n🧭：145 Queen St",
+          "thumbnail": "https://i.ytimg.com/vi/3lP3nicdZb4/maxresdefault.jpg",
+          "published_at": "2026-03-17T00:16:46Z",
+          "url": "https://www.youtube.com/watch?v=3lP3nicdZb4",
+          "embed_url": "https://www.youtube.com/embed/3lP3nicdZb4"
+        },
+        {
+          "id": "mbRIcRV4eYM",
+          "title": "中國正在發生慢性擠兌，你的錢還安全嗎？",
+          "description": "觀看完整20分鐘影片，請看：https://youtu.be/2KCvQU9LjRc",
+          "thumbnail": "https://i.ytimg.com/vi/mbRIcRV4eYM/maxresdefault.jpg",
+          "published_at": "2026-03-16T13:01:33Z",
+          "url": "https://www.youtube.com/watch?v=mbRIcRV4eYM",
+          "embed_url": "https://www.youtube.com/embed/mbRIcRV4eYM"
+        },
+        {
+          "id": "kGNtUFsUGRI",
+          "title": "後果太嚴重：一場傾銷，搞出了一個世界300年未有大變局！【會員樣片放送】",
+          "description": "🎁 神韻演出購票優惠\n購票網站：https://shenyun.com\n優惠碼：wzofficial26（在神韻官網購買美國、加拿大演出票通用）\n\n💝 誠摯邀請您參加文昭粉絲見面會\n⏰：3月29日（週日）下午1-2點（神韻演出時間：2:00 - 4:30）\n🗺️：加拿大多倫多四季劇院（Four Seasons Centre for the Performing Arts）\n🧭：145 Queen ",
+          "thumbnail": "https://i.ytimg.com/vi/kGNtUFsUGRI/maxresdefault.jpg",
+          "published_at": "2026-03-15T23:30:28Z",
+          "url": "https://www.youtube.com/watch?v=kGNtUFsUGRI",
+          "embed_url": "https://www.youtube.com/embed/kGNtUFsUGRI"
+        },
+        {
+          "id": "4jVXPvptPnM",
+          "title": "如果中國發生「德黑蘭時刻」：領袖掛了，能亂成啥樣？",
+          "description": "觀看完整20分鐘影片，請看：https://youtu.be/xfhFuhn4oJo",
+          "thumbnail": "https://i.ytimg.com/vi/4jVXPvptPnM/maxresdefault.jpg",
+          "published_at": "2026-03-15T13:00:15Z",
+          "url": "https://www.youtube.com/watch?v=4jVXPvptPnM",
+          "embed_url": "https://www.youtube.com/embed/4jVXPvptPnM"
+        }
+      ]
+    },
+    {
+      "channel_name": "凤凰卫视Official",
+      "channel_id": "UCwAnu01qlnVg1Ai2AbtTMaA",
+      "channel_thumb": "https://yt3.ggpht.com/fHDMaIjQYS0XTz17AL-iIxdfyrGJfLliAJTQmJE931P1OareLsLIvFeJDcDtI3QpkD9HLnvI7Gw=s88-c-k-c0x00ffffff-no-rj",
+      "lang": "cn",
+      "videos": []
+    },
+    {
+      "channel_name": "柴静",
+      "channel_id": "UC3411UsjUC2t-Xfr1gwIhzg",
+      "channel_thumb": "https://yt3.ggpht.com/0JgVi6uYNJNL9JdTN5IXhd1bGhn5aWcpDQzLvYlk732Q0vHw_vAQx__AjoKQzGGzzj88pnI1hq4=s88-c-k-c0x00ffffff-no-rj",
+      "lang": "cn",
+      "videos": []
     },
     {
       "channel_name": "Matt Wolfe",
