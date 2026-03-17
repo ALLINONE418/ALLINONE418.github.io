@@ -7,13 +7,13 @@ from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
 
 RSS_FEEDS = [
-    {"url": "http://feeds.bbci.co.uk/news/business/rss.xml",           "source": "BBC",      "cat": "economy"},
-    {"url": "http://feeds.bbci.co.uk/news/technology/rss.xml",         "source": "BBC",      "cat": "tech"},
-    {"url": "http://feeds.bbci.co.uk/news/world/rss.xml",              "source": "BBC",      "cat": "politics"},
-    {"url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml","source": "BBC",  "cat": "tech"},
-    {"url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114","source": "CNBC","cat": "finance"},
-    {"url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664", "source": "CNBC","cat": "tech"},
-    {"url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=15839135", "source": "CNBC","cat": "finance"},
+    {"url": "http://feeds.bbci.co.uk/news/business/rss.xml",                                                              "source": "BBC",      "cat": "economy"},
+    {"url": "http://feeds.bbci.co.uk/news/technology/rss.xml",                                                            "source": "BBC",      "cat": "tech"},
+    {"url": "http://feeds.bbci.co.uk/news/world/rss.xml",                                                                 "source": "BBC",      "cat": "politics"},
+    {"url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",                                               "source": "BBC",      "cat": "tech"},
+    {"url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",                       "source": "CNBC",     "cat": "finance"},
+    {"url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",                        "source": "CNBC",     "cat": "tech"},
+    {"url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=15839135",                        "source": "CNBC",     "cat": "finance"},
     {"url": "https://news.google.com/rss/search?q=when:48h+allinurl:bloomberg.com&ceid=US:en&hl=en-US&gl=US",            "source": "Bloomberg","cat": "finance"},
     {"url": "https://news.google.com/rss/search?q=when:48h+allinurl:bloomberg.com+technology&ceid=US:en&hl=en-US&gl=US", "source": "Bloomberg","cat": "tech"},
 ]
@@ -21,11 +21,13 @@ RSS_FEEDS = [
 MAX_PER_SOURCE = 10
 KEEP_HOURS = 48
 
+
 def parse_published(published_str):
     try:
         return parsedate_to_datetime(published_str).astimezone(timezone.utc)
     except:
         return None
+
 
 def get_time_ago(dt):
     if not dt:
@@ -41,6 +43,7 @@ def get_time_ago(dt):
         days = hours // 24
         return f"{days}天前"
 
+
 def generate_cn_content(headline, deck):
     api_key = os.environ.get("OPENROUTER_API_KEY", "")
     if not api_key:
@@ -54,7 +57,7 @@ def generate_cn_content(headline, deck):
             },
             json={
                 "model": "anthropic/claude-haiku-4-5",
-                "max_tokens": 500,
+                "max_tokens": 600,
                 "messages": [{
                     "role": "user",
                     "content": (
@@ -89,20 +92,19 @@ def generate_cn_content(headline, deck):
         cn_deck  = lines[1] if len(lines) > 1 else ""
         ai_cat   = lines[2].lower() if len(lines) > 2 else ""
 
-        # 清理可能残留的前缀
-        # 清理标题前缀
-        for prefix in ['标题：', '第一行：', '中文标题：', '标题:', '一、', '1.', '1、']:
-        cn_title = cn_title.replace(prefix, '').strip()
+        # 清理残留前缀
+        for prefix in ['标题：', '标题:', '第一行：', '中文标题：', '一、', '1.', '1、']:
+            cn_title = cn_title.replace(prefix, '').strip()
+        for prefix in ['摘要：', '摘要:', '第二行：', '中文摘要：', '翻译：']:
+            cn_deck = cn_deck.replace(prefix, '').strip()
+        for prefix in ['分类：', '分类:', '第三行：', 'category:', 'Category:']:
+            ai_cat = ai_cat.replace(prefix, '').strip()
 
-        # 如果清理后标题就是「标题」「无」「N/A」等无意义词，直接跳过
+        # 验证标题有效
         invalid_titles = {'标题', '无', 'n/a', 'none', '/', '-', ''}
         if cn_title.lower() in invalid_titles or len(cn_title) < 3:
-        print(f"  Invalid title after cleaning: '{cn_title}', skipping")
-        continue
-        for prefix in ['摘要：', '第二行：', '中文摘要：', '翻译：']:
-            cn_deck = cn_deck.replace(prefix, '').strip()
-        for prefix in ['分类：', '第三行：', 'category:']:
-            ai_cat = ai_cat.replace(prefix, '').strip()
+            print(f"  Invalid title: '{cn_title}', skipping")
+            return "SKIP", "", ""
 
         # 验证分类合法
         if ai_cat not in ('economy', 'tech', 'finance', 'politics'):
