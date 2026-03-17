@@ -23,7 +23,7 @@ CHANNELS = [
     {"name": "The AI Advantage", "id": "UCHhYXsLBEVVnbvsq57n1MTQ",  "lang": "en"},
 ]
 
-KEEP_HOURS = 168         # 保留过去168小时（7天）的视频
+KEEP_HOURS = 336         # 保留过去336小时（14天）的视频
 MAX_PER_CHANNEL = 20     # 每个频道最多抓取条数
 
 API_KEY = os.environ.get("YOUTUBE_API_KEY")
