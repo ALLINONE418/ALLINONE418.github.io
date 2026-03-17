@@ -58,8 +58,8 @@ def generate_cn_content(headline, deck):
         )
         data = response.json()
         content = data["choices"][0]["message"]["content"].strip()
-        if content == "SKIP":
-            return "SKIP", ""
+    if "SKIP" in content.upper() or "不值得" in content or len(content) < 5:
+    return "SKIP", ""
         lines = content.split('\n', 1)
         cn_title = lines[0].strip()
         cn_title = cn_title.replace('标题：', '').replace('第一行：', '').replace('15字以内标题：', '').strip()
