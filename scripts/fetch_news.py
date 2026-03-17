@@ -7,15 +7,15 @@ from datetime import datetime
 from email.utils import parsedate_to_datetime
 
 RSS_FEEDS = [
-    {"url": "https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com&ceid=US:en&hl=en-US&gl=US", "source": "Reuters", "cat": "economy"},
-    {"url": "https://news.google.com/rss/search?q=when:24h+allinurl:bloomberg.com&ceid=US:en&hl=en-US&gl=US", "source": "Bloomberg", "cat": "finance"},
-    {"url": "https://news.google.com/rss/search?q=when:24h+allinurl:ft.com&ceid=US:en&hl=en-US&gl=US", "source": "FT", "cat": "finance"},
-    {"url": "https://news.google.com/rss/search?q=when:24h+allinurl:wsj.com&ceid=US:en&hl=en-US&gl=US", "source": "WSJ", "cat": "finance"},
     {"url": "http://feeds.bbci.co.uk/news/business/rss.xml", "source": "BBC", "cat": "economy"},
     {"url": "http://feeds.bbci.co.uk/news/technology/rss.xml", "source": "BBC", "cat": "tech"},
     {"url": "http://feeds.bbci.co.uk/news/world/rss.xml", "source": "BBC", "cat": "politics"},
+    {"url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml", "source": "BBC", "cat": "tech"},
     {"url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114", "source": "CNBC", "cat": "finance"},
     {"url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664", "source": "CNBC", "cat": "tech"},
+    {"url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=15839135", "source": "CNBC", "cat": "finance"},
+    {"url": "https://news.google.com/rss/search?q=when:24h+allinurl:bloomberg.com&ceid=US:en&hl=en-US&gl=US", "source": "Bloomberg", "cat": "finance"},
+    {"url": "https://news.google.com/rss/search?q=when:24h+allinurl:bloomberg.com+technology&ceid=US:en&hl=en-US&gl=US", "source": "Bloomberg", "cat": "tech"},
 ]
 
 def get_time_ago(published):
@@ -37,7 +37,7 @@ def get_time_ago(published):
 def generate_cn_content(headline, deck):
     api_key = os.environ.get("OPENROUTER_API_KEY", "")
     if not api_key:
-        return "", ""
+        return "SKIP", ""
     try:
         response = requests.post(
             "https://openrouter.ai/api/v1/chat/completions",
@@ -47,14 +47,18 @@ def generate_cn_content(headline, deck):
             },
             json={
                 "model": "anthropic/claude-haiku-4-5",
-                "max_tokens": 200,
+                "max_tokens": 300,
                 "messages": [{
                     "role": "user",
-                    "content": f"判断以下新闻是否值得关注。\n只保留以下类型：重大地缘政治事件、全球金融市场动态、科技巨头重要动态、央行货币政策、重大经济数据、战争冲突、重要人物言论。\n不要的类型：本地小事、娱乐体育、消费提示、交通延误、地方政策、动物故事。\n如果值得关注，输出两行：\n第一行：15字以内的中文标题\n第二行：200字以内的中文摘要\n如果不值得关注，只输出：SKIP\n直接输出，不要任何前缀：\n标题：{headline}\n内容：{deck}"
+                    "content": f"判断以下新闻是否值得关注。\n只保留：重大地缘政治事件、全球金融市场动态、科技巨头重要动态、央行货币政策、重大经济数据、战争冲突、重要人物言论。\n不要：本地小事、娱乐体育、消费提示、交通延误、地方政策、动物故事、软性生活内容。\n如果值得关注，输出两行：\n第一行：15字以内的中文标题\n第二行：200字以内的中文摘要\n如果不值得关注，只输出：SKIP\n直接输出，不要任何前缀：\n标题：{headline}\n内容：{deck}"
+                }]
+            },
             timeout=15
         )
         data = response.json()
         content = data["choices"][0]["message"]["content"].strip()
+        if content == "SKIP":
+            return "SKIP", ""
         lines = content.split('\n', 1)
         cn_title = lines[0].strip()
         cn_deck = lines[1].strip() if len(lines) > 1 else ""
@@ -72,7 +76,7 @@ def fetch_news():
     for feed_info in RSS_FEEDS:
         try:
             feed = feedparser.parse(feed_info["url"])
-            for entry in feed.entries[:6]:
+            for entry in feed.entries[:5]:
                 title = entry.get("title", "").strip()
                 if not title or title in seen:
                     continue
@@ -88,9 +92,10 @@ def fetch_news():
 
                 print(f"Processing: {title[:50]}...")
                 cn_title, cn_deck = generate_cn_content(title, deck)
-if cn_title == 'SKIP':
-    print(f"Skipped: {title[:40]}")
-    continue
+
+                if cn_title == "SKIP":
+                    print(f"Skipped: {title[:40]}")
+                    continue
 
                 news.append({
                     "id": f"n{idx}",
@@ -105,10 +110,9 @@ if cn_title == 'SKIP':
                     "lead": idx == 1
                 })
                 idx += 1
-            
+
         except Exception as e:
-            print(f"Error: {e}")
-      
+            print(f"Error fetching {feed_info['url']}: {e}")
 
     os.makedirs("data", exist_ok=True)
     with open("data/news.json", "w", encoding="utf-8") as f:
