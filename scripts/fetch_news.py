@@ -59,8 +59,10 @@ def generate_cn_content(headline, deck):
         content = data["choices"][0]["message"]["content"].strip()
         if content == "SKIP":
             return "SKIP", ""
-        lines = content.split('\n', 1)
-        cn_title = lines[0].strip()
+     lines = content.split('\n', 1)
+cn_title = lines[0].strip()
+# 清理可能的前缀
+cn_title = cn_title.replace('标题：', '').replace('第一行：', '').replace('15字以内标题：', '').strip()
         cn_deck = lines[1].strip() if len(lines) > 1 else ""
         print(f"cnTitle: {cn_title[:30]}")
         return cn_title, cn_deck
