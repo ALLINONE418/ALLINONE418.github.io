@@ -684,19 +684,19 @@ function renderReading(pubKey){
     <div class="article-card" style="animation:slideup .4s ease ${idx*.08}s both">
       <div class="art-pub" style="color:${a.pubColor}">${a.pub}</div>
       <div class="art-hl">${a.cnTitle||a.headline}</div>
+      ${a.cnTitle?`<div class="art-hl-en">${a.headline}</div>`:''}
       <div class="art-lede">${a.lede||''}</div>
-      ${a.enSummary?`
-      <div style="font-family:var(--body);font-size:14px;color:var(--ink2);line-height:1.85;margin:16px 0 0;padding-top:14px;border-top:1px solid var(--rule2)">
-        ${a.enSummary.split('\n\n').map(p=>`<p style="margin-bottom:14px">${p}</p>`).join('')}
-      </div>`:''}
-      ${a.cnSummary?`
-      <div style="font-family:var(--cn);font-size:14px;color:var(--ink2);line-height:1.9;padding:16px 18px;background:var(--bg-light);border-left:3px solid var(--accent2);margin:14px 0">
-        ${a.cnSummary.split('\n\n').map(p=>`<p style="margin-bottom:12px">${p}</p>`).join('')}
-      </div>`:''}
-      <div class="art-meta" style="margin-top:14px">
+      <div class="art-meta">
         <span>${a.readtime} read</span>
         <a href="${a.url}" target="_blank" style="font-family:var(--mono);font-size:9px;color:var(--accent2);text-decoration:underline;border:1px solid var(--rule);border-radius:2px;padding:2px 8px;">阅读原文 →</a>
+        ${a.enSummary||a.cnSummary?`
+        <div class="art-lang-toggle">
+          <span class="art-lang-btn active" onclick="toggleSummary(${idx},'cn',this)">中文</span>
+          <span class="art-lang-btn" onclick="toggleSummary(${idx},'en',this)">EN</span>
+        </div>`:''}
       </div>
+      ${a.cnSummary?`<div class="art-summary-cn show" id="art-cn-${idx}">${a.cnSummary}</div>`:''}
+      ${a.enSummary?`<div class="art-summary" id="art-en-${idx}">${a.enSummary}</div>`:''}
     </div>`).join('');
 
   if(!document.getElementById('classic-cn-inner')){
@@ -738,10 +738,12 @@ async function loadReading(){
 // ══════════════════════════════════════
 function renderOpinions(cat){
   const raw=(!cat||cat==='all')?OPINIONS:OPINIONS.filter(o=>o.cat===cat);
+  // 每人只显示最新一条
   const seen=new Set();
   const list=raw.filter(o=>{const k=o.id||o.name;if(seen.has(k))return false;seen.add(k);return true;});
 
   document.getElementById('op-main').innerHTML=list.map((o,i)=>{
+    const cnId=`op-cn-${o.id||i}`;
     const hasCn=!!(o.quoteZh||o.quote_zh);
     const cnText=o.quoteZh||o.quote_zh||'';
     const isNew=o.is_new===true;
@@ -757,7 +759,8 @@ function renderOpinions(cat){
       </div>
       <div class="op-quote-wrap">
         <div class="op-quote">${o.quote}</div>
-        ${hasCn?`<div style="font-family:var(--cn);font-size:13px;color:var(--ink3);line-height:1.8;padding:10px 14px;border-left:3px solid var(--rule2);margin-top:8px;background:var(--bg-light)">${cnText}</div>`:''}
+        ${hasCn?`<div class="op-quote-cn" id="${cnId}">${cnText}</div>
+        <span class="op-bilingual-btn" onclick="toggleOpCn('${cnId}',this)">显示中文 ↓</span>`:''}
       </div>
       <div class="op-meta">
         <span class="op-source-tag">${o.source}</span>
@@ -765,16 +768,18 @@ function renderOpinions(cat){
         ${o.url?`<a href="${o.url}" target="_blank" style="font-family:var(--mono);font-size:9px;color:var(--accent2);text-decoration:underline">原文 →</a>`:''}
       </div>
     </div>`}).join('');
-  }  
-  const seen2=new Set();
-  const sideList=OPINIONS.filter(o=>{const k=o.id||o.name;if(seen2.has(k))return false;seen2.add(k);return true;})
-    .filter(o=>!cat||cat==='all'?true:o.cat!==cat).slice(0,6);
+
+  // 侧边栏：其他人快速浏览
+  const sidebar=(!cat||cat==='all')?OPINIONS.slice(0,8):OPINIONS.filter(o=>o.cat!==cat).slice(0,6);
+  const seenSide=new Set();
+  const sideList=sidebar.filter(o=>{const k=o.id||o.name;if(seenSide.has(k))return false;seenSide.add(k);return true;}).slice(0,6);
   document.getElementById('op-sidebar').innerHTML=sideList.map(o=>`
     <div class="op-sidebar-person">
       <div class="op-sp-name">${o.nameZh||''} <span style="font-weight:400;color:var(--ink3);font-size:11px">${o.name}</span></div>
       <div class="op-sp-snippet">${o.quote.slice(0,60)}…</div>
     </div>`).join('');
-  
+}
+
 function toggleOpCn(id,btn){
   const el=document.getElementById(id);if(!el)return;
   const showing=el.classList.toggle('show');
