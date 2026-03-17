@@ -50,20 +50,22 @@ def generate_cn_content(headline, deck):
                 "max_tokens": 300,
                 "messages": [{
                     "role": "user",
-                    "content": f"判断以下新闻是否值得关注。\n只保留：重大地缘政治事件、全球金融市场动态、科技巨头重要动态、央行货币政策、重大经济数据、战争冲突、重要人物言论。\n不要：本地小事、娱乐体育、消费提示、交通延误、地方政策、动物故事、软性生活内容。\n如果值得关注，输出两行：\n第一行：15字以内的中文标题，不要包含'标题：'等前缀\n第二行：200字以内的中文摘要，不要包含'摘要：'等前缀\n如果不值得关注，只输出：SKIP\n直接输出内容，绝对不要任何前缀标签：\n标题：{headline}\n内容：{deck}"
+                    "content": f"判断以下新闻是否值得关注。\n只保留：重大地缘政治事件、全球金融市场动态、科技巨头重要动态、央行货币政策、重大经济数据、战争冲突、重要人物言论。\n不要：本地小事、娱乐体育、消费提示、交通延误、地方政策、动物故事、软性生活内容。\n如果值得关注，输出两行：\n第一行：15字以内的中文标题，不含任何前缀\n第二行：200字以内的中文摘要，不含任何前缀\n如果不值得关注，只回复单词：SKIP，不要任何其他文字\n直接输出，不要任何前缀标签：\n标题：{headline}\n内容：{deck}"
                 }]
             },
             timeout=15
         )
-       data = response.json()
+        data = response.json()
         content = data["choices"][0]["message"]["content"].strip()
         if "SKIP" in content.upper() or "不值得" in content or len(content) < 5:
             return "SKIP", ""
         lines = content.split('\n', 1)
         cn_title = lines[0].strip()
-        cn_title = cn_title.replace('标题：', '').replace('第一行：', '').replace('15字以内标题：', '').strip()
+        for prefix in ['标题：', '第一行：', '15字以内', '中文标题']:
+            cn_title = cn_title.replace(prefix, '').strip()
         cn_deck = lines[1].strip() if len(lines) > 1 else ""
-        cn_deck = cn_deck.replace('摘要：', '').replace('第二行：', '').strip()
+        for prefix in ['摘要：', '第二行：', '中文摘要']:
+            cn_deck = cn_deck.replace(prefix, '').strip()
         print(f"cnTitle: {cn_title[:30]}")
         return cn_title, cn_deck
     except Exception as e:
