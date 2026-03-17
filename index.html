@@ -653,7 +653,7 @@ function renderNews(cat){
         <a href="${lead.url}" target="_blank" style="font-family:var(--mono);font-size:9px;color:var(--accent2);text-decoration:underline">原文 →</a>
       </div>
     </div>
-    ${rest.slice(0,8).map((n,i)=>`
+   ${rest.map((n,i)=>`
     <div class="secondary-story">
       <div class="sec-num">0${i+1}</div>
       <div class="sec-content">
