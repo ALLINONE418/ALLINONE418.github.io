@@ -1,32 +1,27 @@
 name: Fetch News
-
 on:
   schedule:
-    - cron: "0 0,12 * * *"   # 每12小时：UTC 0点 和 12点
+    - cron: "0 0,12 * * *"
   workflow_dispatch:
-
 jobs:
   fetch-news:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-
       - name: Install dependencies
         run: pip install feedparser requests
-
       - name: Fetch news
         env:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
         run: python scripts/fetch_news.py
-
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin main
           git add data/news.json
           git diff --cached --quiet || git commit -m "Auto-update news data [skip ci]"
           git push
