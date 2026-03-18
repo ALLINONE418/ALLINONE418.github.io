@@ -629,40 +629,29 @@ function toggleDeck(id){const el=document.getElementById(id);if(el)el.style.disp
 // ══════════════════════════════════════
 function renderReading(pubKey){
   const list=(!pubKey||pubKey==='all')?ARTICLES:ARTICLES.filter(a=>a.pubKey===pubKey);
-  document.getElementById('reading-main').innerHTML=list.map((a,idx)=>`
+  document.getElementById('reading-main').innerHTML=list.map((a,idx)=>{
+    const enPs=(a.enSummary||'').split(/\n\n+/).filter(p=>p.trim());
+    const cnPs=(a.cnSummary||'').split(/\n\n+/).filter(p=>p.trim());
+    const len=Math.max(enPs.length,cnPs.length);
+    const pairs=len===0?'':
+      '<div style="margin:16px 0 0;padding-top:14px;border-top:1px solid var(--rule2)">'+
+      Array.from({length:len},(_,i)=>
+        (enPs[i]?'<p style="font-family:var(--body);font-size:14px;color:var(--ink2);line-height:1.85;margin-bottom:8px">'+enPs[i].trim()+'</p>':'')+
+        (cnPs[i]?'<p style="font-family:var(--cn);font-size:13px;color:var(--ink3);line-height:1.9;padding:10px 14px;background:var(--bg-light);border-left:3px solid var(--accent2);margin-bottom:18px">'+cnPs[i].trim()+'</p>':'')
+      ).join('')+
+      '</div>';
+    return `
     <div class="article-card" style="animation:slideup .4s ease ${idx*.08}s both">
       <div class="art-pub" style="color:${a.pubColor}">${a.pub}</div>
       <div class="art-hl">${a.cnTitle||a.headline}</div>
       <div class="art-lede">${a.lede||''}</div>
-   ${(()=>{
-        const enPs=(a.enSummary||'').split(/\n\n+/).filter(p=>p.trim());
-        const cnPs=(a.cnSummary||'').split(/\n\n+/).filter(p=>p.trim());
-        if(!enPs.length&&!cnPs.length)return'';
-        const len=Math.max(enPs.length,cnPs.length);
-        return `<div style="margin:16px 0 0;padding-top:14px;border-top:1px solid var(--rule2)">
-          ${Array.from({length:len},(_,i)=>`
-            ${enPs[i]?`<p style="font-family:var(--body);font-size:14px;color:var(--ink2);line-height:1.85;margin-bottom:8px">${enPs[i].trim()}</p>`:''}
-            ${cnPs[i]?`<p style="font-family:var(--cn);font-size:13px;color:var(--ink3);line-height:1.9;padding:10px 14px;background:var(--bg-light);border-left:3px solid var(--accent2);margin-bottom:18px">${cnPs[i].trim()}</p>`:''}
-          `).join('')}
-        </div>`;
-      })()}
-```
-
-效果变成：
-```
-英文第一段
-中文第一段
-
-英文第二段
-中文第二段
-
-英文第三段
-中文第三段
+      ${pairs}
       <div class="art-meta" style="margin-top:14px">
         <span>${a.readtime} read</span>
         <a href="${a.url}" target="_blank" style="font-family:var(--mono);font-size:9px;color:var(--accent2);text-decoration:underline;border:1px solid var(--rule);border-radius:2px;padding:2px 8px;">阅读原文 →</a>
       </div>
-    </div>`).join('');
+    </div>`;
+  }).join('');
 
   if(!document.getElementById('classic-cn-inner')){
     const cl=CLASSICS[Math.floor(Math.random()*CLASSICS.length)];
