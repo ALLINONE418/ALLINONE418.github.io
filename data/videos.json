@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-03-18T08:03:45.389927+00:00",
+  "updated_at": "2026-03-18T19:54:56.336479+00:00",
   "keep_hours": 336,
-  "total_videos": 71,
+  "total_videos": 70,
   "channels": [
     {
       "channel_name": "方方土",
@@ -16,6 +16,15 @@
       "channel_thumb": "https://yt3.ggpht.com/Oy7RT7_C7QzpVxHee_8q3nHeK7qu01U9tosD-l4mFIQdnz-SuiRvv0TjV2g0IIbXBkwBMDvxrA=s88-c-k-c0x00ffffff-no-rj",
       "lang": "cn",
       "videos": [
+        {
+          "id": "ybCMiAYt1hk",
+          "title": "黑客登堂入室，中国超算天津中心遭遇泄密风暴｜暗网｜10PB｜白帽子｜李灿群｜乌云网｜王局拍案 20260318",
+          "description": "黑客登堂入室，中国超算天津中心遭遇泄密风暴\n#数据泄露 #草台班子 #烈焰中国 #暗网 #门罗币 #10PB #白帽子\n1. YouTube 会员平台\n成为本频道的会员，即可尊享专属福利，提前观看节目，直播，专属会员节目。\n点击链接了解详情并加入：https://www.youtube.com/channel/UCBKDRq35-L8xev4O7ZqBeLg/join\n \n2. Patreon 会",
+          "thumbnail": "https://i.ytimg.com/vi/ybCMiAYt1hk/maxresdefault.jpg",
+          "published_at": "2026-03-18T12:01:44Z",
+          "url": "https://www.youtube.com/watch?v=ybCMiAYt1hk",
+          "embed_url": "https://www.youtube.com/embed/ybCMiAYt1hk"
+        },
         {
           "id": "cTtr7hpvoOo",
           "title": "日本车企为何打不过中国新能源？",
@@ -186,15 +195,6 @@
           "published_at": "2026-03-11T12:00:07Z",
           "url": "https://www.youtube.com/watch?v=1__o1M_UOoI",
           "embed_url": "https://www.youtube.com/embed/1__o1M_UOoI"
-        },
-        {
-          "id": "Pe3L9-tx1h0",
-          "title": "人大代表的产生从来不是由人民决定",
-          "description": "1. YouTube 会员平台\n成为本频道的会员，即可尊享专属福利，提前观看节目，直播，专属会员节目。\n点击链接了解详情并加入：https://www.youtube.com/channel/UCBKDRq35-L8xev4O7ZqBeLg/join\n \n2. Patreon 会员平台\n在 Patreon 中加入「王局」会员，您不仅可以观看会员专属视频，直播，更能参与会员社群互动，更贴心的是，Pa",
-          "thumbnail": "https://i.ytimg.com/vi/Pe3L9-tx1h0/maxresdefault.jpg",
-          "published_at": "2026-03-11T05:00:33Z",
-          "url": "https://www.youtube.com/watch?v=Pe3L9-tx1h0",
-          "embed_url": "https://www.youtube.com/embed/Pe3L9-tx1h0"
         }
       ]
     },
@@ -230,15 +230,6 @@
           "published_at": "2026-03-08T08:00:00Z",
           "url": "https://www.youtube.com/watch?v=aHf5UQRImAE",
           "embed_url": "https://www.youtube.com/embed/aHf5UQRImAE"
-        },
-        {
-          "id": "MkBe3RyG4fo",
-          "title": "一个视频了解：哈梅内伊的伊朗，是怎么没的？",
-          "description": "哈梅内伊同志过早的离开了我们。对我而言，伊朗是个神奇的国家，为什么一个国家越是喊着独立、自主、反帝，最后反而越孤立，越独裁，越腐败，越贫穷？为什么每一次“民族复兴”，都伴随着更沉重的代价？这背后，真的只是伊朗人运气不好吗？我想有些运气，有些命运，是历史上慢慢形成的。所以本期节目，我们就先说现在的伊朗是怎么来的，再说哈梅内伊是怎么没的。\n\n0:00 Intro\n0:39 历史溯源：伊朗为何总这么乱？",
-          "thumbnail": "https://i.ytimg.com/vi/MkBe3RyG4fo/maxresdefault.jpg",
-          "published_at": "2026-03-04T15:15:03Z",
-          "url": "https://www.youtube.com/watch?v=MkBe3RyG4fo",
-          "embed_url": "https://www.youtube.com/embed/MkBe3RyG4fo"
         }
       ]
     },
@@ -416,15 +407,6 @@
           "published_at": "2026-03-05T01:34:24Z",
           "url": "https://www.youtube.com/watch?v=1vBU5inv9qY",
           "embed_url": "https://www.youtube.com/embed/1vBU5inv9qY"
-        },
-        {
-          "id": "dQqGx3KE1SU",
-          "title": "哈梅內伊被擊殺，觸動習近平的最大心病！",
-          "description": "完整20分鐘影片，請看： https://youtu.be/No-BL3ww3A8",
-          "thumbnail": "https://i.ytimg.com/vi/dQqGx3KE1SU/maxresdefault.jpg",
-          "published_at": "2026-03-04T14:01:03Z",
-          "url": "https://www.youtube.com/watch?v=dQqGx3KE1SU",
-          "embed_url": "https://www.youtube.com/embed/dQqGx3KE1SU"
         }
       ]
     },
@@ -452,8 +434,17 @@
       "lang": "en",
       "videos": [
         {
+          "id": "vpTvoxIrlHs",
+          "title": "OpenClaw Just Got WAY Easier and Safer to Install",
+          "description": "OpenClaw just got WAY easier (and safer) to install.\n\nI was just at NVIDIA GTC 2026 and there were a TON of cutting-edge AI announcements and releases (all the highlights are in my latest YouTube vide",
+          "thumbnail": "https://i.ytimg.com/vi/vpTvoxIrlHs/maxresdefault.jpg",
+          "published_at": "2026-03-18T14:31:57Z",
+          "url": "https://www.youtube.com/watch?v=vpTvoxIrlHs",
+          "embed_url": "https://www.youtube.com/embed/vpTvoxIrlHs"
+        },
+        {
           "id": "nc0oIVfpSqo",
-          "title": "Perplexity’s New “Computer” Feature is Kind of Insane",
+          "title": "Perplexity “Computer” is Kind of Insane",
           "description": "Perplexity is apparently giving people a dedicated Mac Mini to run their AI agents on 24/7.\n\nIt's available now on the paid plans, and this video shows just a teaser of all the cool things you can bui",
           "thumbnail": "https://i.ytimg.com/vi/nc0oIVfpSqo/maxresdefault.jpg",
           "published_at": "2026-03-17T14:50:08Z",
@@ -585,15 +576,6 @@
           "published_at": "2026-03-06T17:25:19Z",
           "url": "https://www.youtube.com/watch?v=JH2ak7kS43E",
           "embed_url": "https://www.youtube.com/embed/JH2ak7kS43E"
-        },
-        {
-          "id": "-Ow2PsJUWO8",
-          "title": "How To Use AI On Your Phone WITHOUT Internet",
-          "description": "No WiFi? No problem. \n\nHere is how I’m running advanced AI models like Qwen 3.5 directly on my phone without any internet connection. It’s an app called Locally AI.\n\nThis is NOT sponsored, just sharin",
-          "thumbnail": "https://i.ytimg.com/vi/-Ow2PsJUWO8/maxresdefault.jpg",
-          "published_at": "2026-03-04T15:05:05Z",
-          "url": "https://www.youtube.com/watch?v=-Ow2PsJUWO8",
-          "embed_url": "https://www.youtube.com/embed/-Ow2PsJUWO8"
         }
       ]
     },
@@ -603,6 +585,15 @@
       "channel_thumb": "https://yt3.ggpht.com/5Eyvt8Lqdea_DD_YRQoZ1EPrROHQuhbqfZmBfiiXrqYBv1PGU2cHAWGR0QzXKp3O9NVxTtOd=s88-c-k-c0x00ffffff-no-rj",
       "lang": "en",
       "videos": [
+        {
+          "id": "FOAQMzKaGTs",
+          "title": "Canceling Subscriptions And Building AI Agents Instead",
+          "description": "There are tools I've been paying for monthly that I'm pretty sure I can just build myself with AI now. So that's what I'm doing.\n\nI'm starting with my finance and bookkeeping workflow. Categorizing ex",
+          "thumbnail": "https://i.ytimg.com/vi/FOAQMzKaGTs/maxresdefault.jpg",
+          "published_at": "2026-03-18T15:00:23Z",
+          "url": "https://www.youtube.com/watch?v=FOAQMzKaGTs",
+          "embed_url": "https://www.youtube.com/embed/FOAQMzKaGTs"
+        },
         {
           "id": "kKG5MDF_234",
           "title": "My Favorite AI Workflow",
