@@ -56,22 +56,16 @@ a{color:inherit;text-decoration:none;}
 .tb-btn{font-family:var(--mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;padding:6px 16px 10px;color:var(--ink4);cursor:pointer;border-bottom:2px solid transparent;margin-bottom:-1px;transition:all .15s;white-space:nowrap;user-select:none;font-weight:500;}
 .tb-btn:hover{color:var(--ink2);}
 .tb-btn.active{font-weight:700;}
-#news-toolbar .tb-btn.active    {color:#7a2828;border-bottom-color:#7a2828;}
-#vd-toolbar   .tb-btn.active    {color:#1e3a52;border-bottom-color:#1e3a52;}
-#rd-toolbar   .tb-btn.active    {color:#2a4a35;border-bottom-color:#2a4a35;}
-#op-toolbar   .tb-btn.active    {color:#6b4f1e;border-bottom-color:#6b4f1e;}
+#news-toolbar .tb-btn.active{color:#7a2828;border-bottom-color:#7a2828;}
+#vd-toolbar   .tb-btn.active{color:#1e3a52;border-bottom-color:#1e3a52;}
+#rd-toolbar   .tb-btn.active{color:#2a4a35;border-bottom-color:#2a4a35;}
+#op-toolbar   .tb-btn.active{color:#6b4f1e;border-bottom-color:#6b4f1e;}
 
 /* NEWS */
 .news-grid{display:grid;grid-template-columns:2fr 1fr;gap:0;}
 .news-main{padding-right:32px;}
 .news-sidebar{border-left:1px solid var(--rule);padding-left:28px;}
 @media(max-width:860px){.news-grid{grid-template-columns:1fr}.news-main{padding-right:0}.news-sidebar{border-left:none;border-top:1px solid var(--rule);padding-left:0;padding-top:24px}}
-.story-source{font-family:var(--mono);font-size:10px;letter-spacing:.1em;text-transform:uppercase;color:var(--accent);margin-bottom:5px;}
-.lead-story{border-bottom:1px solid var(--rule);padding-bottom:22px;margin-bottom:22px;}
-.story-headline{font-family:var(--serif);font-size:26px;font-weight:700;line-height:1.25;margin-bottom:8px;cursor:pointer;transition:color .15s;}
-.story-headline:hover{color:var(--accent2);}
-.story-deck{font-family:var(--body);font-size:14px;color:var(--ink2);line-height:1.65;margin-bottom:10px;}
-.story-byline{font-family:var(--mono);font-size:10px;color:var(--ink4);display:flex;align-items:center;gap:12px;flex-wrap:wrap;}
 .secondary-story{display:flex;gap:0;border-bottom:1px solid var(--rule2);padding:13px 0;cursor:pointer;}
 .secondary-story:last-child{border-bottom:none;}
 .sec-num{font-family:var(--mono);font-size:22px;font-weight:300;color:var(--rule);min-width:36px;line-height:1;padding-top:2px;}
@@ -89,10 +83,6 @@ a{color:inherit;text-decoration:none;}
 .sidebar-src{font-family:var(--mono);font-size:9px;text-transform:uppercase;letter-spacing:.06em;}
 .translate-btn{font-family:var(--mono);font-size:9px;letter-spacing:.05em;text-transform:uppercase;padding:3px 9px;border:1px solid var(--rule);border-radius:2px;cursor:pointer;color:var(--ink3);background:var(--paper);transition:all .15s;display:inline-flex;align-items:center;gap:4px;}
 .translate-btn:hover{border-color:var(--accent2);color:var(--accent2);}
-.translate-btn.loading{opacity:.6;cursor:wait;}
-.translate-btn.done{border-color:var(--gold);color:var(--gold);}
-.tx-box{margin-top:10px;padding:11px 14px;background:var(--bg-light);border-left:3px solid var(--accent2);font-family:var(--cn);font-size:13px;line-height:1.8;color:var(--ink2);display:none;border-radius:0 3px 3px 0;}
-.tx-box.show{display:block;animation:fadein .3s ease;}
 @keyframes fadein{from{opacity:0;transform:translateY(-4px)}to{opacity:1;transform:translateY(0)}}
 
 /* VIDEOS */
@@ -145,21 +135,9 @@ a{color:inherit;text-decoration:none;}
 .article-card{border-bottom:1px solid var(--rule);padding-bottom:28px;margin-bottom:28px;}
 .article-card:last-child{border-bottom:none;}
 .art-pub{font-family:var(--mono);font-size:10px;letter-spacing:.1em;text-transform:uppercase;margin-bottom:5px;}
-.art-hl{font-family:var(--serif);font-size:22px;font-weight:700;line-height:1.25;margin-bottom:4px;cursor:pointer;}
-.art-hl:hover{color:var(--accent2);}
-.art-hl-en{font-family:var(--body);font-size:14px;font-style:italic;color:var(--ink3);line-height:1.4;margin-bottom:8px;}
+.art-hl{font-family:var(--serif);font-size:22px;font-weight:700;line-height:1.25;margin-bottom:8px;}
 .art-lede{font-family:var(--body);font-size:14px;color:var(--ink2);line-height:1.7;margin-bottom:10px;}
 .art-meta{display:flex;align-items:center;gap:12px;font-family:var(--mono);font-size:10px;color:var(--ink4);flex-wrap:wrap;}
-.art-tag{padding:2px 7px;border:1px solid var(--rule);border-radius:2px;font-size:9px;letter-spacing:.04em;text-transform:uppercase;}
-/* 双语切换 */
-.art-lang-toggle{display:flex;gap:0;border:1px solid var(--rule);border-radius:2px;overflow:hidden;}
-.art-lang-btn{font-family:var(--mono);font-size:9px;padding:3px 10px;cursor:pointer;color:var(--ink4);background:var(--white);border-right:1px solid var(--rule);transition:all .15s;user-select:none;}
-.art-lang-btn:last-child{border-right:none;}
-.art-lang-btn.active{background:var(--accent2);color:#fff;}
-.art-summary{font-family:var(--body);font-size:14px;color:var(--ink2);line-height:1.85;margin-top:14px;display:none;}
-.art-summary.show{display:block;animation:fadein .3s ease;}
-.art-summary-cn{font-family:var(--cn);font-size:14px;color:var(--ink2);line-height:1.9;margin-top:14px;display:none;}
-.art-summary-cn.show{display:block;animation:fadein .3s ease;}
 .classic-box{background:var(--paper);border:1px solid var(--rule);padding:22px 24px;}
 .classic-label{font-family:var(--mono);font-size:9px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink4);border-bottom:1px solid var(--rule);padding-bottom:8px;margin-bottom:14px;}
 .classic-en{font-family:var(--body);font-style:italic;font-size:14px;line-height:1.8;color:var(--ink2);margin-bottom:10px;}
@@ -179,13 +157,7 @@ a{color:inherit;text-decoration:none;}
 .op-person-info{flex:1;}
 .op-name{font-family:var(--serif);font-size:15px;font-weight:700;line-height:1.2;}
 .op-role{font-family:var(--mono);font-size:9px;color:var(--ink4);text-transform:uppercase;letter-spacing:.07em;}
-/* 双语引言 */
 .op-quote-wrap{margin-bottom:10px;}
-.op-quote{font-family:var(--body);font-size:14px;color:var(--ink2);line-height:1.75;padding-left:14px;border-left:3px solid var(--rule2);}
-.op-quote-cn{font-family:var(--cn);font-size:13px;color:var(--ink3);line-height:1.8;padding-left:14px;border-left:3px solid var(--rule2);margin-top:8px;display:none;}
-.op-quote-cn.show{display:block;animation:fadein .3s ease;}
-.op-bilingual-btn{font-family:var(--mono);font-size:9px;cursor:pointer;color:var(--ink4);text-decoration:underline;margin-top:6px;display:inline-block;}
-.op-bilingual-btn:hover{color:var(--accent2);}
 .op-meta{display:flex;align-items:center;gap:12px;font-family:var(--mono);font-size:9px;color:var(--ink4);margin-top:10px;}
 .op-source-tag{padding:2px 7px;border:1px solid var(--rule);border-radius:2px;font-size:8px;letter-spacing:.04em;text-transform:uppercase;}
 .op-new-badge{background:var(--accent);color:#fff;font-family:var(--mono);font-size:8px;padding:1px 5px;border-radius:1px;letter-spacing:.04em;}
@@ -233,18 +205,9 @@ a{color:inherit;text-decoration:none;}
 .modal{background:var(--white);border:1px solid var(--rule);max-width:760px;width:100%;padding:36px;position:relative;box-shadow:0 20px 60px rgba(0,0,0,.15);border-radius:2px;}
 .modal-close{position:absolute;top:14px;right:14px;width:28px;height:28px;cursor:pointer;display:flex;align-items:center;justify-content:center;color:var(--ink3);font-size:16px;border:1px solid var(--rule2);border-radius:2px;transition:all .15s;}
 .modal-close:hover{color:var(--ink);border-color:var(--ink3);}
-.modal-src{font-family:var(--mono);font-size:10px;color:var(--accent);text-transform:uppercase;letter-spacing:.08em;margin-bottom:8px;}
-.modal-hl{font-family:var(--serif);font-size:22px;font-weight:700;line-height:1.3;margin-bottom:6px;}
-.modal-hl-cn{font-family:var(--cn);font-size:18px;font-weight:600;color:var(--ink2);line-height:1.4;margin-bottom:16px;border-bottom:1px solid var(--rule);padding-bottom:16px;}
-.modal-lang-toggle{display:flex;gap:0;border:1px solid var(--rule);border-radius:2px;overflow:hidden;margin-bottom:20px;}
-.modal-lang-btn{font-family:var(--mono);font-size:10px;padding:5px 16px;cursor:pointer;color:var(--ink4);background:var(--white);border-right:1px solid var(--rule);transition:all .15s;user-select:none;}
-.modal-lang-btn:last-child{border-right:none;}
-.modal-lang-btn.active{background:var(--accent2);color:#fff;}
-.modal-loading{display:flex;align-items:center;gap:8px;color:var(--ink4);font-family:var(--mono);font-size:12px;}
 .spinner{width:15px;height:15px;border:2px solid var(--rule);border-top-color:var(--accent2);border-radius:50%;animation:spin .8s linear infinite;}
 @keyframes spin{to{transform:rotate(360deg)}}
 
-/* Entry animations */
 .lead-story,.secondary-story,.article-card{opacity:0;animation:slideup .4s ease forwards;}
 .lead-story{animation-delay:.05s}
 .secondary-story:nth-child(1){animation-delay:.1s}.secondary-story:nth-child(2){animation-delay:.15s}.secondary-story:nth-child(3){animation-delay:.2s}
@@ -266,9 +229,8 @@ a{color:inherit;text-decoration:none;}
 <div class="modal-overlay" id="modal" onclick="if(event.target===this)closeModal()">
   <div class="modal">
     <div class="modal-close" onclick="closeModal()">✕</div>
-    <div class="modal-src" id="modal-src"></div>
-    <div class="modal-hl" id="modal-hl"></div>
-    <div class="modal-hl-cn" id="modal-hl-cn" style="display:none"></div>
+    <div id="modal-src" style="font-family:var(--mono);font-size:10px;color:var(--accent);text-transform:uppercase;letter-spacing:.08em;margin-bottom:8px;"></div>
+    <div id="modal-hl" style="font-family:var(--serif);font-size:22px;font-weight:700;line-height:1.3;margin-bottom:16px;border-bottom:1px solid var(--rule);padding-bottom:16px;"></div>
     <div id="modal-body"></div>
   </div>
 </div>
@@ -450,7 +412,7 @@ const OPINIONS_FALLBACK=[
    source:'BlackRock Annual Letter',date:'Mar 2025',url:'https://blackrock.com'},
   {id:'op11',cat:'invest',name:'Duan Yongping',nameZh:'段永平',role:'Investor / OPPO & BBK Founder',color:'#e07b00',
    quote:'好的商业模式就是：客户用了之后还想用，用完还推荐给别人。投资的本质是买未来现金流，其他都是噪音。',
-   quoteZh:'好的商业模式就是：客户用了之后还想用，用完还推荐给别人。投资的本质是买未来现金流，其他都是噪音。',
+   quoteZh:'A great business model: customers return and recommend others. Investing is simply buying future cash flows — everything else is noise.',
    source:'雪球访谈',date:'Feb 2025',url:'https://xueqiu.com'},
   {id:'op12',cat:'science',name:'Fei-Fei Li',nameZh:'李飞飞',role:'Stanford HAI Co-Director',color:'#8b1a1a',
    quote:'The next frontier is machines that can perceive, reason, and act in 3D space.',
@@ -461,8 +423,7 @@ const OPINIONS_FALLBACK=[
    quoteZh:'我真的感到恐惧。这些系统正在学会操控人类。',
    source:'60 Minutes Interview',date:'Mar 2025',url:'https://cbsnews.com'},
 ];
-
-let OPINIONS = [...OPINIONS_FALLBACK];
+let OPINIONS=[...OPINIONS_FALLBACK];
 
 const NEWS=[
   {id:'n1',cat:'economy',source:'Reuters',headline:'Fed holds rates steady, signals two cuts remain on table for 2025',deck:'Federal Reserve officials kept interest rates unchanged while reaffirming their projection for two rate reductions before year-end.',time:'2h ago',url:'https://reuters.com',lead:true},
@@ -481,24 +442,23 @@ const ARTICLES_FALLBACK=[
   {pub:'The Economist',pubKey:'economist',pubColor:'#cc0000',
    headline:'The new face of globalisation',cnTitle:'全球化的新面孔',
    lede:'Trade flows have not retreated—they have rerouted.',
-   enSummary:'For much of the past decade, the narrative of deglobalisation has dominated headlines. The reality is considerably more complicated. The most dramatic shift is the rise of friend-shoring—the deliberate concentration of supply chains within politically aligned blocs.',
-   cnSummary:'过去十年，去全球化的叙事主导了头条新闻。但现实要复杂得多。最显著的转变是"友岸外包"的兴起——即刻意将供应链集中在政治上一致的集团内部。',
+   enSummary:'For much of the past decade, the narrative of deglobalisation has dominated headlines. Tariff walls rising, supply chains shortening — the story seemed clear. The reality is considerably more complicated.\n\nThe most dramatic shift is the rise of friend-shoring — the deliberate concentration of supply chains within politically aligned blocs. American companies have not stopped importing; they have changed whom they import from. Mexican exports to the United States have surged. Vietnam has become a manufacturing superpower virtually overnight.\n\nThis rerouting carries profound implications. Efficiency is no longer the only criterion. Resilience, redundancy and political alignment now compete with cost. The new geography of trade is being drawn not by comparative advantage alone, but by strategic calculation.',
+   cnSummary:'过去十年，去全球化的叙事主导了头条新闻。关税壁垒上升、供应链缩短——故事看似清晰，但现实要复杂得多。\n\n最显著的转变是"友岸外包"的兴起——即刻意将供应链集中在政治上一致的集团内部。美国企业并未停止进口，而是改变了进口对象。对美出口大幅攀升的是墨西哥，越南几乎一夜之间成为制造业大国。\n\n这一重新布局具有深远影响。效率不再是唯一标准，韧性、冗余度和政治一致性正在与成本展开竞争。贸易新地图的绘制，不再仅由比较优势决定，更由战略考量主导。',
    readtime:'18 min',url:'https://economist.com'},
   {pub:'MIT Technology Review',pubKey:'mit',pubColor:'#750014',
    headline:'The quiet revolution in AI inference',cnTitle:'AI推理的静默革命',
    lede:'A new generation of efficient architectures is challenging vast data centres.',
-   enSummary:'The race to the frontier has always been a race to scale. Something unexpected happened in 2024: smaller models began matching larger predecessors at a fraction of the cost.',
-   cnSummary:'前沿竞争历来是规模竞争。2024年发生了意想不到的事情：更小的模型开始以极低的成本匹敌更大的前辈。',
+   enSummary:'The race to the frontier has always been a race to scale. Bigger models, trained on more data with more compute, reliably outperform their predecessors. Something unexpected happened in 2024.\n\nA series of smaller models began matching the performance of much larger predecessors at a fraction of the computational cost. The gains came from better training data, improved architectures, and inference optimisation. Models that once required server farms can now run on a laptop.\n\nThe implications extend beyond cost. Models that run locally cannot be surveilled by a cloud provider. They operate without a network connection and respond in milliseconds. A quieter, more distributed AI infrastructure is taking shape — one that shifts power away from hyperscalers toward the edge.',
+   cnSummary:'前沿竞争历来是规模竞争。更大的模型、更多的数据、更强的算力，始终是制胜法则。2024年，出现了意想不到的转折。\n\n一批更小的模型开始以极低的计算成本匹敌更大的前辈。进步来自更优质的训练数据、改进的架构以及推理优化。曾经需要服务器集群的模型，如今可以在笔记本电脑上运行。\n\n影响不止于成本。本地运行的模型无需云端监控，无需网络连接，响应速度以毫秒计。一个更安静、更分散的AI基础设施正在成形——它将权力从超大规模云服务商转移向边缘端。',
    readtime:'14 min',url:'https://technologyreview.com'},
   {pub:'Quartz',pubKey:'quartz',pubColor:'#333333',
    headline:'The housing crisis is not a supply problem',cnTitle:'住房危机不是供应问题',
    lede:'A growing body of research suggests the framing has been subtly wrong.',
-   enSummary:'The consensus among urban economists has shifted dramatically. Yet cities that have aggressively liberalised zoning have not always seen the price relief the models predicted.',
-   cnSummary:'城市经济学家的共识已发生了显著转变。然而，激进放开区划限制的城市并不总是看到模型预测的价格缓解。',
+   enSummary:'The consensus among urban economists has shifted dramatically over the past decade. Restrictive zoning has played the central role in constraining supply and driving up costs. Yet cities that have aggressively liberalised zoning have not always seen the price relief the models predicted.\n\nThe explanation may lie in what economists call the land value problem. When zoning restrictions are relaxed, some of the value accrues to landowners rather than to renters. Without complementary policies — land value taxes, community land trusts — supply reform alone redistributes rather than creates affordability.\n\nThe political economy is equally challenging. Homeowners who benefit from rising prices have strong incentives to oppose reform. Renters, who would benefit most, are less organised and less likely to vote. The result is a structural bias toward policies that benefit existing owners at the expense of future ones.',
+   cnSummary:'过去十年，城市经济学家的共识已发生了显著转变：限制性区划是压制供应、推高成本的核心原因。然而，激进放开区划限制的城市并不总能看到模型预测的价格缓解。\n\n原因或许在于经济学家所说的"土地价值问题"。当区划限制放宽时，部分价值流向了土地所有者而非租户。若没有配套政策——如土地价值税、社区土地信托——单纯的供应改革只是重新分配，而非真正创造可负担性。\n\n政治经济学层面的挑战同样严峻。受益于房价上涨的房主有强烈动机反对改革；而本应最大受益的租户群体，组织化程度低，投票意愿也更弱。结果是系统性偏向于保护现有房主利益的政策，以未来新居民的利益为代价。',
    readtime:'11 min',url:'https://qz.com'},
 ];
-
-let ARTICLES = [...ARTICLES_FALLBACK];
+let ARTICLES=[...ARTICLES_FALLBACK];
 
 const CLASSICS=[
   {en:'It is not from the benevolence of the butcher, the brewer, or the baker that we expect our dinner, but from their regard to their own interest.',cn:'我们每天所需的食物和饮料，不是出自屠夫、酿酒师或面包师的恩惠，而是出于他们自身利益的打算。',src:'— Adam Smith, The Wealth of Nations (1776)'},
@@ -570,13 +530,7 @@ const SERIES={
 };
 const WK5=makeLabels(260),WK3=makeLabels(156),WK1=makeLabels(52);
 let activeChart=null,activeKey=null,activeRange='1y';
-
-function getSlice(key,range){
-  const s=SERIES[key].s5;
-  if(range==='1y')return{labels:WK1,data:s.slice(-52)};
-  if(range==='3y')return{labels:WK3,data:s.slice(-156)};
-  return{labels:WK5,data:s};
-}
+function getSlice(key,range){const s=SERIES[key].s5;if(range==='1y')return{labels:WK1,data:s.slice(-52)};if(range==='3y')return{labels:WK3,data:s.slice(-156)};return{labels:WK5,data:s};}
 function drawMainChart(key){
   activeKey=key;const{labels,data}=getSlice(key,activeRange);
   const name=SERIES[key].label;const up=data[data.length-1]>=data[0];
@@ -588,10 +542,7 @@ function drawMainChart(key){
   activeChart=new Chart(ctx,{type:'line',data:{labels,datasets:[{data,borderColor:color,borderWidth:1.5,pointRadius:0,fill:true,backgroundColor:fill,tension:.3}]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false},tooltip:{mode:'index',intersect:false,callbacks:{label:c=>`${name}: ${c.parsed.y.toLocaleString()}`}}},scales:{x:{grid:{display:false},ticks:{maxTicksLimit:8,font:{family:'IBM Plex Mono',size:10},color:'#999'}},y:{grid:{color:'#e8e4de',lineWidth:.5},ticks:{font:{family:'IBM Plex Mono',size:10},color:'#999'},position:'right'}},interaction:{mode:'nearest',axis:'x',intersect:false}}});
   document.getElementById('chart-panel').scrollIntoView({behavior:'smooth',block:'nearest'});
 }
-function setRange(range,el){
-  activeRange=range;document.querySelectorAll('.range-btn').forEach(b=>b.classList.remove('active'));
-  el.classList.add('active');if(activeKey)drawMainChart(activeKey);
-}
+function setRange(range,el){activeRange=range;document.querySelectorAll('.range-btn').forEach(b=>b.classList.remove('active'));el.classList.add('active');if(activeKey)drawMainChart(activeKey);}
 const sparkCharts={};
 function drawSparkline(canvasId,key){
   const data=SERIES[key]?.s5.slice(-52);if(!data||!document.getElementById(canvasId))return;
@@ -603,9 +554,8 @@ function drawSparkline(canvasId,key){
 // ══════════════════════════════════════
 // VIDEOS
 // ══════════════════════════════════════
-let VIDEO_DATA = [];
+let VIDEO_DATA=[];
 function fmtVideoDate(iso){if(!iso)return'';const d=new Date(iso);return d.toLocaleDateString('en-US',{year:'numeric',month:'short',day:'numeric'});}
-
 function renderVideos(filterChannel){
   const grid=document.getElementById('vd-grid');grid.innerHTML='';
   if(VIDEO_DATA.length===0){grid.innerHTML=Array(8).fill(`<div class="vd-skeleton-card"><div class="vd-skeleton"></div><div class="vd-skeleton-body"><div class="vd-skeleton-line" style="width:40%;height:8px"></div><div class="vd-skeleton-line" style="width:90%;height:10px"></div><div class="vd-skeleton-line" style="width:65%;height:8px"></div></div></div>`).join('');return;}
@@ -648,7 +598,6 @@ async function loadVideos(){
 // NEWS
 // ══════════════════════════════════════
 function srcColor(src){const map={'BBC':'#8B0000','CNBC':'#1a3d5c','Bloomberg':'#2c4a1e','Reuters':'#5a3e1e','FT':'#8B4513','WSJ':'#1a1a4a','NYT':'#2a2a2a'};return map[src]||'#555';}
-
 function renderNews(cat){
   const list=cat==='all'?NEWS:NEWS.filter(n=>n.cat===cat);
   const today=list.filter(n=>n.time.includes('h ago')||n.time.includes('小时前')||n.time==='刚刚');
@@ -676,7 +625,7 @@ function renderNews(cat){
 function toggleDeck(id){const el=document.getElementById(id);if(el)el.style.display=el.style.display==='none'?'block':'none';}
 
 // ══════════════════════════════════════
-// DEEP READING — 从 data/reading.json 加载
+// DEEP READING — 中英分段同步显示
 // ══════════════════════════════════════
 function renderReading(pubKey){
   const list=(!pubKey||pubKey==='all')?ARTICLES:ARTICLES.filter(a=>a.pubKey===pubKey);
@@ -684,19 +633,19 @@ function renderReading(pubKey){
     <div class="article-card" style="animation:slideup .4s ease ${idx*.08}s both">
       <div class="art-pub" style="color:${a.pubColor}">${a.pub}</div>
       <div class="art-hl">${a.cnTitle||a.headline}</div>
-      ${a.cnTitle?`<div class="art-hl-en">${a.headline}</div>`:''}
       <div class="art-lede">${a.lede||''}</div>
-      <div class="art-meta">
+      ${a.enSummary?`
+      <div style="font-family:var(--body);font-size:14px;color:var(--ink2);line-height:1.85;margin:16px 0 0;padding-top:14px;border-top:1px solid var(--rule2)">
+        ${a.enSummary.split(/\n\n+/).filter(p=>p.trim()).map(p=>`<p style="margin-bottom:16px">${p.trim()}</p>`).join('')}
+      </div>`:''}
+      ${a.cnSummary?`
+      <div style="font-family:var(--cn);font-size:14px;color:var(--ink2);line-height:1.9;padding:16px 18px;background:var(--bg-light);border-left:3px solid var(--accent2);margin:14px 0">
+        ${a.cnSummary.split(/\n\n+/).filter(p=>p.trim()).map(p=>`<p style="margin-bottom:14px">${p.trim()}</p>`).join('')}
+      </div>`:''}
+      <div class="art-meta" style="margin-top:14px">
         <span>${a.readtime} read</span>
         <a href="${a.url}" target="_blank" style="font-family:var(--mono);font-size:9px;color:var(--accent2);text-decoration:underline;border:1px solid var(--rule);border-radius:2px;padding:2px 8px;">阅读原文 →</a>
-        ${a.enSummary||a.cnSummary?`
-        <div class="art-lang-toggle">
-          <span class="art-lang-btn active" onclick="toggleSummary(${idx},'cn',this)">中文</span>
-          <span class="art-lang-btn" onclick="toggleSummary(${idx},'en',this)">EN</span>
-        </div>`:''}
       </div>
-      ${a.cnSummary?`<div class="art-summary-cn show" id="art-cn-${idx}">${a.cnSummary}</div>`:''}
-      ${a.enSummary?`<div class="art-summary" id="art-en-${idx}">${a.enSummary}</div>`:''}
     </div>`).join('');
 
   if(!document.getElementById('classic-cn-inner')){
@@ -709,22 +658,10 @@ function renderReading(pubKey){
       <div style="margin-top:12px"><button class="translate-btn" onclick="document.getElementById('classic-cn-inner').classList.toggle('show')">中 显示/隐藏</button></div>`;
   }
 }
-
-function toggleSummary(idx,lang,btn){
-  const cnEl=document.getElementById(`art-cn-${idx}`);
-  const enEl=document.getElementById(`art-en-${idx}`);
-  const allBtns=btn.closest('.art-lang-toggle').querySelectorAll('.art-lang-btn');
-  allBtns.forEach(b=>b.classList.remove('active'));
-  btn.classList.add('active');
-  if(lang==='cn'){if(cnEl)cnEl.classList.add('show');if(enEl)enEl.classList.remove('show');}
-  else{if(enEl)enEl.classList.add('show');if(cnEl)cnEl.classList.remove('show');}
-}
-
 function filterReading(key,el){
   document.querySelectorAll('#rd-toolbar .tb-btn').forEach(b=>b.classList.remove('active'));
   el.classList.add('active');renderReading(key);
 }
-
 async function loadReading(){
   try{
     const r=await fetch('./data/reading.json?t='+Date.now());
@@ -734,19 +671,17 @@ async function loadReading(){
 }
 
 // ══════════════════════════════════════
-// OPINIONS — 从 data/opinions.json 加载，中英双语
+// OPINIONS — 中英同步显示，无需点击
 // ══════════════════════════════════════
 function renderOpinions(cat){
   const raw=(!cat||cat==='all')?OPINIONS:OPINIONS.filter(o=>o.cat===cat);
-  // 每人只显示最新一条
   const seen=new Set();
   const list=raw.filter(o=>{const k=o.id||o.name;if(seen.has(k))return false;seen.add(k);return true;});
 
   document.getElementById('op-main').innerHTML=list.map((o,i)=>{
-    const cnId=`op-cn-${o.id||i}`;
-    const hasCn=!!(o.quoteZh||o.quote_zh);
-    const cnText=o.quoteZh||o.quote_zh||'';
     const isNew=o.is_new===true;
+    const enText=o.quote||'';
+    const cnText=o.quoteZh||o.quote_zh||'';
     return `
     <div class="op-card" style="animation:slideup .4s ease ${i*.05}s both">
       <div class="op-person-row">
@@ -758,39 +693,32 @@ function renderOpinions(cat){
         </div>
       </div>
       <div class="op-quote-wrap">
-        <div class="op-quote">${o.quote}</div>
-        ${hasCn?`<div class="op-quote-cn" id="${cnId}">${cnText}</div>
-        <span class="op-bilingual-btn" onclick="toggleOpCn('${cnId}',this)">显示中文 ↓</span>`:''}
+        <div style="font-family:var(--body);font-size:14px;color:var(--ink2);line-height:1.75;padding-left:14px;border-left:3px solid var(--rule2);margin-bottom:${cnText?'10px':'0'}">${enText}</div>
+        ${cnText?`<div style="font-family:var(--cn);font-size:13px;color:var(--ink3);line-height:1.8;padding:10px 14px;border-left:3px solid var(--rule2);background:var(--bg-light)">${cnText}</div>`:''}
       </div>
       <div class="op-meta">
         <span class="op-source-tag">${o.source}</span>
         <span>${o.date||''}</span>
         ${o.url?`<a href="${o.url}" target="_blank" style="font-family:var(--mono);font-size:9px;color:var(--accent2);text-decoration:underline">原文 →</a>`:''}
       </div>
-    </div>`}).join('');
+    </div>`;
+  }).join('');
 
-  // 侧边栏：其他人快速浏览
-  const sidebar=(!cat||cat==='all')?OPINIONS.slice(0,8):OPINIONS.filter(o=>o.cat!==cat).slice(0,6);
-  const seenSide=new Set();
-  const sideList=sidebar.filter(o=>{const k=o.id||o.name;if(seenSide.has(k))return false;seenSide.add(k);return true;}).slice(0,6);
+  const seen2=new Set();
+  const sideList=OPINIONS
+    .filter(o=>{const k=o.id||o.name;if(seen2.has(k))return false;seen2.add(k);return true;})
+    .filter(o=>!cat||cat==='all'?true:o.cat!==cat)
+    .slice(0,6);
   document.getElementById('op-sidebar').innerHTML=sideList.map(o=>`
     <div class="op-sidebar-person">
       <div class="op-sp-name">${o.nameZh||''} <span style="font-weight:400;color:var(--ink3);font-size:11px">${o.name}</span></div>
       <div class="op-sp-snippet">${o.quote.slice(0,60)}…</div>
     </div>`).join('');
 }
-
-function toggleOpCn(id,btn){
-  const el=document.getElementById(id);if(!el)return;
-  const showing=el.classList.toggle('show');
-  btn.textContent=showing?'隐藏中文 ↑':'显示中文 ↓';
-}
-
 function filterOpinions(cat,el){
   document.querySelectorAll('#op-toolbar .tb-btn').forEach(b=>b.classList.remove('active'));
   el.classList.add('active');renderOpinions(cat);
 }
-
 async function loadOpinions(){
   try{
     const r=await fetch('./data/opinions.json?t='+Date.now());
@@ -865,7 +793,6 @@ document.getElementById('mtrack').innerHTML=th+th;
 document.getElementById('mdate').textContent=new Date().toLocaleDateString('en-US',{weekday:'long',year:'numeric',month:'long',day:'numeric'}).toUpperCase();
 
 async function loadData(){
-  // 并行加载所有数据
   await Promise.all([
     fetch('./data/news.json?t='+Date.now()).then(r=>r.ok?r.json():null).then(data=>{if(data&&data.length){NEWS.length=0;data.forEach(item=>NEWS.push(item));}}).catch(e=>console.warn('news.json',e)),
     fetch('./data/opinions.json?t='+Date.now()).then(r=>r.ok?r.json():null).then(data=>{if(data&&data.length){OPINIONS.length=0;data.forEach(item=>OPINIONS.push(item));}}).catch(e=>console.warn('opinions.json',e)),
