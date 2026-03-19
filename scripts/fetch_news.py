@@ -105,7 +105,7 @@ def generate_cn_content(headline, deck):
                         f"如果值得关注，严格按以下格式输出，共三行，行与行之间只有换行符，"
                         f"每行【不加任何前缀、标签、序号、冒号】，直接输出内容：\n"
                         f"第1行：中文标题，15字以内，直接写标题文字\n"
-                        f"第2行：中文摘要，将原文直译成中文，保留数字/人名/机构名/引语，200字以内，直接写摘要文字\n"
+                        f"第2行：中文摘要，将原文直译成中文，保留所有数字/人名/机构名/直接引语，【不少于300字，不超过600字】，内容要完整充实，不能只写一句话，直接写摘要文字\n"
                         f"第3行：分类，只能是 economy 或 tech 或 finance 或 politics 四个词之一\n\n"
                         f"分类说明：economy=宏观经济/央行/贸易/通胀，tech=科技/AI/芯片/互联网，"
                         f"finance=金融市场/股票/外汇/加密/银行，politics=地缘政治/战争/选举/外交\n\n"
@@ -199,7 +199,7 @@ def fetch_news():
                 seen_urls.add(link)
                 seen_titles.add(title)
                 deck = entry.get("summary", "")
-                deck = re.sub(r'<[^>]+>', '', deck).strip()[:300]
+                deck = re.sub(r'<[^>]+>', '', deck).strip()[:1000]
                 source_candidates[source].append({
                     "title": title,
                     "deck": deck,
