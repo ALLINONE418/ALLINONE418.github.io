@@ -777,7 +777,7 @@ function showPanel(id,el){
   document.querySelectorAll('.panel').forEach(p=>p.classList.remove('active'));
   document.querySelectorAll('.nav-item').forEach(n=>n.classList.remove('active'));
   document.getElementById('panel-'+id).classList.add('active');el.classList.add('active');
-  if(id==='assets'&&!document.getElementById('assets-wrap').children.length)renderAssets();
+  if(id==='assets'&&!document.getElementById('assets-wrap').children.length)loadAssets();
   if(id==='opinions'&&!document.getElementById('op-main').children.length)renderOpinions('all');
   if(id==='reading'&&!document.getElementById('reading-main').children.length)renderReading('all');
 }
