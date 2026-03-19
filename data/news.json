@@ -1,5 +1,75 @@
 [
   {
+    "headline": "OpenAI to acquire developer tooling startup Astral in boost for Codex team",
+    "deck": "OpenAI has made several recent acquisitions, including cybersecurity startup Promptfoo, and health-care technology startup Torch.",
+    "cnTitle": "OpenAI收购开发者工具初创公司Astral",
+    "cnDeck": "OpenAI近期进行了多笔收购，包括收购网络安全初创公司Promptfoo和医疗技术初创公司Torch。此次收购开发者工具初创公司Astral是OpenAI加强其Codex团队的举措。Codex是OpenAI基于GPT-3开发的AI系统，能够将自然语言转换为代码，这一能力在软件开发领域具有重要应用价值。通过收购Astral，OpenAI旨在增强其代码生成和开发者工具的能力，进一步扩展其在AI驱动软件开发领域的影响力。这次收购反映了OpenAI在巩固其技术领导地位方面的持续投资策略。",
+    "cat": "tech",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/19/openai-to-acquire-developer-tooling-startup-astral.html",
+    "time": "刚刚",
+    "published_iso": "2026-03-19T14:34:47+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "Oil briefly hits $119 and Europe gas prices surge after attacks on energy facilities in Qatar, Iran",
+    "deck": "Oil prices jumped as markets react to escalating tensions after Qatar said Iranian missile strikes damaged a key liquefied natural gas export facility.",
+    "cnTitle": "油价上涨，欧洲天然气价格飙升",
+    "cnDeck": "石油价格上涨，市场对升级的紧张局势做出反应。卡塔尔表示伊朗导弹袭击损坏了一个关键的液化天然气出口设施。油价短暂触及每桶119美元，欧洲天然气价格随之飙升。这一事件反映了中东地区持续的地缘政治紧张局势，伊朗对卡塔尔能源基础设施的袭击引发了全球能源市场的广泛关注。液化天然气出口设施的损坏可能影响全球能源供应，进而推高能源价格。这一事件对全球经济可能产生连锁反应，特别是对高度依赖进口能源的欧洲地区。市场参与者密切关注局势发展，评估对全球能源供应链的长期影响。",
+    "cat": "politics",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/19/oil-jumps-iran-strikes-qatar-lng-facility-supply-worries.html",
+    "time": "刚刚",
+    "published_iso": "2026-03-19T14:30:59+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
+    "headline": "Micron falls 5% after blowout earnings. CEO says it can supply only a fraction of key customer needs",
+    "deck": "Micron stock is up more than 350% in the past year, however, thanks to a memory supply shortage driven by surging demand for Nvidia's AI chips.",
+    "cnTitle": "美光芯片股价下跌 CEO称供不应求",
+    "cnDeck": "美光科技股价在公布业绩后下跌5%。首席执行官表示，公司只能满足关键客户需求的一小部分。美光股票在过去一年上涨超过350%，这得益于英伟达AI芯片需求激增导致的存储芯片供应短缺。",
+    "cat": "tech",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/19/micron-falls-blockbuster-earnings-chips-ai.html",
+    "time": "刚刚",
+    "published_iso": "2026-03-19T13:46:34+00:00",
+    "is_new": true,
+    "id": "n3",
+    "lead": false
+  },
+  {
+    "headline": "Chad warns Sudan it will retaliate after drone strike on mourners kills 17",
+    "deck": "President Idris Mahamat Déby orders the military to be on high alert and a \"total closure\" of the border.",
+    "cnTitle": "乍得警告苏丹将报复无人机袭击事件",
+    "cnDeck": "乍得总统伊德里斯·马哈马特·德比下令军队进入高度戒备状态,并宣布边境\"全面关闭\"。据报道,苏丹的无人机袭击造成17名哀悼者丧生。此次事件引发了乍得政府的强烈谴责,德比总统明确表示乍得将对这次致命袭击进行报复。乍得军方已经收到总统的命令,加强了对边境地区的防御措施,并为可能的冲突升级做好准备。边境的\"全面关闭\"意味着乍得与苏丹之间的人员流动和商业往来将受到严格限制。这起事件反映了乍得与苏丹之间持续的紧张局势,两国在边界问题和区域影响力方面存在长期分歧。此次无人机袭击造成的平民伤亡可能进一步加剧区域冲突,引发国际社会对萨赫勒地区稳定性的担忧。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c0mjn0g708ro?at_medium=RSS&at_campaign=rss",
+    "time": "1小时前",
+    "published_iso": "2026-03-19T13:30:01+00:00",
+    "is_new": true,
+    "id": "n4",
+    "lead": false
+  },
+  {
+    "headline": "Traders now see little chance of an interest rate cut this year following Fed decision",
+    "deck": "All of the positive economic talk out of this week's Federal Reserve meeting had a negative impact on investors",
+    "cnTitle": "美联储决议后交易员看淡年内降息前景",
+    "cnDeck": "美联储本周会议释放的积极经济信号对投资者产生了负面影响。交易员现在认为今年美联储降息的可能性很小。这一转变反映了市场对美联储政策立场的重新评估，即美联储可能在更长时间内维持较高利率水平。美联储最近的决议和官员言论暗示，尽管经济面临挑战，但美联储仍致力于控制通胀，这意味着利率可能在较长时期内保持在限制性水平。这一预期的转变导致股市承压，因为投资者调整其投资组合配置以适应高利率环境的持续存在。",
+    "cat": "finance",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/19/traders-rate-cut.html",
+    "time": "1小时前",
+    "published_iso": "2026-03-19T13:26:01+00:00",
+    "is_new": true,
+    "id": "n5",
+    "lead": false
+  },
+  {
     "headline": "Trump warns will 'blow up' South Pars gas field in Iran if strikes against Qatar energy continue",
     "deck": "World leaders are scrambling to contain a spiraling Middle East conflict on Thursday after Israel and Iran traded strikes on gas production facilities.",
     "cnTitle": "伊朗卡塔尔能源冲突升级",
@@ -9,9 +79,8 @@
     "url": "https://www.cnbc.com/2026/03/19/iran-israel-us-war-energy-facilities-south-pars-global-reactions.html",
     "time": "刚刚",
     "published_iso": "2026-03-19T12:48:26+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n6",
+    "lead": false
   },
   {
     "headline": "HSBC Weighs Cutting 20K Jobs as AI Takes Centre Stage - Bloomberg.com",
@@ -23,8 +92,7 @@
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdXEzdjBZdTBRbTJ2UXdMVmpqWHpBSWtpOWdNTzlHZ2lfSW1HdW1IQndJTjQzd1NSU09XUGtIUkk5aS1JdFY0Qzg3bnBNUmZ6TWFwSHdDaUJKMDJoZ2hKYXE4dy1GemRSekhmN1BSRW9vaWNCaE5tX0VlcERURWRGQmtycGdfektudExVZVhRV1JfdURhR04wMGEyd1AwckRleTdtUXRfbUljWUk?oc=5",
     "time": "刚刚",
     "published_iso": "2026-03-19T12:47:00+00:00",
-    "is_new": true,
-    "id": "n2",
+    "id": "n7",
     "lead": false
   },
   {
@@ -37,8 +105,7 @@
     "url": "https://www.bbc.com/news/articles/c8d5dee3ep8o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-03-19T12:45:40+00:00",
-    "is_new": true,
-    "id": "n3",
+    "id": "n8",
     "lead": false
   },
   {
@@ -51,8 +118,7 @@
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWWkyZTIxajFXY2o1RVhfWnFTdFZ1MUZSelo0MjAwMEZWdjdJTlJyT2ZVUGhYOE1KaUxUOWJ2UWdmRjRxZFNRU2pWbzI3SEhMdHVmSm5ZZVBLRGxhRE1QS2tYN1JnSTN1YzJySWdPY0RHOUQ0cUo0UDh3MFhyME4wOFNqcTBYallpUkFkaEVzQzZLQ09MRTBPWVl6Nm5LQzZBV216cE1JdS1EaHdfYzVJeUNfRQ?oc=5",
     "time": "刚刚",
     "published_iso": "2026-03-19T12:26:19+00:00",
-    "is_new": true,
-    "id": "n4",
+    "id": "n9",
     "lead": false
   },
   {
@@ -65,8 +131,7 @@
     "url": "https://www.cnbc.com/2026/03/19/uber-rivian-robotaxi.html",
     "time": "刚刚",
     "published_iso": "2026-03-19T12:18:33+00:00",
-    "is_new": true,
-    "id": "n5",
+    "id": "n10",
     "lead": false
   },
   {
@@ -79,8 +144,7 @@
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcERCVThGSmk3Y1NGNlNMV3U1WW1xbl9TUFRfNFBJTENXcGhWbVZLVmtMVGZFX0dFY2lkaVhxdW5RQXJ4VFBRRHJUcEhMaEtVSjMtN09aT0wwejluV3lDUVZYWWJwY0dsdG8zZVdrQ2l3V21nMENFOVBLaThab2NnUDZHUElRX0ZEWUxYQ3BrVHlzVXZ6eTZjLWtxb1phQVBMYVUtT3VZLXFuZw?oc=5",
     "time": "刚刚",
     "published_iso": "2026-03-19T12:00:01+00:00",
-    "is_new": true,
-    "id": "n6",
+    "id": "n11",
     "lead": false
   },
   {
@@ -93,8 +157,7 @@
     "url": "https://www.cnbc.com/2026/03/19/alibaba-december-quarter-earnings-ai-investment.html",
     "time": "1小时前",
     "published_iso": "2026-03-19T11:52:17+00:00",
-    "is_new": true,
-    "id": "n7",
+    "id": "n12",
     "lead": false
   },
   {
@@ -107,8 +170,7 @@
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYzcwOTR5RE0xRk00eGlYSTdQYXJTM0NvRGg1eVN3aFlnaVhNZWpVSXp0bkxGU0dKN1FfUEtZRmlvMmJQTWJQSmpwcGRxbVZZLXFTNGQtZmJMZFdzRkx4Zjc4X1BUVVBZUnF4WFVYODBPR2E3b2xDVHlGcTQ4bDBUaFNlSVl1RDhPUDB3QkhNRXJOSWJucG1DS09uSENMY1BfTzc0Wk0wOVhCQ1VfRkRZ?oc=5",
     "time": "1小时前",
     "published_iso": "2026-03-19T11:46:23+00:00",
-    "is_new": true,
-    "id": "n8",
+    "id": "n13",
     "lead": false
   },
   {
@@ -121,8 +183,7 @@
     "url": "https://www.cnbc.com/2026/03/18/inflation-dominates-powells-remarks-pressures-stocks-plus-big-earnings-tonight.html",
     "time": "1小时前",
     "published_iso": "2026-03-19T11:25:49+00:00",
-    "is_new": true,
-    "id": "n9",
+    "id": "n14",
     "lead": false
   },
   {
@@ -135,8 +196,7 @@
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUTdqNWptXzI5ZV9TR29aOUJPM0xHOU1kZTZDLWZRSXUxSlMtQlo0TmF6Y296SWFmYkk0dkp2ZlVwaG1DSDJGUEN5ZDFFWFAxY0lIZzN5ZFhQOUFnY1djYUxiWEtrR3dRT3h3aDZLM2QxaDd0X0k0VmV0TWQ2WWc2anc5WTUwa0xlS3NzRDVfOXFTU2RCU2c?oc=5",
     "time": "1小时前",
     "published_iso": "2026-03-19T11:24:13+00:00",
-    "is_new": true,
-    "id": "n10",
+    "id": "n15",
     "lead": false
   },
   {
@@ -149,8 +209,7 @@
     "url": "https://www.cnbc.com/2026/03/19/gulf-states-iran-attacks-retaliation-strikes-energy-oil-gas-water-strait-of-hormuz.html",
     "time": "1小时前",
     "published_iso": "2026-03-19T11:16:26+00:00",
-    "is_new": true,
-    "id": "n11",
+    "id": "n16",
     "lead": false
   },
   {
@@ -163,8 +222,7 @@
     "url": "https://www.bbc.com/news/articles/c15x5ejgyl3o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-03-19T11:14:02+00:00",
-    "is_new": true,
-    "id": "n12",
+    "id": "n17",
     "lead": false
   },
   {
@@ -177,8 +235,7 @@
     "url": "https://www.bbc.com/news/articles/cy7166denxeo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-03-19T11:05:55+00:00",
-    "is_new": true,
-    "id": "n13",
+    "id": "n18",
     "lead": false
   },
   {
@@ -191,8 +248,7 @@
     "url": "https://www.bbc.com/news/articles/cde4e2xyelpo?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-03-19T10:30:42+00:00",
-    "is_new": true,
-    "id": "n14",
+    "id": "n19",
     "lead": false
   },
   {
@@ -205,8 +261,7 @@
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTkV4YzREMzlwMnFKcnNpci1QZkRBVURtdnYxTGgzYjZ2MDNBbFZqWVlTcHdyck01MzBldjdqUW96MXkzMlZyM0lfMk1oUXd5bXpiSDFsUkRUWXdYQzdUUXl2RGtmTVNqdDd4Ri02MlB2bDFNN3FrRG1URzV0NHVNT1ZQSklvLXlqUmgxd1Q0a1MxZzh3c1ZNd3NxbjdCSktYRFJNekFxcXZSbXRZdlNPejdR?oc=5",
     "time": "3小时前",
     "published_iso": "2026-03-19T09:53:20+00:00",
-    "is_new": true,
-    "id": "n15",
+    "id": "n20",
     "lead": false
   },
   {
@@ -219,8 +274,7 @@
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTjdYUzMwdW9zU3Y1eEV3NVlfczU5SS1waTFWSDJWRV9Rdm1fWFJiZXdHRW1GQ3dSLUZuRnl3TGhUSjNIMGY4RmZublZrcVFyRndleFR4UlBlNnpHa1NsMEYyYU5RYThZOE5IVzBXeG00RUNVcHYyUEpIQ1NPQUNEbWFVdzJMQW1qZDZ3eGROSjdCNU9ZLWhBQ0Z4QmlEMXRY?oc=5",
     "time": "3小时前",
     "published_iso": "2026-03-19T09:31:42+00:00",
-    "is_new": true,
-    "id": "n16",
+    "id": "n21",
     "lead": false
   },
   {
@@ -233,8 +287,7 @@
     "url": "https://www.bbc.com/news/articles/cn0z0x82r00o?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-03-19T08:48:29+00:00",
-    "is_new": true,
-    "id": "n17",
+    "id": "n22",
     "lead": false
   },
   {
@@ -247,8 +300,7 @@
     "url": "https://www.bbc.com/news/articles/c3ewe7v7gpgo?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-03-19T05:55:42+00:00",
-    "is_new": true,
-    "id": "n18",
+    "id": "n23",
     "lead": false
   },
   {
@@ -261,8 +313,21 @@
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeWg1ZUZQVHR2WmdEM19EYUhWd0NJZjRSelZqYzVEVG1nS0ExRTJMM1pNUlFJc0tsa1d4c0o5c2laM1BxT0UxMmw0dVV3SzY0ZFlOMFFUVGE0MG1UZzdoX1ZNUXlXZWRzWW55M0tsamNQV1RNOE1qTnBZYjlSQjU5eGRwY29ibkFyMDU3dzkyT2tUNHFidV92WG9kbEtiRmNWUkhmTUpMUnNpX1F4YmtyRVBMTWw?oc=5",
     "time": "8小时前",
     "published_iso": "2026-03-19T03:58:00+00:00",
+    "id": "n24",
+    "lead": false
+  },
+  {
+    "headline": "Here are the five key takeaways from this week's Fed meeting",
+    "deck": "While no one expected the Fed to cut — much less hike — at this meeting, the market always looks for clues about what's next.",
+    "cnTitle": "美联储本周会议五大要点解读",
+    "cnDeck": "美联储本周召开会议，市场虽未预期美联储在此次会议上降息或加息，但投资者始终关注美联储对未来政策方向的线索。本次会议涉及五个关键要点，这些要点将为市场参与者提供理解美联储政策立场的重要信息。美联储的政策决定对全球金融市场具有重大影响，包括股票、债券、外汇等多个资产类别。投资者普遍关注美联储主席的讲话、经济预期和利率前景指引。本周会议的相关声明和数据将帮助市场评估美联储在应对通胀、就业和经济增长方面的政策取向。",
+    "cat": "finance",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/18/here-are-the-five-key-takeaways-from-this-weeks-fed-meeting.html",
+    "time": "11小时前",
+    "published_iso": "2026-03-19T03:01:27+00:00",
     "is_new": true,
-    "id": "n19",
+    "id": "n25",
     "lead": false
   },
   {
@@ -275,8 +340,21 @@
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNby01OEZ3dWJ6ZXNlQVpQV2owbDd4eDE5dUprZHlRbTFmTXpLNHRTbERJTEVwMlVlcTVpUHlXQ1hZMWI2UjBBVkI1U1gtWnhDejFBeHd3MGFramF2NjF2VWhtVkhlcDZndEwwcXBGZkVTQmEzRl94WktPUV9jRDFETWM4Wl9YU09DdnRWT2M4RkFBYzlFcnl2YUJvLWVIZU5Ld3FHTUNfbFBReEVlWnBJ?oc=5",
     "time": "10小时前",
     "published_iso": "2026-03-19T02:07:00+00:00",
+    "id": "n26",
+    "lead": false
+  },
+  {
+    "headline": "Micron revenue almost triples, tops estimates as demand for memory soars",
+    "deck": "Micron's stock has soared this year while its tech peers have struggled, as the impact of rising memory costs ripples across the industry.",
+    "cnTitle": "美光营收增长强劲超预期",
+    "cnDeck": "美光科技公布财务业绩，营收几乎三倍增长并超越分析师预期，反映出市场对存储芯片需求的强劲增长。随着存储芯片成本上升对整个行业产生连锁反应，美光股价在今年表现强劲，而其他科技同行则面临困境。存储芯片需求的增加主要受到人工智能、数据中心扩容以及云计算服务快速发展的驱动。美光作为全球主要的DRAM和NAND闪存芯片制造商，在这波需求浪潮中获得显著增长。公司营收增长超出市场预期，显示其在高端存储芯片领域的竞争力不断增强。这一业绩表现也反映了半导体行业供应链紧张状况的缓解以及市场需求的恢复。美光的强劲表现对整个科技产业链具有重要示范意义，预示着芯片行业可能迎来新一轮增长周期。",
+    "cat": "tech",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/18/micron-mu-q2-earnings-report-2026.html",
+    "time": "16小时前",
+    "published_iso": "2026-03-18T22:31:17+00:00",
     "is_new": true,
-    "id": "n20",
+    "id": "n27",
     "lead": false
   },
   {
@@ -289,8 +367,7 @@
     "url": "https://www.cnbc.com/2026/03/18/dot-plot-fed-still-expects-to-cut-rates-once-this-year-despite-spiking-oil-prices-.html",
     "time": "17小时前",
     "published_iso": "2026-03-18T18:59:40+00:00",
-    "is_new": true,
-    "id": "n21",
+    "id": "n28",
     "lead": false
   },
   {
@@ -303,8 +380,7 @@
     "url": "https://www.cnbc.com/2026/03/18/views-for-next-fed-rate-cut-pushed-back-after-hot-inflation-report.html",
     "time": "18小时前",
     "published_iso": "2026-03-18T18:40:14+00:00",
-    "is_new": true,
-    "id": "n22",
+    "id": "n29",
     "lead": false
   },
   {
@@ -317,8 +393,21 @@
     "url": "https://www.cnbc.com/2026/03/18/federal-reserve-meeting-statement-march.html",
     "time": "18小时前",
     "published_iso": "2026-03-18T18:05:12+00:00",
+    "id": "n30",
+    "lead": false
+  },
+  {
+    "headline": "Micron rides memory price spike into earnings with stock up 62%, drubbing its tech peers",
+    "deck": "As generative AI models get more sophisticated, companies need more memory and faster memory, Micron CEO Sanjay Mehrotra said in January.",
+    "cnTitle": "美光芯片需求旺盛股价涨62%",
+    "cnDeck": "美光公司首席执行官桑杰·梅赫罗特拉在1月份表示，随着生成式人工智能模型变得越来越复杂，公司需要更多内存和更快的内存。受益于AI芯片需求的快速增长，美光科技股价今年已上涨62%，大幅跑赢其他科技股。内存芯片价格的上升和市场对高性能芯片的需求推动了美光的业绩增长，这反映了全球对AI基础设施投资的持续升温。美光作为全球主要的内存和存储芯片制造商，正从AI产业的快速发展中获益。",
+    "cat": "tech",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/18/micron-mu-memory-price-spike-earnings.html",
+    "time": "1天前",
+    "published_iso": "2026-03-18T13:37:07+00:00",
     "is_new": true,
-    "id": "n23",
+    "id": "n31",
     "lead": false
   },
   {
@@ -331,22 +420,7 @@
     "url": "https://www.cnbc.com/2026/03/17/the-fed-issues-its-latest-interest-rate-decision-wednesday-heres-what-to-expect.html",
     "time": "1天前",
     "published_iso": "2026-03-17T20:29:55+00:00",
-    "is_new": true,
-    "id": "n24",
-    "lead": false
-  },
-  {
-    "headline": "Mastercard says it's acquiring stablecoin startup BVNK in $1.8 billion bet on future of payments",
-    "deck": "Stablecoin startups have been a hot commodity since the reelection of President Donald Trump in late 2024 ushered in a new era of crypto-friendly regulation.",
-    "cnTitle": "Mastercard以18亿美元收购稳定币初创企业",
-    "cnDeck": "Mastercard宣布以18亿美元收购稳定币初创企业BVNK，这笔交易反映了支付未来的一次重大押注。自2024年底唐纳德·特朗普总统连任以来，加密友好的监管时代随之而来，稳定币初创企业成为了炙手可热的商品。Mastercard此举标志着传统支付巨头正在积极布局数字资产领域，特别是在稳定币这一新兴支付形式上。这笔收购交易彰显了Mastercard对加密货币支付生态发展的战略重视，以及其在面对未来支付方式多元化时的主动转变。稳定币作为区块链上的支付工具，近期因监管环境改善而获得更多市场关注和机构投资。此次Mastercard的大手笔收购BVNK，预示着传统金融和数字资产的进一步融合，也反映了支付行业正在经历的深刻变革。",
-    "cat": "tech",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/03/17/mastercard-acquiring-stablecoin-startup-bvnk-in-crypto-bet.html",
-    "time": "1天前",
-    "published_iso": "2026-03-17T14:40:39+00:00",
-    "is_new": true,
-    "id": "n25",
+    "id": "n32",
     "lead": false
   }
 ]
