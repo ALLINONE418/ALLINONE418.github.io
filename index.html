@@ -613,17 +613,24 @@ async function loadAssets(){
       <div class="asset-section-title">${sec.title}</div>
       <table class="asset-table">
         <thead><tr>
-          <th>Name</th><th>Price</th>
-          <th style="text-align:right">Change (24h)</th>
+          <th>Name</th>
+          <th style="text-align:right">Price</th>
+          <th style="text-align:right">24H</th>
+          <th style="text-align:right">6M</th>
+          <th style="text-align:right">1Y</th>
+          <th style="text-align:right">3Y</th>
           <th style="text-align:right">52W Range</th>
-          <th style="width:90px;text-align:right">Trend</th>
+          <th style="width:80px;text-align:right">Trend</th>
         </tr></thead>
         <tbody>${sorted.map(item=>`
         <tr onclick="selectAssetRow(this,'${item.key}')">
           <td><div class="td-name">${item.name}</div><div class="td-sub">${item.sub}</div></td>
-          <td class="td-price">${item.price}</td>
-          <td><span class="td-chg ${item.up?'up':'dn'}">${item.chg}</span></td>
-          <td class="td-range">${item.range52}</td>
+          <td class="td-price" style="text-align:right">${item.price}</td>
+          <td style="text-align:right"><span class="td-chg ${item.up?'up':'dn'}">${item.chg}</span></td>
+          <td style="text-align:right"><span class="td-chg ${item.up_6m?'up':'dn'}">${item.chg_6m||'N/A'}</span></td>
+          <td style="text-align:right"><span class="td-chg ${item.up_1y?'up':'dn'}">${item.chg_1y||'N/A'}</span></td>
+          <td style="text-align:right"><span class="td-chg ${item.up_3y?'up':'dn'}">${item.chg_3y||'N/A'}</span></td>
+          <td class="td-range" style="text-align:right">${item.range52}</td>
           <td class="sparkline-cell"><canvas id="sp-${item.key}" width="80" height="32"></canvas></td>
         </tr>`).join('')}</tbody>
       </table>
