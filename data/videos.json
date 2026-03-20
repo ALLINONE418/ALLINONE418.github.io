@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-03-20T09:09:12.064762+00:00",
+  "updated_at": "2026-03-20T09:19:59.308567+00:00",
   "keep_hours": 336,
-  "total_videos": 135,
+  "total_videos": 68,
   "channels": [
     {
       "channel_name": "方方土",
@@ -17,49 +17,14 @@
       "lang": "cn",
       "videos": [
         {
-          "id": "_64AIU6RlsA",
-          "title": "不透明、不改制军工腐败难以遏制",
-          "description": "1. YouTube 会员平台\n成为本频道的会员，即可尊享专属福利，提前观看节目，直播，专属会员节目。\n点击链接了解详情并加入：https://www.youtube.com/channel/UCBKDRq35-L8xev4O7ZqBeLg/join\n \n2. Patreon 会员平台\n在 Patreon 中加入「王局」会员，您不仅可以观看会员专属视频，直播，更能参与会员社群互动，更贴心的是，Pa",
-          "thumbnail": "https://i.ytimg.com/vi/_64AIU6RlsA/maxresdefault.jpg",
-          "published_at": "2026-03-20T07:45:05Z",
-          "url": "https://www.youtube.com/watch?v=_64AIU6RlsA",
-          "embed_url": "https://www.youtube.com/embed/_64AIU6RlsA"
-        },
-        {
-          "id": "4V1QY4mf6cY",
-          "title": "科技强军，军费暴涨养肥了多少腐败将军",
-          "description": "1. YouTube 会员平台\n成为本频道的会员，即可尊享专属福利，提前观看节目，直播，专属会员节目。\n点击链接了解详情并加入：https://www.youtube.com/channel/UCBKDRq35-L8xev4O7ZqBeLg/join\n \n2. Patreon 会员平台\n在 Patreon 中加入「王局」会员，您不仅可以观看会员专属视频，直播，更能参与会员社群互动，更贴心的是，Pa",
-          "thumbnail": "https://i.ytimg.com/vi/4V1QY4mf6cY/maxresdefault.jpg",
-          "published_at": "2026-03-20T06:45:52Z",
-          "url": "https://www.youtube.com/watch?v=4V1QY4mf6cY",
-          "embed_url": "https://www.youtube.com/embed/4V1QY4mf6cY"
-        },
-        {
           "id": "6QSl94BpBqk",
           "title": "川普和高市早苗联合记者会状况不断，精彩呈现｜新闻特写20260320",
           "description": "1. YouTube 会员平台\n成为本频道的会员，即可尊享专属福利，提前观看节目，直播，专属会员节目。\n点击链接了解详情并加入：https://www.youtube.com/channel/UCBKDRq35-L8xev4O7ZqBeLg/join\n \n2. Patreon 会员平台\n在 Patreon 中加入「王局」会员，您不仅可以观看会员专属视频，直播，更能参与会员社群互动，更贴心的是，Pa",
           "thumbnail": "https://i.ytimg.com/vi/6QSl94BpBqk/hqdefault.jpg",
           "published_at": "2026-03-20T05:02:39Z",
           "url": "https://www.youtube.com/watch?v=6QSl94BpBqk",
-          "embed_url": "https://www.youtube.com/embed/6QSl94BpBqk"
-        },
-        {
-          "id": "Yw9A4PdCjPk",
-          "title": "军工央企为何总是一抓一大批的窝案？",
-          "description": "1. YouTube 会员平台\n成为本频道的会员，即可尊享专属福利，提前观看节目，直播，专属会员节目。\n点击链接了解详情并加入：https://www.youtube.com/channel/UCBKDRq35-L8xev4O7ZqBeLg/join\n \n2. Patreon 会员平台\n在 Patreon 中加入「王局」会员，您不仅可以观看会员专属视频，直播，更能参与会员社群互动，更贴心的是，Pa",
-          "thumbnail": "https://i.ytimg.com/vi/Yw9A4PdCjPk/maxresdefault.jpg",
-          "published_at": "2026-03-20T02:25:41Z",
-          "url": "https://www.youtube.com/watch?v=Yw9A4PdCjPk",
-          "embed_url": "https://www.youtube.com/embed/Yw9A4PdCjPk"
-        },
-        {
-          "id": "mYdmu91sDB8",
-          "title": "预告：300万诈骗款跨国追讨记（下集） 从北京到迪拜带领受骗者围剿翟山鹰｜局面访谈预告20260320",
-          "description": "1. YouTube 会员平台\n成为本频道的会员，即可尊享专属福利，提前观看节目，直播，专属会员节目。\n点击链接了解详情并加入：https://www.youtube.com/channel/UCBKDRq35-L8xev4O7ZqBeLg/join\n \n2. Patreon 会员平台\n在 Patreon 中加入「王局」会员，您不仅可以观看会员专属视频，直播，更能参与会员社群互动，更贴心的是，Pa",
-          "thumbnail": "https://i.ytimg.com/vi/mYdmu91sDB8/maxresdefault.jpg",
-          "published_at": "2026-03-20T01:07:04Z",
-          "url": "https://www.youtube.com/watch?v=mYdmu91sDB8",
-          "embed_url": "https://www.youtube.com/embed/mYdmu91sDB8"
+          "embed_url": "https://www.youtube.com/embed/6QSl94BpBqk",
+          "duration_seconds": 1500
         },
         {
           "id": "H9yFmxAgtDw",
@@ -68,25 +33,8 @@
           "thumbnail": "https://i.ytimg.com/vi/H9yFmxAgtDw/maxresdefault.jpg",
           "published_at": "2026-03-19T12:00:25Z",
           "url": "https://www.youtube.com/watch?v=H9yFmxAgtDw",
-          "embed_url": "https://www.youtube.com/embed/H9yFmxAgtDw"
-        },
-        {
-          "id": "r0NQWv4mULc",
-          "title": "10年前被初中生攻破系统10年后数据被黑客一锅端",
-          "description": "1. YouTube 会员平台\n成为本频道的会员，即可尊享专属福利，提前观看节目，直播，专属会员节目。\n点击链接了解详情并加入：https://www.youtube.com/channel/UCBKDRq35-L8xev4O7ZqBeLg/join\n \n2. Patreon 会员平台\n在 Patreon 中加入「王局」会员，您不仅可以观看会员专属视频，直播，更能参与会员社群互动，更贴心的是，Pa",
-          "thumbnail": "https://i.ytimg.com/vi/r0NQWv4mULc/maxresdefault.jpg",
-          "published_at": "2026-03-19T06:30:25Z",
-          "url": "https://www.youtube.com/watch?v=r0NQWv4mULc",
-          "embed_url": "https://www.youtube.com/embed/r0NQWv4mULc"
-        },
-        {
-          "id": "BvTl99O4s-0",
-          "title": "为什么国家级数据中心出现这么大的漏洞？",
-          "description": "1. YouTube 会员平台\n成为本频道的会员，即可尊享专属福利，提前观看节目，直播，专属会员节目。\n点击链接了解详情并加入：https://www.youtube.com/channel/UCBKDRq35-L8xev4O7ZqBeLg/join\n \n2. Patreon 会员平台\n在 Patreon 中加入「王局」会员，您不仅可以观看会员专属视频，直播，更能参与会员社群互动，更贴心的是，Pa",
-          "thumbnail": "https://i.ytimg.com/vi/BvTl99O4s-0/maxresdefault.jpg",
-          "published_at": "2026-03-19T01:47:20Z",
-          "url": "https://www.youtube.com/watch?v=BvTl99O4s-0",
-          "embed_url": "https://www.youtube.com/embed/BvTl99O4s-0"
+          "embed_url": "https://www.youtube.com/embed/H9yFmxAgtDw",
+          "duration_seconds": 1779
         },
         {
           "id": "ybCMiAYt1hk",
@@ -95,25 +43,8 @@
           "thumbnail": "https://i.ytimg.com/vi/ybCMiAYt1hk/maxresdefault.jpg",
           "published_at": "2026-03-18T12:01:44Z",
           "url": "https://www.youtube.com/watch?v=ybCMiAYt1hk",
-          "embed_url": "https://www.youtube.com/embed/ybCMiAYt1hk"
-        },
-        {
-          "id": "cTtr7hpvoOo",
-          "title": "日本车企为何打不过中国新能源？",
-          "description": "1. YouTube 会员平台\n成为本频道的会员，即可尊享专属福利，提前观看节目，直播，专属会员节目。\n点击链接了解详情并加入：https://www.youtube.com/channel/UCBKDRq35-L8xev4O7ZqBeLg/join\n \n2. Patreon 会员平台\n在 Patreon 中加入「王局」会员，您不仅可以观看会员专属视频，直播，更能参与会员社群互动，更贴心的是，Pa",
-          "thumbnail": "https://i.ytimg.com/vi/cTtr7hpvoOo/maxresdefault.jpg",
-          "published_at": "2026-03-18T06:30:20Z",
-          "url": "https://www.youtube.com/watch?v=cTtr7hpvoOo",
-          "embed_url": "https://www.youtube.com/embed/cTtr7hpvoOo"
-        },
-        {
-          "id": "WRzKSiKIK9I",
-          "title": "电动化、智能化双落后留给日本汽车的时间不多了",
-          "description": "1. YouTube 会员平台\n成为本频道的会员，即可尊享专属福利，提前观看节目，直播，专属会员节目。\n点击链接了解详情并加入：https://www.youtube.com/channel/UCBKDRq35-L8xev4O7ZqBeLg/join\n \n2. Patreon 会员平台\n在 Patreon 中加入「王局」会员，您不仅可以观看会员专属视频，直播，更能参与会员社群互动，更贴心的是，Pa",
-          "thumbnail": "https://i.ytimg.com/vi/WRzKSiKIK9I/maxresdefault.jpg",
-          "published_at": "2026-03-18T02:05:16Z",
-          "url": "https://www.youtube.com/watch?v=WRzKSiKIK9I",
-          "embed_url": "https://www.youtube.com/embed/WRzKSiKIK9I"
+          "embed_url": "https://www.youtube.com/embed/ybCMiAYt1hk",
+          "duration_seconds": 1828
         },
         {
           "id": "VK3QFLOcTBo",
@@ -122,25 +53,8 @@
           "thumbnail": "https://i.ytimg.com/vi/VK3QFLOcTBo/maxresdefault.jpg",
           "published_at": "2026-03-17T12:00:53Z",
           "url": "https://www.youtube.com/watch?v=VK3QFLOcTBo",
-          "embed_url": "https://www.youtube.com/embed/VK3QFLOcTBo"
-        },
-        {
-          "id": "ej2uzdG0e-8",
-          "title": "56个民族都学普通话中共说这叫中华民族共同体",
-          "description": "1. YouTube 会员平台\n成为本频道的会员，即可尊享专属福利，提前观看节目，直播，专属会员节目。\n点击链接了解详情并加入：https://www.youtube.com/channel/UCBKDRq35-L8xev4O7ZqBeLg/join\n \n2. Patreon 会员平台\n在 Patreon 中加入「王局」会员，您不仅可以观看会员专属视频，直播，更能参与会员社群互动，更贴心的是，Pa",
-          "thumbnail": "https://i.ytimg.com/vi/ej2uzdG0e-8/maxresdefault.jpg",
-          "published_at": "2026-03-17T07:30:31Z",
-          "url": "https://www.youtube.com/watch?v=ej2uzdG0e-8",
-          "embed_url": "https://www.youtube.com/embed/ej2uzdG0e-8"
-        },
-        {
-          "id": "GES0Gamy9gc",
-          "title": "构建中华民族共同“精神家园”的核心是什么？",
-          "description": "1. YouTube 会员平台\n成为本频道的会员，即可尊享专属福利，提前观看节目，直播，专属会员节目。\n点击链接了解详情并加入：https://www.youtube.com/channel/UCBKDRq35-L8xev4O7ZqBeLg/join\n \n2. Patreon 会员平台\n在 Patreon 中加入「王局」会员，您不仅可以观看会员专属视频，直播，更能参与会员社群互动，更贴心的是，Pa",
-          "thumbnail": "https://i.ytimg.com/vi/GES0Gamy9gc/maxresdefault.jpg",
-          "published_at": "2026-03-17T03:58:19Z",
-          "url": "https://www.youtube.com/watch?v=GES0Gamy9gc",
-          "embed_url": "https://www.youtube.com/embed/GES0Gamy9gc"
+          "embed_url": "https://www.youtube.com/embed/VK3QFLOcTBo",
+          "duration_seconds": 2114
         },
         {
           "id": "fY2GYWCje-A",
@@ -149,7 +63,8 @@
           "thumbnail": "https://i.ytimg.com/vi/fY2GYWCje-A/maxresdefault.jpg",
           "published_at": "2026-03-17T03:01:28Z",
           "url": "https://www.youtube.com/watch?v=fY2GYWCje-A",
-          "embed_url": "https://www.youtube.com/embed/fY2GYWCje-A"
+          "embed_url": "https://www.youtube.com/embed/fY2GYWCje-A",
+          "duration_seconds": 321
         },
         {
           "id": "Ul44hwGvPeM",
@@ -158,7 +73,8 @@
           "thumbnail": "https://i.ytimg.com/vi/Ul44hwGvPeM/maxresdefault.jpg",
           "published_at": "2026-03-16T12:00:54Z",
           "url": "https://www.youtube.com/watch?v=Ul44hwGvPeM",
-          "embed_url": "https://www.youtube.com/embed/Ul44hwGvPeM"
+          "embed_url": "https://www.youtube.com/embed/Ul44hwGvPeM",
+          "duration_seconds": 2080
         },
         {
           "id": "DsIK0HfLWJ4",
@@ -167,7 +83,8 @@
           "thumbnail": "https://i.ytimg.com/vi/DsIK0HfLWJ4/hqdefault.jpg",
           "published_at": "2026-03-16T07:32:06Z",
           "url": "https://www.youtube.com/watch?v=DsIK0HfLWJ4",
-          "embed_url": "https://www.youtube.com/embed/DsIK0HfLWJ4"
+          "embed_url": "https://www.youtube.com/embed/DsIK0HfLWJ4",
+          "duration_seconds": 1191
         },
         {
           "id": "gryXa0Ajqls",
@@ -176,7 +93,8 @@
           "thumbnail": "https://i.ytimg.com/vi/gryXa0Ajqls/maxresdefault.jpg",
           "published_at": "2026-03-16T02:29:13Z",
           "url": "https://www.youtube.com/watch?v=gryXa0Ajqls",
-          "embed_url": "https://www.youtube.com/embed/gryXa0Ajqls"
+          "embed_url": "https://www.youtube.com/embed/gryXa0Ajqls",
+          "duration_seconds": 753
         },
         {
           "id": "rzxE7PGDfKQ",
@@ -185,7 +103,8 @@
           "thumbnail": "https://i.ytimg.com/vi/rzxE7PGDfKQ/maxresdefault.jpg",
           "published_at": "2026-03-14T01:01:06Z",
           "url": "https://www.youtube.com/watch?v=rzxE7PGDfKQ",
-          "embed_url": "https://www.youtube.com/embed/rzxE7PGDfKQ"
+          "embed_url": "https://www.youtube.com/embed/rzxE7PGDfKQ",
+          "duration_seconds": 2398
         },
         {
           "id": "DBA04jdpi4o",
@@ -194,7 +113,8 @@
           "thumbnail": "https://i.ytimg.com/vi/DBA04jdpi4o/maxresdefault.jpg",
           "published_at": "2026-03-13T12:00:21Z",
           "url": "https://www.youtube.com/watch?v=DBA04jdpi4o",
-          "embed_url": "https://www.youtube.com/embed/DBA04jdpi4o"
+          "embed_url": "https://www.youtube.com/embed/DBA04jdpi4o",
+          "duration_seconds": 1900
         }
       ]
     },
@@ -211,7 +131,8 @@
           "thumbnail": "https://i.ytimg.com/vi/8nsgIzew3rA/maxresdefault.jpg",
           "published_at": "2026-03-17T14:01:07Z",
           "url": "https://www.youtube.com/watch?v=8nsgIzew3rA",
-          "embed_url": "https://www.youtube.com/embed/8nsgIzew3rA"
+          "embed_url": "https://www.youtube.com/embed/8nsgIzew3rA",
+          "duration_seconds": 1534
         },
         {
           "id": "p4X2A0eYl5M",
@@ -220,7 +141,8 @@
           "thumbnail": "https://i.ytimg.com/vi/p4X2A0eYl5M/maxresdefault.jpg",
           "published_at": "2026-03-13T11:28:52Z",
           "url": "https://www.youtube.com/watch?v=p4X2A0eYl5M",
-          "embed_url": "https://www.youtube.com/embed/p4X2A0eYl5M"
+          "embed_url": "https://www.youtube.com/embed/p4X2A0eYl5M",
+          "duration_seconds": 1070
         },
         {
           "id": "aHf5UQRImAE",
@@ -229,7 +151,8 @@
           "thumbnail": "https://i.ytimg.com/vi/aHf5UQRImAE/maxresdefault.jpg",
           "published_at": "2026-03-08T08:00:00Z",
           "url": "https://www.youtube.com/watch?v=aHf5UQRImAE",
-          "embed_url": "https://www.youtube.com/embed/aHf5UQRImAE"
+          "embed_url": "https://www.youtube.com/embed/aHf5UQRImAE",
+          "duration_seconds": 1241
         }
       ]
     },
@@ -246,7 +169,8 @@
           "thumbnail": "https://i.ytimg.com/vi/Lb60mjM5B1U/maxresdefault.jpg",
           "published_at": "2026-03-14T14:02:54Z",
           "url": "https://www.youtube.com/watch?v=Lb60mjM5B1U",
-          "embed_url": "https://www.youtube.com/embed/Lb60mjM5B1U"
+          "embed_url": "https://www.youtube.com/embed/Lb60mjM5B1U",
+          "duration_seconds": 926
         }
       ]
     },
@@ -263,7 +187,8 @@
           "thumbnail": "https://i.ytimg.com/vi/280QV9d-RvM/maxresdefault.jpg",
           "published_at": "2026-03-16T04:47:03Z",
           "url": "https://www.youtube.com/watch?v=280QV9d-RvM",
-          "embed_url": "https://www.youtube.com/embed/280QV9d-RvM"
+          "embed_url": "https://www.youtube.com/embed/280QV9d-RvM",
+          "duration_seconds": 1583
         }
       ]
     },
@@ -274,31 +199,14 @@
       "lang": "cn",
       "videos": [
         {
-          "id": "RYlQJXi8-NA",
-          "title": "Oops！中國的隱形戰機之父，穿幫了！",
-          "description": "觀看本集完整20分鐘影片，請看： https://youtu.be/TCmkUrBs_zI",
-          "thumbnail": "https://i.ytimg.com/vi/RYlQJXi8-NA/maxresdefault.jpg",
-          "published_at": "2026-03-20T00:52:38Z",
-          "url": "https://www.youtube.com/watch?v=RYlQJXi8-NA",
-          "embed_url": "https://www.youtube.com/embed/RYlQJXi8-NA"
-        },
-        {
           "id": "TCmkUrBs_zI",
           "title": "震撼消息：習近平的一個老朋友沒了！國之重器「殲-20之父」穿幫被抓，問題出在這兒？（1680期）",
           "description": "👉🛒多項文昭精選商品，請訪問文昭網店，點擊鏈接：https://wenzhao.shop/  或YouTube視頻下方的商品櫥窗\n🛒Wise Quest 明目冷敷眼貼\n日本製造｜天然草本｜護眼首選\n古法配方：菊花、薄荷、甘草等精華直達穴位，舒緩乾眼、眼壓與飛蚊不適，重拾明亮清晰視界。",
           "thumbnail": "https://i.ytimg.com/vi/TCmkUrBs_zI/maxresdefault.jpg",
           "published_at": "2026-03-19T00:19:11Z",
           "url": "https://www.youtube.com/watch?v=TCmkUrBs_zI",
-          "embed_url": "https://www.youtube.com/embed/TCmkUrBs_zI"
-        },
-        {
-          "id": "kpRiPRPVpYM",
-          "title": "「帝都經濟圈」是什麼？它的崩塌讓400萬人失色！",
-          "description": "本期完整20分鐘影片，請看： https://youtu.be/3lP3nicdZb4",
-          "thumbnail": "https://i.ytimg.com/vi/kpRiPRPVpYM/maxresdefault.jpg",
-          "published_at": "2026-03-17T13:01:33Z",
-          "url": "https://www.youtube.com/watch?v=kpRiPRPVpYM",
-          "embed_url": "https://www.youtube.com/embed/kpRiPRPVpYM"
+          "embed_url": "https://www.youtube.com/embed/TCmkUrBs_zI",
+          "duration_seconds": 1406
         },
         {
           "id": "3lP3nicdZb4",
@@ -307,16 +215,8 @@
           "thumbnail": "https://i.ytimg.com/vi/3lP3nicdZb4/maxresdefault.jpg",
           "published_at": "2026-03-17T00:16:46Z",
           "url": "https://www.youtube.com/watch?v=3lP3nicdZb4",
-          "embed_url": "https://www.youtube.com/embed/3lP3nicdZb4"
-        },
-        {
-          "id": "mbRIcRV4eYM",
-          "title": "中國正在發生慢性擠兌，你的錢還安全嗎？",
-          "description": "觀看完整20分鐘影片，請看：https://youtu.be/2KCvQU9LjRc",
-          "thumbnail": "https://i.ytimg.com/vi/mbRIcRV4eYM/maxresdefault.jpg",
-          "published_at": "2026-03-16T13:01:33Z",
-          "url": "https://www.youtube.com/watch?v=mbRIcRV4eYM",
-          "embed_url": "https://www.youtube.com/embed/mbRIcRV4eYM"
+          "embed_url": "https://www.youtube.com/embed/3lP3nicdZb4",
+          "duration_seconds": 1292
         },
         {
           "id": "kGNtUFsUGRI",
@@ -325,16 +225,8 @@
           "thumbnail": "https://i.ytimg.com/vi/kGNtUFsUGRI/maxresdefault.jpg",
           "published_at": "2026-03-15T23:30:28Z",
           "url": "https://www.youtube.com/watch?v=kGNtUFsUGRI",
-          "embed_url": "https://www.youtube.com/embed/kGNtUFsUGRI"
-        },
-        {
-          "id": "4jVXPvptPnM",
-          "title": "如果中國發生「德黑蘭時刻」：領袖掛了，能亂成啥樣？",
-          "description": "觀看完整20分鐘影片，請看：https://youtu.be/xfhFuhn4oJo",
-          "thumbnail": "https://i.ytimg.com/vi/4jVXPvptPnM/maxresdefault.jpg",
-          "published_at": "2026-03-15T13:00:15Z",
-          "url": "https://www.youtube.com/watch?v=4jVXPvptPnM",
-          "embed_url": "https://www.youtube.com/embed/4jVXPvptPnM"
+          "embed_url": "https://www.youtube.com/embed/kGNtUFsUGRI",
+          "duration_seconds": 1314
         },
         {
           "id": "xfhFuhn4oJo",
@@ -343,7 +235,8 @@
           "thumbnail": "https://i.ytimg.com/vi/xfhFuhn4oJo/maxresdefault.jpg",
           "published_at": "2026-03-14T00:45:34Z",
           "url": "https://www.youtube.com/watch?v=xfhFuhn4oJo",
-          "embed_url": "https://www.youtube.com/embed/xfhFuhn4oJo"
+          "embed_url": "https://www.youtube.com/embed/xfhFuhn4oJo",
+          "duration_seconds": 1371
         },
         {
           "id": "2KCvQU9LjRc",
@@ -352,16 +245,8 @@
           "thumbnail": "https://i.ytimg.com/vi/2KCvQU9LjRc/maxresdefault.jpg",
           "published_at": "2026-03-12T00:16:58Z",
           "url": "https://www.youtube.com/watch?v=2KCvQU9LjRc",
-          "embed_url": "https://www.youtube.com/embed/2KCvQU9LjRc"
-        },
-        {
-          "id": "u27Xn8lEiEc",
-          "title": "🔥文昭粉絲2026線下見面會來啦！3月29日，多倫多見✋",
-          "description": "🎁 神韻演出購票優惠\n購票網站：https://shenyun.com\n優惠碼：wzofficial26（在神韻官網購買美國、加拿大演出票通用）\n\n💝 誠摯邀請您參加文昭粉絲見面會\n⏰：3月29日（週日）下午1-2點（神韻演出時間：2:00 - 4:30）\n🗺️：加拿大多倫多四季劇院（Four Seasons Centre for the Performing Arts）\n🧭：145 Queen ",
-          "thumbnail": "https://i.ytimg.com/vi/u27Xn8lEiEc/maxresdefault.jpg",
-          "published_at": "2026-03-11T02:02:28Z",
-          "url": "https://www.youtube.com/watch?v=u27Xn8lEiEc",
-          "embed_url": "https://www.youtube.com/embed/u27Xn8lEiEc"
+          "embed_url": "https://www.youtube.com/embed/2KCvQU9LjRc",
+          "duration_seconds": 1176
         },
         {
           "id": "C-S1tfryi7E",
@@ -370,16 +255,8 @@
           "thumbnail": "https://i.ytimg.com/vi/C-S1tfryi7E/maxresdefault.jpg",
           "published_at": "2026-03-10T00:17:14Z",
           "url": "https://www.youtube.com/watch?v=C-S1tfryi7E",
-          "embed_url": "https://www.youtube.com/embed/C-S1tfryi7E"
-        },
-        {
-          "id": "7C9aOYhqpqE",
-          "title": "史上最強迴旋鏢：領袖監控人民，結果自己裸奔了！🤣",
-          "description": "完整20分鐘影片請看：https://youtu.be/Ed70FTenny8",
-          "thumbnail": "https://i.ytimg.com/vi/7C9aOYhqpqE/maxresdefault.jpg",
-          "published_at": "2026-03-09T00:30:06Z",
-          "url": "https://www.youtube.com/watch?v=7C9aOYhqpqE",
-          "embed_url": "https://www.youtube.com/embed/7C9aOYhqpqE"
+          "embed_url": "https://www.youtube.com/embed/C-S1tfryi7E",
+          "duration_seconds": 1367
         },
         {
           "id": "Ed70FTenny8",
@@ -388,16 +265,8 @@
           "thumbnail": "https://i.ytimg.com/vi/Ed70FTenny8/maxresdefault.jpg",
           "published_at": "2026-03-07T01:15:21Z",
           "url": "https://www.youtube.com/watch?v=Ed70FTenny8",
-          "embed_url": "https://www.youtube.com/embed/Ed70FTenny8"
-        },
-        {
-          "id": "Vd4K8DBbMB0",
-          "title": "伊朗向中國示範：獨裁者垮了，誰能接管社會？",
-          "description": "完整20分鐘影片，請看：https://youtu.be/1vBU5inv9qY",
-          "thumbnail": "https://i.ytimg.com/vi/Vd4K8DBbMB0/maxresdefault.jpg",
-          "published_at": "2026-03-06T14:00:53Z",
-          "url": "https://www.youtube.com/watch?v=Vd4K8DBbMB0",
-          "embed_url": "https://www.youtube.com/embed/Vd4K8DBbMB0"
+          "embed_url": "https://www.youtube.com/embed/Ed70FTenny8",
+          "duration_seconds": 1292
         }
       ]
     },
@@ -414,7 +283,8 @@
           "thumbnail": "https://i.ytimg.com/vi/Fh5HeQN5kI8/maxresdefault.jpg",
           "published_at": "2026-03-14T13:47:58Z",
           "url": "https://www.youtube.com/watch?v=Fh5HeQN5kI8",
-          "embed_url": "https://www.youtube.com/embed/Fh5HeQN5kI8"
+          "embed_url": "https://www.youtube.com/embed/Fh5HeQN5kI8",
+          "duration_seconds": 2888
         }
       ]
     },
@@ -431,7 +301,8 @@
           "thumbnail": "https://i.ytimg.com/vi/uQ6CsJX1Qe4/maxresdefault.jpg",
           "published_at": "2026-03-20T00:36:28Z",
           "url": "https://www.youtube.com/watch?v=uQ6CsJX1Qe4",
-          "embed_url": "https://www.youtube.com/embed/uQ6CsJX1Qe4"
+          "embed_url": "https://www.youtube.com/embed/uQ6CsJX1Qe4",
+          "duration_seconds": 347
         },
         {
           "id": "KdKog5ckw34",
@@ -440,7 +311,8 @@
           "thumbnail": "https://i.ytimg.com/vi/KdKog5ckw34/maxresdefault.jpg",
           "published_at": "2026-03-19T07:00:16Z",
           "url": "https://www.youtube.com/watch?v=KdKog5ckw34",
-          "embed_url": "https://www.youtube.com/embed/KdKog5ckw34"
+          "embed_url": "https://www.youtube.com/embed/KdKog5ckw34",
+          "duration_seconds": 1098
         },
         {
           "id": "SnO1OnswVEU",
@@ -449,7 +321,8 @@
           "thumbnail": "https://i.ytimg.com/vi/SnO1OnswVEU/maxresdefault.jpg",
           "published_at": "2026-03-17T13:18:10Z",
           "url": "https://www.youtube.com/watch?v=SnO1OnswVEU",
-          "embed_url": "https://www.youtube.com/embed/SnO1OnswVEU"
+          "embed_url": "https://www.youtube.com/embed/SnO1OnswVEU",
+          "duration_seconds": 1204
         },
         {
           "id": "Al82X-TfWuM",
@@ -458,7 +331,8 @@
           "thumbnail": "https://i.ytimg.com/vi/Al82X-TfWuM/maxresdefault.jpg",
           "published_at": "2026-03-14T23:22:15Z",
           "url": "https://www.youtube.com/watch?v=Al82X-TfWuM",
-          "embed_url": "https://www.youtube.com/embed/Al82X-TfWuM"
+          "embed_url": "https://www.youtube.com/embed/Al82X-TfWuM",
+          "duration_seconds": 1191
         },
         {
           "id": "t0s4M9QAmqE",
@@ -467,7 +341,8 @@
           "thumbnail": "https://i.ytimg.com/vi/t0s4M9QAmqE/maxresdefault.jpg",
           "published_at": "2026-03-13T23:50:18Z",
           "url": "https://www.youtube.com/watch?v=t0s4M9QAmqE",
-          "embed_url": "https://www.youtube.com/embed/t0s4M9QAmqE"
+          "embed_url": "https://www.youtube.com/embed/t0s4M9QAmqE",
+          "duration_seconds": 1130
         },
         {
           "id": "9poK4wLwNqw",
@@ -476,7 +351,8 @@
           "thumbnail": "https://i.ytimg.com/vi/9poK4wLwNqw/maxresdefault.jpg",
           "published_at": "2026-03-13T13:22:58Z",
           "url": "https://www.youtube.com/watch?v=9poK4wLwNqw",
-          "embed_url": "https://www.youtube.com/embed/9poK4wLwNqw"
+          "embed_url": "https://www.youtube.com/embed/9poK4wLwNqw",
+          "duration_seconds": 929
         },
         {
           "id": "A28rLj3Abfo",
@@ -485,7 +361,8 @@
           "thumbnail": "https://i.ytimg.com/vi/A28rLj3Abfo/maxresdefault.jpg",
           "published_at": "2026-03-12T02:07:31Z",
           "url": "https://www.youtube.com/watch?v=A28rLj3Abfo",
-          "embed_url": "https://www.youtube.com/embed/A28rLj3Abfo"
+          "embed_url": "https://www.youtube.com/embed/A28rLj3Abfo",
+          "duration_seconds": 1040
         },
         {
           "id": "WG9e2W2FFUU",
@@ -494,7 +371,8 @@
           "thumbnail": "https://i.ytimg.com/vi/WG9e2W2FFUU/maxresdefault.jpg",
           "published_at": "2026-03-11T00:49:43Z",
           "url": "https://www.youtube.com/watch?v=WG9e2W2FFUU",
-          "embed_url": "https://www.youtube.com/embed/WG9e2W2FFUU"
+          "embed_url": "https://www.youtube.com/embed/WG9e2W2FFUU",
+          "duration_seconds": 856
         },
         {
           "id": "ieziwfTF3jY",
@@ -503,7 +381,8 @@
           "thumbnail": "https://i.ytimg.com/vi/ieziwfTF3jY/hqdefault.jpg",
           "published_at": "2026-03-07T22:34:20Z",
           "url": "https://www.youtube.com/watch?v=ieziwfTF3jY",
-          "embed_url": "https://www.youtube.com/embed/ieziwfTF3jY"
+          "embed_url": "https://www.youtube.com/embed/ieziwfTF3jY",
+          "duration_seconds": 1109
         },
         {
           "id": "ABDia7JWpEc",
@@ -512,7 +391,8 @@
           "thumbnail": "https://i.ytimg.com/vi/ABDia7JWpEc/hqdefault.jpg",
           "published_at": "2026-03-06T22:38:32Z",
           "url": "https://www.youtube.com/watch?v=ABDia7JWpEc",
-          "embed_url": "https://www.youtube.com/embed/ABDia7JWpEc"
+          "embed_url": "https://www.youtube.com/embed/ABDia7JWpEc",
+          "duration_seconds": 1021
         }
       ]
     },
@@ -521,35 +401,7 @@
       "channel_id": "UCnUYZLuoy1rq1aVMwx4aTzw",
       "channel_thumb": "https://yt3.ggpht.com/VulKE9ryH5vt_LBQ_eLKZ9Z99AEEKNXqAYtYkM3b94-NTjr-OrLrvWzvdvp_FlEx7rK1Cpge=s88-c-k-c0x00ffffff-no-rj",
       "lang": "cn",
-      "videos": [
-        {
-          "id": "oWJPu3yvfp8",
-          "title": "Modernizing the Pinterest carousel: 90% less code with native CSS",
-          "description": "How do you build a web that inspires 600 million users? At Pinterest, the \"Close Up\" experience is core to how users discover ideas. But over time, the JavaScript powering carousel experience became a",
-          "thumbnail": "https://i.ytimg.com/vi/oWJPu3yvfp8/maxresdefault.jpg",
-          "published_at": "2026-03-17T21:17:50Z",
-          "url": "https://www.youtube.com/watch?v=oWJPu3yvfp8",
-          "embed_url": "https://www.youtube.com/embed/oWJPu3yvfp8"
-        },
-        {
-          "id": "oYnW16mWtGQ",
-          "title": "How This Chrome Extension Got 25% Annual Subscribers",
-          "description": "25% of the Pretty Prompt user base is on an annual plan! \nCurrently a full quarter of users are committed to a yearly subscription. This is a massive milestone for a founder.\n\nWatch more Developer Mod",
-          "thumbnail": "https://i.ytimg.com/vi/oYnW16mWtGQ/maxresdefault.jpg",
-          "published_at": "2026-03-11T16:49:04Z",
-          "url": "https://www.youtube.com/watch?v=oYnW16mWtGQ",
-          "embed_url": "https://www.youtube.com/embed/oYnW16mWtGQ"
-        },
-        {
-          "id": "08NkI1wunQk",
-          "title": "How to fix slow web pages with the DevTools MCP server",
-          "description": "Imagine asking your agent to \"fix that laggy click\" and watching it spin up Chrome, run a trace, and find the culprit automatically. It’s not sci-fi; it’s the Model Context Protocol.\n\nDevTools has off",
-          "thumbnail": "https://i.ytimg.com/vi/08NkI1wunQk/maxresdefault.jpg",
-          "published_at": "2026-03-09T18:06:12Z",
-          "url": "https://www.youtube.com/watch?v=08NkI1wunQk",
-          "embed_url": "https://www.youtube.com/embed/08NkI1wunQk"
-        }
-      ]
+      "videos": []
     },
     {
       "channel_name": "美国之音中文",
@@ -558,31 +410,14 @@
       "lang": "cn",
       "videos": [
         {
-          "id": "zfMgwkSh7SQ",
-          "title": "五角大楼称美军已在伊朗全境打击逾7000个目标",
-          "description": "战争部长皮特·海格塞斯(Pete Hegseth)表示，美军和以色列军队已对伊朗境内的7000多个目标实施了打击；随着美以针对伊朗的联合军事行动进入第20天，星期四(3月19日)，迄今为止规模最大的一轮打击行动正在展开。 \n相关报道👉 https://www.voachinese.com/a/8127798.html \n\n随着美军持续打击伊朗目标，战争部长海格塞斯星期四在五角大楼详细阐述了这场由美",
-          "thumbnail": "https://i.ytimg.com/vi/zfMgwkSh7SQ/maxresdefault.jpg",
-          "published_at": "2026-03-19T23:03:51Z",
-          "url": "https://www.youtube.com/watch?v=zfMgwkSh7SQ",
-          "embed_url": "https://www.youtube.com/embed/zfMgwkSh7SQ"
-        },
-        {
           "id": "AjWfSCOInjI",
           "title": "美国之音中文广播 (2026年3月20日)",
           "description": "#美国之音中文广播 今天的重点新闻内容包括：1)“史诗狂怒行动”进入第20天，战争部长海格塞斯：美国对伊朗发动最大一波打击 2)美国国家情报总监：伊朗新任最高领导人穆杰塔巴的健康情况与参与决策程度不明 3)特朗普总统在白宫会晤日本首相高市早苗讨论能源、安全议题，并提及中国 4)伊朗袭击波斯湾能源设施全球油价飙升，美财长称将解除制裁伊朗石油稳油价 5)英法德意日等七国联合谴责伊朗袭击 誓言确保霍尔木",
           "thumbnail": "https://i.ytimg.com/vi/AjWfSCOInjI/maxresdefault.jpg",
           "published_at": "2026-03-19T22:00:04Z",
           "url": "https://www.youtube.com/watch?v=AjWfSCOInjI",
-          "embed_url": "https://www.youtube.com/embed/AjWfSCOInjI"
-        },
-        {
-          "id": "3MLgKvsAgXQ",
-          "title": "美日白宫峰会，有记者问及与中国关系问题",
-          "description": "唐纳德·特朗普总统3月19日在白宫会晤来访的日本首相高市早苗。两位领导人在白宫椭圆形办公室与媒体见面，有日本记者向特朗普总统提问说：“最令日本关切的问题是中国。如今他们在对我们进行非常严厉的出口管制，还批评我们。您是否计划在去那里(中国)的时候谈起日本和中国的关系？“特朗普总统请高市首相回答。 \n\n相关报道👉 https://www.voachinese.com/a/8127839.html \n\n",
-          "thumbnail": "https://i.ytimg.com/vi/3MLgKvsAgXQ/maxresdefault.jpg",
-          "published_at": "2026-03-19T20:40:58Z",
-          "url": "https://www.youtube.com/watch?v=3MLgKvsAgXQ",
-          "embed_url": "https://www.youtube.com/embed/3MLgKvsAgXQ"
+          "embed_url": "https://www.youtube.com/embed/AjWfSCOInjI",
+          "duration_seconds": 596
         },
         {
           "id": "knH5kKvv1gc",
@@ -591,7 +426,8 @@
           "thumbnail": "https://i.ytimg.com/vi/knH5kKvv1gc/maxresdefault.jpg",
           "published_at": "2026-03-19T20:08:02Z",
           "url": "https://www.youtube.com/watch?v=knH5kKvv1gc",
-          "embed_url": "https://www.youtube.com/embed/knH5kKvv1gc"
+          "embed_url": "https://www.youtube.com/embed/knH5kKvv1gc",
+          "duration_seconds": 787
         },
         {
           "id": "H-4Oqkh_oWA",
@@ -600,25 +436,8 @@
           "thumbnail": "https://i.ytimg.com/vi/H-4Oqkh_oWA/maxresdefault.jpg",
           "published_at": "2026-03-19T12:47:15Z",
           "url": "https://www.youtube.com/watch?v=H-4Oqkh_oWA",
-          "embed_url": "https://www.youtube.com/embed/H-4Oqkh_oWA"
-        },
-        {
-          "id": "ZAnhez41MCg",
-          "title": "对喀布尔进行致命袭击后，巴基斯坦表示将暂停在阿富汗的军事行动",
-          "description": "巴基斯坦表示，应土耳其、沙特阿拉伯和卡塔尔请求，在穆斯林开斋节前，巴方暂停在阿富汗的军事行动。在此之前，巴基斯坦星期一(3月16日)袭击了喀布尔一家医院，造成几百人丧生，几十人受伤，这是这两个南亚邻国发生的冲突中，死伤最为严重的升级。一名白宫官员对美国之音(VOA)说，双方应“通过对话与外交，化解最近的紧张局势升级”。 \n\n相关报道👉 https://www.voachinese.com/a/81",
-          "thumbnail": "https://i.ytimg.com/vi/ZAnhez41MCg/maxresdefault.jpg",
-          "published_at": "2026-03-18T23:28:46Z",
-          "url": "https://www.youtube.com/watch?v=ZAnhez41MCg",
-          "embed_url": "https://www.youtube.com/embed/ZAnhez41MCg"
-        },
-        {
-          "id": "bNNrL8SUNIo",
-          "title": "美以联合军事行动持续进行之际，美国对以色列击毙伊朗情报部长表示欢迎",
-          "description": "随着美以针对伊朗恐怖政权的联合行动迈入第19天，白宫对以色列击毙伊朗政权的情报部长表示欢迎。 \n\n相关报道👉 https://www.voachinese.com/a/8127499.html \n\n美国军方发布的视频显示，美军战机正在参与“史诗狂怒行动”。自2月28日以来，美以联合军事行动一直在对伊朗目标进行打击。 \n\n随着联合行动的持续，以色列星期三宣布，他们消灭了又一个备受瞩目的目标，也就是伊",
-          "thumbnail": "https://i.ytimg.com/vi/bNNrL8SUNIo/maxresdefault.jpg",
-          "published_at": "2026-03-18T22:11:40Z",
-          "url": "https://www.youtube.com/watch?v=bNNrL8SUNIo",
-          "embed_url": "https://www.youtube.com/embed/bNNrL8SUNIo"
+          "embed_url": "https://www.youtube.com/embed/H-4Oqkh_oWA",
+          "duration_seconds": 2273
         },
         {
           "id": "R5AECXDDO3E",
@@ -627,34 +446,8 @@
           "thumbnail": "https://i.ytimg.com/vi/R5AECXDDO3E/maxresdefault.jpg",
           "published_at": "2026-03-18T22:00:04Z",
           "url": "https://www.youtube.com/watch?v=R5AECXDDO3E",
-          "embed_url": "https://www.youtube.com/embed/R5AECXDDO3E"
-        },
-        {
-          "id": "9fjkYirEE6I",
-          "title": "2024 台湾大选 总统候选人电视辩论",
-          "description": "台湾总统大选将于2024年1月13日举行。台湾媒体2023年12月30日举办总统候选人电视辩论会，并向三位候选人提问。民进党候选人赖清德，国民党候选人侯友宜，民众党候选人柯文哲均将出席。\n\n电视画面由台湾公共电视台提供。\n==========================================\n*美国之音新闻应用程序*\n美国之音新闻应用程序全新改版，让您快速掌握新闻与资讯！欢迎通过苹果",
-          "thumbnail": "https://i.ytimg.com/vi/9fjkYirEE6I/maxresdefault_live.jpg",
-          "published_at": "2026-03-18T17:27:40Z",
-          "url": "https://www.youtube.com/watch?v=9fjkYirEE6I",
-          "embed_url": "https://www.youtube.com/embed/9fjkYirEE6I"
-        },
-        {
-          "id": "snR7nNytebM",
-          "title": "打破历史记录的美国冬奥冠军埃拉娜·迈耶斯·泰勒接受VOA专访，谈她摘得奥运金牌的非凡征程",
-          "description": "德克萨斯州城市新布朗费尔斯(New Braunfels)星期六(3月14日)举行庆祝游行，向美国冬奥选手埃拉娜·迈耶斯·泰勒(Elana Meyers Taylor)致敬。这位当地居民在上个月的米兰-科尔蒂纳冬奥会上赢得女子单人雪车金牌。41岁的她成为冬奥会历史上夺得个人项目金牌的最年长运动员。\n\n镇上居民以军事仪仗队、旗手列队游行以及“美国！美国！”的欢呼声，向迈耶斯·泰勒表达敬意；她则带着两个",
-          "thumbnail": "https://i.ytimg.com/vi/snR7nNytebM/maxresdefault.jpg",
-          "published_at": "2026-03-18T00:42:43Z",
-          "url": "https://www.youtube.com/watch?v=snR7nNytebM",
-          "embed_url": "https://www.youtube.com/embed/snR7nNytebM"
-        },
-        {
-          "id": "blRhWtXJd54",
-          "title": "美以联合军事行动持续之际，以色列宣称在一系列打击行动中击毙了伊朗的“事实领导人”",
-          "description": "以色列宣称，在美以联合行动迈入第18天之际，以色列通过在伊朗首都德黑兰及其周边地区发动一系列打击，击毙了伊朗恐怖政权的实际掌权者及另一名关键人物。 \n\n相关报道👉 https://www.voachinese.com/a/8127127.html\n\n随着美军作为与以色列联合军事行动的一部分，继续打击伊朗政权目标…… \n\n以色列国防部长伊斯雷尔·卡茨(Israel Katz)宣布，以色列在夜间空袭中",
-          "thumbnail": "https://i.ytimg.com/vi/blRhWtXJd54/maxresdefault.jpg",
-          "published_at": "2026-03-17T23:33:47Z",
-          "url": "https://www.youtube.com/watch?v=blRhWtXJd54",
-          "embed_url": "https://www.youtube.com/embed/blRhWtXJd54"
+          "embed_url": "https://www.youtube.com/embed/R5AECXDDO3E",
+          "duration_seconds": 596
         },
         {
           "id": "OqP0Tg6zxn4",
@@ -663,16 +456,8 @@
           "thumbnail": "https://i.ytimg.com/vi/OqP0Tg6zxn4/maxresdefault.jpg",
           "published_at": "2026-03-17T22:00:04Z",
           "url": "https://www.youtube.com/watch?v=OqP0Tg6zxn4",
-          "embed_url": "https://www.youtube.com/embed/OqP0Tg6zxn4"
-        },
-        {
-          "id": "k3gR4BkO6mY",
-          "title": "美国以色列袭击伊朗境内更多目标；特朗普总统敦促各国协助巡逻霍尔木兹海峡",
-          "description": "美国和以色列军队对伊朗恐怖政权的更多目标发动袭击，与此同时，唐纳德·特朗普(Donald Trump)总统敦促各国派遣军舰协助巡逻至关重要的霍尔木兹海峡。伊朗对船只的威胁已导致这条中东石油出口的关键通道的交通严重受阻。 \n\n相关报道👉 https://www.voachinese.com/a/8126720.html \n\n随着美国和以色列继续对伊朗目标进行打击，美国中央司令部发布了一段视频，显示上",
-          "thumbnail": "https://i.ytimg.com/vi/k3gR4BkO6mY/maxresdefault.jpg",
-          "published_at": "2026-03-16T22:44:10Z",
-          "url": "https://www.youtube.com/watch?v=k3gR4BkO6mY",
-          "embed_url": "https://www.youtube.com/embed/k3gR4BkO6mY"
+          "embed_url": "https://www.youtube.com/embed/OqP0Tg6zxn4",
+          "duration_seconds": 596
         },
         {
           "id": "9plp2u-fSVU",
@@ -681,16 +466,8 @@
           "thumbnail": "https://i.ytimg.com/vi/9plp2u-fSVU/maxresdefault.jpg",
           "published_at": "2026-03-16T22:00:04Z",
           "url": "https://www.youtube.com/watch?v=9plp2u-fSVU",
-          "embed_url": "https://www.youtube.com/embed/9plp2u-fSVU"
-        },
-        {
-          "id": "FkDPct3MX30",
-          "title": "美国中央司令部司令介绍美军“史诗狂怒行动”最新战果",
-          "description": "美国中央司令部司令布拉德·库珀将军3月16日在社媒平台上发布的视频讲话中介绍了美军在“史诗狂怒行动”中的最新战果，并表示美军正在按照既定的军事目标对伊朗政权展开打击行动，消灭伊朗的弹道导弹、无人机和海军威胁以及制造这些武器的能力。他还特别表彰了美军的后勤人员。 \n\n更多内容👉 https://www.voachinese.com \n\n以下是库珀将军的讲话全文：\n大家好，我是海军上将布拉德·库珀，美",
-          "thumbnail": "https://i.ytimg.com/vi/FkDPct3MX30/maxresdefault.jpg",
-          "published_at": "2026-03-16T19:02:44Z",
-          "url": "https://www.youtube.com/watch?v=FkDPct3MX30",
-          "embed_url": "https://www.youtube.com/embed/FkDPct3MX30"
+          "embed_url": "https://www.youtube.com/embed/9plp2u-fSVU",
+          "duration_seconds": 595
         },
         {
           "id": "-c5eD-ImnG8",
@@ -699,7 +476,8 @@
           "thumbnail": "https://i.ytimg.com/vi/-c5eD-ImnG8/maxresdefault.jpg",
           "published_at": "2026-03-16T17:18:03Z",
           "url": "https://www.youtube.com/watch?v=-c5eD-ImnG8",
-          "embed_url": "https://www.youtube.com/embed/-c5eD-ImnG8"
+          "embed_url": "https://www.youtube.com/embed/-c5eD-ImnG8",
+          "duration_seconds": 3567
         },
         {
           "id": "GjMOO0IvchA",
@@ -708,34 +486,8 @@
           "thumbnail": "https://i.ytimg.com/vi/GjMOO0IvchA/maxresdefault.jpg",
           "published_at": "2026-03-13T22:00:04Z",
           "url": "https://www.youtube.com/watch?v=GjMOO0IvchA",
-          "embed_url": "https://www.youtube.com/embed/GjMOO0IvchA"
-        },
-        {
-          "id": "wzsPyk1lB1I",
-          "title": "特朗普总统：持续14天的美以攻势正在“摧毁”伊朗恐怖政权，美军计划实施迄今最猛烈空袭",
-          "description": "唐纳德·特朗普(Donald Trump)总统表示，持续近两个星期的美以联合攻势正在“摧毁”伊朗恐怖政权，而他的战争部长表示，美军在这场行动第14天准备在伊朗上空发动迄今最猛烈的空袭。  \n相关报道👉 https://www.voachinese.com/a/8125794.html \n\n美军表示，作为“史诗狂怒行动”的一部分，他们正在继续打击伊朗目标，并采取措施“消除伊朗的力量投射能力”。 \n\n",
-          "thumbnail": "https://i.ytimg.com/vi/wzsPyk1lB1I/maxresdefault.jpg",
-          "published_at": "2026-03-13T21:45:46Z",
-          "url": "https://www.youtube.com/watch?v=wzsPyk1lB1I",
-          "embed_url": "https://www.youtube.com/embed/wzsPyk1lB1I"
-        },
-        {
-          "id": "QOz_8RQOGHY",
-          "title": "美参联会主席：美军使用ATACMS击沉伊朗海军舰艇",
-          "description": "美国参谋长联席会议主席、空军上将丹·凯恩在3月13日有关打击伊朗政权的“史诗狂怒行动”的记者会上说，美国陆军和海军陆战队的炮兵部队首次实战使用PrSM(精准打击导弹)，打击伊朗境内纵深目标，还使用ATACMS(陆军战术导弹系统)击沉多艘伊朗海军舰艇，包括一艘潜艇。 \n\n相关报道👉 https://www.voachinese.com/a/8125029.html \n\n凯恩将军说：“仅在这场行动的头",
-          "thumbnail": "https://i.ytimg.com/vi/QOz_8RQOGHY/maxresdefault.jpg",
-          "published_at": "2026-03-13T20:03:57Z",
-          "url": "https://www.youtube.com/watch?v=QOz_8RQOGHY",
-          "embed_url": "https://www.youtube.com/embed/QOz_8RQOGHY"
-        },
-        {
-          "id": "qzLhYCB_g74",
-          "title": "海格塞斯：美国不会允许霍尔木兹海峡一直处在争夺状态下",
-          "description": "美国战争部长皮特·海格塞斯(Pete Hegseth)在3月13日有关“史诗狂怒行动”的记者会上说，美国军方将与跨机构伙伴合作，确保霍尔木兹海峡的能源流通。他说，摧毁伊朗海军是首要目标之一，美国还为应对伊朗可能采取的所有措施制定计划。 \n相关报道👉 https://www.voachinese.com/a/8125029.html \n\n===============================",
-          "thumbnail": "https://i.ytimg.com/vi/qzLhYCB_g74/maxresdefault.jpg",
-          "published_at": "2026-03-13T19:06:10Z",
-          "url": "https://www.youtube.com/watch?v=qzLhYCB_g74",
-          "embed_url": "https://www.youtube.com/embed/qzLhYCB_g74"
+          "embed_url": "https://www.youtube.com/embed/GjMOO0IvchA",
+          "duration_seconds": 596
         }
       ]
     },
@@ -746,85 +498,14 @@
       "lang": "cn",
       "videos": [
         {
-          "id": "R9MaF-x6cWE",
-          "title": "A-10最後一戰？老兵重返中東對抗無人機",
-          "description": "#史詩之怒 #美伊衝突 #福特號航母 #APKWS #攔截無人機 #A10攻擊機  | 03/18 馬克時空\n\n🔥2026神韻晚會全球登場，只要購買美國和加拿大境內演出門票，在神韻官網上輸入優惠碼「NTDMK26」，即可免去買票手續費。💓神韻官網： https://tickets.shenyun.com \n=\n🍃WiseQuest 的明目冷敷眼貼，給眼周最自然的呵護\n🔴點擊可購買👉https://",
-          "thumbnail": "https://i.ytimg.com/vi/R9MaF-x6cWE/maxresdefault.jpg",
-          "published_at": "2026-03-19T05:00:33Z",
-          "url": "https://www.youtube.com/watch?v=R9MaF-x6cWE",
-          "embed_url": "https://www.youtube.com/embed/R9MaF-x6cWE"
-        },
-        {
-          "id": "2pbNO0AtdXo",
-          "title": "福特號逼近歷史紀錄：美軍航母超長部署壓力爆表",
-          "description": "#史詩之怒 #美伊衝突 #福特號航母 #APKWS #攔截無人機 #A10攻擊機  | 03/18 馬克時空\n\n🔥2026神韻晚會全球登場，只要購買美國和加拿大境內演出門票，在神韻官網上輸入優惠碼「NTDMK26」，即可免去買票手續費。💓神韻官網： https://tickets.shenyun.com \n=\n🍃WiseQuest 的明目冷敷眼貼，給眼周最自然的呵護\n🔴點擊可購買👉https://",
-          "thumbnail": "https://i.ytimg.com/vi/2pbNO0AtdXo/maxresdefault.jpg",
-          "published_at": "2026-03-19T04:00:03Z",
-          "url": "https://www.youtube.com/watch?v=2pbNO0AtdXo",
-          "embed_url": "https://www.youtube.com/embed/2pbNO0AtdXo"
-        },
-        {
-          "id": "8-ZYDFp84rI",
-          "title": "海灣多國遭襲：伊朗導彈雨衝擊中東安全",
-          "description": "#史詩之怒 #美伊衝突 #福特號航母 #APKWS #攔截無人機 #A10攻擊機  | 03/18 馬克時空\n\n🔥2026神韻晚會全球登場，只要購買美國和加拿大境內演出門票，在神韻官網上輸入優惠碼「NTDMK26」，即可免去買票手續費。💓神韻官網： https://tickets.shenyun.com \n=\n🍃WiseQuest 的明目冷敷眼貼，給眼周最自然的呵護\n🔴點擊可購買👉https://",
-          "thumbnail": "https://i.ytimg.com/vi/8-ZYDFp84rI/maxresdefault.jpg",
-          "published_at": "2026-03-19T03:00:12Z",
-          "url": "https://www.youtube.com/watch?v=8-ZYDFp84rI",
-          "embed_url": "https://www.youtube.com/embed/8-ZYDFp84rI"
-        },
-        {
-          "id": "5JUDmKxeJns",
-          "title": "伊朗高層再遭斬首：拉里賈尼被定點清除",
-          "description": "#史詩之怒 #美伊衝突 #福特號航母 #APKWS #攔截無人機 #A10攻擊機  | 03/18 馬克時空\n\n🔥2026神韻晚會全球登場，只要購買美國和加拿大境內演出門票，在神韻官網上輸入優惠碼「NTDMK26」，即可免去買票手續費。💓神韻官網： https://tickets.shenyun.com \n=\n🍃WiseQuest 的明目冷敷眼貼，給眼周最自然的呵護\n🔴點擊可購買👉https://",
-          "thumbnail": "https://i.ytimg.com/vi/5JUDmKxeJns/maxresdefault.jpg",
-          "published_at": "2026-03-19T02:00:10Z",
-          "url": "https://www.youtube.com/watch?v=5JUDmKxeJns",
-          "embed_url": "https://www.youtube.com/embed/5JUDmKxeJns"
-        },
-        {
           "id": "nBHC-sj55Uk",
           "title": "拉里賈尼被清除 福特號航母部署太久或撤離 A-10最後的戰鬥投入中東戰場 海灣國家促美勿收手 要徹底解除伊朗武力 #史詩之怒 #美伊衝突 #APKWS #福特號航母  | 03/18 馬克時空",
           "description": "🔥2026神韻晚會全球登場，只要購買美國和加拿大境內演出門票，在神韻官網上輸入優惠碼「NTDMK26」，即可免去買票手續費。💓神韻官網： https://tickets.shenyun.com\n\n週二，以色列宣布已定點清除伊朗另一位重量級人物——最高國家安全委員會秘書阿里·拉里賈尼，而且伊斯蘭革命衛隊下屬巴斯基民兵組織的指揮官戈拉姆雷扎·蘇萊曼尼也被擊斃。美國最新航空母艦福特號已在海上部署約10個",
           "thumbnail": "https://i.ytimg.com/vi/nBHC-sj55Uk/maxresdefault.jpg",
           "published_at": "2026-03-18T13:31:03Z",
           "url": "https://www.youtube.com/watch?v=nBHC-sj55Uk",
-          "embed_url": "https://www.youtube.com/embed/nBHC-sj55Uk"
-        },
-        {
-          "id": "HmWOIpBebwQ",
-          "title": "能帶20架F-35B？美利堅級其實是「小航母」",
-          "description": "#霍爾木茲海峽 #哈爾克島 #伊朗石油出口 #葛希姆島 #的黎波里號 #伊朗島嶼| 03/16 馬克時空\n\n🔥2026神韻晚會全球登場，只要購買美國和加拿大境內演出門票，在神韻官網上輸入優惠碼「NTDMK26」，即可免去買票手續費。💓神韻官網： https://tickets.shenyun.com \n=\n🍃WiseQuest 的明目冷敷眼貼，給眼周最自然的呵護\n🔴點擊可購買👉https://zh",
-          "thumbnail": "https://i.ytimg.com/vi/HmWOIpBebwQ/maxresdefault.jpg",
-          "published_at": "2026-03-17T05:00:28Z",
-          "url": "https://www.youtube.com/watch?v=HmWOIpBebwQ",
-          "embed_url": "https://www.youtube.com/embed/HmWOIpBebwQ"
-        },
-        {
-          "id": "z46QdZklYN4",
-          "title": "美軍空襲哈爾克島：伊朗石油命脈曝光",
-          "description": "#霍爾木茲海峽 #哈爾克島 #伊朗石油出口 #葛希姆島 #的黎波里號 #伊朗島嶼| 03/16 馬克時空\n\n🔥2026神韻晚會全球登場，只要購買美國和加拿大境內演出門票，在神韻官網上輸入優惠碼「NTDMK26」，即可免去買票手續費。💓神韻官網： https://tickets.shenyun.com \n=\n🍃WiseQuest 的明目冷敷眼貼，給眼周最自然的呵護\n🔴點擊可購買👉https://zh",
-          "thumbnail": "https://i.ytimg.com/vi/z46QdZklYN4/maxresdefault.jpg",
-          "published_at": "2026-03-17T04:01:07Z",
-          "url": "https://www.youtube.com/watch?v=z46QdZklYN4",
-          "embed_url": "https://www.youtube.com/embed/z46QdZklYN4"
-        },
-        {
-          "id": "-H6CoEVFLDY",
-          "title": "霍爾木茲成全球命脈：美軍急保能源航道",
-          "description": "#霍爾木茲海峽 #哈爾克島 #伊朗石油出口 #葛希姆島 #的黎波里號 #伊朗島嶼| 03/16 馬克時空\n\n🔥2026神韻晚會全球登場，只要購買美國和加拿大境內演出門票，在神韻官網上輸入優惠碼「NTDMK26」，即可免去買票手續費。💓神韻官網： https://tickets.shenyun.com \n=\n🍃WiseQuest 的明目冷敷眼貼，給眼周最自然的呵護\n🔴點擊可購買👉https://zh",
-          "thumbnail": "https://i.ytimg.com/vi/-H6CoEVFLDY/maxresdefault.jpg",
-          "published_at": "2026-03-17T03:00:00Z",
-          "url": "https://www.youtube.com/watch?v=-H6CoEVFLDY",
-          "embed_url": "https://www.youtube.com/embed/-H6CoEVFLDY"
-        },
-        {
-          "id": "L9EywMoS9G8",
-          "title": "哈爾克島成新戰場？美軍兩棲部隊逼近波斯灣",
-          "description": "#霍爾木茲海峽 #哈爾克島 #伊朗石油出口 #葛希姆島 #的黎波里號 #伊朗島嶼| 03/16 馬克時空\n\n🔥2026神韻晚會全球登場，只要購買美國和加拿大境內演出門票，在神韻官網上輸入優惠碼「NTDMK26」，即可免去買票手續費。💓神韻官網： https://tickets.shenyun.com \n=\n🍃WiseQuest 的明目冷敷眼貼，給眼周最自然的呵護\n🔴點擊可購買👉https://zh",
-          "thumbnail": "https://i.ytimg.com/vi/L9EywMoS9G8/maxresdefault.jpg",
-          "published_at": "2026-03-17T02:00:17Z",
-          "url": "https://www.youtube.com/watch?v=L9EywMoS9G8",
-          "embed_url": "https://www.youtube.com/embed/L9EywMoS9G8"
+          "embed_url": "https://www.youtube.com/embed/nBHC-sj55Uk",
+          "duration_seconds": 833
         },
         {
           "id": "crwUOvmcKjg",
@@ -833,43 +514,8 @@
           "thumbnail": "https://i.ytimg.com/vi/crwUOvmcKjg/maxresdefault.jpg",
           "published_at": "2026-03-16T13:45:12Z",
           "url": "https://www.youtube.com/watch?v=crwUOvmcKjg",
-          "embed_url": "https://www.youtube.com/embed/crwUOvmcKjg"
-        },
-        {
-          "id": "jkKLjRf46GM",
-          "title": "伊朗石油命脈曝光：哈爾克島成關鍵戰場",
-          "description": "#KC135 #史詩之怒 #美伊衝突 #哈爾克島 #伊朗石油出口 #攔截無人機 | 03/14 馬克時空\n\n🔥2026神韻晚會全球登場，只要購買美國和加拿大境內演出門票，在神韻官網上輸入優惠碼「NTDMK26」，即可免去買票手續費。💓神韻官網： https://tickets.shenyun.com \n=\n🍃WiseQuest 的明目冷敷眼貼，給眼周最自然的呵護\n🔴點擊可購買👉https://zh",
-          "thumbnail": "https://i.ytimg.com/vi/jkKLjRf46GM/maxresdefault.jpg",
-          "published_at": "2026-03-15T04:00:51Z",
-          "url": "https://www.youtube.com/watch?v=jkKLjRf46GM",
-          "embed_url": "https://www.youtube.com/embed/jkKLjRf46GM"
-        },
-        {
-          "id": "6Eyt_fhiMjE",
-          "title": "美軍加油機墜毀：6名機組人員全部罹難",
-          "description": "#KC135 #史詩之怒 #美伊衝突 #哈爾克島 #伊朗石油出口 #攔截無人機 | 03/14 馬克時空\n\n🔥2026神韻晚會全球登場，只要購買美國和加拿大境內演出門票，在神韻官網上輸入優惠碼「NTDMK26」，即可免去買票手續費。💓神韻官網： https://tickets.shenyun.com \n=\n🍃WiseQuest 的明目冷敷眼貼，給眼周最自然的呵護\n🔴點擊可購買👉https://zh",
-          "thumbnail": "https://i.ytimg.com/vi/6Eyt_fhiMjE/maxresdefault.jpg",
-          "published_at": "2026-03-15T03:00:06Z",
-          "url": "https://www.youtube.com/watch?v=6Eyt_fhiMjE",
-          "embed_url": "https://www.youtube.com/embed/6Eyt_fhiMjE"
-        },
-        {
-          "id": "flySAnRPk0A",
-          "title": "1萬架蜂鳥出動：美軍打造無人機攔截牆",
-          "description": "#KC135 #史詩之怒 #美伊衝突 #哈爾克島 #伊朗石油出口 #攔截無人機 | 03/14 馬克時空\n\n🔥2026神韻晚會全球登場，只要購買美國和加拿大境內演出門票，在神韻官網上輸入優惠碼「NTDMK26」，即可免去買票手續費。💓神韻官網： https://tickets.shenyun.com \n=\n🍃WiseQuest 的明目冷敷眼貼，給眼周最自然的呵護\n🔴點擊可購買👉https://zh",
-          "thumbnail": "https://i.ytimg.com/vi/flySAnRPk0A/maxresdefault.jpg",
-          "published_at": "2026-03-15T02:00:28Z",
-          "url": "https://www.youtube.com/watch?v=flySAnRPk0A",
-          "embed_url": "https://www.youtube.com/embed/flySAnRPk0A"
-        },
-        {
-          "id": "r0SPjjhQd9o",
-          "title": "戰爭第14天：美以空襲伊朗石油命脈",
-          "description": "#KC135 #史詩之怒 #美伊衝突 #哈爾克島 #伊朗石油出口 #攔截無人機 | 03/14 馬克時空\n\n🔥2026神韻晚會全球登場，只要購買美國和加拿大境內演出門票，在神韻官網上輸入優惠碼「NTDMK26」，即可免去買票手續費。💓神韻官網： https://tickets.shenyun.com \n=\n🍃WiseQuest 的明目冷敷眼貼，給眼周最自然的呵護\n🔴點擊可購買👉https://zh",
-          "thumbnail": "https://i.ytimg.com/vi/r0SPjjhQd9o/maxresdefault.jpg",
-          "published_at": "2026-03-15T01:01:00Z",
-          "url": "https://www.youtube.com/watch?v=r0SPjjhQd9o",
-          "embed_url": "https://www.youtube.com/embed/r0SPjjhQd9o"
+          "embed_url": "https://www.youtube.com/embed/crwUOvmcKjg",
+          "duration_seconds": 769
         },
         {
           "id": "7kkOf7S0y4o",
@@ -878,43 +524,8 @@
           "thumbnail": "https://i.ytimg.com/vi/7kkOf7S0y4o/maxresdefault.jpg",
           "published_at": "2026-03-14T12:45:01Z",
           "url": "https://www.youtube.com/watch?v=7kkOf7S0y4o",
-          "embed_url": "https://www.youtube.com/embed/7kkOf7S0y4o"
-        },
-        {
-          "id": "x7JE9s1mGV0",
-          "title": "12天殲滅90艘軍艦：伊朗海軍幾乎全滅",
-          "description": "#史詩之怒 #伊朗戰爭 #伊朗海軍 #水雷戰 #封鎖霍爾木茲海峽 #海灣布雷 #水雷封鎖  | 03/13 馬克時空\n\n🔥2026神韻晚會全球登場，只要購買美國和加拿大境內演出門票，在神韻官網上輸入優惠碼「NTDMK26」，即可免去買票手續費。💓神韻官網： https://tickets.shenyun.com \n=\n🍃WiseQuest 的明目冷敷眼貼，給眼周最自然的呵護\n🔴點擊可購買👉http",
-          "thumbnail": "https://i.ytimg.com/vi/x7JE9s1mGV0/maxresdefault.jpg",
-          "published_at": "2026-03-14T04:00:58Z",
-          "url": "https://www.youtube.com/watch?v=x7JE9s1mGV0",
-          "embed_url": "https://www.youtube.com/embed/x7JE9s1mGV0"
-        },
-        {
-          "id": "-Tng_qe7Cz0",
-          "title": "美軍掃雷主力：復仇者級獵雷艦解析",
-          "description": "#史詩之怒 #伊朗戰爭 #伊朗海軍 #水雷戰 #封鎖霍爾木茲海峽 #海灣布雷 #水雷封鎖  | 03/13 馬克時空\n\n🔥2026神韻晚會全球登場，只要購買美國和加拿大境內演出門票，在神韻官網上輸入優惠碼「NTDMK26」，即可免去買票手續費。💓神韻官網： https://tickets.shenyun.com \n=\n🍃WiseQuest 的明目冷敷眼貼，給眼周最自然的呵護\n🔴點擊可購買👉http",
-          "thumbnail": "https://i.ytimg.com/vi/-Tng_qe7Cz0/maxresdefault.jpg",
-          "published_at": "2026-03-14T03:00:00Z",
-          "url": "https://www.youtube.com/watch?v=-Tng_qe7Cz0",
-          "embed_url": "https://www.youtube.com/embed/-Tng_qe7Cz0"
-        },
-        {
-          "id": "a1JEhXtCtK0",
-          "title": "300年老武器仍是海戰殺手：水雷為何可怕",
-          "description": "#史詩之怒 #伊朗戰爭 #伊朗海軍 #水雷戰 #封鎖霍爾木茲海峽 #海灣布雷 #水雷封鎖  | 03/13 馬克時空\n\n🔥2026神韻晚會全球登場，只要購買美國和加拿大境內演出門票，在神韻官網上輸入優惠碼「NTDMK26」，即可免去買票手續費。💓神韻官網： https://tickets.shenyun.com \n=\n🍃WiseQuest 的明目冷敷眼貼，給眼周最自然的呵護\n🔴點擊可購買👉http",
-          "thumbnail": "https://i.ytimg.com/vi/a1JEhXtCtK0/maxresdefault.jpg",
-          "published_at": "2026-03-14T02:00:01Z",
-          "url": "https://www.youtube.com/watch?v=a1JEhXtCtK0",
-          "embed_url": "https://www.youtube.com/embed/a1JEhXtCtK0"
-        },
-        {
-          "id": "A_bSHam35aE",
-          "title": "伊朗在霍爾木茲布雷！全球能源命脈告急",
-          "description": "#史詩之怒 #伊朗戰爭 #伊朗海軍 #水雷戰 #封鎖霍爾木茲海峽 #海灣布雷 #水雷封鎖  | 03/13 馬克時空\n\n🔥2026神韻晚會全球登場，只要購買美國和加拿大境內演出門票，在神韻官網上輸入優惠碼「NTDMK26」，即可免去買票手續費。💓神韻官網： https://tickets.shenyun.com \n=\n🍃WiseQuest 的明目冷敷眼貼，給眼周最自然的呵護\n🔴點擊可購買👉http",
-          "thumbnail": "https://i.ytimg.com/vi/A_bSHam35aE/maxresdefault.jpg",
-          "published_at": "2026-03-14T01:00:19Z",
-          "url": "https://www.youtube.com/watch?v=A_bSHam35aE",
-          "embed_url": "https://www.youtube.com/embed/A_bSHam35aE"
+          "embed_url": "https://www.youtube.com/embed/7kkOf7S0y4o",
+          "duration_seconds": 663
         },
         {
           "id": "yk9XmYAkR9A",
@@ -923,7 +534,8 @@
           "thumbnail": "https://i.ytimg.com/vi/yk9XmYAkR9A/maxresdefault.jpg",
           "published_at": "2026-03-13T13:45:09Z",
           "url": "https://www.youtube.com/watch?v=yk9XmYAkR9A",
-          "embed_url": "https://www.youtube.com/embed/yk9XmYAkR9A"
+          "embed_url": "https://www.youtube.com/embed/yk9XmYAkR9A",
+          "duration_seconds": 872
         }
       ]
     },
@@ -940,7 +552,8 @@
           "thumbnail": "https://i.ytimg.com/vi/-6P1cwHugr4/maxresdefault.jpg",
           "published_at": "2026-03-20T04:30:01Z",
           "url": "https://www.youtube.com/watch?v=-6P1cwHugr4",
-          "embed_url": "https://www.youtube.com/embed/-6P1cwHugr4"
+          "embed_url": "https://www.youtube.com/embed/-6P1cwHugr4",
+          "duration_seconds": 778
         },
         {
           "id": "eB2B5QVjp1U",
@@ -949,16 +562,8 @@
           "thumbnail": "https://i.ytimg.com/vi/eB2B5QVjp1U/maxresdefault.jpg",
           "published_at": "2026-03-19T04:30:33Z",
           "url": "https://www.youtube.com/watch?v=eB2B5QVjp1U",
-          "embed_url": "https://www.youtube.com/embed/eB2B5QVjp1U"
-        },
-        {
-          "id": "_hXiTwRNyKU",
-          "title": "機密超算防護崩了？洩露文件揭露不可思議的安全漏洞 #leaked #中共",
-          "description": "節目完整版：https://www.youtube.com/watch?v=fmnjOxx1cf8\n歡迎大家訂閱我的新頻道【靖遠開講】：https://www.youtube.com/@JingYuanTalk\n⭐️靖遠個人站：https://tangjingyuan.net/\n❤️捐款靖遠：https://donorbox.org/yuanjiankuaiping\n我們是符合美國聯邦501(c)",
-          "thumbnail": "https://i.ytimg.com/vi/_hXiTwRNyKU/maxresdefault.jpg",
-          "published_at": "2026-03-18T18:06:54Z",
-          "url": "https://www.youtube.com/watch?v=_hXiTwRNyKU",
-          "embed_url": "https://www.youtube.com/embed/_hXiTwRNyKU"
+          "embed_url": "https://www.youtube.com/embed/eB2B5QVjp1U",
+          "duration_seconds": 1182
         },
         {
           "id": "2P0mGP1zO9M",
@@ -967,7 +572,8 @@
           "thumbnail": "https://i.ytimg.com/vi/2P0mGP1zO9M/maxresdefault.jpg",
           "published_at": "2026-03-18T04:30:03Z",
           "url": "https://www.youtube.com/watch?v=2P0mGP1zO9M",
-          "embed_url": "https://www.youtube.com/embed/2P0mGP1zO9M"
+          "embed_url": "https://www.youtube.com/embed/2P0mGP1zO9M",
+          "duration_seconds": 1145
         },
         {
           "id": "79CTmf-tuJI",
@@ -976,7 +582,8 @@
           "thumbnail": "https://i.ytimg.com/vi/79CTmf-tuJI/maxresdefault.jpg",
           "published_at": "2026-03-17T04:30:03Z",
           "url": "https://www.youtube.com/watch?v=79CTmf-tuJI",
-          "embed_url": "https://www.youtube.com/embed/79CTmf-tuJI"
+          "embed_url": "https://www.youtube.com/embed/79CTmf-tuJI",
+          "duration_seconds": 1188
         },
         {
           "id": "1F0X_A-pqZM",
@@ -985,7 +592,8 @@
           "thumbnail": "https://i.ytimg.com/vi/1F0X_A-pqZM/maxresdefault.jpg",
           "published_at": "2026-03-15T04:30:04Z",
           "url": "https://www.youtube.com/watch?v=1F0X_A-pqZM",
-          "embed_url": "https://www.youtube.com/embed/1F0X_A-pqZM"
+          "embed_url": "https://www.youtube.com/embed/1F0X_A-pqZM",
+          "duration_seconds": 1301
         },
         {
           "id": "StAsUZPlQUw",
@@ -994,7 +602,8 @@
           "thumbnail": "https://i.ytimg.com/vi/StAsUZPlQUw/maxresdefault.jpg",
           "published_at": "2026-03-14T04:30:29Z",
           "url": "https://www.youtube.com/watch?v=StAsUZPlQUw",
-          "embed_url": "https://www.youtube.com/embed/StAsUZPlQUw"
+          "embed_url": "https://www.youtube.com/embed/StAsUZPlQUw",
+          "duration_seconds": 1366
         },
         {
           "id": "5TU9kYb4th0",
@@ -1003,7 +612,8 @@
           "thumbnail": "https://i.ytimg.com/vi/5TU9kYb4th0/maxresdefault.jpg",
           "published_at": "2026-03-13T04:30:06Z",
           "url": "https://www.youtube.com/watch?v=5TU9kYb4th0",
-          "embed_url": "https://www.youtube.com/embed/5TU9kYb4th0"
+          "embed_url": "https://www.youtube.com/embed/5TU9kYb4th0",
+          "duration_seconds": 1210
         },
         {
           "id": "0bv2dBqBXFs",
@@ -1012,7 +622,8 @@
           "thumbnail": "https://i.ytimg.com/vi/0bv2dBqBXFs/maxresdefault.jpg",
           "published_at": "2026-03-12T04:30:01Z",
           "url": "https://www.youtube.com/watch?v=0bv2dBqBXFs",
-          "embed_url": "https://www.youtube.com/embed/0bv2dBqBXFs"
+          "embed_url": "https://www.youtube.com/embed/0bv2dBqBXFs",
+          "duration_seconds": 1303
         },
         {
           "id": "eawYSpYIqVo",
@@ -1021,7 +632,8 @@
           "thumbnail": "https://i.ytimg.com/vi/eawYSpYIqVo/maxresdefault.jpg",
           "published_at": "2026-03-11T04:30:32Z",
           "url": "https://www.youtube.com/watch?v=eawYSpYIqVo",
-          "embed_url": "https://www.youtube.com/embed/eawYSpYIqVo"
+          "embed_url": "https://www.youtube.com/embed/eawYSpYIqVo",
+          "duration_seconds": 1372
         },
         {
           "id": "Y8p46v8Dan4",
@@ -1030,7 +642,8 @@
           "thumbnail": "https://i.ytimg.com/vi/Y8p46v8Dan4/maxresdefault.jpg",
           "published_at": "2026-03-10T04:30:15Z",
           "url": "https://www.youtube.com/watch?v=Y8p46v8Dan4",
-          "embed_url": "https://www.youtube.com/embed/Y8p46v8Dan4"
+          "embed_url": "https://www.youtube.com/embed/Y8p46v8Dan4",
+          "duration_seconds": 896
         },
         {
           "id": "q3yUBAmPddY",
@@ -1039,7 +652,8 @@
           "thumbnail": "https://i.ytimg.com/vi/q3yUBAmPddY/maxresdefault.jpg",
           "published_at": "2026-03-08T05:30:32Z",
           "url": "https://www.youtube.com/watch?v=q3yUBAmPddY",
-          "embed_url": "https://www.youtube.com/embed/q3yUBAmPddY"
+          "embed_url": "https://www.youtube.com/embed/q3yUBAmPddY",
+          "duration_seconds": 1360
         },
         {
           "id": "CJ4jWnpUTJw",
@@ -1048,7 +662,8 @@
           "thumbnail": "https://i.ytimg.com/vi/CJ4jWnpUTJw/maxresdefault.jpg",
           "published_at": "2026-03-07T05:30:06Z",
           "url": "https://www.youtube.com/watch?v=CJ4jWnpUTJw",
-          "embed_url": "https://www.youtube.com/embed/CJ4jWnpUTJw"
+          "embed_url": "https://www.youtube.com/embed/CJ4jWnpUTJw",
+          "duration_seconds": 1822
         }
       ]
     },
@@ -1059,58 +674,14 @@
       "lang": "en",
       "videos": [
         {
-          "id": "vpTvoxIrlHs",
-          "title": "OpenClaw Just Got WAY Easier to Install",
-          "description": "OpenClaw just got WAY easier (and safer) to install.\n\nI was just at NVIDIA GTC 2026 and there were a TON of cutting-edge AI announcements and releases (all the highlights are in my latest YouTube vide",
-          "thumbnail": "https://i.ytimg.com/vi/vpTvoxIrlHs/maxresdefault.jpg",
-          "published_at": "2026-03-18T14:31:57Z",
-          "url": "https://www.youtube.com/watch?v=vpTvoxIrlHs",
-          "embed_url": "https://www.youtube.com/embed/vpTvoxIrlHs"
-        },
-        {
-          "id": "nc0oIVfpSqo",
-          "title": "Perplexity “Computer” is Kind of Insane",
-          "description": "Perplexity is apparently giving people a dedicated Mac Mini to run their AI agents on 24/7.\n\nIt's available now on the paid plans, and this video shows just a teaser of all the cool things you can bui",
-          "thumbnail": "https://i.ytimg.com/vi/nc0oIVfpSqo/maxresdefault.jpg",
-          "published_at": "2026-03-17T14:50:08Z",
-          "url": "https://www.youtube.com/watch?v=nc0oIVfpSqo",
-          "embed_url": "https://www.youtube.com/embed/nc0oIVfpSqo"
-        },
-        {
           "id": "JyWdgDcsmbk",
           "title": "The REAL Story from NVIDIA GTC This Week!",
           "description": "Sharing what I found interesting from Day 1 of NVIDIA GTC.\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n🎙️ The Next Wave P",
           "thumbnail": "https://i.ytimg.com/vi/JyWdgDcsmbk/maxresdefault.jpg",
           "published_at": "2026-03-17T06:27:28Z",
           "url": "https://www.youtube.com/watch?v=JyWdgDcsmbk",
-          "embed_url": "https://www.youtube.com/embed/JyWdgDcsmbk"
-        },
-        {
-          "id": "W4iSvbg4f68",
-          "title": "Claude Just Dropped A Huge New Feature",
-          "description": "Send this to someone who would find it useful!\n\nClaude can now generate interactive charts, timelines, and visualizations from a single prompt.\n\nYou can adjust sliders, explore data, and interact with",
-          "thumbnail": "https://i.ytimg.com/vi/W4iSvbg4f68/maxresdefault.jpg",
-          "published_at": "2026-03-16T13:05:30Z",
-          "url": "https://www.youtube.com/watch?v=W4iSvbg4f68",
-          "embed_url": "https://www.youtube.com/embed/W4iSvbg4f68"
-        },
-        {
-          "id": "Yd10X5VyMng",
-          "title": "This New Feature Is A Big Deal For Creatives",
-          "description": "This new AI feature from Canva is actually amazing for creatives.\n\nThey just launched Magic Layers — and it can take ANY image and automatically break it into editable layers.\n\nSo if you have a real o",
-          "thumbnail": "https://i.ytimg.com/vi/Yd10X5VyMng/maxresdefault.jpg",
-          "published_at": "2026-03-15T12:59:24Z",
-          "url": "https://www.youtube.com/watch?v=Yd10X5VyMng",
-          "embed_url": "https://www.youtube.com/embed/Yd10X5VyMng"
-        },
-        {
-          "id": "3B1c6Kq_aY0",
-          "title": "Claude Just Rolled Out 2 Big New Features",
-          "description": "Claude just rolled out 2 new features for developers. \n\nYou can now run scheduled tasks and do AI-powered code reviews inside Claude Code.\n\nThe new review system actually sends a team of AI agents to ",
-          "thumbnail": "https://i.ytimg.com/vi/3B1c6Kq_aY0/maxresdefault.jpg",
-          "published_at": "2026-03-13T20:04:18Z",
-          "url": "https://www.youtube.com/watch?v=3B1c6Kq_aY0",
-          "embed_url": "https://www.youtube.com/embed/3B1c6Kq_aY0"
+          "embed_url": "https://www.youtube.com/embed/JyWdgDcsmbk",
+          "duration_seconds": 612
         },
         {
           "id": "syx_8UlEWlA",
@@ -1119,34 +690,8 @@
           "thumbnail": "https://i.ytimg.com/vi/syx_8UlEWlA/maxresdefault.jpg",
           "published_at": "2026-03-13T16:14:48Z",
           "url": "https://www.youtube.com/watch?v=syx_8UlEWlA",
-          "embed_url": "https://www.youtube.com/embed/syx_8UlEWlA"
-        },
-        {
-          "id": "retqU5rjzzI",
-          "title": "Is ChatGPT Creating MORE Work?",
-          "description": "Is AI making you work… more? \n\nHarvard Business Review did an 8-month study and found that as tasks took less time, people didn't work less, they just stacked more tasks on their plate. \n\nI did a deep",
-          "thumbnail": "https://i.ytimg.com/vi/retqU5rjzzI/maxresdefault.jpg",
-          "published_at": "2026-03-12T13:27:20Z",
-          "url": "https://www.youtube.com/watch?v=retqU5rjzzI",
-          "embed_url": "https://www.youtube.com/embed/retqU5rjzzI"
-        },
-        {
-          "id": "dobahObNLeA",
-          "title": "Is ChatGPT Making You Dumber?",
-          "description": "Is AI making us dumber? \n\nA study from MIT found that reliance on LLM might be like building up a tolerance to thinking. \n\nI started looking into this because I was honestly feeling those effects myse",
-          "thumbnail": "https://i.ytimg.com/vi/dobahObNLeA/maxresdefault.jpg",
-          "published_at": "2026-03-11T14:29:17Z",
-          "url": "https://www.youtube.com/watch?v=dobahObNLeA",
-          "embed_url": "https://www.youtube.com/embed/dobahObNLeA"
-        },
-        {
-          "id": "UgS5PihUBQM",
-          "title": "The Meta Raybans Scandal Explained",
-          "description": "This investigation just revealed something wild about Meta’s AI glasses.\n\nAllegedly, the video footage from your smart glasses could be sent to human reviewers for AI training.\n\nAnd we’re talking abou",
-          "thumbnail": "https://i.ytimg.com/vi/UgS5PihUBQM/maxresdefault.jpg",
-          "published_at": "2026-03-10T14:23:03Z",
-          "url": "https://www.youtube.com/watch?v=UgS5PihUBQM",
-          "embed_url": "https://www.youtube.com/embed/UgS5PihUBQM"
+          "embed_url": "https://www.youtube.com/embed/syx_8UlEWlA",
+          "duration_seconds": 2013
         },
         {
           "id": "njIDEpMolRA",
@@ -1155,43 +700,8 @@
           "thumbnail": "https://i.ytimg.com/vi/njIDEpMolRA/maxresdefault.jpg",
           "published_at": "2026-03-10T04:10:38Z",
           "url": "https://www.youtube.com/watch?v=njIDEpMolRA",
-          "embed_url": "https://www.youtube.com/embed/njIDEpMolRA"
-        },
-        {
-          "id": "BIp9Q8M2QUw",
-          "title": "The Coolest New Google AI Feature",
-          "description": "Is this the end After Effects?\n\nGoogle just dropped a massive update for NotebookLM with Cinematic Video Overviews.\n\nUnlike the old slideshow-style overviews, this new feature actually bakes real, mot",
-          "thumbnail": "https://i.ytimg.com/vi/BIp9Q8M2QUw/maxresdefault.jpg",
-          "published_at": "2026-03-09T14:13:32Z",
-          "url": "https://www.youtube.com/watch?v=BIp9Q8M2QUw",
-          "embed_url": "https://www.youtube.com/embed/BIp9Q8M2QUw"
-        },
-        {
-          "id": "dEH17qq7wJQ",
-          "title": "New Google AI Model: Hype or Actually Good?",
-          "description": "Not every AI update needs to be smartest model ever.\n\nGoogle just rolled out Gemini 3.1 Flash-Lite, and honestly… it’s not trying to be the best model in the world. It’s designed to be fast, efficient",
-          "thumbnail": "https://i.ytimg.com/vi/dEH17qq7wJQ/maxresdefault.jpg",
-          "published_at": "2026-03-08T13:27:21Z",
-          "url": "https://www.youtube.com/watch?v=dEH17qq7wJQ",
-          "embed_url": "https://www.youtube.com/embed/dEH17qq7wJQ"
-        },
-        {
-          "id": "g0AxIEMcEfM",
-          "title": "New ChatGPT Model: My Honest Review",
-          "description": "OpenAI just dropped GPT-5.4... but should you care?\n\nTo be totally honest: If you use ChatGPT for brainstorming or basic questions, you probably won’t notice a huge difference. It’s a marginal upgrade",
-          "thumbnail": "https://i.ytimg.com/vi/g0AxIEMcEfM/maxresdefault.jpg",
-          "published_at": "2026-03-07T14:21:10Z",
-          "url": "https://www.youtube.com/watch?v=g0AxIEMcEfM",
-          "embed_url": "https://www.youtube.com/embed/g0AxIEMcEfM"
-        },
-        {
-          "id": "W240HYPt38w",
-          "title": "News Update: OpenAI & Anthropic Feud Heats Up",
-          "description": "This story just keeps getting crazier and crazier.\n\nIf you haven't been keeping up with all of this, I do a quick backstory in my latest AI news video linked here, and go into all the updates in more ",
-          "thumbnail": "https://i.ytimg.com/vi/W240HYPt38w/maxresdefault.jpg",
-          "published_at": "2026-03-06T18:37:43Z",
-          "url": "https://www.youtube.com/watch?v=W240HYPt38w",
-          "embed_url": "https://www.youtube.com/embed/W240HYPt38w"
+          "embed_url": "https://www.youtube.com/embed/njIDEpMolRA",
+          "duration_seconds": 1410
         },
         {
           "id": "JH2ak7kS43E",
@@ -1200,7 +710,8 @@
           "thumbnail": "https://i.ytimg.com/vi/JH2ak7kS43E/maxresdefault.jpg",
           "published_at": "2026-03-06T17:25:19Z",
           "url": "https://www.youtube.com/watch?v=JH2ak7kS43E",
-          "embed_url": "https://www.youtube.com/embed/JH2ak7kS43E"
+          "embed_url": "https://www.youtube.com/embed/JH2ak7kS43E",
+          "duration_seconds": 2282
         }
       ]
     },
@@ -1211,40 +722,14 @@
       "lang": "en",
       "videos": [
         {
-          "id": "l__xK3lI-8U",
-          "title": "🐙 Building AI Apps In 2026",
-          "description": "Want to get resources from this livestream? Sign up here so I can email them to you: https://www.lonelyoctopus.com/workshop\n🤖 Want to get ahead in your career using AI? Join the waitlist for my AI Age",
-          "thumbnail": "https://i.ytimg.com/vi/l__xK3lI-8U/maxresdefault_live.jpg",
-          "published_at": "2026-03-19T02:01:41Z",
-          "url": "https://www.youtube.com/watch?v=l__xK3lI-8U",
-          "embed_url": "https://www.youtube.com/embed/l__xK3lI-8U"
-        },
-        {
-          "id": "FOAQMzKaGTs",
-          "title": "Canceling Subscriptions And Building AI Agents Instead",
-          "description": "There are tools I've been paying for monthly that I'm pretty sure I can just build myself with AI now. So that's what I'm doing.\n\nI'm starting with my finance and bookkeeping workflow. Categorizing ex",
-          "thumbnail": "https://i.ytimg.com/vi/FOAQMzKaGTs/maxresdefault.jpg",
-          "published_at": "2026-03-18T15:00:23Z",
-          "url": "https://www.youtube.com/watch?v=FOAQMzKaGTs",
-          "embed_url": "https://www.youtube.com/embed/FOAQMzKaGTs"
-        },
-        {
           "id": "kKG5MDF_234",
           "title": "My Favorite AI Workflow",
           "description": "Start building with Bolt for free (no credit card required): https://bolt.new/?utm_medium=social&utm_source=influencer&utm_campaign=V2&utm_content=tinahuang\n\n🤖 Want to get ahead in your career using A",
           "thumbnail": "https://i.ytimg.com/vi/kKG5MDF_234/maxresdefault.jpg",
           "published_at": "2026-03-17T15:20:55Z",
           "url": "https://www.youtube.com/watch?v=kKG5MDF_234",
-          "embed_url": "https://www.youtube.com/embed/kKG5MDF_234"
-        },
-        {
-          "id": "9HTggyAjeDw",
-          "title": "3 AI Coding Tools in 2026",
-          "description": "Which one are you using right now? Drop it in the comments 👇\n\n🤖 Want to get ahead in your career using AI? Join the waitlist for my AI Agent Bootcamp: https://www.lonelyoctopus.com/ai-agent-bootcamp",
-          "thumbnail": "https://i.ytimg.com/vi/9HTggyAjeDw/maxresdefault.jpg",
-          "published_at": "2026-03-13T16:11:58Z",
-          "url": "https://www.youtube.com/watch?v=9HTggyAjeDw",
-          "embed_url": "https://www.youtube.com/embed/9HTggyAjeDw"
+          "embed_url": "https://www.youtube.com/embed/kKG5MDF_234",
+          "duration_seconds": 1245
         },
         {
           "id": "oshQg1uSRvg",
@@ -1253,16 +738,8 @@
           "thumbnail": "https://i.ytimg.com/vi/oshQg1uSRvg/maxresdefault.jpg",
           "published_at": "2026-03-10T14:07:49Z",
           "url": "https://www.youtube.com/watch?v=oshQg1uSRvg",
-          "embed_url": "https://www.youtube.com/embed/oshQg1uSRvg"
-        },
-        {
-          "id": "oqe2LpDyxyA",
-          "title": "3 Opensource AI Tools For 2026",
-          "description": "🤖 Want to get ahead in your career using AI? Join the waitlist for my AI Agent Bootcamp: https://www.lonelyoctopus.com/ai-agent-bootcamp",
-          "thumbnail": "https://i.ytimg.com/vi/oqe2LpDyxyA/maxresdefault.jpg",
-          "published_at": "2026-03-08T15:01:18Z",
-          "url": "https://www.youtube.com/watch?v=oqe2LpDyxyA",
-          "embed_url": "https://www.youtube.com/embed/oqe2LpDyxyA"
+          "embed_url": "https://www.youtube.com/embed/oshQg1uSRvg",
+          "duration_seconds": 939
         }
       ]
     },
@@ -1279,16 +756,8 @@
           "thumbnail": "https://i.ytimg.com/vi/_uXnyhrqmsU/maxresdefault.jpg",
           "published_at": "2026-03-17T13:01:14Z",
           "url": "https://www.youtube.com/watch?v=_uXnyhrqmsU",
-          "embed_url": "https://www.youtube.com/embed/_uXnyhrqmsU"
-        },
-        {
-          "id": "Nfe5OCLeD38",
-          "title": "NotebookLM is now bigger than Gemini",
-          "description": "#NotebookLM now has more search interest than even Google Gemini.\n\nIts core advantage is the same as before though: you throw in documents across different formats and get a grounded answer instead of",
-          "thumbnail": "https://i.ytimg.com/vi/Nfe5OCLeD38/maxresdefault.jpg",
-          "published_at": "2026-03-11T12:11:32Z",
-          "url": "https://www.youtube.com/watch?v=Nfe5OCLeD38",
-          "embed_url": "https://www.youtube.com/embed/Nfe5OCLeD38"
+          "embed_url": "https://www.youtube.com/embed/_uXnyhrqmsU",
+          "duration_seconds": 1231
         }
       ]
     },
@@ -1299,22 +768,14 @@
       "lang": "en",
       "videos": [
         {
-          "id": "8QsdWYx2qmk",
-          "title": "New Claude Visuals Explained in 4 Minutes",
-          "description": "Subscribe to the channel for more breakdowns on the latest AI tools!\n\nIn this video, Igor shows you how to use the new custom visuals feature in Claude. Rather than standardized visuals like the previ",
-          "thumbnail": "https://i.ytimg.com/vi/8QsdWYx2qmk/maxresdefault.jpg",
-          "published_at": "2026-03-19T16:31:27Z",
-          "url": "https://www.youtube.com/watch?v=8QsdWYx2qmk",
-          "embed_url": "https://www.youtube.com/embed/8QsdWYx2qmk"
-        },
-        {
           "id": "aK3lAZ5hhm0",
           "title": "How to Switch from ChatGPT to Gemini (Without Losing Anything!)",
           "description": "Subscribe for more video tutorials teaching you how to use AI tools!\n\nIn this video, Igor shows you how to transfer all of the relevant information from ChatGPT over to Gemini so that you can make the",
           "thumbnail": "https://i.ytimg.com/vi/aK3lAZ5hhm0/maxresdefault.jpg",
           "published_at": "2026-03-17T16:15:37Z",
           "url": "https://www.youtube.com/watch?v=aK3lAZ5hhm0",
-          "embed_url": "https://www.youtube.com/embed/aK3lAZ5hhm0"
+          "embed_url": "https://www.youtube.com/embed/aK3lAZ5hhm0",
+          "duration_seconds": 624
         },
         {
           "id": "ITWcvB1AZtk",
@@ -1323,7 +784,8 @@
           "thumbnail": "https://i.ytimg.com/vi/ITWcvB1AZtk/maxresdefault.jpg",
           "published_at": "2026-03-13T20:36:10Z",
           "url": "https://www.youtube.com/watch?v=ITWcvB1AZtk",
-          "embed_url": "https://www.youtube.com/embed/ITWcvB1AZtk"
+          "embed_url": "https://www.youtube.com/embed/ITWcvB1AZtk",
+          "duration_seconds": 820
         },
         {
           "id": "Q5GxIpzOxOI",
@@ -1332,7 +794,8 @@
           "thumbnail": "https://i.ytimg.com/vi/Q5GxIpzOxOI/maxresdefault.jpg",
           "published_at": "2026-03-11T16:00:09Z",
           "url": "https://www.youtube.com/watch?v=Q5GxIpzOxOI",
-          "embed_url": "https://www.youtube.com/embed/Q5GxIpzOxOI"
+          "embed_url": "https://www.youtube.com/embed/Q5GxIpzOxOI",
+          "duration_seconds": 800
         },
         {
           "id": "9FruIqE0OEw",
@@ -1341,7 +804,8 @@
           "thumbnail": "https://i.ytimg.com/vi/9FruIqE0OEw/maxresdefault.jpg",
           "published_at": "2026-03-06T16:30:24Z",
           "url": "https://www.youtube.com/watch?v=9FruIqE0OEw",
-          "embed_url": "https://www.youtube.com/embed/9FruIqE0OEw"
+          "embed_url": "https://www.youtube.com/embed/9FruIqE0OEw",
+          "duration_seconds": 1187
         }
       ]
     }
