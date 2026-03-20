@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-19T13:15:26.045582+00:00",
-  "updated_display": "Mar 19, 2026 13:15 UTC",
+  "updated_at": "2026-03-20T08:18:07.528861+00:00",
+  "updated_display": "Mar 20, 2026 08:18 UTC",
   "sections": [
     {
       "title": "Equities 股票",
@@ -89,19 +89,8 @@
         },
         {
           "key": "ust2",
-          "name": "US 2Y Yield",
+          "name": "US 13W Yield",
           "sub": "Treasury",
-          "price": "N/A",
-          "chg": "N/A",
-          "up": true,
-          "range52": "N/A",
-          "raw_price": null,
-          "raw_chg_pct": null
-        },
-        {
-          "key": "bund",
-          "name": "DE 10Y Bund",
-          "sub": "Germany",
           "price": "N/A",
           "chg": "N/A",
           "up": true,
@@ -189,56 +178,56 @@
           "key": "btc",
           "name": "Bitcoin",
           "sub": "BTC/USD",
-          "price": "N/A",
-          "chg": "N/A",
+          "price": "$71,231",
+          "chg": "+1.47%",
           "up": true,
           "range52": "N/A",
-          "raw_price": null,
-          "raw_chg_pct": null
+          "raw_price": 71231,
+          "raw_chg_pct": 1.4732364026882812
         },
         {
           "key": "eth",
           "name": "Ethereum",
           "sub": "ETH/USD",
-          "price": "N/A",
-          "chg": "N/A",
+          "price": "$2,170",
+          "chg": "+0.13%",
           "up": true,
           "range52": "N/A",
-          "raw_price": null,
-          "raw_chg_pct": null
+          "raw_price": 2169.82,
+          "raw_chg_pct": 0.1294895087654354
         },
         {
           "key": "sol",
           "name": "Solana",
           "sub": "SOL/USD",
-          "price": "N/A",
-          "chg": "N/A",
+          "price": "$90.10",
+          "chg": "+0.71%",
           "up": true,
           "range52": "N/A",
-          "raw_price": null,
-          "raw_chg_pct": null
+          "raw_price": 90.1,
+          "raw_chg_pct": 0.705737256070005
         },
         {
           "key": "bnb",
           "name": "BNB",
           "sub": "BNB/USD",
-          "price": "N/A",
-          "chg": "N/A",
+          "price": "$646.67",
+          "chg": "+0.13%",
           "up": true,
           "range52": "N/A",
-          "raw_price": null,
-          "raw_chg_pct": null
+          "raw_price": 646.67,
+          "raw_chg_pct": 0.13306428166856654
         },
         {
           "key": "xrp",
           "name": "XRP",
           "sub": "XRP/USD",
-          "price": "N/A",
-          "chg": "N/A",
+          "price": "$1.46",
+          "chg": "+0.00%",
           "up": true,
           "range52": "N/A",
-          "raw_price": null,
-          "raw_chg_pct": null
+          "raw_price": 1.46,
+          "raw_chg_pct": 0.0027727520668553705
         }
       ]
     },
