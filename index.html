@@ -461,39 +461,44 @@ document.getElementById('vd-modal-close').addEventListener('click',closeVdModal)
 document.getElementById('vd-modal').addEventListener('click',e=>{if(e.target===document.getElementById('vd-modal'))closeVdModal();});
 async function loadVideos(){
   try{
-    const res=await fetch('./data/videos.json?t='+Date.now());if(!res.ok)throw new Error('HTTP '+res.status);
-    const data=await res.json();VIDEO_DATA=data.channels||[];
-    if(data.updated_at){const d=new Date(data.updated_at);document.getElementById('vd-updated').textContent='Updated '+d.toLocaleDateString('en-US',{year:'numeric',month:'short',day:'numeric',hour:'2-digit',minute:'2-digit'});}
-    const toolbar=document.getElementById('vd-toolbar');
+    const res=await fetch('./data/videos.json?t='+Date.now());
+    if(!res.ok)throw new Error('HTTP '+res.status);
+    const data=await res.json();
+    VIDEO_DATA=data.channels||[];
+    if(data.updated_at){
+      const d=new Date(data.updated_at);
+      document.getElementById('vd-updated').textContent='Updated '+d.toLocaleDateString('en-US',{year:'numeric',month:'short',day:'numeric',hour:'2-digit',minute:'2-digit'});
+    }
+    const rowCn=document.getElementById('vd-row-cn');
+    const rowEn=document.getElementById('vd-row-en');
+    // 清除旧按钮（保留 label span）
+    rowCn.querySelectorAll('.vd-tb-cn').forEach(b=>b.remove());
+    rowEn.querySelectorAll('.vd-tb-en').forEach(b=>b.remove());
+
     const cnChs=VIDEO_DATA.filter(ch=>ch.lang==='cn');
     const enChs=VIDEO_DATA.filter(ch=>ch.lang==='en');
-    // 两行布局
-    toolbar.style.cssText='display:block;border-bottom:1px solid var(--rule2);padding:10px 0;margin-bottom:28px;';
-    toolbar.innerHTML='';
-    function makeRow(label,channels,isFirst){
-      const row=document.createElement('div');
-      row.style.cssText='display:flex;align-items:center;flex-wrap:wrap;gap:0;'+(isFirst?'margin-bottom:2px;':'');
-      const lbl=document.createElement('span');
-      lbl.style.cssText='font-family:var(--mono);font-size:9px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink4);min-width:40px;padding-right:8px;padding-top:6px;white-space:nowrap;';
-      lbl.textContent=label;
-      row.appendChild(lbl);
-      channels.forEach(ch=>{
-        const btn=document.createElement('div');
-        btn.className='tb-btn';
-        btn.textContent=ch.channel_name;
-        btn.onclick=function(){
-          toolbar.querySelectorAll('.tb-btn').forEach(b=>b.classList.remove('active'));
-          btn.classList.add('active');
-          renderVideos(ch.channel_id);
-        };
-        row.appendChild(btn);
-      });
-      return row;
+
+    function makeBtn(ch, cls, isFirst){
+      const btn=document.createElement('div');
+      btn.className=cls+(isFirst?' active':'');
+      btn.textContent=ch.channel_name;
+      btn.onclick=function(){
+        document.querySelectorAll('.vd-tb-cn,.vd-tb-en').forEach(b=>b.classList.remove('active'));
+        this.classList.add('active');
+        renderVideos(ch.channel_id);
+      };
+      return btn;
     }
-    if(cnChs.length) toolbar.appendChild(makeRow('中文',cnChs,true));
-    if(enChs.length) toolbar.appendChild(makeRow('EN',enChs,false));
-    renderVideos('all');
-  }catch(e){console.warn('videos.json load failed:',e);document.getElementById('vd-grid').innerHTML=`<p style="color:var(--ink4);font-size:13px;padding:24px 0;grid-column:1/-1">Videos unavailable.</p>`;}
+    cnChs.forEach((ch,i)=>rowCn.appendChild(makeBtn(ch,'vd-tb-cn',i===0)));
+    enChs.forEach((ch,i)=>rowEn.appendChild(makeBtn(ch,'vd-tb-en',i===0)));
+
+    // 默认显示第一个中文频道
+    const firstCn=cnChs[0];
+    renderVideos(firstCn?firstCn.channel_id:'all');
+  }catch(e){
+    console.warn('videos.json load failed:',e);
+    document.getElementById('vd-grid').innerHTML=`<p style="color:var(--ink4);font-size:13px;padding:24px 0;grid-column:1/-1">Videos unavailable.</p>`;
+  }
 }
 
 // ══════════════════════════════════════
