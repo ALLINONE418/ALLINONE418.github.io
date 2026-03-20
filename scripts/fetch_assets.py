@@ -1,8 +1,8 @@
 import json
 import os
-import requests
-from datetime import datetime, timezone
 import time
+import requests
+from datetime import datetime, timezone, timedelta
 
 ASSETS = [
     {"key": "sp500",   "ticker": "^GSPC",    "name": "S&P 500",    "sub": "USA",          "section": "equities"},
@@ -36,163 +36,130 @@ CRYPTO_ASSETS = [
 ]
 
 
-def fetch_ticker_data(ticker, session):
-    """用 yfinance chart API 抓取价格 + 3年历史"""
-    try:
-        url = f"https://query1.finance.yahoo.com/v8/finance/chart/{ticker}"
-        params = {"interval": "1wk", "range": "3y"}
-        resp = session.get(url, params=params, timeout=15)
-        if resp.status_code != 200:
-            url2 = f"https://query2.finance.yahoo.com/v8/finance/chart/{ticker}"
-            resp = session.get(url2, params=params, timeout=15)
-        if resp.status_code != 200:
-            return None
-
-        data = resp.json()
-        result = data.get("chart", {}).get("result", [])
-        if not result:
-            return None
-
-        meta = result[0].get("meta", {})
-        timestamps = result[0].get("timestamp", [])
-        closes = result[0].get("indicators", {}).get("adjclose", [{}])[0].get("adjclose", [])
-
-        if not closes:
-            closes = result[0].get("indicators", {}).get("quote", [{}])[0].get("close", [])
-
-        current = meta.get("regularMarketPrice")
-        prev_close = meta.get("chartPreviousClose") or meta.get("previousClose")
-        high52 = meta.get("fiftyTwoWeekHigh")
-        low52 = meta.get("fiftyTwoWeekLow")
-
-        # 计算各时间段涨跌幅
-        now_ts = time.time()
-        def find_price_ago(days):
-            target_ts = now_ts - days * 86400
-            best_price = None
-            best_diff = float('inf')
-            for ts, price in zip(timestamps, closes):
-                if ts and price and abs(ts - target_ts) < best_diff:
-                    best_diff = abs(ts - target_ts)
-                    best_price = price
-            return best_price
-
-        price_6m = find_price_ago(182)
-        price_1y = find_price_ago(365)
-        price_3y = find_price_ago(1095)
-
-        def calc_chg(past_price):
-            if current and past_price and past_price != 0:
-                return (current - past_price) / past_price * 100
-            return None
-
-        chg_24h = ((current - prev_close) / prev_close * 100) if current and prev_close and prev_close != 0 else None
-
-        return {
-            "price":    current,
-            "chg_24h":  chg_24h,
-            "chg_6m":   calc_chg(price_6m),
-            "chg_1y":   calc_chg(price_1y),
-            "chg_3y":   calc_chg(price_3y),
-            "high52":   high52,
-            "low52":    low52,
-        }
-    except Exception as e:
-        print(f"    error {ticker}: {e}")
-        return None
-
-
 def fetch_yahoo_all():
-    session = requests.Session()
-    session.headers.update({
-        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
-                      "AppleWebKit/537.36 (KHTML, like Gecko) "
-                      "Chrome/122.0.0.0 Safari/537.36",
-        "Accept": "*/*",
-        "Accept-Language": "en-US,en;q=0.9",
-        "Referer": "https://finance.yahoo.com/",
-    })
-    try:
-        session.get("https://finance.yahoo.com/", timeout=8)
-        time.sleep(0.5)
-    except:
-        pass
-
+    import yfinance as yf
     results = {}
+    tickers = [a["ticker"] for a in ASSETS]
+
+    print(f"  Downloading history for {len(tickers)} tickers...")
+    # 一次性下载3年周线数据
+    try:
+        hist = yf.download(
+            tickers, period="3y", interval="1wk",
+            group_by="ticker", auto_adjust=True,
+            progress=False, timeout=30
+        )
+    except Exception as e:
+        print(f"  yf.download error: {e}")
+        hist = None
+
     for asset in ASSETS:
         ticker = asset["ticker"]
-        time.sleep(0.3)
-        data = fetch_ticker_data(ticker, session)
-        if data and data.get("price"):
-            results[ticker] = data
-            icon = "✅"
-        else:
-            icon = "⚠️"
-        price_str = f"{data['price']:.2f}" if data and data.get("price") else "N/A"
-        chg_str = f"{data['chg_24h']:+.2f}%" if data and data.get("chg_24h") is not None else ""
-        print(f"  {icon} {asset['name']:20s} {price_str:>12s}  {chg_str}")
+        try:
+            tk = yf.Ticker(ticker)
+            info = tk.fast_info
+            price    = getattr(info, "last_price", None)
+            prev     = getattr(info, "previous_close", None)
+            high52   = getattr(info, "year_high", None)
+            low52    = getattr(info, "year_low", None)
+            chg_24h  = ((price - prev) / prev * 100) if price and prev and prev != 0 else None
+
+            # 从历史数据取各时间节点价格
+            chg_6m = chg_1y = chg_3y = None
+            if hist is not None and price:
+                try:
+                    if len(tickers) > 1:
+                        col = hist["Close"][ticker] if "Close" in hist.columns.get_level_values(0) else hist[ticker]["Close"]
+                    else:
+                        col = hist["Close"]
+                    col = col.dropna()
+                    now = datetime.now(timezone.utc)
+                    def price_ago(days):
+                        target = now - timedelta(days=days)
+                        # pandas datetime比较
+                        import pandas as pd
+                        target_pd = pd.Timestamp(target).tz_localize(None)
+                        col_naive = col.copy()
+                        if col_naive.index.tz is not None:
+                            col_naive.index = col_naive.index.tz_localize(None)
+                        idx = (col_naive.index - target_pd).abs().argmin()
+                        return float(col_naive.iloc[idx])
+                    def calc(past):
+                        return (price - past) / past * 100 if past and past != 0 else None
+                    chg_6m = calc(price_ago(182))
+                    chg_1y = calc(price_ago(365))
+                    chg_3y = calc(price_ago(1095))
+                except Exception as e2:
+                    print(f"    history parse error {ticker}: {e2}")
+
+            results[ticker] = {
+                "price": price, "chg_24h": chg_24h,
+                "chg_6m": chg_6m, "chg_1y": chg_1y, "chg_3y": chg_3y,
+                "high52": high52, "low52": low52,
+            }
+            icon = "✅" if price else "⚠️"
+            c24 = f"{chg_24h:+.2f}%" if chg_24h is not None else "N/A"
+            c1y = f"{chg_1y:+.1f}%" if chg_1y is not None else "N/A"
+            print(f"  {icon} {asset['name']:20s} {str(price or 'N/A'):>12s}  24h:{c24}  1y:{c1y}")
+        except Exception as e:
+            print(f"  ⚠️  {asset['name']:20s} error: {e}")
+            results[ticker] = {"price": None, "chg_24h": None, "chg_6m": None,
+                               "chg_1y": None, "chg_3y": None, "high52": None, "low52": None}
     return results
 
 
 def fetch_coingecko():
-    """CoinGecko：当前价格 + 24h/6m/1y/3y 涨跌幅"""
     results = {}
     ids = ",".join([a["cg_id"] for a in CRYPTO_ASSETS])
-
-    # 当前价格 + 24h/7d/30d 变化
-    url = (f"https://api.coingecko.com/api/v3/simple/price"
-           f"?ids={ids}&vs_currencies=usd"
-           f"&include_24hr_change=true&include_7d_change=true&include_30d_change=true")
     try:
-        resp = requests.get(url, headers={"User-Agent": "Mozilla/5.0"}, timeout=15)
+        resp = requests.get(
+            f"https://api.coingecko.com/api/v3/simple/price"
+            f"?ids={ids}&vs_currencies=usd&include_24hr_change=true&include_7d_change=true",
+            headers={"User-Agent": "Mozilla/5.0"}, timeout=15
+        )
         data = resp.json()
         for asset in CRYPTO_ASSETS:
             cg = data.get(asset["cg_id"], {})
             results[asset["cg_id"]] = {
-                "price":   cg.get("usd"),
-                "chg_24h": cg.get("usd_24h_change"),
-                "chg_7d":  cg.get("usd_7d_change"),
-                "chg_30d": cg.get("usd_30d_change"),
-                "chg_6m":  None,
-                "chg_1y":  None,
-                "chg_3y":  None,
+                "price": cg.get("usd"), "chg_24h": cg.get("usd_24h_change"),
+                "chg_6m": None, "chg_1y": None, "chg_3y": None,
             }
     except Exception as e:
-        print(f"  CoinGecko simple/price error: {e}")
+        print(f"  CoinGecko simple error: {e}")
 
-    # 用 market_chart 补充 6m/1y/3y（逐个查询，避免超限）
+    # 逐个补 6m/1y/3y
     for asset in CRYPTO_ASSETS:
         cg_id = asset["cg_id"]
         try:
-            time.sleep(1.2)  # CoinGecko 免费版限速
-            url2 = f"https://api.coingecko.com/api/v3/coins/{cg_id}/market_chart"
-            resp2 = requests.get(url2, params={"vs_currency": "usd", "days": "1095", "interval": "weekly"},
-                                 headers={"User-Agent": "Mozilla/5.0"}, timeout=15)
+            time.sleep(1.5)
+            resp2 = requests.get(
+                f"https://api.coingecko.com/api/v3/coins/{cg_id}/market_chart",
+                params={"vs_currency": "usd", "days": "1095", "interval": "weekly"},
+                headers={"User-Agent": "Mozilla/5.0"}, timeout=20
+            )
             if resp2.status_code == 200:
-                hist = resp2.json().get("prices", [])
-                if hist and cg_id in results and results[cg_id]["price"]:
-                    current = results[cg_id]["price"]
+                prices = resp2.json().get("prices", [])
+                current = results.get(cg_id, {}).get("price")
+                if prices and current:
                     now_ms = time.time() * 1000
-                    def find_cg_price(days):
+                    def cg_price_ago(days):
                         target = now_ms - days * 86400 * 1000
                         best, diff = None, float('inf')
-                        for ts, p in hist:
+                        for ts, p in prices:
                             if abs(ts - target) < diff:
-                                diff = abs(ts - target)
-                                best = p
+                                diff = abs(ts - target); best = p
                         return best
-                    p6m = find_cg_price(182)
-                    p1y = find_cg_price(365)
-                    p3y = find_cg_price(1095)
-                    def chg(past):
+                    def cg_chg(past):
                         return (current - past) / past * 100 if past and past != 0 else None
-                    results[cg_id]["chg_6m"] = chg(p6m)
-                    results[cg_id]["chg_1y"] = chg(p1y)
-                    results[cg_id]["chg_3y"] = chg(p3y)
-                    print(f"  ✅ {asset['name']:20s} 6m={results[cg_id]['chg_6m']:+.1f}% 1y={results[cg_id]['chg_1y']:+.1f}%" if results[cg_id]['chg_6m'] else f"  ✅ {asset['name']}")
+                    if cg_id not in results:
+                        results[cg_id] = {}
+                    results[cg_id]["chg_6m"] = cg_chg(cg_price_ago(182))
+                    results[cg_id]["chg_1y"] = cg_chg(cg_price_ago(365))
+                    results[cg_id]["chg_3y"] = cg_chg(cg_price_ago(1095))
+                    c1y = results[cg_id]['chg_1y']
+                    print(f"  ✅ {asset['name']:20s} 1y:{c1y:+.1f}%" if c1y else f"  ✅ {asset['name']}")
         except Exception as e:
-            print(f"  CoinGecko market_chart error {cg_id}: {e}")
-
+            print(f"  CoinGecko history error {cg_id}: {e}")
     return results
 
 
@@ -204,24 +171,20 @@ def fmt_price(val, section):
     if val > 100:          return f"{val:,.2f}"
     return f"{val:.4f}"
 
-
-def fmt_chg(val, section=None, is_bp=False):
-    """格式化涨跌幅，债券用bp，其他用%"""
+def fmt_chg(val, section):
     if val is None: return "N/A"
     if section == "bonds":
-        bp = round(val * 100)
-        s = "+" if bp >= 0 else ""
+        bp = round(val * 100); s = "+" if bp >= 0 else ""
         return f"{s}{bp}bp"
-    up = val >= 0
-    sign = "+" if up else ""
-    return f"{sign}{val:.2f}%"
+    s = "+" if val >= 0 else ""
+    return f"{s}{val:.2f}%"
 
 
 def fetch_assets():
     now = datetime.now(timezone.utc)
     print(f"Fetching assets at {now.isoformat()}\n")
 
-    print("=== Yahoo Finance ===")
+    print("=== Yahoo Finance (yfinance) ===")
     yahoo_data = fetch_yahoo_all()
 
     print("\n=== CoinGecko ===")
@@ -238,57 +201,39 @@ def fetch_assets():
     for asset in ASSETS:
         d   = yahoo_data.get(asset["ticker"], {})
         sec = asset["section"]
-        price   = d.get("price")
-        high52  = d.get("high52")
-        low52   = d.get("low52")
-
-        price_str = fmt_price(price, sec)
-        chg_24h_str = fmt_chg(d.get("chg_24h"), sec)
-        chg_6m_str  = fmt_chg(d.get("chg_6m"),  sec)
-        chg_1y_str  = fmt_chg(d.get("chg_1y"),  sec)
-        chg_3y_str  = fmt_chg(d.get("chg_3y"),  sec)
-        up_24h = (d.get("chg_24h") or 0) >= 0
-
+        price  = d.get("price")
+        high52 = d.get("high52")
+        low52  = d.get("low52")
         range52 = (f"{fmt_price(low52, sec)} – {fmt_price(high52, sec)}"
                    if high52 and low52 else "N/A")
-
         sections[sec]["items"].append({
             "key": asset["key"], "name": asset["name"], "sub": asset["sub"],
-            "price": price_str,
-            "chg":    chg_24h_str, "up":    up_24h,
-            "chg_6m": chg_6m_str,  "up_6m": (d.get("chg_6m") or 0) >= 0,
-            "chg_1y": chg_1y_str,  "up_1y": (d.get("chg_1y") or 0) >= 0,
-            "chg_3y": chg_3y_str,  "up_3y": (d.get("chg_3y") or 0) >= 0,
-            "range52": range52,
-            "raw_price": price,
+            "price":  fmt_price(price, sec),
+            "chg":    fmt_chg(d.get("chg_24h"), sec), "up":    (d.get("chg_24h") or 0) >= 0,
+            "chg_6m": fmt_chg(d.get("chg_6m"),  sec), "up_6m": (d.get("chg_6m")  or 0) >= 0,
+            "chg_1y": fmt_chg(d.get("chg_1y"),  sec), "up_1y": (d.get("chg_1y")  or 0) >= 0,
+            "chg_3y": fmt_chg(d.get("chg_3y"),  sec), "up_3y": (d.get("chg_3y")  or 0) >= 0,
+            "range52": range52, "raw_price": price,
         })
 
     for asset in CRYPTO_ASSETS:
-        cg  = cg_data.get(asset["cg_id"], {})
-        price   = cg.get("price")
-        chg_24h = cg.get("chg_24h")
-        up = (chg_24h or 0) >= 0
-        sign = "+" if up else ""
-
-        if price is None:   price_str = "N/A"
-        elif price >= 1000: price_str = f"${price:,.0f}"
-        elif price >= 1:    price_str = f"${price:.2f}"
-        else:               price_str = f"${price:.4f}"
-
-        def cg_fmt(val):
+        cg    = cg_data.get(asset["cg_id"], {})
+        price = cg.get("price")
+        if price is None:   ps = "N/A"
+        elif price >= 1000: ps = f"${price:,.0f}"
+        elif price >= 1:    ps = f"${price:.2f}"
+        else:               ps = f"${price:.4f}"
+        def cf(val):
             if val is None: return "N/A"
-            s = "+" if val >= 0 else ""
-            return f"{s}{val:.2f}%"
-
+            return f"+{val:.2f}%" if val >= 0 else f"{val:.2f}%"
         sections["crypto"]["items"].append({
             "key": asset["key"], "name": asset["name"], "sub": asset["sub"],
-            "price": price_str,
-            "chg":    cg_fmt(chg_24h),          "up":    up,
-            "chg_6m": cg_fmt(cg.get("chg_6m")), "up_6m": (cg.get("chg_6m") or 0) >= 0,
-            "chg_1y": cg_fmt(cg.get("chg_1y")), "up_1y": (cg.get("chg_1y") or 0) >= 0,
-            "chg_3y": cg_fmt(cg.get("chg_3y")), "up_3y": (cg.get("chg_3y") or 0) >= 0,
-            "range52": "N/A",
-            "raw_price": price,
+            "price": ps,
+            "chg":    cf(cg.get("chg_24h")), "up":    (cg.get("chg_24h") or 0) >= 0,
+            "chg_6m": cf(cg.get("chg_6m")),  "up_6m": (cg.get("chg_6m")  or 0) >= 0,
+            "chg_1y": cf(cg.get("chg_1y")),  "up_1y": (cg.get("chg_1y")  or 0) >= 0,
+            "chg_3y": cf(cg.get("chg_3y")),  "up_3y": (cg.get("chg_3y")  or 0) >= 0,
+            "range52": "N/A", "raw_price": price,
         })
 
     output = {
@@ -297,7 +242,6 @@ def fetch_assets():
         "sections": [sections["equities"], sections["bonds"],
                      sections["commodities"], sections["crypto"], sections["fx"]]
     }
-
     os.makedirs("data", exist_ok=True)
     with open("data/assets.json", "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
