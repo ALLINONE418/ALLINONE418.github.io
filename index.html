@@ -448,8 +448,27 @@ async function loadVideos(){
     const data=await res.json();VIDEO_DATA=data.channels||[];
     if(data.updated_at){const d=new Date(data.updated_at);document.getElementById('vd-updated').textContent='Updated '+d.toLocaleDateString('en-US',{year:'numeric',month:'short',day:'numeric',hour:'2-digit',minute:'2-digit'});}
     const toolbar=document.getElementById('vd-toolbar');
-    toolbar.innerHTML=`<div class="tb-btn active" onclick="filterVd('all',this)">All</div>`;
-    VIDEO_DATA.forEach(ch=>{const btn=document.createElement('div');btn.className='tb-btn';btn.textContent=ch.channel_name;btn.onclick=function(){filterVd(ch.channel_id,this);};toolbar.appendChild(btn);});
+    const cnChs=VIDEO_DATA.filter(ch=>ch.lang==='cn');
+    const enChs=VIDEO_DATA.filter(ch=>ch.lang==='en');
+    toolbar.innerHTML='';
+    // All 按钮
+    const allBtn=document.createElement('div');
+    allBtn.className='tb-btn active';allBtn.textContent='All';
+    allBtn.onclick=function(){filterVd('all',this);};
+    toolbar.appendChild(allBtn);
+    // 分隔
+    if(cnChs.length){
+      const sep1=document.createElement('div');
+      sep1.style.cssText='font-family:var(--mono);font-size:9px;color:var(--ink4);letter-spacing:.1em;text-transform:uppercase;padding:6px 10px 10px;align-self:center;white-space:nowrap;';
+      sep1.textContent='中文';toolbar.appendChild(sep1);
+      cnChs.forEach(ch=>{const btn=document.createElement('div');btn.className='tb-btn';btn.textContent=ch.channel_name;btn.onclick=function(){filterVd(ch.channel_id,this);};toolbar.appendChild(btn);});
+    }
+    if(enChs.length){
+      const sep2=document.createElement('div');
+      sep2.style.cssText='font-family:var(--mono);font-size:9px;color:var(--ink4);letter-spacing:.1em;text-transform:uppercase;padding:6px 10px 10px;align-self:center;white-space:nowrap;border-left:1px solid var(--rule2);margin-left:4px;';
+      sep2.textContent='EN';toolbar.appendChild(sep2);
+      enChs.forEach(ch=>{const btn=document.createElement('div');btn.className='tb-btn';btn.textContent=ch.channel_name;btn.onclick=function(){filterVd(ch.channel_id,this);};toolbar.appendChild(btn);});
+    }
     renderVideos('all');
   }catch(e){console.warn('videos.json load failed:',e);document.getElementById('vd-grid').innerHTML=`<p style="color:var(--ink4);font-size:13px;padding:24px 0;grid-column:1/-1">Videos unavailable.</p>`;}
 }
