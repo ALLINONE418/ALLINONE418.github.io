@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-21T04:13:34.734145+00:00",
-  "keep_hours": 336,
+  "updated_at": "2026-03-21T04:48:50.937845+00:00",
+  "keep_hours": 168,
   "total_videos": 80,
   "channels": [
     {
@@ -689,7 +689,7 @@
       "videos": []
     },
     {
-      "channel_name": "Andrej karpathy",
+      "channel_name": "Andrej Karpathy",
       "channel_id": "UCXUPKJO5MZQN11PqgIvyuvQ",
       "channel_thumb": "https://yt3.ggpht.com/ytc/AIdro_nDvyq2NoPL626bk1IbxQ94SfQsD-B0qgZchghtQNkLWoEz=s88-c-k-c0x00ffffff-no-rj",
       "lang": "en",
