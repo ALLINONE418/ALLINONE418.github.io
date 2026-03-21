@@ -276,6 +276,7 @@ a{color:inherit;text-decoration:none;}
 <div class="container">
   <div class="toolbar" id="news-toolbar">
     <div class="tb-btn active" onclick="filterNews('all',this)">All</div>
+    <div class="tb-btn" id="news-play-btn" onclick="toggleNewsPlay()" style="color:#fff;background:#7a2828;border-bottom:2px solid #7a2828;padding:6px 16px 10px;border-radius:2px 2px 0 0;">▶ 播报</div>
     <div class="tb-btn" onclick="filterNews('economy',this)">Economy 经济</div>
     <div class="tb-btn" onclick="filterNews('tech',this)">Technology 科技</div>
     <div class="tb-btn" onclick="filterNews('politics',this)">Politics 政治</div>
@@ -613,7 +614,10 @@ async function loadVideos(){
       rowEn.appendChild(btn);
     });
 
-    renderVideos('all');
+    // ★ 默认打开「中文」汇总（每博主2条）
+    const lblCn = document.getElementById('vd-lbl-cn');
+    if(lblCn) lblCn.classList.add('active');
+    renderVideos('cn-all');
   }catch(e){
     console.warn('videos.json load failed:',e);
     document.getElementById('vd-grid').innerHTML=`<p style="color:var(--ink4);font-size:13px;padding:24px 0;grid-column:1/-1">Videos unavailable.</p>`;
@@ -623,6 +627,74 @@ async function loadVideos(){
 // ══════════════════════════════════════
 // NEWS
 // ══════════════════════════════════════
+// ══════════════════════════════════════
+// NEWS 播报（Web Speech API）
+// ══════════════════════════════════════
+let _newsSpeaking = false;
+
+function toggleNewsPlay() {
+  const btn = document.getElementById('news-play-btn');
+  if (_newsSpeaking) {
+    window.speechSynthesis.cancel();
+    _newsSpeaking = false;
+    btn.textContent = '▶ 播报';
+    btn.style.background = '#7a2828';
+    return;
+  }
+
+  // 收集当日新闻标题+摘要
+  const items = NEWS.filter(n =>
+    n.time.includes('h ago') || n.time.includes('小时前') || n.time === '刚刚'
+  );
+  if (!items.length) {
+    alert('暂无当日新闻可播报');
+    return;
+  }
+
+  let text = '你好，世界！以下是今日财经要闻。';
+  items.forEach((n, i) => {
+    const title = n.cnTitle || n.headline;
+    const deck  = n.cnDeck  || n.deck || '';
+    text += `第${['一','二','三','四','五','六','七','八','九','十'][i]||i+1}条。${title}。${deck} `;
+  });
+  text += '今日要闻播报完毕，感谢收听。';
+
+  const utter = new SpeechSynthesisUtterance(text);
+  utter.lang  = 'zh-CN';
+  utter.rate  = 1.15;   // 新闻播报语速，比默认稍快
+  utter.pitch = 0.85;   // 偏低沉，接近男声质感
+  utter.volume = 1;
+
+  // 优先选中文男声
+  const voices = window.speechSynthesis.getVoices();
+  const cnMale = voices.find(v =>
+    v.lang.startsWith('zh') && /male|man|zh-CN-Yunxi|Kangkang|YunYang/i.test(v.name)
+  ) || voices.find(v => v.lang === 'zh-CN') || voices.find(v => v.lang.startsWith('zh'));
+  if (cnMale) utter.voice = cnMale;
+
+  utter.onend = () => {
+    _newsSpeaking = false;
+    btn.textContent = '▶ 播报';
+    btn.style.background = '#7a2828';
+  };
+  utter.onerror = () => {
+    _newsSpeaking = false;
+    btn.textContent = '▶ 播报';
+    btn.style.background = '#7a2828';
+  };
+
+  window.speechSynthesis.cancel(); // 清除残留
+  window.speechSynthesis.speak(utter);
+  _newsSpeaking = true;
+  btn.textContent = '■ 停止';
+  btn.style.background = '#a04040';
+}
+
+// 语音列表异步加载时重新触发
+if (window.speechSynthesis && window.speechSynthesis.onvoiceschanged !== undefined) {
+  window.speechSynthesis.onvoiceschanged = () => {};
+}
+
 function srcColor(src){const map={'BBC':'#8B0000','CNBC':'#1a3d5c','Bloomberg':'#2c4a1e','Reuters':'#5a3e1e','FT':'#8B4513','WSJ':'#1a1a4a','NYT':'#2a2a2a'};return map[src]||'#555';}
 function renderNews(cat){
   const list=cat==='all'?NEWS:NEWS.filter(n=>n.cat===cat);
