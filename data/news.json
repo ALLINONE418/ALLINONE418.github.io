@@ -256,7 +256,6 @@
     "url": "https://www.bbc.com/news/articles/cr71rkeg7xxo?at_medium=RSS&at_campaign=rss",
     "time": "19小时前",
     "published_iso": "2026-03-20T20:16:29+00:00",
-    "is_new": true,
     "id": "n20",
     "lead": false
   },
@@ -352,6 +351,20 @@
     "lead": false
   },
   {
+    "headline": "xAI Sends Engineers to Client Sites in Bid to Win Business from OpenAI - Bloomberg",
+    "deck": "xAI Sends Engineers to Client Sites in Bid to Win Business from OpenAI&nbsp;&nbsp;Bloomberg",
+    "cnTitle": "xAI派工程师上门争夺OpenAI客户",
+    "cnDeck": "xAI正在派遣工程师前往客户现场，以争夺OpenAI的业务。据彭博社报道，这家由埃隆·马斯克创办的人工智能公司xAI采取了积极的销售策略，直接向潜在客户派遣技术人员，以展示其AI能力并吸引企业客户转向使用xAI的服务。这一举措反映了xAI在与OpenAI竞争过程中的市场扩张野心。xAI希望通过这种上门服务的方式，向企业客户演示其技术的优势，争取更多商业合作机会。这体现了AI行业竞争的加剧，特别是在生成式AI领域，各大科技公司为了争夺企业客户都在采取更加主动的营销策略。xAI作为后起之秀，正在通过差异化的客户服务方式来挑战OpenAI在企业AI市场中的主导地位。",
+    "cat": "tech",
+    "source": "Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVEVubnpQQm00N25zb1NmSzhEN1U3bU83Z055TUJiUThlSGdTMHJ1YVlQOFlmMXlDZFJQUHU5V3FFalJBVHRFcktfX045N1MyTUpUakxHaFpMc3BsWXRwQW1GbFlzSXBNWTRWUmJZSWRVVTJNYmdnaTZWWENQMlVXWWdxNlV3ZldQLTZURjdBVjZoSllCUGVuODVJSWxUSzFxVUUzTXRQVl9Fd0pMNFFiVUpfR24tS3IyQ1dYQlEzak11MEVBaG03eDlRcEUyMTA?oc=5",
+    "time": "1天前",
+    "published_iso": "2026-03-20T13:00:00+00:00",
+    "is_new": true,
+    "id": "n28",
+    "lead": false
+  },
+  {
     "headline": "Work from home, drive slower and don't use gas cookers: IEA advice on weathering the global energy crisis",
     "deck": "The IEA warns of \"the largest supply disruption in the history of the global oil market\" due to the conflict in the Middle East.",
     "cnTitle": "重大能源危机预警来自IEA",
@@ -361,7 +374,7 @@
     "url": "https://www.cnbc.com/2026/03/20/iea-oil-fuel-prices-energy-advice-consumers-crisis.html",
     "time": "2小时前",
     "published_iso": "2026-03-20T12:00:50+00:00",
-    "id": "n28",
+    "id": "n29",
     "lead": false
   },
   {
@@ -374,7 +387,7 @@
     "url": "https://www.bbc.com/news/articles/cq6jrvgqeejo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-03-20T11:33:17+00:00",
-    "id": "n29",
+    "id": "n30",
     "lead": false
   },
   {
@@ -387,7 +400,7 @@
     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcWJQcWVmZmU2TlZZbXNqREhPNDJvOUFlMkkwZENiTmtObjlQakVHclpUbWR3eS1hbTNlNG9iek9sV2VXdU9TQlNPVVlWU3ZaNTVNZEIxSV82dTluTEdwSjk4TmM2NUpWRU5IZkJxSTJqQmtRUTFoRUlRMExWdzBKYm43bThNN0dLN09QSHN1UGZ4TEF2dW1RckFQWHBGdUNQTVFabk5CcXZBbk1xcFIwWUFjQVN4ODR6aEdpRXplYVpUZHFmU0luM013bGo?oc=5",
     "time": "1天前",
     "published_iso": "2026-03-20T08:47:34+00:00",
-    "id": "n30",
+    "id": "n31",
     "lead": false
   },
   {
@@ -400,7 +413,7 @@
     "url": "https://www.cnbc.com/2026/03/20/us-arms-weapon-sales-middle-east-iran-israel-war.html",
     "time": "6小时前",
     "published_iso": "2026-03-20T07:35:51+00:00",
-    "id": "n31",
+    "id": "n32",
     "lead": false
   },
   {
@@ -413,7 +426,7 @@
     "url": "https://www.cnbc.com/2026/03/19/stock-market-today-live-updates.html",
     "time": "1小时前",
     "published_iso": "2026-03-20T04:09:05+00:00",
-    "id": "n32",
+    "id": "n33",
     "lead": false
   },
   {
@@ -426,7 +439,7 @@
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNczRadVVLMDByNy1KXy1VRzVfRnkwOHVEZDM1X3M4SlJ4V0JiMzhveDgzU0xrVHpYOW9EY19BbmM5ZjNhSWxTOWZJZDFtSnE0UVVZRlNkMUZSWXZsWWpuOEhXa3U0Mjdzbm56UGYwQlg3UEV1cHZMREdKUEZyVFhBcUc1RmFoSHRXUkJpTnBGNVNkamxzRHlHZW9OWV9vRGo4YnFFa2dmUjVLYWZGbVA5a19R?oc=5",
     "time": "1小时前",
     "published_iso": "2026-03-20T03:37:00+00:00",
-    "id": "n33",
+    "id": "n34",
     "lead": false
   },
   {
@@ -439,7 +452,7 @@
     "url": "https://www.cnbc.com/2026/03/20/trump-pearl-harbor-japan-takaichi-iran-war.html",
     "time": "1小时前",
     "published_iso": "2026-03-20T03:32:58+00:00",
-    "id": "n34",
+    "id": "n35",
     "lead": false
   },
   {
@@ -452,7 +465,7 @@
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSUpyWGNGRkc5alFSYjcwcEpLUVNuWThwQ1BmQXBwZS1zNHdlOEFGMnR6NTFUMDAxOFpkUldyQVQ1VjNZNXhQNDZXNmVZM2p5X1dCdUxqTzZiNU56bFk4QXhQSlhFZ3liMEVOOFNWcDVCMDBjWXJRanFyMnZLam9OY1BHYkhHNmU1YW52V1JmNFctc1FPSWZtTU5YVjk2Ym0xYnlRUmdTTkNmSzlxMlJSRzVyZko5VTVDZHBQNkFpNHdoeUdSSUFr?oc=5",
     "time": "1小时前",
     "published_iso": "2026-03-20T03:25:54+00:00",
-    "id": "n35",
+    "id": "n36",
     "lead": false
   },
   {
@@ -465,7 +478,7 @@
     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNT0ZtU0VrS3V6Tk5QU2RtY3pjbGlpMnJ4dlRPS3QwbkdoN2daZktNNWozZTYtbm51VkM3TG5mbHdNY2tLa094cFFIV0pkbENITnRjUHRUMkV2ZTdhYmxDaXFrbE12WHA0T1dNYWZ6OFJGZXlhQzNmam16ZUJnMndxSHpqamFtZ2w4YXlfMzJMTW5UV3c3WmhtQ21hQW9tUldZNDh5TnpEUE9PaWlWbXdCai1wZkx0SVU4WG90SFBBRXRoa2p3NnhRY1hDZUVqazQ?oc=5",
     "time": "1天前",
     "published_iso": "2026-03-20T03:21:00+00:00",
-    "id": "n36",
+    "id": "n37",
     "lead": false
   },
   {
@@ -478,7 +491,7 @@
     "url": "https://www.cnbc.com/2026/03/20/asia-markets-today-nikkei-hang-seng-kospi.html",
     "time": "2小时前",
     "published_iso": "2026-03-20T03:06:58+00:00",
-    "id": "n37",
+    "id": "n38",
     "lead": false
   },
   {
@@ -491,7 +504,7 @@
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY0VIUk81Q2xJN0pwcmJvREl5NVNQam51M0tzNU5LSWdsWjcwZ1Z1YnJrZGl2ZE81WlJhWWtERjQ2d0V2Y3dCME4tYThyeDNXb2s2ZUdNcUNLSWZMeVZrT2lPWmJtc2stOEk1QmYyRGpIYzdEMENxSGZrQUpWTkdia241X3BNN0NCbGlPZVJGR2RmUWNjUjNja2c3RFV5TFNuU1J0b2FtOFdhMEo4ZVlLQlRmd1Q1c0NuOHVOcUVmVGxRR0thaGp5Xw?oc=5",
     "time": "1天前",
     "published_iso": "2026-03-20T01:47:00+00:00",
-    "id": "n38",
+    "id": "n39",
     "lead": false
   },
   {
@@ -504,7 +517,7 @@
     "url": "https://www.cnbc.com/2026/03/19/us-tech-execs-smuggled-nvidia-chips-to-china-prosecutors-say.html",
     "time": "3小时前",
     "published_iso": "2026-03-20T01:13:33+00:00",
-    "id": "n39",
+    "id": "n40",
     "lead": false
   },
   {
@@ -517,7 +530,7 @@
     "url": "https://www.cnbc.com/2026/03/19/openai-desktop-super-app-chatgpt-browser-codex.html",
     "time": "4小时前",
     "published_iso": "2026-03-20T00:29:36+00:00",
-    "id": "n40",
+    "id": "n41",
     "lead": false
   },
   {
@@ -530,7 +543,7 @@
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdUFCZGpNR3YwSDdjcXBDVE1YRGpheGpLMmw0c0pteUFCOXprZHlZZ1JNQ3o4SUNYNE5pVzhLV25pZHl0bGFqVEhXZWtoNkExWlBYcGR0RnVKemZ2T29iS0VlbkxxYlpUaWdsbkYxOTZOX0tJQ3NCUFhQdHQ5aDdvemhhUjE4bVNWNFk4?oc=5",
     "time": "5小时前",
     "published_iso": "2026-03-20T00:01:20+00:00",
-    "id": "n41",
+    "id": "n42",
     "lead": false
   },
   {
@@ -543,7 +556,7 @@
     "url": "https://www.bbc.com/news/articles/c2k3jgy9vq3o?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-03-19T22:41:40+00:00",
-    "id": "n42",
+    "id": "n43",
     "lead": false
   },
   {
@@ -556,7 +569,7 @@
     "url": "https://www.cnbc.com/2026/03/19/goldman-sees-risks-of-market-correction-rising-and-bonds-wont-help-weather-it.html",
     "time": "9小时前",
     "published_iso": "2026-03-19T20:07:23+00:00",
-    "id": "n43",
+    "id": "n44",
     "lead": false
   },
   {
@@ -569,7 +582,7 @@
     "url": "https://www.cnbc.com/2026/03/19/netanyahu-trump-us-israel-iran-ground-component.html",
     "time": "18小时前",
     "published_iso": "2026-03-19T20:04:17+00:00",
-    "id": "n44",
+    "id": "n45",
     "lead": false
   },
   {
@@ -582,7 +595,7 @@
     "url": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-03-19T19:55:51+00:00",
-    "id": "n45",
+    "id": "n46",
     "lead": false
   },
   {
@@ -595,7 +608,7 @@
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdHNfbmdRaEtpWjVsd1hZU19PY2luTXZVdVozRG9VbE5mWUZmUzIxS20tLTIxTm9oM1VZZlNDT29vcWlUa3NMUXJqYk13ZGh5eU1xaXdod3ZlWUJxM0ZKcFZ3Y3NBOHFvVUVuLVJWM003Y1J4V1RUMUo1N0NFeHFiX29peUFUTlhEVzU4RnVmZGhneHZNazM2RVZub3YtY2RTMVNSZC16d3BIclExQ013?oc=5",
     "time": "11小时前",
     "published_iso": "2026-03-19T18:09:36+00:00",
-    "id": "n46",
+    "id": "n47",
     "lead": false
   },
   {
@@ -608,7 +621,7 @@
     "url": "https://www.bbc.com/news/articles/c33lnd1gxxro?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-03-19T16:21:28+00:00",
-    "id": "n47",
+    "id": "n48",
     "lead": false
   },
   {
@@ -621,7 +634,7 @@
     "url": "https://www.cnbc.com/2026/03/19/tesla-nhtsa-full-self-driving-fsd-reduced-visibility.html",
     "time": "22小时前",
     "published_iso": "2026-03-19T15:58:34+00:00",
-    "id": "n48",
+    "id": "n49",
     "lead": false
   }
 ]
