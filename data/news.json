@@ -9,9 +9,22 @@
     "url": "https://www.cnbc.com/2026/03/21/iran-targeted-but-did-not-hit-diego-garcia-base-with-missiles-wsj.html",
     "time": "刚刚",
     "published_iso": "2026-03-21T09:11:47+00:00",
-    "is_new": true,
     "id": "n1",
     "lead": true
+  },
+  {
+    "headline": "Russian drone attack kills two in Ukraine ahead of talks in US, officials say",
+    "deck": "Two children, aged 11 and 15 were also injured in the attack which took place in Zaporizhzhia.",
+    "cnTitle": "俄乌冲突升级，无人机袭击造成人员伤亡",
+    "cnDeck": "俄罗斯无人机袭击造成乌克兰人员伤亡。根据官员说法，在美国举行谈判前夕，俄罗斯对乌克兰进行了无人机攻击。此次袭击发生在扎波罗热地区，造成2人死亡。此外，两名儿童（年龄分别为11岁和15岁）在这次袭击中受伤。这次攻击的时机引人注目，因为它发生在相关方准备在美国进行会谈的关键时期，表明俄乌冲突仍在继续升级。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/crl18nwjzzzo?at_medium=RSS&at_campaign=rss",
+    "time": "刚刚",
+    "published_iso": "2026-03-21T08:54:29+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
   },
   {
     "headline": "United Airlines to cut more flights as it eyes oil above $100 through 2027",
@@ -23,8 +36,7 @@
     "url": "https://www.cnbc.com/2026/03/21/united-airlines-to-cut-more-flights-as-it-eyes-elevated-oil-pric.html",
     "time": "1小时前",
     "published_iso": "2026-03-21T07:20:59+00:00",
-    "is_new": true,
-    "id": "n2",
+    "id": "n3",
     "lead": false
   },
   {
@@ -37,7 +49,7 @@
     "url": "https://www.cnbc.com/2026/03/20/us-issues-30-day-sanctions-waiver-for-sale-of-iranian-oil-at-sea.html",
     "time": "3小时前",
     "published_iso": "2026-03-21T01:08:32+00:00",
-    "id": "n3",
+    "id": "n4",
     "lead": false
   },
   {
@@ -50,7 +62,7 @@
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQd3ViTXFGNlVQNmx3RkVuOTlmVjRGNW04a29vQlhselBscXM5Tll2XzNubW93YzgxV3QybU9pVnBPRDAwWjFRdzl0Z3doWFJXMjlwNllYeUlXRHlhNzBlel8xdlg4Mmk2VmtmOTQwQ18xZVJlRlZZc3lhWFhYODFOcmg5b2dKejRIYW9aNDdqYWNYWFlSSmhDVFVsXzZZOVExczZxSXR0RmpkVHZTUVRRUHlIUmE?oc=5",
     "time": "5小时前",
     "published_iso": "2026-03-20T23:48:43+00:00",
-    "id": "n4",
+    "id": "n5",
     "lead": false
   },
   {
@@ -63,7 +75,7 @@
     "url": "https://www.bbc.com/news/articles/c62j3yl842eo?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-03-20T23:44:09+00:00",
-    "id": "n5",
+    "id": "n6",
     "lead": false
   },
   {
@@ -76,7 +88,21 @@
     "url": "https://www.cnbc.com/2026/03/20/super-micro-co-founder-leaves-board.html",
     "time": "6小时前",
     "published_iso": "2026-03-20T22:52:55+00:00",
-    "id": "n6",
+    "id": "n7",
+    "lead": false
+  },
+  {
+    "headline": "Iranian strikes on bases used by US caused $800m in damage, new analysis shows",
+    "deck": "Much of the damage was caused in initial retaliatory strikes by Iran in the week after the US and Israel launched its operation.",
+    "cnTitle": "伊朗对美军基地造成8亿美元损失",
+    "cnDeck": "根据新的分析显示，伊朗对美军使用的基地造成了约8亿美元的损失。大部分损失是由伊朗在美国和以色列发动行动后一周内进行的初步报复性打击造成的。这次打击事件反映了中东地区日益紧张的军事局势，以及伊朗对美以军事行动的强硬回应态度。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cddq7j48p35o?at_medium=RSS&at_campaign=rss",
+    "time": "11小时前",
+    "published_iso": "2026-03-20T22:34:05+00:00",
+    "is_new": true,
+    "id": "n8",
     "lead": false
   },
   {
@@ -89,7 +115,7 @@
     "url": "https://www.cnbc.com/2026/03/20/trump-iran-war-ceasefire.html",
     "time": "8小时前",
     "published_iso": "2026-03-20T22:23:55+00:00",
-    "id": "n7",
+    "id": "n9",
     "lead": false
   },
   {
@@ -102,7 +128,21 @@
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLTUxWUYyWkd6ZEllcnRyZEM3NXdRTjFsMUg5Z1IxZnlOWGp3YUMwRXM1NmVsZFJXeWI5enEtRkl1NENGSmRrWklESEZOSU92V3pOalhUNHhxOE50QWZTWVF0eXVXR0Z3aks2eUVMakQ3Tjlsa1l2UlBXSDg1WUR6NFBhU2VJNWwyeWNsM3FGYzBOb19RS3l3MU1YTlU5T1pTUkRrSGNFWFEzSkJsOWtjS0pKei0?oc=5",
     "time": "6小时前",
     "published_iso": "2026-03-20T22:18:07+00:00",
-    "id": "n8",
+    "id": "n10",
+    "lead": false
+  },
+  {
+    "headline": "SoftBank Plans Giant Ohio AI Data Center Powered by Gas Plants - Bloomberg.com",
+    "deck": "SoftBank Plans Giant Ohio AI Data Center Powered by Gas Plants&nbsp;&nbsp;Bloomberg.com",
+    "cnTitle": "软银计划在俄亥俄州建设大型AI数据中心",
+    "cnDeck": "软银集团计划在美国俄亥俄州建设一个大型人工智能数据中心，该数据中心将由燃气电厂提供电力。这一项目反映了科技巨头对AI基础设施的持续投资热潮。数据中心是支撑AI模型训练和推理的关键基础设施，需要大量稳定的电力供应。软银选择用燃气电厂作为主要电力来源，体现了对能源稳定性和可靠性的考量。此举也表明软银在AI领域的战略重心。俄亥俄州拥有相对成熟的工业基础和能源基础设施，这使其成为建设大型数据中心的理想地点。该项目的实施将进一步推动美国AI产业的发展，同时也为当地创造就业机会和经济增长。",
+    "cat": "tech",
+    "source": "Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVkZTU2hCUmdaTVpSQTlGTmNMeTdPOWpCbjZGMU12Ry1kZl9SOUw3eXEyandzcldfWi1OaEVSc0NKRXdsWS0xRHRWVFJEaU9KSThnZlE5X0ZqNEVZOWxrWWU3bWdHVHFUeEctR3o0RGRBRWZmZkk5Vnc0dFdCRWh4Z1hpekdzbmdfVEVwckp0RXY1VzBCV0xSOUJSLXJDd2puQkFlYnUtb2VPbTlEc0lYZXlfdw?oc=5",
+    "time": "11小时前",
+    "published_iso": "2026-03-20T21:58:02+00:00",
+    "is_new": true,
+    "id": "n11",
     "lead": false
   },
   {
@@ -115,7 +155,21 @@
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcUZjTHdoXzVJY1dNejVtSlpiTE9qS2pZTGlJY2xDUWo5MWNRYVRGclhRY2hBNTYyZEZTMDNKRm5qSkdQRlFYZFVzX2xjSlpHV0psYXp1STRQUjQwTGNyd0pTM2ZrMkZQUk94aEsyVE1fejdSaFhYOTdLUkh4TjRWeXpOYm9uVm1CVzB3YVVGUnRwQXdOTkpQNF96VUJKTjdU?oc=5",
     "time": "7小时前",
     "published_iso": "2026-03-20T21:55:11+00:00",
-    "id": "n9",
+    "id": "n12",
+    "lead": false
+  },
+  {
+    "headline": "Ireland Credit Rating Raised by S&P on Strong Fiscal Buffer - Bloomberg.com",
+    "deck": "Ireland Credit Rating Raised by S&amp;P on Strong Fiscal Buffer&nbsp;&nbsp;Bloomberg.com",
+    "cnTitle": "爱尔兰信用评级被标普上调",
+    "cnDeck": "标准普尔上调了爱尔兰的信用评级，理由是该国拥有强劲的财政缓冲。这一积极举措反映了爱尔兰在经济管理和财政纪律方面的显著进展。信用评级的提升通常会降低一个国家的借贷成本，使其更容易在国际资本市场上筹集资金。此举对爱尔兰经济前景释放了正面信号，表明国际评级机构对其长期经济稳定性和偿债能力充满信心。强劲的财政缓冲意味着爱尔兰具有足够的财政灵活性来应对潜在的经济冲击，这对投资者和债权人而言都是有利因素。",
+    "cat": "finance",
+    "source": "Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd2g3OGxtUTI2TlkyOUYxQXVQc2VuNktBakN1dDlOU3Z2Mmctc0tTVmdiNXVXM3BKeTZQdmZRMjVmZGVqVjhldmtjSVZfdGlQZEUxUDF2d1dRVmVmQjhLV1pVQ2xoMjBLS1VLejQ1Z21TaUxwNXZ3ZzUxcUxnNVk0bUlzX0lJSU1HamV1SW5OcXZOV1RKUlFWc0lTa1FWNlczSHRKcm5EMG03NjNUc2t3?oc=5",
+    "time": "12小时前",
+    "published_iso": "2026-03-20T21:37:32+00:00",
+    "is_new": true,
+    "id": "n13",
     "lead": false
   },
   {
@@ -128,7 +182,7 @@
     "url": "https://www.cnbc.com/2026/03/20/chatgpt-ads-testing-openai.html",
     "time": "7小时前",
     "published_iso": "2026-03-20T21:30:35+00:00",
-    "id": "n10",
+    "id": "n14",
     "lead": false
   },
   {
@@ -141,7 +195,7 @@
     "url": "https://www.cnbc.com/2026/03/20/trump-iran-war-troops-rebuild.html",
     "time": "11小时前",
     "published_iso": "2026-03-20T17:12:58+00:00",
-    "id": "n11",
+    "id": "n15",
     "lead": false
   },
   {
@@ -154,7 +208,7 @@
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcWZ6X1BseG82N1JPY1lmMFVrR3hQYW9MR1M5Z2luaEJkRFhoQ21lS1VFMlNwWjYxb3dGS1hrSFFLcEh0QjNfLXhCdGdrcUZkM0xkMlFaYXF3ejlLSWpBMDBCVUZ2MUxSNXoxaDhGUDhUdU1mTnRXTnVEbXZfUnpxSGtSSWZDY25Zc3R5czBXVm5WYWp6eXliVzN2Ujc2eDdIMDBWQ0RwOWJva2k0bDh2SXVwSHI?oc=5",
     "time": "12小时前",
     "published_iso": "2026-03-20T16:36:09+00:00",
-    "id": "n12",
+    "id": "n16",
     "lead": false
   },
   {
@@ -167,7 +221,7 @@
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUEpuMWNfQkpYSU1QZEV2ZjVZYnpXcXNUYWU2azhGTXRjNDJBN1B0OE8xQ1VLUTFLNkZDcHRWWHZrM0h0SWxvTGRRZXQ5SmtsTHk2UnBSQkRYQ3BYRk1NRGRKSXdKVFJTZHZUSDhadERweEZ3THAzZWkzaTlGY0NrUWgxNExvTzJqZTNqNFViSUdrRUZtMERMMzVhYUdzalJ0cFNhVmlic2luMm1uaDl6MC1Xbw?oc=5",
     "time": "14小时前",
     "published_iso": "2026-03-20T14:54:19+00:00",
-    "id": "n13",
+    "id": "n17",
     "lead": false
   },
   {
@@ -180,8 +234,7 @@
     "url": "https://www.cnbc.com/2026/03/19/interest-rates-bonds-bank-of-england-european-central-bank-investors-iran-war-ecb-inflation.html",
     "time": "18小时前",
     "published_iso": "2026-03-20T14:52:52+00:00",
-    "is_new": true,
-    "id": "n14",
+    "id": "n18",
     "lead": false
   },
   {
@@ -194,7 +247,7 @@
     "url": "https://www.bbc.com/news/articles/cx23yn735jdo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-03-20T14:13:39+00:00",
-    "id": "n15",
+    "id": "n19",
     "lead": false
   },
   {
@@ -207,7 +260,7 @@
     "url": "https://www.cnbc.com/2026/03/20/trump-ai-policy-framework.html",
     "time": "刚刚",
     "published_iso": "2026-03-20T13:57:56+00:00",
-    "id": "n16",
+    "id": "n20",
     "lead": false
   },
   {
@@ -220,7 +273,7 @@
     "url": "https://www.cnbc.com/2026/03/20/fed-gov-waller-urges-caution-for-now-cuts-possible-later-in-the-year.html",
     "time": "刚刚",
     "published_iso": "2026-03-20T13:36:43+00:00",
-    "id": "n17",
+    "id": "n21",
     "lead": false
   },
   {
@@ -233,7 +286,7 @@
     "url": "https://www.cnbc.com/2026/03/20/iea-oil-fuel-prices-energy-advice-consumers-crisis.html",
     "time": "2小时前",
     "published_iso": "2026-03-20T12:00:50+00:00",
-    "id": "n18",
+    "id": "n22",
     "lead": false
   },
   {
@@ -246,7 +299,7 @@
     "url": "https://www.bbc.com/news/articles/cq6jrvgqeejo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-03-20T11:33:17+00:00",
-    "id": "n19",
+    "id": "n23",
     "lead": false
   },
   {
@@ -259,7 +312,7 @@
     "url": "https://www.cnbc.com/2026/03/20/us-arms-weapon-sales-middle-east-iran-israel-war.html",
     "time": "6小时前",
     "published_iso": "2026-03-20T07:35:51+00:00",
-    "id": "n20",
+    "id": "n24",
     "lead": false
   },
   {
@@ -272,7 +325,7 @@
     "url": "https://www.cnbc.com/2026/03/19/stock-market-today-live-updates.html",
     "time": "1小时前",
     "published_iso": "2026-03-20T04:09:05+00:00",
-    "id": "n21",
+    "id": "n25",
     "lead": false
   },
   {
@@ -285,7 +338,7 @@
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNczRadVVLMDByNy1KXy1VRzVfRnkwOHVEZDM1X3M4SlJ4V0JiMzhveDgzU0xrVHpYOW9EY19BbmM5ZjNhSWxTOWZJZDFtSnE0UVVZRlNkMUZSWXZsWWpuOEhXa3U0Mjdzbm56UGYwQlg3UEV1cHZMREdKUEZyVFhBcUc1RmFoSHRXUkJpTnBGNVNkamxzRHlHZW9OWV9vRGo4YnFFa2dmUjVLYWZGbVA5a19R?oc=5",
     "time": "1小时前",
     "published_iso": "2026-03-20T03:37:00+00:00",
-    "id": "n22",
+    "id": "n26",
     "lead": false
   },
   {
@@ -298,7 +351,7 @@
     "url": "https://www.cnbc.com/2026/03/20/trump-pearl-harbor-japan-takaichi-iran-war.html",
     "time": "1小时前",
     "published_iso": "2026-03-20T03:32:58+00:00",
-    "id": "n23",
+    "id": "n27",
     "lead": false
   },
   {
@@ -311,7 +364,7 @@
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSUpyWGNGRkc5alFSYjcwcEpLUVNuWThwQ1BmQXBwZS1zNHdlOEFGMnR6NTFUMDAxOFpkUldyQVQ1VjNZNXhQNDZXNmVZM2p5X1dCdUxqTzZiNU56bFk4QXhQSlhFZ3liMEVOOFNWcDVCMDBjWXJRanFyMnZLam9OY1BHYkhHNmU1YW52V1JmNFctc1FPSWZtTU5YVjk2Ym0xYnlRUmdTTkNmSzlxMlJSRzVyZko5VTVDZHBQNkFpNHdoeUdSSUFr?oc=5",
     "time": "1小时前",
     "published_iso": "2026-03-20T03:25:54+00:00",
-    "id": "n24",
+    "id": "n28",
     "lead": false
   },
   {
@@ -324,7 +377,7 @@
     "url": "https://www.cnbc.com/2026/03/20/asia-markets-today-nikkei-hang-seng-kospi.html",
     "time": "2小时前",
     "published_iso": "2026-03-20T03:06:58+00:00",
-    "id": "n25",
+    "id": "n29",
     "lead": false
   },
   {
@@ -337,7 +390,7 @@
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY0VIUk81Q2xJN0pwcmJvREl5NVNQam51M0tzNU5LSWdsWjcwZ1Z1YnJrZGl2ZE81WlJhWWtERjQ2d0V2Y3dCME4tYThyeDNXb2s2ZUdNcUNLSWZMeVZrT2lPWmJtc2stOEk1QmYyRGpIYzdEMENxSGZrQUpWTkdia241X3BNN0NCbGlPZVJGR2RmUWNjUjNja2c3RFV5TFNuU1J0b2FtOFdhMEo4ZVlLQlRmd1Q1c0NuOHVOcUVmVGxRR0thaGp5Xw?oc=5",
     "time": "1天前",
     "published_iso": "2026-03-20T01:47:00+00:00",
-    "id": "n26",
+    "id": "n30",
     "lead": false
   },
   {
@@ -350,7 +403,7 @@
     "url": "https://www.cnbc.com/2026/03/19/us-tech-execs-smuggled-nvidia-chips-to-china-prosecutors-say.html",
     "time": "3小时前",
     "published_iso": "2026-03-20T01:13:33+00:00",
-    "id": "n27",
+    "id": "n31",
     "lead": false
   },
   {
@@ -363,7 +416,7 @@
     "url": "https://www.cnbc.com/2026/03/19/openai-desktop-super-app-chatgpt-browser-codex.html",
     "time": "4小时前",
     "published_iso": "2026-03-20T00:29:36+00:00",
-    "id": "n28",
+    "id": "n32",
     "lead": false
   },
   {
@@ -376,7 +429,7 @@
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdUFCZGpNR3YwSDdjcXBDVE1YRGpheGpLMmw0c0pteUFCOXprZHlZZ1JNQ3o4SUNYNE5pVzhLV25pZHl0bGFqVEhXZWtoNkExWlBYcGR0RnVKemZ2T29iS0VlbkxxYlpUaWdsbkYxOTZOX0tJQ3NCUFhQdHQ5aDdvemhhUjE4bVNWNFk4?oc=5",
     "time": "5小时前",
     "published_iso": "2026-03-20T00:01:20+00:00",
-    "id": "n29",
+    "id": "n33",
     "lead": false
   },
   {
@@ -389,7 +442,7 @@
     "url": "https://www.bbc.com/news/articles/c2k3jgy9vq3o?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-03-19T22:41:40+00:00",
-    "id": "n30",
+    "id": "n34",
     "lead": false
   },
   {
@@ -402,7 +455,7 @@
     "url": "https://www.cnbc.com/2026/03/19/goldman-sees-risks-of-market-correction-rising-and-bonds-wont-help-weather-it.html",
     "time": "9小时前",
     "published_iso": "2026-03-19T20:07:23+00:00",
-    "id": "n31",
+    "id": "n35",
     "lead": false
   },
   {
@@ -415,7 +468,7 @@
     "url": "https://www.cnbc.com/2026/03/19/netanyahu-trump-us-israel-iran-ground-component.html",
     "time": "18小时前",
     "published_iso": "2026-03-19T20:04:17+00:00",
-    "id": "n32",
+    "id": "n36",
     "lead": false
   },
   {
@@ -428,7 +481,7 @@
     "url": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-03-19T19:55:51+00:00",
-    "id": "n33",
+    "id": "n37",
     "lead": false
   },
   {
@@ -441,7 +494,7 @@
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdHNfbmdRaEtpWjVsd1hZU19PY2luTXZVdVozRG9VbE5mWUZmUzIxS20tLTIxTm9oM1VZZlNDT29vcWlUa3NMUXJqYk13ZGh5eU1xaXdod3ZlWUJxM0ZKcFZ3Y3NBOHFvVUVuLVJWM003Y1J4V1RUMUo1N0NFeHFiX29peUFUTlhEVzU4RnVmZGhneHZNazM2RVZub3YtY2RTMVNSZC16d3BIclExQ013?oc=5",
     "time": "11小时前",
     "published_iso": "2026-03-19T18:09:36+00:00",
-    "id": "n34",
+    "id": "n38",
     "lead": false
   },
   {
@@ -454,7 +507,7 @@
     "url": "https://www.bbc.com/news/articles/c33lnd1gxxro?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-03-19T16:21:28+00:00",
-    "id": "n35",
+    "id": "n39",
     "lead": false
   },
   {
@@ -467,7 +520,7 @@
     "url": "https://www.cnbc.com/2026/03/19/tesla-nhtsa-full-self-driving-fsd-reduced-visibility.html",
     "time": "22小时前",
     "published_iso": "2026-03-19T15:58:34+00:00",
-    "id": "n36",
+    "id": "n40",
     "lead": false
   },
   {
@@ -480,7 +533,7 @@
     "url": "https://www.cnbc.com/2026/03/18/micron-mu-q2-earnings-report-2026.html",
     "time": "1天前",
     "published_iso": "2026-03-19T14:59:50+00:00",
-    "id": "n37",
+    "id": "n41",
     "lead": false
   },
   {
@@ -493,7 +546,7 @@
     "url": "https://www.cnbc.com/2026/03/19/openai-to-acquire-developer-tooling-startup-astral.html",
     "time": "刚刚",
     "published_iso": "2026-03-19T14:34:47+00:00",
-    "id": "n38",
+    "id": "n42",
     "lead": false
   },
   {
@@ -506,7 +559,7 @@
     "url": "https://www.cnbc.com/2026/03/19/oil-jumps-iran-strikes-qatar-lng-facility-supply-worries.html",
     "time": "刚刚",
     "published_iso": "2026-03-19T14:30:59+00:00",
-    "id": "n39",
+    "id": "n43",
     "lead": false
   },
   {
@@ -519,7 +572,7 @@
     "url": "https://www.cnbc.com/2026/03/18/federal-reserve-meeting-statement-march.html",
     "time": "1天前",
     "published_iso": "2026-03-19T14:09:38+00:00",
-    "id": "n40",
+    "id": "n44",
     "lead": false
   },
   {
@@ -532,7 +585,7 @@
     "url": "https://www.cnbc.com/2026/03/19/micron-falls-blockbuster-earnings-chips-ai.html",
     "time": "刚刚",
     "published_iso": "2026-03-19T13:46:34+00:00",
-    "id": "n41",
+    "id": "n45",
     "lead": false
   },
   {
@@ -545,7 +598,7 @@
     "url": "https://www.bbc.com/news/articles/c0mjn0g708ro?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-03-19T13:30:01+00:00",
-    "id": "n42",
+    "id": "n46",
     "lead": false
   },
   {
@@ -558,7 +611,7 @@
     "url": "https://www.cnbc.com/2026/03/19/traders-rate-cut.html",
     "time": "1小时前",
     "published_iso": "2026-03-19T13:26:01+00:00",
-    "id": "n43",
+    "id": "n47",
     "lead": false
   },
   {
@@ -571,7 +624,7 @@
     "url": "https://www.cnbc.com/2026/03/19/iran-israel-us-war-energy-facilities-south-pars-global-reactions.html",
     "time": "刚刚",
     "published_iso": "2026-03-19T12:48:26+00:00",
-    "id": "n44",
+    "id": "n48",
     "lead": false
   },
   {
@@ -584,7 +637,7 @@
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdXEzdjBZdTBRbTJ2UXdMVmpqWHpBSWtpOWdNTzlHZ2lfSW1HdW1IQndJTjQzd1NSU09XUGtIUkk5aS1JdFY0Qzg3bnBNUmZ6TWFwSHdDaUJKMDJoZ2hKYXE4dy1GemRSekhmN1BSRW9vaWNCaE5tX0VlcERURWRGQmtycGdfektudExVZVhRV1JfdURhR04wMGEyd1AwckRleTdtUXRfbUljWUk?oc=5",
     "time": "刚刚",
     "published_iso": "2026-03-19T12:47:00+00:00",
-    "id": "n45",
+    "id": "n49",
     "lead": false
   },
   {
@@ -597,7 +650,7 @@
     "url": "https://www.bbc.com/news/articles/c8d5dee3ep8o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-03-19T12:45:40+00:00",
-    "id": "n46",
+    "id": "n50",
     "lead": false
   },
   {
@@ -610,7 +663,7 @@
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWWkyZTIxajFXY2o1RVhfWnFTdFZ1MUZSelo0MjAwMEZWdjdJTlJyT2ZVUGhYOE1KaUxUOWJ2UWdmRjRxZFNRU2pWbzI3SEhMdHVmSm5ZZVBLRGxhRE1QS2tYN1JnSTN1YzJySWdPY0RHOUQ0cUo0UDh3MFhyME4wOFNqcTBYallpUkFkaEVzQzZLQ09MRTBPWVl6Nm5LQzZBV216cE1JdS1EaHdfYzVJeUNfRQ?oc=5",
     "time": "刚刚",
     "published_iso": "2026-03-19T12:26:19+00:00",
-    "id": "n47",
+    "id": "n51",
     "lead": false
   },
   {
@@ -623,7 +676,7 @@
     "url": "https://www.cnbc.com/2026/03/19/uber-rivian-robotaxi.html",
     "time": "刚刚",
     "published_iso": "2026-03-19T12:18:33+00:00",
-    "id": "n48",
+    "id": "n52",
     "lead": false
   },
   {
@@ -636,7 +689,7 @@
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcERCVThGSmk3Y1NGNlNMV3U1WW1xbl9TUFRfNFBJTENXcGhWbVZLVmtMVGZFX0dFY2lkaVhxdW5RQXJ4VFBRRHJUcEhMaEtVSjMtN09aT0wwejluV3lDUVZYWWJwY0dsdG8zZVdrQ2l3V21nMENFOVBLaThab2NnUDZHUElRX0ZEWUxYQ3BrVHlzVXZ6eTZjLWtxb1phQVBMYVUtT3VZLXFuZw?oc=5",
     "time": "刚刚",
     "published_iso": "2026-03-19T12:00:01+00:00",
-    "id": "n49",
+    "id": "n53",
     "lead": false
   },
   {
@@ -649,7 +702,7 @@
     "url": "https://www.cnbc.com/2026/03/19/alibaba-december-quarter-earnings-ai-investment.html",
     "time": "1小时前",
     "published_iso": "2026-03-19T11:52:17+00:00",
-    "id": "n50",
+    "id": "n54",
     "lead": false
   },
   {
@@ -662,7 +715,7 @@
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYzcwOTR5RE0xRk00eGlYSTdQYXJTM0NvRGg1eVN3aFlnaVhNZWpVSXp0bkxGU0dKN1FfUEtZRmlvMmJQTWJQSmpwcGRxbVZZLXFTNGQtZmJMZFdzRkx4Zjc4X1BUVVBZUnF4WFVYODBPR2E3b2xDVHlGcTQ4bDBUaFNlSVl1RDhPUDB3QkhNRXJOSWJucG1DS09uSENMY1BfTzc0Wk0wOVhCQ1VfRkRZ?oc=5",
     "time": "1小时前",
     "published_iso": "2026-03-19T11:46:23+00:00",
-    "id": "n51",
+    "id": "n55",
     "lead": false
   },
   {
@@ -675,7 +728,7 @@
     "url": "https://www.cnbc.com/2026/03/18/inflation-dominates-powells-remarks-pressures-stocks-plus-big-earnings-tonight.html",
     "time": "1小时前",
     "published_iso": "2026-03-19T11:25:49+00:00",
-    "id": "n52",
+    "id": "n56",
     "lead": false
   },
   {
@@ -688,8 +741,7 @@
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRHVVbnpKWjJDSEViV3VzcV9WQ0ZBcm52RkNDSGI1djNxR0xfbjJ3SXUxSEZMbm9TSzNpcnJuSXdoOHItRnItSnhxcDR1QzdJdU5mVDN4VGZDZ2lqeS1YZmxXT1lqT2t3b0xkSGVtVW9WNUUwbUtiekg0OXI3UUMtaGRwSkYzall2TVZyQThBaFplSk90RjdnOV9IX1BYX3ZoajZGZjlnaTNmTDNGQnVyV0RwZlY2Yk1QRmh3?oc=5",
     "time": "1天前",
     "published_iso": "2026-03-19T11:25:37+00:00",
-    "is_new": true,
-    "id": "n53",
+    "id": "n57",
     "lead": false
   },
   {
@@ -702,7 +754,7 @@
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUTdqNWptXzI5ZV9TR29aOUJPM0xHOU1kZTZDLWZRSXUxSlMtQlo0TmF6Y296SWFmYkk0dkp2ZlVwaG1DSDJGUEN5ZDFFWFAxY0lIZzN5ZFhQOUFnY1djYUxiWEtrR3dRT3h3aDZLM2QxaDd0X0k0VmV0TWQ2WWc2anc5WTUwa0xlS3NzRDVfOXFTU2RCU2c?oc=5",
     "time": "1小时前",
     "published_iso": "2026-03-19T11:24:13+00:00",
-    "id": "n54",
+    "id": "n58",
     "lead": false
   },
   {
@@ -715,7 +767,7 @@
     "url": "https://www.cnbc.com/2026/03/19/gulf-states-iran-attacks-retaliation-strikes-energy-oil-gas-water-strait-of-hormuz.html",
     "time": "1小时前",
     "published_iso": "2026-03-19T11:16:26+00:00",
-    "id": "n55",
+    "id": "n59",
     "lead": false
   },
   {
@@ -728,7 +780,7 @@
     "url": "https://www.bbc.com/news/articles/c15x5ejgyl3o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-03-19T11:14:02+00:00",
-    "id": "n56",
+    "id": "n60",
     "lead": false
   },
   {
@@ -741,7 +793,7 @@
     "url": "https://www.bbc.com/news/articles/cy7166denxeo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-03-19T11:05:55+00:00",
-    "id": "n57",
+    "id": "n61",
     "lead": false
   },
   {
@@ -754,7 +806,7 @@
     "url": "https://www.bbc.com/news/articles/cde4e2xyelpo?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-03-19T10:30:42+00:00",
-    "id": "n58",
+    "id": "n62",
     "lead": false
   },
   {
@@ -767,20 +819,7 @@
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTkV4YzREMzlwMnFKcnNpci1QZkRBVURtdnYxTGgzYjZ2MDNBbFZqWVlTcHdyck01MzBldjdqUW96MXkzMlZyM0lfMk1oUXd5bXpiSDFsUkRUWXdYQzdUUXl2RGtmTVNqdDd4Ri02MlB2bDFNN3FrRG1URzV0NHVNT1ZQSklvLXlqUmgxd1Q0a1MxZzh3c1ZNd3NxbjdCSktYRFJNekFxcXZSbXRZdlNPejdR?oc=5",
     "time": "3小时前",
     "published_iso": "2026-03-19T09:53:20+00:00",
-    "id": "n59",
-    "lead": false
-  },
-  {
-    "headline": "Oil Advances After Iran, Israel Strike Major Energy Assets - Bloomberg.com",
-    "deck": "Oil Advances After Iran, Israel Strike Major Energy Assets&nbsp;&nbsp;Bloomberg.com",
-    "cnTitle": "伊朗以色列冲突推高油价",
-    "cnDeck": "伊朗和以色列对主要能源资产的打击导致油价上涨。根据彭博社报道，两国在能源设施方面的军事行动引发了全球能源市场的波动。这一冲突升级对国际石油市场产生了重大影响，推动油价向上运动。中东地缘政治局势的紧张进一步加剧了市场对能源供应中断的担忧，投资者对原油价格前景表示关注。",
-    "cat": "politics",
-    "source": "Bloomberg",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTjdYUzMwdW9zU3Y1eEV3NVlfczU5SS1waTFWSDJWRV9Rdm1fWFJiZXdHRW1GQ3dSLUZuRnl3TGhUSjNIMGY4RmZublZrcVFyRndleFR4UlBlNnpHa1NsMEYyYU5RYThZOE5IVzBXeG00RUNVcHYyUEpIQ1NPQUNEbWFVdzJMQW1qZDZ3eGROSjdCNU9ZLWhBQ0Z4QmlEMXRY?oc=5",
-    "time": "3小时前",
-    "published_iso": "2026-03-19T09:31:42+00:00",
-    "id": "n60",
+    "id": "n63",
     "lead": false
   }
 ]
