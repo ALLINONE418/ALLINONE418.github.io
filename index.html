@@ -493,13 +493,17 @@ function renderVideos(filterChannel,sort){
   const sortBar=document.getElementById('vd-sort-bar');
   if(sortBar) sortBar.style.display = isSingle ? 'flex' : 'none';
 
+  // ★ 汇总模式（中文/AI学习）每个博主只取最新2条，避免手机卡顿
+  const isAggregate = VD_ACTIVE_CHANNEL==='cn-all' || VD_ACTIVE_CHANNEL==='en-all';
+
   // 收集符合筛选条件的视频
   let allVideos=[];
   VIDEO_DATA.forEach(ch=>{
     if(VD_ACTIVE_CHANNEL==='cn-all' && ch.lang!=='cn') return;
     if(VD_ACTIVE_CHANNEL==='en-all' && ch.lang!=='en') return;
     if(isSingle && ch.channel_id!==VD_ACTIVE_CHANNEL) return;
-    ch.videos.forEach(v=>allVideos.push({...v, _chName:ch.channel_name, _chId:ch.channel_id}));
+    const vids = isAggregate ? ch.videos.slice(0,2) : ch.videos;
+    vids.forEach(v=>allVideos.push({...v, _chName:ch.channel_name, _chId:ch.channel_id}));
   });
 
   // ★ 排序（仅单频道时有意义）
