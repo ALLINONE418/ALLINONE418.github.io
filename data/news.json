@@ -9,7 +9,6 @@
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOWNaTmRXcDlGblUxcHUxOFhUOEZ5QUJyMk1QeFBpekdXc25OVTVyWHRPaUozZWNtcWtWd3cxdVFJSEtabnN6Q3Fjdld0NmxSc3dyMGhaZTh6Z3AxYlgwbkhJNVVqWnFvc2dEOWt1VDluRVNVLTFEb2tmT0pqRUdlejROYlptSy1LMGlXdUpJUzZfMWNWUEE0dGh4T1M5WnlWVzNPX0dLTHU?oc=5",
     "time": "刚刚",
     "published_iso": "2026-03-21T13:00:44+00:00",
-    "is_new": true,
     "id": "n1",
     "lead": true
   },
@@ -583,58 +582,6 @@
     "time": "1天前",
     "published_iso": "2026-03-19T15:44:09+00:00",
     "id": "n45",
-    "lead": false
-  },
-  {
-    "headline": "Micron revenue almost triples, tops estimates as demand for memory soars",
-    "deck": "Micron's stock has soared this year while its tech peers have struggled, as the impact of rising memory costs ripples across the industry.",
-    "cnTitle": "美光营收增长超预期芯片需求强劲",
-    "cnDeck": "美光科技公司公布的最新财务数据显示，其营收几乎增长了三倍，超过了分析师预期，反映出市场对存储芯片需求的强劲增长。在科技行业整体表现不佳的背景下，美光股价今年表现出色，涨幅远超同行。这一亮眼表现与全球芯片市场对存储芯片需求的上升直接相关。随着人工智能、数据中心、云计算等领域的蓬勃发展，存储芯片的需求量持续攀升，推高了芯片价格。这种上升的存储芯片成本影响波及整个行业，对其他依赖存储芯片的科技公司构成了成本压力。美光作为全球最大的存储芯片制造商之一，成功地利用这一市场机遇，实现了收入的大幅增长。该公司的优异表现预示着存储芯片市场的景气度持续提升，同时也反映出对芯片供应链的重新平衡。美光的股价飙升表明投资者对该公司前景看好，认为其有能力在存储芯片市场的周期中获得可持续增长。",
-    "cat": "tech",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/03/18/micron-mu-q2-earnings-report-2026.html",
-    "time": "1天前",
-    "published_iso": "2026-03-19T14:59:50+00:00",
-    "id": "n46",
-    "lead": false
-  },
-  {
-    "headline": "OpenAI to acquire developer tooling startup Astral in boost for Codex team",
-    "deck": "OpenAI has made several recent acquisitions, including cybersecurity startup Promptfoo, and health-care technology startup Torch.",
-    "cnTitle": "OpenAI收购开发者工具初创公司Astral",
-    "cnDeck": "OpenAI近期进行了多笔收购，包括收购网络安全初创公司Promptfoo和医疗技术初创公司Torch。此次收购开发者工具初创公司Astral是OpenAI加强其Codex团队的举措。Codex是OpenAI基于GPT-3开发的AI系统，能够将自然语言转换为代码，这一能力在软件开发领域具有重要应用价值。通过收购Astral，OpenAI旨在增强其代码生成和开发者工具的能力，进一步扩展其在AI驱动软件开发领域的影响力。这次收购反映了OpenAI在巩固其技术领导地位方面的持续投资策略。",
-    "cat": "tech",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/03/19/openai-to-acquire-developer-tooling-startup-astral.html",
-    "time": "刚刚",
-    "published_iso": "2026-03-19T14:34:47+00:00",
-    "id": "n47",
-    "lead": false
-  },
-  {
-    "headline": "Oil briefly hits $119 and Europe gas prices surge after attacks on energy facilities in Qatar, Iran",
-    "deck": "Oil prices jumped as markets react to escalating tensions after Qatar said Iranian missile strikes damaged a key liquefied natural gas export facility.",
-    "cnTitle": "油价上涨，欧洲天然气价格飙升",
-    "cnDeck": "石油价格上涨，市场对升级的紧张局势做出反应。卡塔尔表示伊朗导弹袭击损坏了一个关键的液化天然气出口设施。油价短暂触及每桶119美元，欧洲天然气价格随之飙升。这一事件反映了中东地区持续的地缘政治紧张局势，伊朗对卡塔尔能源基础设施的袭击引发了全球能源市场的广泛关注。液化天然气出口设施的损坏可能影响全球能源供应，进而推高能源价格。这一事件对全球经济可能产生连锁反应，特别是对高度依赖进口能源的欧洲地区。市场参与者密切关注局势发展，评估对全球能源供应链的长期影响。",
-    "cat": "politics",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/03/19/oil-jumps-iran-strikes-qatar-lng-facility-supply-worries.html",
-    "time": "刚刚",
-    "published_iso": "2026-03-19T14:30:59+00:00",
-    "id": "n48",
-    "lead": false
-  },
-  {
-    "headline": "Here's what changed in the new Fed statement",
-    "deck": "This is a comparison of Wednesday's Federal Open Market Committee statement with the one issued after the Fed's previous policymaking meeting in January.",
-    "cnTitle": "美联储最新声明变化解读",
-    "cnDeck": "美联储周三发布了新的联邦公开市场委员会声明，这份声明与1月份美联储前一次政策制定会议后发布的声明相比出现了变化。新声明反映了美联储对当前经济形势的最新评估，包括对通胀、就业和经济增长前景的观点更新。这些措辞和政策立场的变化对金融市场、投资者预期和整体经济前景具有重要影响，市场参与者密切关注美联储声明中的每一个措辞调整，以推断未来的货币政策方向。",
-    "cat": "economy",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/03/18/federal-reserve-meeting-statement-march.html",
-    "time": "1天前",
-    "published_iso": "2026-03-19T14:09:38+00:00",
-    "id": "n49",
     "lead": false
   }
 ]
