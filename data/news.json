@@ -1,5 +1,19 @@
 [
   {
+    "headline": "SEC Commissioner Hester Peirce on ETFs: 'We want to work with people on new products'",
+    "deck": "SEC Commissioner Hester Peirce indicates an openness to work with Wall Street on fresh exchange-traded fund products tied to cryptocurrencies and tokenization.",
+    "cnTitle": "SEC委员对加密货币ETF持开放态度",
+    "cnDeck": "美国证券交易委员会(SEC)委员海丝特·皮尔斯(Hester Peirce)表示，SEC愿意与华尔街合作开发与加密货币和代币化相关的新型交易所交易基金(ETF)产品。皮尔斯在近期表态中指出，\"我们希望与人们合作开发新产品\"，这表明美国金融监管机构在加密资产领域的态度正在趋向更加开放和灵活。这一立场意味着包括比特币ETF、以太坊ETF以及与区块链代币化相关的新型ETF产品可能获得更多监管支持。皮尔斯长期以来被视为加密货币行业内的友好声音，她的表态通常预示着SEC政策可能的调整方向。此举可能促进更多传统金融机构进入加密资产市场，推动数字资产的主流化进程。加密货币ETF的扩展将为普通投资者提供更便捷、更受监管保护的方式参与数字资产投资，同时也可能增加加密资产市场的规模和流动性。",
+    "cat": "finance",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/21/crypto-tokenization-and-etfs-secs-peirce-indicates-openness.html",
+    "time": "刚刚",
+    "published_iso": "2026-03-21T15:00:01+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
     "headline": "Trump Floats ‘Winding Down’ Iran War as Strikes Continue - Bloomberg.com",
     "deck": "Trump Floats ‘Winding Down’ Iran War as Strikes Continue&nbsp;&nbsp;Bloomberg.com",
     "cnTitle": "特朗普暗示逐步结束对伊朗冲突",
@@ -9,8 +23,8 @@
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOWNaTmRXcDlGblUxcHUxOFhUOEZ5QUJyMk1QeFBpekdXc25OVTVyWHRPaUozZWNtcWtWd3cxdVFJSEtabnN6Q3Fjdld0NmxSc3dyMGhaZTh6Z3AxYlgwbkhJNVVqWnFvc2dEOWt1VDluRVNVLTFEb2tmT0pqRUdlejROYlptSy1LMGlXdUpJUzZfMWNWUEE0dGh4T1M5WnlWVzNPX0dLTHU?oc=5",
     "time": "刚刚",
     "published_iso": "2026-03-21T13:00:44+00:00",
-    "id": "n1",
-    "lead": true
+    "id": "n2",
+    "lead": false
   },
   {
     "headline": "OpenAI to nearly double workforce to 8,000 by end-2026, FT reports",
@@ -22,7 +36,7 @@
     "url": "https://www.cnbc.com/2026/03/21/openai-to-nearly-double-workforce-to-8000-by-end-2026-ft-reports.html",
     "time": "1小时前",
     "published_iso": "2026-03-21T12:34:01+00:00",
-    "id": "n2",
+    "id": "n3",
     "lead": false
   },
   {
@@ -35,7 +49,7 @@
     "url": "https://www.cnbc.com/2026/03/21/trump-oil-fed-economy-iran-war.html",
     "time": "1小时前",
     "published_iso": "2026-03-21T12:00:01+00:00",
-    "id": "n3",
+    "id": "n4",
     "lead": false
   },
   {
@@ -48,7 +62,7 @@
     "url": "https://www.cnbc.com/2026/03/21/iran-targeted-but-did-not-hit-diego-garcia-base-with-missiles-wsj.html",
     "time": "刚刚",
     "published_iso": "2026-03-21T09:11:47+00:00",
-    "id": "n4",
+    "id": "n5",
     "lead": false
   },
   {
@@ -61,7 +75,7 @@
     "url": "https://www.bbc.com/news/articles/crl18nwjzzzo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-03-21T08:54:29+00:00",
-    "id": "n5",
+    "id": "n6",
     "lead": false
   },
   {
@@ -74,7 +88,7 @@
     "url": "https://www.cnbc.com/2026/03/21/united-airlines-to-cut-more-flights-as-it-eyes-elevated-oil-pric.html",
     "time": "1小时前",
     "published_iso": "2026-03-21T07:20:59+00:00",
-    "id": "n6",
+    "id": "n7",
     "lead": false
   },
   {
@@ -87,7 +101,7 @@
     "url": "https://www.cnbc.com/2026/03/20/us-issues-30-day-sanctions-waiver-for-sale-of-iranian-oil-at-sea.html",
     "time": "3小时前",
     "published_iso": "2026-03-21T01:08:32+00:00",
-    "id": "n7",
+    "id": "n8",
     "lead": false
   },
   {
@@ -100,7 +114,7 @@
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQd3ViTXFGNlVQNmx3RkVuOTlmVjRGNW04a29vQlhselBscXM5Tll2XzNubW93YzgxV3QybU9pVnBPRDAwWjFRdzl0Z3doWFJXMjlwNllYeUlXRHlhNzBlel8xdlg4Mmk2VmtmOTQwQ18xZVJlRlZZc3lhWFhYODFOcmg5b2dKejRIYW9aNDdqYWNYWFlSSmhDVFVsXzZZOVExczZxSXR0RmpkVHZTUVRRUHlIUmE?oc=5",
     "time": "5小时前",
     "published_iso": "2026-03-20T23:48:43+00:00",
-    "id": "n8",
+    "id": "n9",
     "lead": false
   },
   {
@@ -113,7 +127,7 @@
     "url": "https://www.bbc.com/news/articles/c62j3yl842eo?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-03-20T23:44:09+00:00",
-    "id": "n9",
+    "id": "n10",
     "lead": false
   },
   {
@@ -126,7 +140,7 @@
     "url": "https://www.cnbc.com/2026/03/20/super-micro-co-founder-leaves-board.html",
     "time": "6小时前",
     "published_iso": "2026-03-20T22:52:55+00:00",
-    "id": "n10",
+    "id": "n11",
     "lead": false
   },
   {
@@ -139,7 +153,7 @@
     "url": "https://www.bbc.com/news/articles/cddq7j48p35o?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-03-20T22:34:05+00:00",
-    "id": "n11",
+    "id": "n12",
     "lead": false
   },
   {
@@ -152,7 +166,7 @@
     "url": "https://www.cnbc.com/2026/03/20/trump-iran-war-ceasefire.html",
     "time": "8小时前",
     "published_iso": "2026-03-20T22:23:55+00:00",
-    "id": "n12",
+    "id": "n13",
     "lead": false
   },
   {
@@ -165,7 +179,7 @@
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLTUxWUYyWkd6ZEllcnRyZEM3NXdRTjFsMUg5Z1IxZnlOWGp3YUMwRXM1NmVsZFJXeWI5enEtRkl1NENGSmRrWklESEZOSU92V3pOalhUNHhxOE50QWZTWVF0eXVXR0Z3aks2eUVMakQ3Tjlsa1l2UlBXSDg1WUR6NFBhU2VJNWwyeWNsM3FGYzBOb19RS3l3MU1YTlU5T1pTUkRrSGNFWFEzSkJsOWtjS0pKei0?oc=5",
     "time": "6小时前",
     "published_iso": "2026-03-20T22:18:07+00:00",
-    "id": "n13",
+    "id": "n14",
     "lead": false
   },
   {
@@ -178,7 +192,7 @@
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVkZTU2hCUmdaTVpSQTlGTmNMeTdPOWpCbjZGMU12Ry1kZl9SOUw3eXEyandzcldfWi1OaEVSc0NKRXdsWS0xRHRWVFJEaU9KSThnZlE5X0ZqNEVZOWxrWWU3bWdHVHFUeEctR3o0RGRBRWZmZkk5Vnc0dFdCRWh4Z1hpekdzbmdfVEVwckp0RXY1VzBCV0xSOUJSLXJDd2puQkFlYnUtb2VPbTlEc0lYZXlfdw?oc=5",
     "time": "11小时前",
     "published_iso": "2026-03-20T21:58:02+00:00",
-    "id": "n14",
+    "id": "n15",
     "lead": false
   },
   {
@@ -191,7 +205,7 @@
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcUZjTHdoXzVJY1dNejVtSlpiTE9qS2pZTGlJY2xDUWo5MWNRYVRGclhRY2hBNTYyZEZTMDNKRm5qSkdQRlFYZFVzX2xjSlpHV0psYXp1STRQUjQwTGNyd0pTM2ZrMkZQUk94aEsyVE1fejdSaFhYOTdLUkh4TjRWeXpOYm9uVm1CVzB3YVVGUnRwQXdOTkpQNF96VUJKTjdU?oc=5",
     "time": "7小时前",
     "published_iso": "2026-03-20T21:55:11+00:00",
-    "id": "n15",
+    "id": "n16",
     "lead": false
   },
   {
@@ -204,7 +218,7 @@
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd2g3OGxtUTI2TlkyOUYxQXVQc2VuNktBakN1dDlOU3Z2Mmctc0tTVmdiNXVXM3BKeTZQdmZRMjVmZGVqVjhldmtjSVZfdGlQZEUxUDF2d1dRVmVmQjhLV1pVQ2xoMjBLS1VLejQ1Z21TaUxwNXZ3ZzUxcUxnNVk0bUlzX0lJSU1HamV1SW5OcXZOV1RKUlFWc0lTa1FWNlczSHRKcm5EMG03NjNUc2t3?oc=5",
     "time": "12小时前",
     "published_iso": "2026-03-20T21:37:32+00:00",
-    "id": "n16",
+    "id": "n17",
     "lead": false
   },
   {
@@ -217,7 +231,7 @@
     "url": "https://www.cnbc.com/2026/03/20/chatgpt-ads-testing-openai.html",
     "time": "7小时前",
     "published_iso": "2026-03-20T21:30:35+00:00",
-    "id": "n17",
+    "id": "n18",
     "lead": false
   },
   {
@@ -230,7 +244,7 @@
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMXpQVm10R19fUWtkSG9pTFpkMUF5UmZsRkhESEZEZUUxVzB6UFlWTU1CZWhEQXdoN0JrSmhnM2E5ZFhUZmpXV243dy1mV0ZmbHlqbS1UZEJSS1ZSWHI2RDN3TEhLWmJ3V0lWTHJCMWtGbHd2M3RjMU4yRmt4UEdMeHVlQzVDaThUZHBuMFF4bkpOeFJQMFdFTXlwdW93Mk51cHVETW53WVl4QjdxVnpHdEFxeGlPUQ?oc=5",
     "time": "12小时前",
     "published_iso": "2026-03-20T20:53:35+00:00",
-    "id": "n18",
+    "id": "n19",
     "lead": false
   },
   {
@@ -243,7 +257,7 @@
     "url": "https://www.cnbc.com/2026/03/20/trump-iran-war-troops-rebuild.html",
     "time": "11小时前",
     "published_iso": "2026-03-20T17:12:58+00:00",
-    "id": "n19",
+    "id": "n20",
     "lead": false
   },
   {
@@ -256,7 +270,7 @@
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcWZ6X1BseG82N1JPY1lmMFVrR3hQYW9MR1M5Z2luaEJkRFhoQ21lS1VFMlNwWjYxb3dGS1hrSFFLcEh0QjNfLXhCdGdrcUZkM0xkMlFaYXF3ejlLSWpBMDBCVUZ2MUxSNXoxaDhGUDhUdU1mTnRXTnVEbXZfUnpxSGtSSWZDY25Zc3R5czBXVm5WYWp6eXliVzN2Ujc2eDdIMDBWQ0RwOWJva2k0bDh2SXVwSHI?oc=5",
     "time": "12小时前",
     "published_iso": "2026-03-20T16:36:09+00:00",
-    "id": "n20",
+    "id": "n21",
     "lead": false
   },
   {
@@ -269,7 +283,7 @@
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUEpuMWNfQkpYSU1QZEV2ZjVZYnpXcXNUYWU2azhGTXRjNDJBN1B0OE8xQ1VLUTFLNkZDcHRWWHZrM0h0SWxvTGRRZXQ5SmtsTHk2UnBSQkRYQ3BYRk1NRGRKSXdKVFJTZHZUSDhadERweEZ3THAzZWkzaTlGY0NrUWgxNExvTzJqZTNqNFViSUdrRUZtMERMMzVhYUdzalJ0cFNhVmlic2luMm1uaDl6MC1Xbw?oc=5",
     "time": "14小时前",
     "published_iso": "2026-03-20T14:54:19+00:00",
-    "id": "n21",
+    "id": "n22",
     "lead": false
   },
   {
@@ -282,7 +296,7 @@
     "url": "https://www.cnbc.com/2026/03/19/interest-rates-bonds-bank-of-england-european-central-bank-investors-iran-war-ecb-inflation.html",
     "time": "18小时前",
     "published_iso": "2026-03-20T14:52:52+00:00",
-    "id": "n22",
+    "id": "n23",
     "lead": false
   },
   {
@@ -295,7 +309,7 @@
     "url": "https://www.bbc.com/news/articles/cx23yn735jdo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-03-20T14:13:39+00:00",
-    "id": "n23",
+    "id": "n24",
     "lead": false
   },
   {
@@ -308,7 +322,7 @@
     "url": "https://www.cnbc.com/2026/03/20/trump-ai-policy-framework.html",
     "time": "刚刚",
     "published_iso": "2026-03-20T13:57:56+00:00",
-    "id": "n24",
+    "id": "n25",
     "lead": false
   },
   {
@@ -321,7 +335,7 @@
     "url": "https://www.cnbc.com/2026/03/20/fed-gov-waller-urges-caution-for-now-cuts-possible-later-in-the-year.html",
     "time": "刚刚",
     "published_iso": "2026-03-20T13:36:43+00:00",
-    "id": "n25",
+    "id": "n26",
     "lead": false
   },
   {
@@ -334,7 +348,7 @@
     "url": "https://www.cnbc.com/2026/03/20/iea-oil-fuel-prices-energy-advice-consumers-crisis.html",
     "time": "2小时前",
     "published_iso": "2026-03-20T12:00:50+00:00",
-    "id": "n26",
+    "id": "n27",
     "lead": false
   },
   {
@@ -347,7 +361,21 @@
     "url": "https://www.bbc.com/news/articles/cq6jrvgqeejo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-03-20T11:33:17+00:00",
-    "id": "n27",
+    "id": "n28",
+    "lead": false
+  },
+  {
+    "headline": "ByteDance Agrees to Sell Moonton to Savvy Games for $6 Billion - Bloomberg.com",
+    "deck": "ByteDance Agrees to Sell Moonton to Savvy Games for $6 Billion&nbsp;&nbsp;Bloomberg.com",
+    "cnTitle": "字节跳动同意将Moonton出售给Savvy Games",
+    "cnDeck": "字节跳动同意将其游戏工作室Moonton以60亿美元的价格出售给沙特阿拉伯支持的投资公司Savvy Games。根据彭博社报道，这笔交易标志着字节跳动在全球化游戏业务上的重大调整。Moonton是字节跳动旗下的知名游戏开发工作室，以开发热门手机游戏《王者荣耀》的国际版本等作品而闻名。此次出售交易显示字节跳动正在调整其国际业务布局，同时也反映出沙特阿拉伯通过Savvy Games基金在全球游戏产业的积极投资战略。这项60亿美元的交易对双方都具有战略意义，Savvy Games将获得一个成熟的游戏开发平台，而字节跳动则可以集中资源于其他核心业务领域。",
+    "cat": "tech",
+    "source": "Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcWJQcWVmZmU2TlZZbXNqREhPNDJvOUFlMkkwZENiTmtObjlQakVHclpUbWR3eS1hbTNlNG9iek9sV2VXdU9TQlNPVVlWU3ZaNTVNZEIxSV82dTluTEdwSjk4TmM2NUpWRU5IZkJxSTJqQmtRUTFoRUlRMExWdzBKYm43bThNN0dLN09QSHN1UGZ4TEF2dW1RckFQWHBGdUNQTVFabk5CcXZBbk1xcFIwWUFjQVN4ODR6aEdpRXplYVpUZHFmU0luM013bGo?oc=5",
+    "time": "1天前",
+    "published_iso": "2026-03-20T08:47:34+00:00",
+    "is_new": true,
+    "id": "n29",
     "lead": false
   },
   {
@@ -360,7 +388,7 @@
     "url": "https://www.cnbc.com/2026/03/20/us-arms-weapon-sales-middle-east-iran-israel-war.html",
     "time": "6小时前",
     "published_iso": "2026-03-20T07:35:51+00:00",
-    "id": "n28",
+    "id": "n30",
     "lead": false
   },
   {
@@ -373,7 +401,7 @@
     "url": "https://www.cnbc.com/2026/03/19/stock-market-today-live-updates.html",
     "time": "1小时前",
     "published_iso": "2026-03-20T04:09:05+00:00",
-    "id": "n29",
+    "id": "n31",
     "lead": false
   },
   {
@@ -386,7 +414,7 @@
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNczRadVVLMDByNy1KXy1VRzVfRnkwOHVEZDM1X3M4SlJ4V0JiMzhveDgzU0xrVHpYOW9EY19BbmM5ZjNhSWxTOWZJZDFtSnE0UVVZRlNkMUZSWXZsWWpuOEhXa3U0Mjdzbm56UGYwQlg3UEV1cHZMREdKUEZyVFhBcUc1RmFoSHRXUkJpTnBGNVNkamxzRHlHZW9OWV9vRGo4YnFFa2dmUjVLYWZGbVA5a19R?oc=5",
     "time": "1小时前",
     "published_iso": "2026-03-20T03:37:00+00:00",
-    "id": "n30",
+    "id": "n32",
     "lead": false
   },
   {
@@ -399,7 +427,7 @@
     "url": "https://www.cnbc.com/2026/03/20/trump-pearl-harbor-japan-takaichi-iran-war.html",
     "time": "1小时前",
     "published_iso": "2026-03-20T03:32:58+00:00",
-    "id": "n31",
+    "id": "n33",
     "lead": false
   },
   {
@@ -412,7 +440,21 @@
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSUpyWGNGRkc5alFSYjcwcEpLUVNuWThwQ1BmQXBwZS1zNHdlOEFGMnR6NTFUMDAxOFpkUldyQVQ1VjNZNXhQNDZXNmVZM2p5X1dCdUxqTzZiNU56bFk4QXhQSlhFZ3liMEVOOFNWcDVCMDBjWXJRanFyMnZLam9OY1BHYkhHNmU1YW52V1JmNFctc1FPSWZtTU5YVjk2Ym0xYnlRUmdTTkNmSzlxMlJSRzVyZko5VTVDZHBQNkFpNHdoeUdSSUFr?oc=5",
     "time": "1小时前",
     "published_iso": "2026-03-20T03:25:54+00:00",
-    "id": "n32",
+    "id": "n34",
+    "lead": false
+  },
+  {
+    "headline": "CATL Hong Kong Rally Drives Record Premium Over Mainland Shares - Bloomberg.com",
+    "deck": "CATL Hong Kong Rally Drives Record Premium Over Mainland Shares&nbsp;&nbsp;Bloomberg.com",
+    "cnTitle": "宁德时代香港上市溢价创新高",
+    "cnDeck": "宁德时代(CATL)香港上市股票相对于内地A股出现创纪录的溢价。根据彭博报道，CATL香港股票的强劲表现推动其香港上市价格相对于内地上市股票的溢价创出历史新高。这反映了国际投资者对这家全球领先电池制造商的持续看好，以及对其在新能源汽车产业链中关键地位的认可。宁德时代作为全球最大的动力电池供应商，在电动汽车行业快速发展的背景下，其股票在香港和内地市场的价格差异反映了两地投资者对公司前景评估的差异。这一现象也显示了香港资本市场对中国科技和新能源企业的吸引力,以及国际资本对这类战略性产业的持续关注。",
+    "cat": "finance",
+    "source": "Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNT0ZtU0VrS3V6Tk5QU2RtY3pjbGlpMnJ4dlRPS3QwbkdoN2daZktNNWozZTYtbm51VkM3TG5mbHdNY2tLa094cFFIV0pkbENITnRjUHRUMkV2ZTdhYmxDaXFrbE12WHA0T1dNYWZ6OFJGZXlhQzNmam16ZUJnMndxSHpqamFtZ2w4YXlfMzJMTW5UV3c3WmhtQ21hQW9tUldZNDh5TnpEUE9PaWlWbXdCai1wZkx0SVU4WG90SFBBRXRoa2p3NnhRY1hDZUVqazQ?oc=5",
+    "time": "1天前",
+    "published_iso": "2026-03-20T03:21:00+00:00",
+    "is_new": true,
+    "id": "n35",
     "lead": false
   },
   {
@@ -425,7 +467,7 @@
     "url": "https://www.cnbc.com/2026/03/20/asia-markets-today-nikkei-hang-seng-kospi.html",
     "time": "2小时前",
     "published_iso": "2026-03-20T03:06:58+00:00",
-    "id": "n33",
+    "id": "n36",
     "lead": false
   },
   {
@@ -438,7 +480,7 @@
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY0VIUk81Q2xJN0pwcmJvREl5NVNQam51M0tzNU5LSWdsWjcwZ1Z1YnJrZGl2ZE81WlJhWWtERjQ2d0V2Y3dCME4tYThyeDNXb2s2ZUdNcUNLSWZMeVZrT2lPWmJtc2stOEk1QmYyRGpIYzdEMENxSGZrQUpWTkdia241X3BNN0NCbGlPZVJGR2RmUWNjUjNja2c3RFV5TFNuU1J0b2FtOFdhMEo4ZVlLQlRmd1Q1c0NuOHVOcUVmVGxRR0thaGp5Xw?oc=5",
     "time": "1天前",
     "published_iso": "2026-03-20T01:47:00+00:00",
-    "id": "n34",
+    "id": "n37",
     "lead": false
   },
   {
@@ -451,7 +493,7 @@
     "url": "https://www.cnbc.com/2026/03/19/us-tech-execs-smuggled-nvidia-chips-to-china-prosecutors-say.html",
     "time": "3小时前",
     "published_iso": "2026-03-20T01:13:33+00:00",
-    "id": "n35",
+    "id": "n38",
     "lead": false
   },
   {
@@ -464,7 +506,7 @@
     "url": "https://www.cnbc.com/2026/03/19/openai-desktop-super-app-chatgpt-browser-codex.html",
     "time": "4小时前",
     "published_iso": "2026-03-20T00:29:36+00:00",
-    "id": "n36",
+    "id": "n39",
     "lead": false
   },
   {
@@ -477,7 +519,7 @@
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdUFCZGpNR3YwSDdjcXBDVE1YRGpheGpLMmw0c0pteUFCOXprZHlZZ1JNQ3o4SUNYNE5pVzhLV25pZHl0bGFqVEhXZWtoNkExWlBYcGR0RnVKemZ2T29iS0VlbkxxYlpUaWdsbkYxOTZOX0tJQ3NCUFhQdHQ5aDdvemhhUjE4bVNWNFk4?oc=5",
     "time": "5小时前",
     "published_iso": "2026-03-20T00:01:20+00:00",
-    "id": "n37",
+    "id": "n40",
     "lead": false
   },
   {
@@ -490,7 +532,7 @@
     "url": "https://www.bbc.com/news/articles/c2k3jgy9vq3o?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-03-19T22:41:40+00:00",
-    "id": "n38",
+    "id": "n41",
     "lead": false
   },
   {
@@ -503,7 +545,7 @@
     "url": "https://www.cnbc.com/2026/03/19/goldman-sees-risks-of-market-correction-rising-and-bonds-wont-help-weather-it.html",
     "time": "9小时前",
     "published_iso": "2026-03-19T20:07:23+00:00",
-    "id": "n39",
+    "id": "n42",
     "lead": false
   },
   {
@@ -516,7 +558,7 @@
     "url": "https://www.cnbc.com/2026/03/19/netanyahu-trump-us-israel-iran-ground-component.html",
     "time": "18小时前",
     "published_iso": "2026-03-19T20:04:17+00:00",
-    "id": "n40",
+    "id": "n43",
     "lead": false
   },
   {
@@ -529,7 +571,7 @@
     "url": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-03-19T19:55:51+00:00",
-    "id": "n41",
+    "id": "n44",
     "lead": false
   },
   {
@@ -542,7 +584,7 @@
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdHNfbmdRaEtpWjVsd1hZU19PY2luTXZVdVozRG9VbE5mWUZmUzIxS20tLTIxTm9oM1VZZlNDT29vcWlUa3NMUXJqYk13ZGh5eU1xaXdod3ZlWUJxM0ZKcFZ3Y3NBOHFvVUVuLVJWM003Y1J4V1RUMUo1N0NFeHFiX29peUFUTlhEVzU4RnVmZGhneHZNazM2RVZub3YtY2RTMVNSZC16d3BIclExQ013?oc=5",
     "time": "11小时前",
     "published_iso": "2026-03-19T18:09:36+00:00",
-    "id": "n42",
+    "id": "n45",
     "lead": false
   },
   {
@@ -555,7 +597,7 @@
     "url": "https://www.bbc.com/news/articles/c33lnd1gxxro?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-03-19T16:21:28+00:00",
-    "id": "n43",
+    "id": "n46",
     "lead": false
   },
   {
@@ -568,7 +610,7 @@
     "url": "https://www.cnbc.com/2026/03/19/tesla-nhtsa-full-self-driving-fsd-reduced-visibility.html",
     "time": "22小时前",
     "published_iso": "2026-03-19T15:58:34+00:00",
-    "id": "n44",
+    "id": "n47",
     "lead": false
   },
   {
@@ -581,7 +623,7 @@
     "url": "https://www.bbc.com/news/articles/c8d5dee3ep8o?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-03-19T15:44:09+00:00",
-    "id": "n45",
+    "id": "n48",
     "lead": false
   }
 ]
