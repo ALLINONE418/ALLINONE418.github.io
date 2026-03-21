@@ -110,7 +110,7 @@ a{color:inherit;text-decoration:none;}
 @media(max-width:480px){.vd-grid{grid-template-columns:1fr}}
 .vd-card{border:1px solid var(--rule2);border-radius:2px;overflow:hidden;background:var(--white);transition:box-shadow .2s,transform .2s;opacity:0;animation:slideup .4s ease forwards;}
 .vd-card:hover{box-shadow:0 4px 18px rgba(0,0,0,.1);transform:translateY(-2px);}
-.vd-thumb{width:100%;aspect-ratio:16/9;overflow:hidden;position:relative;background:#111;cursor:pointer;}
+.vd-thumb{width:100%;aspect-ratio:16/9;overflow:hidden;position:relative;background:#e8e4de;cursor:pointer;}
 .vd-thumb img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .3s;}
 .vd-thumb:hover img{transform:scale(1.04);}
 .vd-play-overlay{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;background:rgba(0,0,0,0);transition:background .2s;}
@@ -524,7 +524,7 @@ function renderVideos(filterChannel,sort){
     const card=document.createElement('div');
     card.className='vd-card';
     card.style.animationDelay=`${idx*0.04}s`;
-    card.innerHTML=`<div class="vd-thumb" onclick="openVdModal('${v.embed_url}','${ch.channel_name.replace(/'/g,"&#39;")}',this.dataset.title)" data-title="${safeTitle}"><img src="${v.thumbnail}" alt="${safeTitle}" loading="lazy"><div class="vd-play-overlay"><div class="vd-play"><svg viewBox="0 0 24 24"><polygon points="5,3 19,12 5,21"/></svg></div></div></div><div class="vd-info"><div class="vd-ch">${ch.channel_name}</div><div class="vd-title">${v.title}</div><div class="vd-meta-row"><span>${fmtVideoDate(v.published_at)}</span><span class="vd-tx" onclick="translateVd(this,'${boxId}',this.dataset.title)" data-title="${safeTitle}">→中文</span></div><div class="vd-cn-box" id="${boxId}"></div></div>`;
+    card.innerHTML=`<div class="vd-thumb" onclick="openYoutube('${v.embed_url}')" data-title="${safeTitle}"><img src="${v.thumbnail}" alt="${safeTitle}" loading="lazy"><div class="vd-play-overlay"><div class="vd-play"><svg viewBox="0 0 24 24"><polygon points="5,3 19,12 5,21"/></svg></div></div></div><div class="vd-info"><div class="vd-ch">${ch.channel_name}</div><div class="vd-title">${v.title}</div><div class="vd-meta-row"><span>${fmtVideoDate(v.published_at)}</span><span class="vd-tx" onclick="translateVd(this,'${boxId}',this.dataset.title)" data-title="${safeTitle}">→中文</span></div><div class="vd-cn-box" id="${boxId}"></div></div>`;
     grid.appendChild(card);
     idx++;
   });
@@ -538,6 +538,13 @@ function setVdSort(sort,el){
   document.querySelectorAll('#vd-sort-bar .tb-btn').forEach(b=>b.classList.remove('active'));
   el.classList.add('active');
   renderVideos();
+}
+
+function openYoutube(embedUrl){
+  // embed_url: https://www.youtube.com/embed/VIDEO_ID → watch?v=VIDEO_ID
+  const videoId = embedUrl.split('/embed/')[1]?.split('?')[0];
+  const url = videoId ? `https://www.youtube.com/watch?v=${videoId}` : embedUrl;
+  window.open(url, '_blank');
 }
 
 function openVdModal(embedUrl,channelName,title){
@@ -660,17 +667,20 @@ function toggleNewsPlay() {
   text += '今日要闻播报完毕，感谢收听。';
 
   const utter = new SpeechSynthesisUtterance(text);
-  utter.lang  = 'zh-CN';
-  utter.rate  = 1.15;   // 新闻播报语速，比默认稍快
-  utter.pitch = 0.85;   // 偏低沉，接近男声质感
+  utter.lang   = 'zh-CN';
+  utter.rate   = 1.2;   // 新闻播报节奏，清晰不拖沓
+  utter.pitch  = 1.0;
   utter.volume = 1;
 
-  // 优先选中文男声
+  // 优先锁定 Microsoft Huihui（网页效果最佳）
+  // 手机没有时依次 fallback 到其他中文声音
   const voices = window.speechSynthesis.getVoices();
-  const cnMale = voices.find(v =>
-    v.lang.startsWith('zh') && /male|man|zh-CN-Yunxi|Kangkang|YunYang/i.test(v.name)
-  ) || voices.find(v => v.lang === 'zh-CN') || voices.find(v => v.lang.startsWith('zh'));
-  if (cnMale) utter.voice = cnMale;
+  const preferred = voices.find(v => v.name === 'Microsoft Huihui - Chinese (Simplified, PRC)')
+    || voices.find(v => v.name.includes('Huihui'))
+    || voices.find(v => v.lang === 'zh-CN' && /yaoyao|huihui/i.test(v.name))
+    || voices.find(v => v.lang === 'zh-CN')
+    || voices.find(v => v.lang.startsWith('zh'));
+  if (preferred) utter.voice = preferred;
 
   utter.onend = () => {
     _newsSpeaking = false;
