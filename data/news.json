@@ -1,5 +1,61 @@
 [
   {
+    "headline": "China vows to continue opening its economy amid trade tensions with U.S.",
+    "deck": "China has reached a temporary truce with the U.S. on trade. The world's second-biggest economy reported a record $1.2 trillion trade surplus for 2025.",
+    "cnTitle": "中国承诺继续开放经济应对美国贸易紧张",
+    "cnDeck": "中国与美国在贸易问题上达成了临时休战。这个全球第二大经济体报告称2025年创纪录的贸易顺差达1.2万亿美元。中国承诺将继续推进经济开放政策，以应对与美国之间持续的贸易紧张局势。这一声明反映了中国在面对美国贸易压力下，仍然坚持对外开放的立场。贸易顺差的创纪录水平表明中国在出口方面保持了强劲表现，同时也显示了中美之间贸易不平衡的问题。中国的这一承诺对全球贸易格局和经济前景具有重要影响。",
+    "cat": "politics",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/22/china-vows-to-continue-opening-its-economy-amid-us-trade-tensions.html",
+    "time": "1小时前",
+    "published_iso": "2026-03-22T12:47:30+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "OpenAI's data center pivot underscores Wall Street spending concerns ahead of IPO",
+    "deck": "As OpenAI gears up for a potential IPO, it's outlined a more tempered infrastructure strategy and has moved away from an ambitious agreement with Nvidia.",
+    "cnTitle": "OpenAI调整数据中心战略淡化野心",
+    "cnDeck": "OpenAI在为潜在首次公开募股（IPO）做准备之际，已经制定了更加温和的基础设施战略，并已放弃与英伟达的雄心勃勃协议。这一转变反映出该公司面临的资本支出压力以及投资者对其长期盈利能力的担忧。OpenAI之前曾与英伟达达成涉及大规模芯片采购的协议，旨在支持其AI模型的训练和推理需求。然而，随着对成本控制和财务健康状况的重新评估，OpenAI现已调整了这一策略，转向更加务实的基础设施扩展计划。这一举措将可能减少公司的资本密集型支出，从而改善其在IPO前的财务状况。华尔街分析人士长期以来一直担忧OpenAI等AI公司的巨额支出是否能够获得相应的收益。OpenAI的基础设施调整可能旨在回应这些关切，展示其对财务纪律和可持续增长的重视。这一转变对于投资者评估OpenAI的估值和未来前景具有重要意义，也反映了科技行业在面对经济不确定性时对支出的更加谨慎态度。",
+    "cat": "tech",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/22/openai-data-center-pivot-underscores-wall-street-ipo-concerns.html",
+    "time": "1小时前",
+    "published_iso": "2026-03-22T12:00:01+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
+    "headline": "The AI race between China and the U.S. heats up. These stocks could be winners, Bernstein says",
+    "deck": "Whether China or the U.S. wins the race for artificial intelligence ultimately relies on the ability to power the new technology, according to Bernstein.",
+    "cnTitle": "中美AI竞赛升温芯片产业受关注",
+    "cnDeck": "伯恩斯坦分析指出，中美人工智能竞赛的最终胜负取决于双方为新技术提供动力的能力。在全球AI发展竞争日益激烈的背景下，芯片产业成为关键战场。伯恩斯坦认为，谁能够提供更强大、更高效的芯片技术来支撑人工智能系统的运行，谁就能在这场战略竞争中占据优势地位。这一观点反映了当前全球科技竞争中芯片产业的重要性。芯片制造和设计能力直接影响人工智能模型的训练速度、推理效率以及整体计算性能。伯恩斯坦进一步指出，相关芯片产业的上市公司可能因此成为这场竞争中的赢家，因为它们将受益于对高性能芯片日益增长的需求。中国和美国都在加大对芯片研发的投入，试图在AI芯片领域取得突破。美国拥有英伟达等领先的芯片设计公司，而中国也在积极发展自主芯片技术。这场芯片竞争将深刻影响人工智能技术的发展方向和全球科技格局。",
+    "cat": "tech",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/22/winning-stocks-in-the-ai-race-between-china-and-the-us-per-bernstein.html",
+    "time": "2小时前",
+    "published_iso": "2026-03-22T11:27:37+00:00",
+    "is_new": true,
+    "id": "n3",
+    "lead": false
+  },
+  {
+    "headline": "From satellites to space data centers: Why low earth orbit is attracting billions in investment",
+    "deck": "Big Tech companies including Nvidia and Elon Musk's SpaceX are making large bets on a new layer of critical infrastructure that's emerging above our heads.",
+    "cnTitle": "低轨卫星与空间数据中心吸引数十亿美元投资",
+    "cnDeck": "英伟达、SpaceX等科技巨头正在大规模投资低地球轨道基础设施。低地球轨道是距地球表面160至2000公里之间的空间区域，正在成为一个新的投资热点。这一轨道层正在吸引数十亿美元的资金流入，科技巨头们看好其战略价值。埃隆·马斯克旗下的SpaceX通过其星链项目已在该领域建立了先发优势，计划部署数万颗卫星提供全球互联网覆盖。英伟达等科技公司也在探索利用低地球轨道进行数据处理、存储和计算的可能性，这被认为是未来科技基础设施的关键组成部分。低地球轨道的商业化前景吸引了包括传统航空航天公司和新兴太空初创企业在内的广泛参与者。业界人士认为，低地球轨道基础设施将在通信、遥感、地球观测等多个领域产生深远影响，并可能成为继陆地网络之后的下一代关键信息基础设施。这一新兴领域的投资热潮反映了全球科技产业对太空经济的日益重视。",
+    "cat": "tech",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/22/why-low-earth-orbit-is-attracting-billions-in-investment.html",
+    "time": "6小时前",
+    "published_iso": "2026-03-22T07:10:09+00:00",
+    "is_new": true,
+    "id": "n4",
+    "lead": false
+  },
+  {
     "headline": "Apple CEO Praises China Partners as Beijing Applies Pressure - Bloomberg.com",
     "deck": "Apple CEO Praises China Partners as Beijing Applies Pressure&nbsp;&nbsp;Bloomberg.com",
     "cnTitle": "苹果CEO称赞中国合作伙伴",
@@ -9,9 +65,8 @@
     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNY3RfaU92aE9rT3p3bjlzQ0ZORXZhM1duQkwwQld6ZDlmd2NiMG9faExmNDJ1TGZaTE9TcTNiZzNaaERwUlN6ODAtYW1QTTktU1BqdUpDX1Izd05IOVVWLWIxcmlHeEgzZTh4WktDZzd5Z0R2SWZhNlRUclZzLTRvb1NXYWxKcWpSQmM4OXZpdWNVRUVLdDV0NEFwc21zQ2lMcFljQm9GaFFmVTZBeGlSVGVsTS0wSWJNVFJJZG04M3ZPX1JIM0ZrOHJPX09XZkU?oc=5",
     "time": "1小时前",
     "published_iso": "2026-03-22T03:49:00+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n5",
+    "lead": false
   },
   {
     "headline": "Trump Gives Iran 48 Hours on Hormuz, Threatens Power Plants - Bloomberg.com",
@@ -23,8 +78,7 @@
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSnc1ek1IcHJKQWlFclhMalJ4WVJRMW5jWmdLS3ctRUt2NW16eGNTUWlEcUU2NDRVZTJlOU5haERSUXA4YXdfdkw1YmZwWnpWdXhOZVhDSmxIZXBqR1VzUlhRQzlzbkVhd3dXWGNselU5LUVER0J1cGVLVDJoTFF6NjRJcGF5UnQta19Ud3FLbWtKcEl3Uk95Z3l2cGdabjRQUTI3WjEtMUFjc1JmdkVnUnliaVY?oc=5",
     "time": "3小时前",
     "published_iso": "2026-03-22T02:01:00+00:00",
-    "is_new": true,
-    "id": "n2",
+    "id": "n6",
     "lead": false
   },
   {
@@ -37,8 +91,7 @@
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeWJwekdyb3l1TThTNVJrUm5KUG5PdzJ4LU9qb2ZFeXZYMEg0TDNhSzItLUxTRl9uX1VXRVBLZ1A1Zy12UnFZSXBrX2k3Y3JmM0plMFFTS29aVkhGSUVEZ20wQVJxcHJJUXVONi0tQmFtOUxVQ2w3ODBxQjIyd1l0dDF6bEJVSkNwRmwzT3kzcUJTME1yWHZnc01WMG02MmtHRjFMSHVFM0k5dw?oc=5",
     "time": "9小时前",
     "published_iso": "2026-03-21T20:00:00+00:00",
-    "is_new": true,
-    "id": "n3",
+    "id": "n7",
     "lead": false
   },
   {
@@ -51,7 +104,7 @@
     "url": "https://www.cnbc.com/2026/03/21/crypto-tokenization-and-etfs-secs-peirce-indicates-openness.html",
     "time": "刚刚",
     "published_iso": "2026-03-21T15:00:01+00:00",
-    "id": "n4",
+    "id": "n8",
     "lead": false
   },
   {
@@ -64,7 +117,7 @@
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOWNaTmRXcDlGblUxcHUxOFhUOEZ5QUJyMk1QeFBpekdXc25OVTVyWHRPaUozZWNtcWtWd3cxdVFJSEtabnN6Q3Fjdld0NmxSc3dyMGhaZTh6Z3AxYlgwbkhJNVVqWnFvc2dEOWt1VDluRVNVLTFEb2tmT0pqRUdlejROYlptSy1LMGlXdUpJUzZfMWNWUEE0dGh4T1M5WnlWVzNPX0dLTHU?oc=5",
     "time": "刚刚",
     "published_iso": "2026-03-21T13:00:44+00:00",
-    "id": "n5",
+    "id": "n9",
     "lead": false
   },
   {
@@ -77,7 +130,7 @@
     "url": "https://www.cnbc.com/2026/03/21/openai-to-nearly-double-workforce-to-8000-by-end-2026-ft-reports.html",
     "time": "1小时前",
     "published_iso": "2026-03-21T12:34:01+00:00",
-    "id": "n6",
+    "id": "n10",
     "lead": false
   },
   {
@@ -90,8 +143,7 @@
     "url": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss",
     "time": "16小时前",
     "published_iso": "2026-03-21T12:15:20+00:00",
-    "is_new": true,
-    "id": "n7",
+    "id": "n11",
     "lead": false
   },
   {
@@ -104,7 +156,7 @@
     "url": "https://www.cnbc.com/2026/03/21/trump-oil-fed-economy-iran-war.html",
     "time": "1小时前",
     "published_iso": "2026-03-21T12:00:01+00:00",
-    "id": "n8",
+    "id": "n12",
     "lead": false
   },
   {
@@ -117,7 +169,7 @@
     "url": "https://www.cnbc.com/2026/03/21/iran-targeted-but-did-not-hit-diego-garcia-base-with-missiles-wsj.html",
     "time": "刚刚",
     "published_iso": "2026-03-21T09:11:47+00:00",
-    "id": "n9",
+    "id": "n13",
     "lead": false
   },
   {
@@ -130,7 +182,7 @@
     "url": "https://www.bbc.com/news/articles/crl18nwjzzzo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-03-21T08:54:29+00:00",
-    "id": "n10",
+    "id": "n14",
     "lead": false
   },
   {
@@ -143,8 +195,7 @@
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV2tBQmZhY1RwaS1QQzdHSTJhOXhSNU43REtjR1lDeUczdGFjWlR0aGZRTUpLUEx6d2gya0E3Z25SYnNxR3pYeDdGa3hQcHVMbGVXWFZSMEQ0TURORzFHb01GWV9lMXEtdml1ZVhKNTZIbXdTWWtIWkFrVVZYM2tyc3RvSzhCVUJ6bVRnenYzSTNoYzlfYkNCZUxkLXhNWE8tQkg0VDB0eDhVOWJjVTcwdlVSdnoySE9FZGJB?oc=5",
     "time": "21小时前",
     "published_iso": "2026-03-21T08:00:00+00:00",
-    "is_new": true,
-    "id": "n11",
+    "id": "n15",
     "lead": false
   },
   {
@@ -157,7 +208,7 @@
     "url": "https://www.cnbc.com/2026/03/21/united-airlines-to-cut-more-flights-as-it-eyes-elevated-oil-pric.html",
     "time": "1小时前",
     "published_iso": "2026-03-21T07:20:59+00:00",
-    "id": "n12",
+    "id": "n16",
     "lead": false
   },
   {
@@ -170,7 +221,21 @@
     "url": "https://www.cnbc.com/2026/03/20/us-issues-30-day-sanctions-waiver-for-sale-of-iranian-oil-at-sea.html",
     "time": "3小时前",
     "published_iso": "2026-03-21T01:08:32+00:00",
-    "id": "n13",
+    "id": "n17",
+    "lead": false
+  },
+  {
+    "headline": "Super Micro Makes Changes After Smuggling Scandal Crushes Stock - Bloomberg.com",
+    "deck": "Super Micro Makes Changes After Smuggling Scandal Crushes Stock&nbsp;&nbsp;Bloomberg.com",
+    "cnTitle": "超微计算机因走私丑闻做出改革",
+    "cnDeck": "超微计算机公司因走私丑闻后股价大幅下跌，目前正在进行重大变革。该公司因涉及电子产品走私事件遭受重创，股价受到严重打击。作为服务器和计算机硬件制造商，超微计算机在数据中心和人工智能基础设施领域有重要市场地位。此次丑闻对公司声誉造成重大影响，导致投资者信心下降，股价急剧下跌。为应对危机，超微计算机正在实施一系列改革措施，包括加强内部管理、改进供应链监管和提升合规性等。这一事件反映出科技制造业在全球贸易和合规方面面临的挑战。超微计算机的这些变革举措旨在恢复市场信心，但市场对公司能否成功度过此次危机仍有疑虑。此事件也引起了业界对科技硬件制造商供应链管理和合规风险的广泛关注。",
+    "cat": "tech",
+    "source": "Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSzRCYXFLTUVoS0FwOWlQSVJqUXI4MExJUGlBYWJDLWpucEJYb0FzdFNxOHlSdGNtUm1ad0YxZmd4dUxJeVQ4elFWelFEU1NaaV9HRnFudFVmbUZqQmtablNPcXJISi1fcEp4Wmxnb0pscGtjUTU1R1ZCSkVodGhzWmYzT0dfNE1FaUpELWIzOFVVajNXVjUwU2p2ZFNrYmlDZmNOeVotWExBb0xEd3R2WHFQVFU2WVJEdVJmY202Rkp1MUl2OHkyVVp4X1VKWFk?oc=5",
+    "time": "1天前",
+    "published_iso": "2026-03-20T23:48:43+00:00",
+    "is_new": true,
+    "id": "n18",
     "lead": false
   },
   {
@@ -183,7 +248,7 @@
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQd3ViTXFGNlVQNmx3RkVuOTlmVjRGNW04a29vQlhselBscXM5Tll2XzNubW93YzgxV3QybU9pVnBPRDAwWjFRdzl0Z3doWFJXMjlwNllYeUlXRHlhNzBlel8xdlg4Mmk2VmtmOTQwQ18xZVJlRlZZc3lhWFhYODFOcmg5b2dKejRIYW9aNDdqYWNYWFlSSmhDVFVsXzZZOVExczZxSXR0RmpkVHZTUVRRUHlIUmE?oc=5",
     "time": "5小时前",
     "published_iso": "2026-03-20T23:48:43+00:00",
-    "id": "n14",
+    "id": "n19",
     "lead": false
   },
   {
@@ -196,7 +261,7 @@
     "url": "https://www.bbc.com/news/articles/c62j3yl842eo?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-03-20T23:44:09+00:00",
-    "id": "n15",
+    "id": "n20",
     "lead": false
   },
   {
@@ -209,7 +274,7 @@
     "url": "https://www.cnbc.com/2026/03/20/super-micro-co-founder-leaves-board.html",
     "time": "6小时前",
     "published_iso": "2026-03-20T22:52:55+00:00",
-    "id": "n16",
+    "id": "n21",
     "lead": false
   },
   {
@@ -222,7 +287,7 @@
     "url": "https://www.bbc.com/news/articles/cddq7j48p35o?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-03-20T22:34:05+00:00",
-    "id": "n17",
+    "id": "n22",
     "lead": false
   },
   {
@@ -235,7 +300,7 @@
     "url": "https://www.cnbc.com/2026/03/20/trump-iran-war-ceasefire.html",
     "time": "8小时前",
     "published_iso": "2026-03-20T22:23:55+00:00",
-    "id": "n18",
+    "id": "n23",
     "lead": false
   },
   {
@@ -248,7 +313,7 @@
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLTUxWUYyWkd6ZEllcnRyZEM3NXdRTjFsMUg5Z1IxZnlOWGp3YUMwRXM1NmVsZFJXeWI5enEtRkl1NENGSmRrWklESEZOSU92V3pOalhUNHhxOE50QWZTWVF0eXVXR0Z3aks2eUVMakQ3Tjlsa1l2UlBXSDg1WUR6NFBhU2VJNWwyeWNsM3FGYzBOb19RS3l3MU1YTlU5T1pTUkRrSGNFWFEzSkJsOWtjS0pKei0?oc=5",
     "time": "6小时前",
     "published_iso": "2026-03-20T22:18:07+00:00",
-    "id": "n19",
+    "id": "n24",
     "lead": false
   },
   {
@@ -261,7 +326,7 @@
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVkZTU2hCUmdaTVpSQTlGTmNMeTdPOWpCbjZGMU12Ry1kZl9SOUw3eXEyandzcldfWi1OaEVSc0NKRXdsWS0xRHRWVFJEaU9KSThnZlE5X0ZqNEVZOWxrWWU3bWdHVHFUeEctR3o0RGRBRWZmZkk5Vnc0dFdCRWh4Z1hpekdzbmdfVEVwckp0RXY1VzBCV0xSOUJSLXJDd2puQkFlYnUtb2VPbTlEc0lYZXlfdw?oc=5",
     "time": "11小时前",
     "published_iso": "2026-03-20T21:58:02+00:00",
-    "id": "n20",
+    "id": "n25",
     "lead": false
   },
   {
@@ -274,7 +339,7 @@
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcUZjTHdoXzVJY1dNejVtSlpiTE9qS2pZTGlJY2xDUWo5MWNRYVRGclhRY2hBNTYyZEZTMDNKRm5qSkdQRlFYZFVzX2xjSlpHV0psYXp1STRQUjQwTGNyd0pTM2ZrMkZQUk94aEsyVE1fejdSaFhYOTdLUkh4TjRWeXpOYm9uVm1CVzB3YVVGUnRwQXdOTkpQNF96VUJKTjdU?oc=5",
     "time": "7小时前",
     "published_iso": "2026-03-20T21:55:11+00:00",
-    "id": "n21",
+    "id": "n26",
     "lead": false
   },
   {
@@ -287,7 +352,21 @@
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd2g3OGxtUTI2TlkyOUYxQXVQc2VuNktBakN1dDlOU3Z2Mmctc0tTVmdiNXVXM3BKeTZQdmZRMjVmZGVqVjhldmtjSVZfdGlQZEUxUDF2d1dRVmVmQjhLV1pVQ2xoMjBLS1VLejQ1Z21TaUxwNXZ3ZzUxcUxnNVk0bUlzX0lJSU1HamV1SW5OcXZOV1RKUlFWc0lTa1FWNlczSHRKcm5EMG03NjNUc2t3?oc=5",
     "time": "12小时前",
     "published_iso": "2026-03-20T21:37:32+00:00",
-    "id": "n22",
+    "id": "n27",
+    "lead": false
+  },
+  {
+    "headline": "Elon Musk Misled Twitter Investors Before 2022 Buyout, Jury Says - Bloomberg.com",
+    "deck": "Elon Musk Misled Twitter Investors Before 2022 Buyout, Jury Says&nbsp;&nbsp;Bloomberg.com",
+    "cnTitle": "埃隆·马斯克被判误导推特投资者",
+    "cnDeck": "美国陪审团裁定，埃隆·马斯克在2022年收购推特前误导了投资者。此案涉及马斯克在收购前对推特财务状况和业务前景的虚假陈述。陪审团的裁定可能对马斯克及其企业造成重大法律和财务影响。这一判决反映了对科技企业并购交易中信息披露和投资者保护问题的司法审查。该案件涉及推特投资者就马斯克在要约收购期间的言论和行为提起的诉讼。陪审团的决定可能引发后续的损害赔偿程序和上诉。这一事件突显了大规模科技并购交易中的合规和透明度要求，也反映了对高管行为和投资者权益保护的司法监督。",
+    "cat": "finance",
+    "source": "Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZHNiek5SMkhtbjF0TjBPY1E3aVBOcGlXVGVGcVB6cjJ2d0NpQW5iYU03dTRoY194djJqcEZpVGVUNUxpMS1faGxFZ2hTMXhjTkVEQUJ5RFdlOEx3Z2JkcDl4amhKMUQxenJpWVh1YUxrNFlKcnVHWlpQZ3lGQUpDV3d6WlhTanpISEJ4S29QSkRoZ3V0MlQwaTBOdWt6TkRiSEFjSjAzd3dUNG5rd0UtX1V4emJCVmFUUUVTQXp5amEwY3NFQTBRVXphM3M3M1U?oc=5",
+    "time": "1天前",
+    "published_iso": "2026-03-20T21:33:41+00:00",
+    "is_new": true,
+    "id": "n28",
     "lead": false
   },
   {
@@ -300,7 +379,7 @@
     "url": "https://www.cnbc.com/2026/03/20/chatgpt-ads-testing-openai.html",
     "time": "7小时前",
     "published_iso": "2026-03-20T21:30:35+00:00",
-    "id": "n23",
+    "id": "n29",
     "lead": false
   },
   {
@@ -313,7 +392,7 @@
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMXpQVm10R19fUWtkSG9pTFpkMUF5UmZsRkhESEZEZUUxVzB6UFlWTU1CZWhEQXdoN0JrSmhnM2E5ZFhUZmpXV243dy1mV0ZmbHlqbS1UZEJSS1ZSWHI2RDN3TEhLWmJ3V0lWTHJCMWtGbHd2M3RjMU4yRmt4UEdMeHVlQzVDaThUZHBuMFF4bkpOeFJQMFdFTXlwdW93Mk51cHVETW53WVl4QjdxVnpHdEFxeGlPUQ?oc=5",
     "time": "12小时前",
     "published_iso": "2026-03-20T20:53:35+00:00",
-    "id": "n24",
+    "id": "n30",
     "lead": false
   },
   {
@@ -326,7 +405,7 @@
     "url": "https://www.bbc.com/news/articles/cr71rkeg7xxo?at_medium=RSS&at_campaign=rss",
     "time": "19小时前",
     "published_iso": "2026-03-20T20:16:29+00:00",
-    "id": "n25",
+    "id": "n31",
     "lead": false
   },
   {
@@ -339,7 +418,7 @@
     "url": "https://www.cnbc.com/2026/03/20/trump-iran-war-troops-rebuild.html",
     "time": "11小时前",
     "published_iso": "2026-03-20T17:12:58+00:00",
-    "id": "n26",
+    "id": "n32",
     "lead": false
   },
   {
@@ -352,7 +431,7 @@
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcWZ6X1BseG82N1JPY1lmMFVrR3hQYW9MR1M5Z2luaEJkRFhoQ21lS1VFMlNwWjYxb3dGS1hrSFFLcEh0QjNfLXhCdGdrcUZkM0xkMlFaYXF3ejlLSWpBMDBCVUZ2MUxSNXoxaDhGUDhUdU1mTnRXTnVEbXZfUnpxSGtSSWZDY25Zc3R5czBXVm5WYWp6eXliVzN2Ujc2eDdIMDBWQ0RwOWJva2k0bDh2SXVwSHI?oc=5",
     "time": "12小时前",
     "published_iso": "2026-03-20T16:36:09+00:00",
-    "id": "n27",
+    "id": "n33",
     "lead": false
   },
   {
@@ -365,7 +444,7 @@
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUEpuMWNfQkpYSU1QZEV2ZjVZYnpXcXNUYWU2azhGTXRjNDJBN1B0OE8xQ1VLUTFLNkZDcHRWWHZrM0h0SWxvTGRRZXQ5SmtsTHk2UnBSQkRYQ3BYRk1NRGRKSXdKVFJTZHZUSDhadERweEZ3THAzZWkzaTlGY0NrUWgxNExvTzJqZTNqNFViSUdrRUZtMERMMzVhYUdzalJ0cFNhVmlic2luMm1uaDl6MC1Xbw?oc=5",
     "time": "14小时前",
     "published_iso": "2026-03-20T14:54:19+00:00",
-    "id": "n28",
+    "id": "n34",
     "lead": false
   },
   {
@@ -378,7 +457,7 @@
     "url": "https://www.cnbc.com/2026/03/19/interest-rates-bonds-bank-of-england-european-central-bank-investors-iran-war-ecb-inflation.html",
     "time": "18小时前",
     "published_iso": "2026-03-20T14:52:52+00:00",
-    "id": "n29",
+    "id": "n35",
     "lead": false
   },
   {
@@ -391,7 +470,7 @@
     "url": "https://www.bbc.com/news/articles/cx23yn735jdo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-03-20T14:13:39+00:00",
-    "id": "n30",
+    "id": "n36",
     "lead": false
   },
   {
@@ -404,84 +483,6 @@
     "url": "https://www.cnbc.com/2026/03/20/trump-ai-policy-framework.html",
     "time": "刚刚",
     "published_iso": "2026-03-20T13:57:56+00:00",
-    "id": "n31",
-    "lead": false
-  },
-  {
-    "headline": "Fed Governor Waller urges caution for now, says rate cuts possible later in the year",
-    "deck": "Waller said in a CNBC interview that recent developments require a more conservative approach.",
-    "cnTitle": "美联储官员沃勒称年内可能降息",
-    "cnDeck": "美联储理事克里斯托弗·沃勒在接受CNBC采访时表示，最近的经济发展需要采取更为保守的态度。沃勒在讲话中敦促央行暂时保持谨慎态度，但他也暗示美联储在今年晚些时候可能会考虑降息。这一言论反映了美联储对当前经济形势的评估正在发生微妙变化。沃勒的表态表明，尽管美联储目前仍然关注通胀风险，但随着经济数据的演变，政策制定者们可能会在年内某个时点启动降息周期。这与近期其他美联储官员的言论形成呼应，暗示美联储正在为可能的政策转向做准备。",
-    "cat": "economy",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/03/20/fed-gov-waller-urges-caution-for-now-cuts-possible-later-in-the-year.html",
-    "time": "刚刚",
-    "published_iso": "2026-03-20T13:36:43+00:00",
-    "id": "n32",
-    "lead": false
-  },
-  {
-    "headline": "xAI Sends Engineers to Client Sites in Bid to Win Business from OpenAI - Bloomberg",
-    "deck": "xAI Sends Engineers to Client Sites in Bid to Win Business from OpenAI&nbsp;&nbsp;Bloomberg",
-    "cnTitle": "xAI派工程师上门争夺OpenAI客户",
-    "cnDeck": "xAI正在派遣工程师前往客户现场，以争夺OpenAI的业务。据彭博社报道，这家由埃隆·马斯克创办的人工智能公司xAI采取了积极的销售策略，直接向潜在客户派遣技术人员，以展示其AI能力并吸引企业客户转向使用xAI的服务。这一举措反映了xAI在与OpenAI竞争过程中的市场扩张野心。xAI希望通过这种上门服务的方式，向企业客户演示其技术的优势，争取更多商业合作机会。这体现了AI行业竞争的加剧，特别是在生成式AI领域，各大科技公司为了争夺企业客户都在采取更加主动的营销策略。xAI作为后起之秀，正在通过差异化的客户服务方式来挑战OpenAI在企业AI市场中的主导地位。",
-    "cat": "tech",
-    "source": "Bloomberg",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVEVubnpQQm00N25zb1NmSzhEN1U3bU83Z055TUJiUThlSGdTMHJ1YVlQOFlmMXlDZFJQUHU5V3FFalJBVHRFcktfX045N1MyTUpUakxHaFpMc3BsWXRwQW1GbFlzSXBNWTRWUmJZSWRVVTJNYmdnaTZWWENQMlVXWWdxNlV3ZldQLTZURjdBVjZoSllCUGVuODVJSWxUSzFxVUUzTXRQVl9Fd0pMNFFiVUpfR24tS3IyQ1dYQlEzak11MEVBaG03eDlRcEUyMTA?oc=5",
-    "time": "1天前",
-    "published_iso": "2026-03-20T13:00:00+00:00",
-    "id": "n33",
-    "lead": false
-  },
-  {
-    "headline": "Work from home, drive slower and don't use gas cookers: IEA advice on weathering the global energy crisis",
-    "deck": "The IEA warns of \"the largest supply disruption in the history of the global oil market\" due to the conflict in the Middle East.",
-    "cnTitle": "重大能源危机预警来自IEA",
-    "cnDeck": "国际能源署（IEA）警告称，中东冲突导致了\"全球石油市场历史上最大的供应中断\"。该机构建议民众采取居家办公、降速驾驶和停止使用燃气炉灶等措施来应对全球能源危机。这一警告反映了地缘政治冲突对全球能源供应链的严重威胁，中东地区作为全球重要的石油供应地，任何冲突都会对国际油价和能源市场产生重大影响。IEA的建议表明能源短缺问题已经相当严峻，需要从政府层面到个人层面的全方位应对。这将进一步推高全球能源成本，影响各国经济增长前景和通胀水平。",
-    "cat": "politics",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/03/20/iea-oil-fuel-prices-energy-advice-consumers-crisis.html",
-    "time": "2小时前",
-    "published_iso": "2026-03-20T12:00:50+00:00",
-    "id": "n34",
-    "lead": false
-  },
-  {
-    "headline": "Hungary's Orbán accused of disloyalty and blackmail over Ukraine loan veto",
-    "deck": "The Hungarian leader says a pipeline carrying Russian oil through Ukraine to Hungary must be repaired before any funds can be released.",
-    "cnTitle": "匈牙利总理欧尔班因否决乌克兰贷款遭指控",
-    "cnDeck": "匈牙利总理维克托·欧尔班因否决欧盟援乌克兰贷款而被指控不忠诚和敲诈。欧尔班声称，在释放任何资金之前，必须修复经过乌克兰流向匈牙利的俄罗斯石油管道。这一立场引发了欧盟内部的严重分歧，涉及能源安全、地缘政治利益和对乌克兰支持的问题。欧尔班的这一举措被批评者视为对欧盟团结的挑战，同时也反映了匈牙利与俄罗斯之间的复杂能源关系，以及欧盟内部在如何应对乌克兰问题上存在的深层分歧。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cq6jrvgqeejo?at_medium=RSS&at_campaign=rss",
-    "time": "3小时前",
-    "published_iso": "2026-03-20T11:33:17+00:00",
-    "id": "n35",
-    "lead": false
-  },
-  {
-    "headline": "ByteDance Agrees to Sell Moonton to Savvy Games for $6 Billion - Bloomberg.com",
-    "deck": "ByteDance Agrees to Sell Moonton to Savvy Games for $6 Billion&nbsp;&nbsp;Bloomberg.com",
-    "cnTitle": "字节跳动同意将Moonton出售给Savvy Games",
-    "cnDeck": "字节跳动同意将其游戏工作室Moonton以60亿美元的价格出售给沙特阿拉伯支持的投资公司Savvy Games。根据彭博社报道，这笔交易标志着字节跳动在全球化游戏业务上的重大调整。Moonton是字节跳动旗下的知名游戏开发工作室，以开发热门手机游戏《王者荣耀》的国际版本等作品而闻名。此次出售交易显示字节跳动正在调整其国际业务布局，同时也反映出沙特阿拉伯通过Savvy Games基金在全球游戏产业的积极投资战略。这项60亿美元的交易对双方都具有战略意义，Savvy Games将获得一个成熟的游戏开发平台，而字节跳动则可以集中资源于其他核心业务领域。",
-    "cat": "tech",
-    "source": "Bloomberg",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcWJQcWVmZmU2TlZZbXNqREhPNDJvOUFlMkkwZENiTmtObjlQakVHclpUbWR3eS1hbTNlNG9iek9sV2VXdU9TQlNPVVlWU3ZaNTVNZEIxSV82dTluTEdwSjk4TmM2NUpWRU5IZkJxSTJqQmtRUTFoRUlRMExWdzBKYm43bThNN0dLN09QSHN1UGZ4TEF2dW1RckFQWHBGdUNQTVFabk5CcXZBbk1xcFIwWUFjQVN4ODR6aEdpRXplYVpUZHFmU0luM013bGo?oc=5",
-    "time": "1天前",
-    "published_iso": "2026-03-20T08:47:34+00:00",
-    "id": "n36",
-    "lead": false
-  },
-  {
-    "headline": "Trump invokes emergency powers with $23 billion in Gulf arms sales as Iran war wages on: WSJ report",
-    "deck": "The U.S. approved roughly $23 billion in weapons sales to three Gulf nations, moving to bolster their defenses as the Middle East war continued to escalate.",
-    "cnTitle": "美国向海湾三国批准230亿美元军售",
-    "cnDeck": "美国批准向三个海湾国家出售约230亿美元武器，以加强其防御能力，因为中东战争继续升级。据《华尔街日报》报道，特朗普政府调用紧急权力推进这笔军售。这笔交易包括对沙特阿拉伯、阿联酋和科威特等关键盟国的重要军事装备出口。此举旨在应对伊朗日益加剧的地区威胁和持续的中东冲突局势。这笔规模庞大的军售交易反映了美国在中东地区的战略关注，旨在通过增强盟国军事力量来维持该地区的力量平衡并遏制伊朗影响力。",
-    "cat": "politics",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/03/20/us-arms-weapon-sales-middle-east-iran-israel-war.html",
-    "time": "6小时前",
-    "published_iso": "2026-03-20T07:35:51+00:00",
     "id": "n37",
     "lead": false
   }
