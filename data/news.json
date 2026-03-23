@@ -1,5 +1,159 @@
 [
   {
+    "headline": "Trump tells CNBC 'we are very intent on making a deal' with Iran",
+    "deck": "U.S. President Donald Trump on Monday said he would order the military to postpone strikes on Iran's power plants and energy infrastructure for five days.",
+    "cnTitle": "特朗普称有意与伊朗达成协议",
+    "cnDeck": "美国总统特朗普周一表示，他将命令军队推迟对伊朗电力和能源基础设施的打击五天。特朗普在接受CNBC采访时表示，美国\"非常有意\"与伊朗达成协议。这一声明显示特朗普政府在与伊朗的紧张局势中采取了谨慎态度，暗示可能存在谈判空间。此前美国对伊朗的军事行动威胁曾导致地区紧张局势升温，而这次五天的延迟期可能被用于外交努力。特朗普的表态表明白宫正在寻求通过谈判而非军事冲突来解决与伊朗的分歧，尽管他仍保留采取军事行动的选项。这一立场转变可能影响中东地区的地缘政治格局，以及全球能源市场的走向。",
+    "cat": "politics",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/23/trump-iran-war-power-plants-energy-infrastructure-middle-east.html",
+    "time": "刚刚",
+    "published_iso": "2026-03-23T15:34:37+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "Bonds and Stocks Tumble as US-Iran Step Up Threats: Markets Wrap - Bloomberg.com",
+    "deck": "Bonds and Stocks Tumble as US-Iran Step Up Threats: Markets Wrap&nbsp;&nbsp;Bloomberg.com",
+    "cnTitle": "美伊局势升级引发全球市场下跌",
+    "cnDeck": "美国与伊朗局势升温导致债券和股票市场出现显著下跌。根据彭博社报道，美伊双方升级了相互威胁，引发了全球金融市场的广泛担忧。在地缘政治紧张局势加剧的背景下，投资者纷纷转向避险资产，导致股票市场遭遇抛售压力，同时债券市场也出现波动。这一事件反映了地缘政治风险对全球金融市场的直接影响。美伊之间的对抗升级可能进一步影响中东地区的稳定性，进而对全球能源价格、贸易流动和金融市场造成更广泛的冲击。市场参与者正在密切关注事态发展，评估潜在的经济和金融影响。这类地缘政治事件通常会引发市场波动，投资者应密切关注相关动态。",
+    "cat": "politics",
+    "source": "Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQ3pJMEdlZWRGbHdDX3RWNGhzbUJlMzhmWUJTNGpsejVITEN1RUpOeE9hMjI5UGRFeW1qcHYydElRZlkzazYxN2dZZHh4LUF0U2hlM3hXM0FKUmdOVDBGSmk5SFljbWUzamp0YVEzOGVuQjZQOGJZMFU3d3VBd2ozUndLcHRhbWRYT09KOGdNNXlRbWM2cG1QYzYxYmltdTllNWhNZnVmM0Y4dWl5b2Zz?oc=5",
+    "time": "刚刚",
+    "published_iso": "2026-03-23T15:00:19+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
+    "headline": "U.S. executives, from Apple to Eli Lilly, revamp their push into the world's second-largest economy at the China Development Forum",
+    "deck": "More than 80 global executives traveled to Beijing this weekend for the state-organized China Development Forum.",
+    "cnTitle": "中国发展论坛召开，苹果等美企高管参会",
+    "cnDeck": "超过80名全球高管本周末赴京参加由中国政府组织的中国发展论坛。这次高规格论坛汇聚了包括苹果、礼来制药等在内的美国科技和制药巨头的领导层，这些企业高管们聚焦于如何在全球第二大经济体中国市场深化业务布局和战略调整。论坛的召开反映了在中美经贸关系复杂背景下，跨国企业对中国市场的持续重视和长期承诺。苹果、礼来等知名企业的高层出席，表明这些全球科技和制药领域的龙头企业正在积极探索在华发展的新机遇和新道路。此次论坛为期间进行了广泛的商业对话和战略交流，参会企业高管就如何适应中国市场环境、推进本地化运营、加强产业合作等议题进行了深入讨论。论坛的举办也体现了中国对外资企业的欢迎态度，以及通过高层对话推动国际经贸合作的努力。",
+    "cat": "politics",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/23/apple-eli-lilly-us-china-market-push-trade-truce.html",
+    "time": "刚刚",
+    "published_iso": "2026-03-23T14:52:33+00:00",
+    "is_new": true,
+    "id": "n3",
+    "lead": false
+  },
+  {
+    "headline": "BlackRock’s Larry Fink warns against market timing, says missing best days can halve returns",
+    "deck": "BlackRock CEO Larry Fink said staying invested through periods of turmoil has historically delivered far stronger returns.",
+    "cnTitle": "黑石CEO警示市场择时风险",
+    "cnDeck": "贝莱德首席执行官拉里·芬克日前发表重要观点，警示投资者避免市场择时策略可能带来的风险。芬克强调，历史数据表明，保持投资在市场波动期间的关键重要性。根据其表述，如果投资者错过市场表现最好的交易日，回报率可能会被切掉一半。芬克指出，在历史上，那些试图通过择时进出市场来规避波动的投资者，最终获得的收益远低于坚持持仓的投资者。这一观点反映了市场上长期投资策略与短期择时操作的根本差异。芬克作为全球最大资产管理公司贝莱德的掌舵人，其言论通常对全球投资者和资本市场产生重要影响。他的警示提醒广泛的市场参与者，特别是那些容易被市场波动吓唬的个人和机构投资者，应该重视长期投资纪律。这一表述也暗示了市场中频繁交易和择时操作的低成功率。",
+    "cat": "finance",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/23/blackrocks-larry-fink-warns-against-trying-to-time-the-market-.html",
+    "time": "1小时前",
+    "published_iso": "2026-03-23T14:06:43+00:00",
+    "is_new": true,
+    "id": "n4",
+    "lead": false
+  },
+  {
+    "headline": "Bitcoin Rises After Trump Says to Postpone Iran Strikes - Bloomberg.com",
+    "deck": "Bitcoin Rises After Trump Says to Postpone Iran Strikes&nbsp;&nbsp;Bloomberg.com",
+    "cnTitle": "比特币随特朗普宣布推迟伊朗打击而上涨",
+    "cnDeck": "特朗普宣布推迟对伊朗的军事打击后，比特币价格上涨。特朗普的这一声明缓解了市场对中东地区冲突升级的担忧，投资者风险偏好回升，推动加密货币市场走强。比特币作为风险资产，对地缘政治局势变化反应敏感。这一事件反映了地缘政治局势对全球金融市场的影响，中东局势的任何重大进展都可能对风险资产配置产生连锁反应。",
+    "cat": "finance",
+    "source": "Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNlpVcENnRURHQWh6TWx1aHE1U21QVk12U3p4Z1RjZEMxbGJHbG5pMm1XWi1CMkN4YXBHY3h0OFhBd2ZBX1VkQ0tjdEFxdWt0LUh2N2d6Yk5MbHVsTFl2Zm14cGswRGhDSnVTN2lwUUJvMUpRWExoMjE1YmZfOGlyQ3I0ZHcxeWI3dS1qZmZDZEw2TmR2cVdPSzZWLWRBQnk4UlcxbDd1ekdNZw?oc=5",
+    "time": "1小时前",
+    "published_iso": "2026-03-23T14:06:11+00:00",
+    "is_new": true,
+    "id": "n5",
+    "lead": false
+  },
+  {
+    "headline": "Fed’s Miran Says Too Early to Alter Outlook for Four 2026 Cuts - Bloomberg.com",
+    "deck": "Fed’s Miran Says Too Early to Alter Outlook for Four 2026 Cuts&nbsp;&nbsp;Bloomberg.com",
+    "cnTitle": "美联储官员称调整2026年四次降息预期为时过早",
+    "cnDeck": "美联储官员米兰表示，现在改变2026年四次降息的预期还为时过早。米兰在接受采访时指出，虽然最近的经济数据显示了一些积极信号，但在做出关于未来货币政策的重大调整之前，需要观察更多的通胀数据和就业市场表现。他强调，美联储将继续根据即将发布的经济数据来评估政策立场，目前维持2026年四次降息的中期预测仍然是合理的。米兰的言论反映了美联储在制定长期政策指引时的谨慎态度，同时也表明美联储官员对经济前景的评估仍存在一定的不确定性。这一表态对金融市场具有重要意义，因为它影响了投资者对未来利率路径和政策走向的预期。",
+    "cat": "economy",
+    "source": "Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdzJyMVRVVm1ZX0szc2I3T3ZwZGJIQ0pfZmpDNWZjbVRydTVPMk9ac0N4NWNtUUFjeGh6TDI1RHFsaGI3SlBVMUdUeTJOeF9Fb183T1draHd5MmRBc01kUDhfNE5MbHdScnlObDFEXzVqSEJ1ZXVmamtMVmU5c0NRbkZEMno4X3RpUFpRcnFuc3E0TmxLVTA2X3Jody1SS3lMMDFkX2RJVjdvZ0tnUklxSVdEMA?oc=5",
+    "time": "2小时前",
+    "published_iso": "2026-03-23T13:10:32+00:00",
+    "is_new": true,
+    "id": "n6",
+    "lead": false
+  },
+  {
+    "headline": "Sen. Warren questions DOD about Anthropic blacklist that 'appears to be retaliation'",
+    "deck": "Warren sent letters to Pete Hegseth and Sam Altman, asking for additional details of OpenAI's contract with the defense department and Anthropic's blacklisting.",
+    "cnTitle": "美国参议员质询国防部对Anthropic的制裁",
+    "cnDeck": "美国参议员沃伦向国防部长皮特·海格塞斯和OpenAI首席执行官萨姆·奥特曼发送信函，要求提供关于OpenAI与国防部合同的详细信息，以及Anthropic遭到制裁的具体原因。沃伦在信中质疑国防部对Anthropic的黑名单制裁\"似乎是报复行为\"。这一事件涉及两家主要AI公司在国防领域的竞争关系，以及政府采购过程中的公平性问题。沃伦要求获得更多关于这些制裁决定的透明度和细节信息，以便进行进一步的监督。",
+    "cat": "politics",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/23/sen-warren-dod-anthropic-blacklist-hegseth.html",
+    "time": "3小时前",
+    "published_iso": "2026-03-23T12:10:17+00:00",
+    "is_new": true,
+    "id": "n7",
+    "lead": false
+  },
+  {
+    "headline": "Oil Rises as Trump’s Hormuz Ultimatum Risks Escalating War - Bloomberg.com",
+    "deck": "Oil Rises as Trump’s Hormuz Ultimatum Risks Escalating War&nbsp;&nbsp;Bloomberg.com",
+    "cnTitle": "特朗普霍尔木兹海峡最后通牒推高油价",
+    "cnDeck": "特朗普对霍尔木兹海峡问题的最后通牒引发市场对地区冲突升级的担忧，推高了国际油价。霍尔木兹海峡是全球最重要的石油运输枢纽，日均通过该海峡的石油运输量占全球海运石油的约三分之一。任何在该地区的军事冲突或政治紧张局势升级都可能对全球能源供应造成重大影响，进而推高能源价格。特朗普的强硬立场被市场解读为可能增加中东地区冲突风险，投资者因此在能源市场上寻求对冲，导致油价上升。这一事件反映了地缘政治风险对全球金融市场和大宗商品价格的直接影响，可能对全球经济增长和通胀前景产生连锁反应。",
+    "cat": "politics",
+    "source": "Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdTl4SW44NDhMVGZURTVIWllRSG1DZEVBaXVKX2s4dWZ0V0xRVlg1Ti1FT3hjRzYxN1JRbXllZWUwUDVlMmRNMzJ6R2JDVGZYVzduTlR3R1lxMVhwWG92MHRhOUkwV19mWkxydnRINDFLV0J2NGtjMzJYUTZYT25ZeHZfY1VGOGxDQWtlOTJDeXUxd3dramRTSDBKMHQ3RlFE?oc=5",
+    "time": "5小时前",
+    "published_iso": "2026-03-23T10:36:17+00:00",
+    "is_new": true,
+    "id": "n8",
+    "lead": false
+  },
+  {
+    "headline": "More than 40 Middle East energy assets ‘severely damaged,’ IEA chief says",
+    "deck": "The IEA’s Fatih Birol warned that damage to energy infrastructure across the Middle East would take some time to repair.",
+    "cnTitle": "中东能源设施遭严重损毁IEA负责人警告",
+    "cnDeck": "国际能源署(IEA)负责人法蒂赫·比罗尔(Fatih Birol)发出警告，中东地区超过40个能源资产遭到\"严重损毁\"。比罗尔表示，中东地区能源基础设施遭受的损害需要花费相当长的时间才能修复。这一警告涉及该地区关键能源设施的运营状况，暗示中东能源供应链面临重大风险。中东是全球能源市场的关键参与者，该地区能源基础设施的损毁可能对全球能源供应、石油和天然气价格产生重大影响。能源基础设施损毁通常需要进行大规模的重建和维修工作，这可能导致该地区能源生产能力短期内受到严重限制。此类事件历来会对国际能源市场造成冲击，推高原油价格，进而影响全球经济。IEA的警告表明中东地缘政治局势可能持续对能源供应构成威胁。",
+    "cat": "economy",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/23/iran-war-energy-oil-gas-middle-east-iea-us-uae-qatar.html",
+    "time": "5小时前",
+    "published_iso": "2026-03-23T09:48:06+00:00",
+    "is_new": true,
+    "id": "n9",
+    "lead": false
+  },
+  {
+    "headline": "Gilts Face Worst Month Since Liz Truss as Oil Spike Jolts UK Market - Bloomberg.com",
+    "deck": "Gilts Face Worst Month Since Liz Truss as Oil Spike Jolts UK Market&nbsp;&nbsp;Bloomberg.com",
+    "cnTitle": "英国债券市场遭油价冲击创新低",
+    "cnDeck": "英国政府债券（Gilts）面临自莉兹·特拉斯（Liz Truss）担任首相时期以来最糟糕的月度表现。油价飙升对英国金融市场造成冲击，引发市场波动。英国债券收益率上升，债券价格下跌，反映出投资者对通胀前景和英国经济前景的担忧加剧。这一动向与全球能源价格上涨的大背景相关，油价上升推高了通胀预期，进而对债券市场造成压力。英国央行此前曾因莉兹·特拉斯政府的大规模财政刺激计划而面临严峻挑战，当时政府债券市场出现剧烈波动。如今油价再次引发市场震荡，表明外部因素对英国金融市场的持续影响。这对英国政府融资成本、央行货币政策走向以及整体经济前景均可能产生重要影响。",
+    "cat": "finance",
+    "source": "Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNmNoS2ZwZUx6djh5LTVDeGs1OTQ2MWdXVXUzS25mQkE4OEw3by03WnFPN0ljSC0zMC1RZVpzTzAyRm9jQmlzX3ExR0pkSEVWcENmZWltU3huRlVoMUxtTkU0R000cGtxVEdxbXNqeWdhTkNOS0QtamhsV2hZbmhacER0TGZSNmRoYVEyMHBxVHQwN09STnR3amw0RlowNDJ3cGlKZ1g5XzZVNllFcm5iUXBLQ1M?oc=5",
+    "time": "7小时前",
+    "published_iso": "2026-03-23T08:14:15+00:00",
+    "is_new": true,
+    "id": "n10",
+    "lead": false
+  },
+  {
+    "headline": "‘Pandemonium’ Fuels Surge in Yields as Fed Rate-Hike Bets Emerge - Bloomberg.com",
+    "deck": "‘Pandemonium’ Fuels Surge in Yields as Fed Rate-Hike Bets Emerge&nbsp;&nbsp;Bloomberg.com",
+    "cnTitle": "美债收益率飙升，市场押注美联储可能加息",
+    "cnDeck": "彭博社报道，美国国债市场陷入\"混乱\"状态，收益率大幅上升，交易员开始押注美联储可能会提高利率。这一转变反映了市场对美国经济前景和通胀预期的重新评估。收益率的急剧上升表明投资者对未来政策方向的看法发生了显著变化，从之前对降息的预期转向对加息可能性的定价。这种市场情绪的转变通常与经济数据、通胀指标或联邦储备委员会官员言论的变化相关联。债券市场的这种波动对股票市场、汇率和其他资产类别都可能产生连锁反应，影响全球金融市场的整体走势。",
+    "cat": "finance",
+    "source": "Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOGdjaUVTcVJ5UmdBdlUyMWxJTjYzTFhyVWFxeHhLbEZ4dDhsc2wzcGRqNHRmS0FYRHNKcXRLbVZwSW5iRDVxaW9GdHBhLWx6SHJrNG1qbS03WllNNWZQT3VyTWRYTHBaM1AxeEpzSEhVcTBGbzNsZEYtOV8xbkRpLWkzR1FCRktJbHRxN280UWNkNmJ2ZG9ZOW05Vko1MUFOTm10ZldTWTJQQm94R0VwZE5oZ24?oc=5",
+    "time": "10小时前",
+    "published_iso": "2026-03-23T05:42:00+00:00",
+    "is_new": true,
+    "id": "n11",
+    "lead": false
+  },
+  {
     "headline": "Asia stocks slide as US and Iran threaten to escalate war",
     "deck": "The International Energy Agency chief said the war could lead to the world's worst energy crisis in decades.",
     "cnTitle": "美伊冲突升级威胁全球能源安全",
@@ -9,9 +163,8 @@
     "url": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-03-23T05:12:14+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n12",
+    "lead": false
   },
   {
     "headline": "Iran and U.S.-Israel continue to raise the stakes as Strait of Hormuz tensions build",
@@ -23,8 +176,7 @@
     "url": "https://www.cnbc.com/2026/03/23/iran-war-tensions-build-as-conflict-enters-its-fourth-week.html",
     "time": "1小时前",
     "published_iso": "2026-03-23T04:41:14+00:00",
-    "is_new": true,
-    "id": "n2",
+    "id": "n13",
     "lead": false
   },
   {
@@ -37,8 +189,7 @@
     "url": "https://www.cnbc.com/2026/03/23/asia-markets-us-iran-threats-strait-of-hormuz-oil-nikkei-kospi-hsi-hang-seng.html",
     "time": "2小时前",
     "published_iso": "2026-03-23T03:42:34+00:00",
-    "is_new": true,
-    "id": "n3",
+    "id": "n14",
     "lead": false
   },
   {
@@ -51,8 +202,7 @@
     "url": "https://www.cnbc.com/2026/03/22/saudi-aramco-boss-pulls-out-of-ceraweek-due-to-iran-conflict-reuters.html",
     "time": "6小时前",
     "published_iso": "2026-03-22T23:27:05+00:00",
-    "is_new": true,
-    "id": "n4",
+    "id": "n15",
     "lead": false
   },
   {
@@ -65,8 +215,7 @@
     "url": "https://www.bbc.com/news/articles/cede0qyvqz3o?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-03-22T23:08:10+00:00",
-    "is_new": true,
-    "id": "n5",
+    "id": "n16",
     "lead": false
   },
   {
@@ -79,8 +228,7 @@
     "url": "https://www.cnbc.com/2026/03/23/chinas-emotional-economy-is-on-the-rise.html",
     "time": "6小时前",
     "published_iso": "2026-03-22T22:58:58+00:00",
-    "is_new": true,
-    "id": "n6",
+    "id": "n17",
     "lead": false
   },
   {
@@ -93,8 +241,7 @@
     "url": "https://www.cnbc.com/2026/03/22/stock-market-today-live-updates.html",
     "time": "7小时前",
     "published_iso": "2026-03-22T22:27:29+00:00",
-    "is_new": true,
-    "id": "n7",
+    "id": "n18",
     "lead": false
   },
   {
@@ -107,8 +254,7 @@
     "url": "https://www.bbc.com/news/articles/c30rl05evd8o?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-03-22T20:23:07+00:00",
-    "is_new": true,
-    "id": "n8",
+    "id": "n19",
     "lead": false
   },
   {
@@ -121,8 +267,7 @@
     "url": "https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss",
     "time": "12小时前",
     "published_iso": "2026-03-22T17:35:19+00:00",
-    "is_new": true,
-    "id": "n9",
+    "id": "n20",
     "lead": false
   },
   {
@@ -135,7 +280,7 @@
     "url": "https://www.cnbc.com/2026/03/22/china-vows-to-continue-opening-its-economy-amid-us-trade-tensions.html",
     "time": "1小时前",
     "published_iso": "2026-03-22T12:47:30+00:00",
-    "id": "n10",
+    "id": "n21",
     "lead": false
   },
   {
@@ -148,7 +293,7 @@
     "url": "https://www.cnbc.com/2026/03/22/openai-data-center-pivot-underscores-wall-street-ipo-concerns.html",
     "time": "1小时前",
     "published_iso": "2026-03-22T12:00:01+00:00",
-    "id": "n11",
+    "id": "n22",
     "lead": false
   },
   {
@@ -161,7 +306,7 @@
     "url": "https://www.cnbc.com/2026/03/22/winning-stocks-in-the-ai-race-between-china-and-the-us-per-bernstein.html",
     "time": "2小时前",
     "published_iso": "2026-03-22T11:27:37+00:00",
-    "id": "n12",
+    "id": "n23",
     "lead": false
   },
   {
@@ -174,7 +319,7 @@
     "url": "https://www.cnbc.com/2026/03/22/why-low-earth-orbit-is-attracting-billions-in-investment.html",
     "time": "6小时前",
     "published_iso": "2026-03-22T07:10:09+00:00",
-    "id": "n13",
+    "id": "n24",
     "lead": false
   },
   {
@@ -187,7 +332,7 @@
     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNY3RfaU92aE9rT3p3bjlzQ0ZORXZhM1duQkwwQld6ZDlmd2NiMG9faExmNDJ1TGZaTE9TcTNiZzNaaERwUlN6ODAtYW1QTTktU1BqdUpDX1Izd05IOVVWLWIxcmlHeEgzZTh4WktDZzd5Z0R2SWZhNlRUclZzLTRvb1NXYWxKcWpSQmM4OXZpdWNVRUVLdDV0NEFwc21zQ2lMcFljQm9GaFFmVTZBeGlSVGVsTS0wSWJNVFJJZG04M3ZPX1JIM0ZrOHJPX09XZkU?oc=5",
     "time": "1小时前",
     "published_iso": "2026-03-22T03:49:00+00:00",
-    "id": "n14",
+    "id": "n25",
     "lead": false
   },
   {
@@ -200,7 +345,7 @@
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSnc1ek1IcHJKQWlFclhMalJ4WVJRMW5jWmdLS3ctRUt2NW16eGNTUWlEcUU2NDRVZTJlOU5haERSUXA4YXdfdkw1YmZwWnpWdXhOZVhDSmxIZXBqR1VzUlhRQzlzbkVhd3dXWGNselU5LUVER0J1cGVLVDJoTFF6NjRJcGF5UnQta19Ud3FLbWtKcEl3Uk95Z3l2cGdabjRQUTI3WjEtMUFjc1JmdkVnUnliaVY?oc=5",
     "time": "3小时前",
     "published_iso": "2026-03-22T02:01:00+00:00",
-    "id": "n15",
+    "id": "n26",
     "lead": false
   },
   {
@@ -213,124 +358,7 @@
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeWJwekdyb3l1TThTNVJrUm5KUG5PdzJ4LU9qb2ZFeXZYMEg0TDNhSzItLUxTRl9uX1VXRVBLZ1A1Zy12UnFZSXBrX2k3Y3JmM0plMFFTS29aVkhGSUVEZ20wQVJxcHJJUXVONi0tQmFtOUxVQ2w3ODBxQjIyd1l0dDF6bEJVSkNwRmwzT3kzcUJTME1yWHZnc01WMG02MmtHRjFMSHVFM0k5dw?oc=5",
     "time": "9小时前",
     "published_iso": "2026-03-21T20:00:00+00:00",
-    "id": "n16",
-    "lead": false
-  },
-  {
-    "headline": "SEC Commissioner Hester Peirce on ETFs: 'We want to work with people on new products'",
-    "deck": "SEC Commissioner Hester Peirce indicates an openness to work with Wall Street on fresh exchange-traded fund products tied to cryptocurrencies and tokenization.",
-    "cnTitle": "SEC委员对加密货币ETF持开放态度",
-    "cnDeck": "美国证券交易委员会(SEC)委员海丝特·皮尔斯(Hester Peirce)表示，SEC愿意与华尔街合作开发与加密货币和代币化相关的新型交易所交易基金(ETF)产品。皮尔斯在近期表态中指出，\"我们希望与人们合作开发新产品\"，这表明美国金融监管机构在加密资产领域的态度正在趋向更加开放和灵活。这一立场意味着包括比特币ETF、以太坊ETF以及与区块链代币化相关的新型ETF产品可能获得更多监管支持。皮尔斯长期以来被视为加密货币行业内的友好声音，她的表态通常预示着SEC政策可能的调整方向。此举可能促进更多传统金融机构进入加密资产市场，推动数字资产的主流化进程。加密货币ETF的扩展将为普通投资者提供更便捷、更受监管保护的方式参与数字资产投资，同时也可能增加加密资产市场的规模和流动性。",
-    "cat": "finance",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/03/21/crypto-tokenization-and-etfs-secs-peirce-indicates-openness.html",
-    "time": "刚刚",
-    "published_iso": "2026-03-21T15:00:01+00:00",
-    "id": "n17",
-    "lead": false
-  },
-  {
-    "headline": "Trump Floats ‘Winding Down’ Iran War as Strikes Continue - Bloomberg.com",
-    "deck": "Trump Floats ‘Winding Down’ Iran War as Strikes Continue&nbsp;&nbsp;Bloomberg.com",
-    "cnTitle": "特朗普暗示逐步结束对伊朗冲突",
-    "cnDeck": "据彭博社报道，特朗普表示可能逐步结束对伊朗的冲突，即使美国仍在继续对伊朗的军事行动。特朗普在相关言论中暗示，尽管目前军事行动仍在进行，但美国政府正在考虑逐步降低与伊朗的对抗强度。这一表态反映了美国对中东局势的政策调整可能性。特朗普的言论引发了对美国中东政策未来方向的关注，也引发了市场对地缘政治风险变化的思考。",
-    "cat": "politics",
-    "source": "Bloomberg",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOWNaTmRXcDlGblUxcHUxOFhUOEZ5QUJyMk1QeFBpekdXc25OVTVyWHRPaUozZWNtcWtWd3cxdVFJSEtabnN6Q3Fjdld0NmxSc3dyMGhaZTh6Z3AxYlgwbkhJNVVqWnFvc2dEOWt1VDluRVNVLTFEb2tmT0pqRUdlejROYlptSy1LMGlXdUpJUzZfMWNWUEE0dGh4T1M5WnlWVzNPX0dLTHU?oc=5",
-    "time": "刚刚",
-    "published_iso": "2026-03-21T13:00:44+00:00",
-    "id": "n18",
-    "lead": false
-  },
-  {
-    "headline": "OpenAI to nearly double workforce to 8,000 by end-2026, FT reports",
-    "deck": "OpenAI plans to deploy most of the new hires across product development, engineering, research and sales, the Financial Times said.",
-    "cnTitle": "OpenAI计划到2026年底员工增至8000人",
-    "cnDeck": "根据《金融时报》报道，OpenAI计划将员工数量在2026年底前增加到约8000人，几乎翻倍。OpenAI计划将大部分新员工部署在产品开发、工程、研究和销售等部门。这一扩张计划反映了OpenAI在AI领域的持续发展战略，旨在加强其在产品创新、技术研发以及市场开拓方面的能力。通过大规模招聘，OpenAI希望进一步巩固其在生成式AI领域的领先地位，同时推动AI技术的商业化应用和市场拓展。",
-    "cat": "tech",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/03/21/openai-to-nearly-double-workforce-to-8000-by-end-2026-ft-reports.html",
-    "time": "1小时前",
-    "published_iso": "2026-03-21T12:34:01+00:00",
-    "id": "n19",
-    "lead": false
-  },
-  {
-    "headline": "US lifts sanctions on some Iranian oil as energy prices soar",
-    "deck": "The treasury secretary says the move will quickly bring about 140m barrels of oil to global markets.",
-    "cnTitle": "美国解除部分伊朗石油制裁",
-    "cnDeck": "美国财政部长表示，此举将迅速向全球市场供应约1.4亿桶石油。美国政府解除对伊朗部分石油的制裁，这一政策调整预期将在短期内对全球能源市场产生重要影响。财政部长强调，此措施旨在通过增加全球石油供应来缓解目前高企的能源价格。随着约1.4亿桶伊朗石油进入国际市场，全球石油供应格局将发生变化，这对原油价格、能源成本以及相关产业链都具有重要意义。此举反映了美国政府在应对能源价格上升时采取的实际行动，也可能影响美国与伊朗之间的外交关系，以及中东地区的地缘政治局势。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss",
-    "time": "16小时前",
-    "published_iso": "2026-03-21T12:15:20+00:00",
-    "id": "n20",
-    "lead": false
-  },
-  {
-    "headline": "Analysis: Trump's unshackled presidency puts him at the center of the economy",
-    "deck": "The president's unprecedented use of executive power has made him a driving force behind oil prices, the Federal Reserve's interest rates and more.",
-    "cnTitle": "特朗普总统权力扩张影响经济决策",
-    "cnDeck": "特朗普总统前所未有地运用行政权力，使其成为推动油价、美联储利率等经济关键因素的中心力量。报道分析指出，这位总统通过扩大行政权力的使用范围，已经将自己置于经济决策的核心位置。具体而言，特朗普的政策决定和公开声明对油价产生了直接影响，这些影响甚至超越了传统的市场力量。同时，他的政策立场和政治压力也开始对美联储的利率决策造成影响，这在以往是罕见的。通常情况下，中央银行会独立于政治压力做出货币政策决定，但这一局面正在发生变化。报道强调，这种总统权力的扩张在美国历史上是前所未有的，它标志着行政权力对经济领域影响程度的显著提升。这不仅涉及传统的经济杠杆如油价和利率，还包括其他重要的经济指标和市场动态。这一现象反映了当前美国政治经济格局的重大变化，总统对经济的控制力和影响力达到了新的高度。",
-    "cat": "politics",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/03/21/trump-oil-fed-economy-iran-war.html",
-    "time": "1小时前",
-    "published_iso": "2026-03-21T12:00:01+00:00",
-    "id": "n21",
-    "lead": false
-  },
-  {
-    "headline": "Iran targeted but did not hit Diego Garcia base with missiles, WSJ reports",
-    "deck": "One missile failed in flight, while the other was intercepted, The Wall Street Journal reports, quoting U.S. officials.",
-    "cnTitle": "伊朗导弹未击中迪戈加西亚基地",
-    "cnDeck": "据《华尔街日报》援引美国官员报道，伊朗向美军迪戈加西亚基地发射的导弹未能击中目标。其中一枚导弹在飞行中失败，另一枚被拦截。迪戈加西亚是位于印度洋的重要美军基地，战略位置至关重要。这次导弹袭击是伊朗对美国军事行动的直接回应，反映了中东地区紧张局势的升级。此事件涉及伊朗与美国之间的军事对抗，对中东地缘政治格局产生重要影响。",
-    "cat": "politics",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/03/21/iran-targeted-but-did-not-hit-diego-garcia-base-with-missiles-wsj.html",
-    "time": "刚刚",
-    "published_iso": "2026-03-21T09:11:47+00:00",
-    "id": "n22",
-    "lead": false
-  },
-  {
-    "headline": "Russian drone attack kills two in Ukraine ahead of talks in US, officials say",
-    "deck": "Two children, aged 11 and 15 were also injured in the attack which took place in Zaporizhzhia.",
-    "cnTitle": "俄乌冲突升级，无人机袭击造成人员伤亡",
-    "cnDeck": "俄罗斯无人机袭击造成乌克兰人员伤亡。根据官员说法，在美国举行谈判前夕，俄罗斯对乌克兰进行了无人机攻击。此次袭击发生在扎波罗热地区，造成2人死亡。此外，两名儿童（年龄分别为11岁和15岁）在这次袭击中受伤。这次攻击的时机引人注目，因为它发生在相关方准备在美国进行会谈的关键时期，表明俄乌冲突仍在继续升级。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/crl18nwjzzzo?at_medium=RSS&at_campaign=rss",
-    "time": "刚刚",
-    "published_iso": "2026-03-21T08:54:29+00:00",
-    "id": "n23",
-    "lead": false
-  },
-  {
-    "headline": "NATO Must Keep Presence on All Flanks, Norway’s Defense Minister Says - Bloomberg.com",
-    "deck": "NATO Must Keep Presence on All Flanks, Norway’s Defense Minister Says&nbsp;&nbsp;Bloomberg.com",
-    "cnTitle": "北约需在所有方向维持军事存在",
-    "cnDeck": "挪威国防部长表示，北约必须在所有侧翼维持军事存在。这一声明反映了北欧国家对地区安全局势的担忧。挪威作为北约成员国，与俄罗斯陆地边界绵长，对地缘政治形势变化高度敏感。挪威国防部长强调，北约需要在包括北欧地区在内的所有战略方向上保持充分的军事部署和防御姿态。这一表态背景下，北欧国家对俄罗斯可能的军事威胁保持警惕。挪威的这一立场呼应了北约东翼国家的一贯诉求，即加强对北约领土的防御覆盖。挪威国防部长的言论强调了在当前地缘政治紧张局势下，北约需要维持全面的军事存在，以确保所有成员国的安全和领土完整。北约的多边防御承诺对维护欧洲安全秩序至关重要，而挪威作为拥有俄罗斯边界的成员国，其安全关切具有战略意义。",
-    "cat": "politics",
-    "source": "Bloomberg",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV2tBQmZhY1RwaS1QQzdHSTJhOXhSNU43REtjR1lDeUczdGFjWlR0aGZRTUpLUEx6d2gya0E3Z25SYnNxR3pYeDdGa3hQcHVMbGVXWFZSMEQ0TURORzFHb01GWV9lMXEtdml1ZVhKNTZIbXdTWWtIWkFrVVZYM2tyc3RvSzhCVUJ6bVRnenYzSTNoYzlfYkNCZUxkLXhNWE8tQkg0VDB0eDhVOWJjVTcwdlVSdnoySE9FZGJB?oc=5",
-    "time": "21小时前",
-    "published_iso": "2026-03-21T08:00:00+00:00",
-    "id": "n24",
-    "lead": false
-  },
-  {
-    "headline": "United Airlines to cut more flights as it eyes oil above $100 through 2027",
-    "deck": "Chief Executive Scott Kirby says United's annual fuel bill would rise by about $11 billion if oil prices stay above $100 a barrel through next year.",
-    "cnTitle": "美联航因油价高企削减航班计划",
-    "cnDeck": "美联航首席执行官斯科特·柯比表示，如果油价在未来一年保持在每桶100美元以上，美联航的年度燃油成本将增加约110亿美元。受此影响，美联航计划削减更多航班。这反映出航空业对能源成本上升的担忧，以及全球油价波动对航空运输业的深远影响。高油价压力正迫使航空公司采取成本控制措施，包括削减运力和优化路线网络。柯比的言论表明，美联航预期高油价环境将持续到2027年，这将对航空业的运营成本和盈利能力造成长期压力。",
-    "cat": "economy",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/03/21/united-airlines-to-cut-more-flights-as-it-eyes-elevated-oil-pric.html",
-    "time": "1小时前",
-    "published_iso": "2026-03-21T07:20:59+00:00",
-    "id": "n25",
+    "id": "n27",
     "lead": false
   }
 ]
