@@ -1,5 +1,131 @@
 [
   {
+    "headline": "Asia stocks slide as US and Iran threaten to escalate war",
+    "deck": "The International Energy Agency chief said the war could lead to the world's worst energy crisis in decades.",
+    "cnTitle": "美伊冲突升级威胁全球能源安全",
+    "cnDeck": "国际能源署负责人表示，美国和伊朗之间的战争升级可能导致全球数十年来最严重的能源危机。亚洲股市因美伊局势紧张而下滑。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
+    "time": "刚刚",
+    "published_iso": "2026-03-23T05:12:14+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "Iran and U.S.-Israel continue to raise the stakes as Strait of Hormuz tensions build",
+    "deck": "Iran widened its warnings to target buyers of U.S. Treasury bonds, the latest salvo in an intensifying exchange of threats as the war entered its fourth week.",
+    "cnTitle": "伊朗威胁制裁美债购买者局势升级",
+    "cnDeck": "伊朗扩大了其威胁范围，警告美国国债的购买者，这是随着战争进入第四周以来不断升级的威胁交换中最新的举措。伊朗政府针对美国及其盟国以色列的立场不断强硬，在霍尔木兹海峡地区的紧张局势持续加剧的背景下，伊朗开始采取经济层面的威胁手段。通过威胁美债购买者，伊朗试图对美国经济施加压力，这反映了伊朗在军事对抗之外寻求经济制裁的新策略。这一举动标志着中东地区地缘政治冲突从军事层面向金融层面的扩展，可能对全球金融市场产生连锁反应。随着冲突的升级，国际社会对该地区局势的关注度不断提高，美国及其盟国也在加强应对措施。",
+    "cat": "politics",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/23/iran-war-tensions-build-as-conflict-enters-its-fourth-week.html",
+    "time": "1小时前",
+    "published_iso": "2026-03-23T04:41:14+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
+    "headline": "South Korea’s Kospi and Japan's Nikkei tumble more than 5% as Trump-Iran threats escalate",
+    "deck": "Asia-Pacific markets tumbled Monday as investors weighed escalating tensions in the Middle East after the U.S. and Iran threatened to intensify military hostilities.",
+    "cnTitle": "亚太股市大幅下跌，美伊局势升级施压",
+    "cnDeck": "亚太地区股市周一大幅下跌，投资者对中东局势升级感到担忧。在美国和伊朗威胁加强军事对抗之后，紧张局势不断升级。韩国Kospi指数和日本Nikkei指数均下跌超过5%。投资者对地缘政治风险的担忧导致股市承压，中东地区的紧张局势继续对全球金融市场造成负面影响。美伊之间的军事威胁升级引发了市场对区域冲突可能扩大的担忧，推动投资者寻求规避风险，从而导致亚太主要股指大幅下跌。",
+    "cat": "finance",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/23/asia-markets-us-iran-threats-strait-of-hormuz-oil-nikkei-kospi-hsi-hang-seng.html",
+    "time": "2小时前",
+    "published_iso": "2026-03-23T03:42:34+00:00",
+    "is_new": true,
+    "id": "n3",
+    "lead": false
+  },
+  {
+    "headline": "Saudi Aramco boss pulls out of major international energy conference due to Iran conflict, source says",
+    "deck": "Nasser, who has been CEO of ​the world's top oil exporter for more ​than a decade, is usually one of the headline speakers at the conference.",
+    "cnTitle": "沙特阿美CEO因伊朗冲突缺席重要能源会议",
+    "cnDeck": "沙特阿美首席执行官穆罕默德·纳赛尔(Mohammed Al-Nasser)因伊朗冲突问题退出了一场重大国际能源会议。据知情人士透露,担任全球最大石油出口国沙特阿美首席执行官超过十年的纳赛尔通常是该会议的主要发言人之一。他此次缺席引发市场关注,因其出席与否往往会影响对全球能源市场前景的预期。沙特阿美作为全球能源市场的重要参与者,其高管的任何行动变化都可能对国际油价产生影响。这一事件反映了当前中东地区紧张局势对能源行业的实际影响,也表明伊朗与沙特之间的冲突可能继续对全球能源供应格局产生压力。",
+    "cat": "politics",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/22/saudi-aramco-boss-pulls-out-of-ceraweek-due-to-iran-conflict-reuters.html",
+    "time": "6小时前",
+    "published_iso": "2026-03-22T23:27:05+00:00",
+    "is_new": true,
+    "id": "n4",
+    "lead": false
+  },
+  {
+    "headline": "Trump says ICE agents will assist airport security as DHS shutdown continues",
+    "deck": "Travellers have faced hours-long waits at airports around the country as a partial government shutdown has left TSA agents without pay.",
+    "cnTitle": "特朗普称ICE将协助机场安检",
+    "cnDeck": "特朗普表示，随着国土安全部面临关闭，移民和海关执法局（ICE）特工将协助机场安全工作。由于联邦政府部分关闭，运输安全管理局（TSA）特工无法获得薪酬，导致全国各地机场乘客面临长达数小时的等待。此举旨在缓解政府关闭期间机场安检的人员短缺问题。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cede0qyvqz3o?at_medium=RSS&at_campaign=rss",
+    "time": "6小时前",
+    "published_iso": "2026-03-22T23:08:10+00:00",
+    "is_new": true,
+    "id": "n5",
+    "lead": false
+  },
+  {
+    "headline": "Not just buying 'things': Why China's emotional economy is on the rise",
+    "deck": "Amid a prolonged economic slowdown, one segment of the world's second-largest economy is growing quicker than the rest: China's so-called emotional economy.",
+    "cnTitle": "中国情感经济崛起成消费新增长点",
+    "cnDeck": "在经济增长放缓的背景下，中国第二大经济体中增长最快的一个部分是所谓的\"情感经济\"。根据报道，中国正在经历一个独特的消费转变，消费者不仅仅是在购买商品和服务，而是在寻求满足情感和心理需求的体验。这一现象反映了中国经济结构的深层次变化，特别是在传统制造业增速放缓的时期。情感经济包括文化娱乐、社交体验、精神消费等多个领域，这些领域的增长速度显著超过中国经济平均增速。分析人士指出，这一趋势与中国消费者购买力不断提升、消费观念日益成熟以及对生活品质追求增加密切相关。随着中国中产阶级的扩大和可支配收入的增长，越来越多的消费者愿意为情感体验和精神满足付费。这种消费升级现象在一二线城市尤为明显，但也开始向三四线城市扩展。经济学家认为，情感经济的兴起可能成为中国经济增长的新动力，有助于缓解经济增速下行的压力。这也表明中国经济正在从依赖投资和出口驱动向消费驱动转变。",
+    "cat": "economy",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/23/chinas-emotional-economy-is-on-the-rise.html",
+    "time": "6小时前",
+    "published_iso": "2026-03-22T22:58:58+00:00",
+    "is_new": true,
+    "id": "n6",
+    "lead": false
+  },
+  {
+    "headline": "Stock futures are little changed after Trump ultimatum to Iran; Wall Street tries to snap 4-week slide: Live updates",
+    "deck": "The Dow and Nasdaq fell around 2% each last week, while the S&amp;P 500 lost 1.5%.",
+    "cnTitle": "美国股市震荡，特朗普对伊朗发出最后通牒",
+    "cnDeck": "特朗普向伊朗发出最后通牒后，股指期货基本持平。上周道琼斯指数和纳斯达克指数各下跌约2%，标准普尔500指数下跌1.5%。华尔街努力打破为期4周的下滑趋势。这一动向反映了市场对地缘政治紧张局势的担忧，特别是美国与伊朗之间的对立升级可能对全球经济和金融市场产生影响。特朗普的强硬言论引发了投资者对潜在冲突升级的关注，这可能导致油价上升和市场波动加剧。同时，股市连续四周下滑表明投资者信心受到打击，市场正在寻求稳定信号。股指期货的小幅波动表明市场参与者在等待更多信息，以判断地缘政治风险是否会进一步加剧或缓解。",
+    "cat": "politics",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/22/stock-market-today-live-updates.html",
+    "time": "7小时前",
+    "published_iso": "2026-03-22T22:27:29+00:00",
+    "is_new": true,
+    "id": "n7",
+    "lead": false
+  },
+  {
+    "headline": "Israel to expand ground and air attacks against Hezbollah in Lebanon",
+    "deck": "There are fears in Lebanon that Israel is preparing for a large-scale ground invasion.",
+    "cnTitle": "以色列扩大对黎巴嫩真主党的地面和空中攻击",
+    "cnDeck": "以色列准备扩大对黎巴嫩真主党的地面和空中攻击。黎巴嫩方面担忧以色列正在为大规模地面入侵做准备。这一局势反映了以色列与真主党之间不断升级的军事冲突，可能对中东地区的地缘政治格局产生重要影响。以色列的军事行动包括增加地面部队部署和加强空中轰炸活动。黎巴嫩政府和国际社会对局势升级表示担忧，担心这可能导致更大规模的地区冲突。真主党是黎巴嫩什叶派武装组织，与以色列长期存在对抗。这次攻击扩大反映了中东地区持续的安全威胁和地缘政治紧张局势。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c30rl05evd8o?at_medium=RSS&at_campaign=rss",
+    "time": "9小时前",
+    "published_iso": "2026-03-22T20:23:07+00:00",
+    "is_new": true,
+    "id": "n8",
+    "lead": false
+  },
+  {
+    "headline": "Iranian missiles injure 180 in towns near Israeli nuclear site",
+    "deck": "Israel is investigating how ballistic missiles got through the country's sophisticated air defences.",
+    "cnTitle": "伊朗导弹袭击以色列核设施附近地区",
+    "cnDeck": "伊朗向以色列发射弹道导弹,导致以色列核设施附近城镇180人受伤。以色列正在调查弹道导弹如何突破该国先进防空系统的问题。这次袭击标志着中东地区局势进一步升级,涉及伊朗、以色列之间的军事对抗升级。弹道导弹成功突破以色列防空系统引发国际关注,反映出中东地区军事力量的对比变化。以色列核设施附近地区遭到袭击,引发对地区安全局势的担忧。这一事件可能会对中东地区的政治格局和国际关系产生重要影响。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss",
+    "time": "12小时前",
+    "published_iso": "2026-03-22T17:35:19+00:00",
+    "is_new": true,
+    "id": "n9",
+    "lead": false
+  },
+  {
     "headline": "China vows to continue opening its economy amid trade tensions with U.S.",
     "deck": "China has reached a temporary truce with the U.S. on trade. The world's second-biggest economy reported a record $1.2 trillion trade surplus for 2025.",
     "cnTitle": "中国承诺继续开放经济应对美国贸易紧张",
@@ -9,9 +135,8 @@
     "url": "https://www.cnbc.com/2026/03/22/china-vows-to-continue-opening-its-economy-amid-us-trade-tensions.html",
     "time": "1小时前",
     "published_iso": "2026-03-22T12:47:30+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n10",
+    "lead": false
   },
   {
     "headline": "OpenAI's data center pivot underscores Wall Street spending concerns ahead of IPO",
@@ -23,8 +148,7 @@
     "url": "https://www.cnbc.com/2026/03/22/openai-data-center-pivot-underscores-wall-street-ipo-concerns.html",
     "time": "1小时前",
     "published_iso": "2026-03-22T12:00:01+00:00",
-    "is_new": true,
-    "id": "n2",
+    "id": "n11",
     "lead": false
   },
   {
@@ -37,8 +161,7 @@
     "url": "https://www.cnbc.com/2026/03/22/winning-stocks-in-the-ai-race-between-china-and-the-us-per-bernstein.html",
     "time": "2小时前",
     "published_iso": "2026-03-22T11:27:37+00:00",
-    "is_new": true,
-    "id": "n3",
+    "id": "n12",
     "lead": false
   },
   {
@@ -51,8 +174,7 @@
     "url": "https://www.cnbc.com/2026/03/22/why-low-earth-orbit-is-attracting-billions-in-investment.html",
     "time": "6小时前",
     "published_iso": "2026-03-22T07:10:09+00:00",
-    "is_new": true,
-    "id": "n4",
+    "id": "n13",
     "lead": false
   },
   {
@@ -65,7 +187,7 @@
     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNY3RfaU92aE9rT3p3bjlzQ0ZORXZhM1duQkwwQld6ZDlmd2NiMG9faExmNDJ1TGZaTE9TcTNiZzNaaERwUlN6ODAtYW1QTTktU1BqdUpDX1Izd05IOVVWLWIxcmlHeEgzZTh4WktDZzd5Z0R2SWZhNlRUclZzLTRvb1NXYWxKcWpSQmM4OXZpdWNVRUVLdDV0NEFwc21zQ2lMcFljQm9GaFFmVTZBeGlSVGVsTS0wSWJNVFJJZG04M3ZPX1JIM0ZrOHJPX09XZkU?oc=5",
     "time": "1小时前",
     "published_iso": "2026-03-22T03:49:00+00:00",
-    "id": "n5",
+    "id": "n14",
     "lead": false
   },
   {
@@ -78,7 +200,7 @@
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSnc1ek1IcHJKQWlFclhMalJ4WVJRMW5jWmdLS3ctRUt2NW16eGNTUWlEcUU2NDRVZTJlOU5haERSUXA4YXdfdkw1YmZwWnpWdXhOZVhDSmxIZXBqR1VzUlhRQzlzbkVhd3dXWGNselU5LUVER0J1cGVLVDJoTFF6NjRJcGF5UnQta19Ud3FLbWtKcEl3Uk95Z3l2cGdabjRQUTI3WjEtMUFjc1JmdkVnUnliaVY?oc=5",
     "time": "3小时前",
     "published_iso": "2026-03-22T02:01:00+00:00",
-    "id": "n6",
+    "id": "n15",
     "lead": false
   },
   {
@@ -91,7 +213,7 @@
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeWJwekdyb3l1TThTNVJrUm5KUG5PdzJ4LU9qb2ZFeXZYMEg0TDNhSzItLUxTRl9uX1VXRVBLZ1A1Zy12UnFZSXBrX2k3Y3JmM0plMFFTS29aVkhGSUVEZ20wQVJxcHJJUXVONi0tQmFtOUxVQ2w3ODBxQjIyd1l0dDF6bEJVSkNwRmwzT3kzcUJTME1yWHZnc01WMG02MmtHRjFMSHVFM0k5dw?oc=5",
     "time": "9小时前",
     "published_iso": "2026-03-21T20:00:00+00:00",
-    "id": "n7",
+    "id": "n16",
     "lead": false
   },
   {
@@ -104,7 +226,7 @@
     "url": "https://www.cnbc.com/2026/03/21/crypto-tokenization-and-etfs-secs-peirce-indicates-openness.html",
     "time": "刚刚",
     "published_iso": "2026-03-21T15:00:01+00:00",
-    "id": "n8",
+    "id": "n17",
     "lead": false
   },
   {
@@ -117,7 +239,7 @@
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOWNaTmRXcDlGblUxcHUxOFhUOEZ5QUJyMk1QeFBpekdXc25OVTVyWHRPaUozZWNtcWtWd3cxdVFJSEtabnN6Q3Fjdld0NmxSc3dyMGhaZTh6Z3AxYlgwbkhJNVVqWnFvc2dEOWt1VDluRVNVLTFEb2tmT0pqRUdlejROYlptSy1LMGlXdUpJUzZfMWNWUEE0dGh4T1M5WnlWVzNPX0dLTHU?oc=5",
     "time": "刚刚",
     "published_iso": "2026-03-21T13:00:44+00:00",
-    "id": "n9",
+    "id": "n18",
     "lead": false
   },
   {
@@ -130,7 +252,7 @@
     "url": "https://www.cnbc.com/2026/03/21/openai-to-nearly-double-workforce-to-8000-by-end-2026-ft-reports.html",
     "time": "1小时前",
     "published_iso": "2026-03-21T12:34:01+00:00",
-    "id": "n10",
+    "id": "n19",
     "lead": false
   },
   {
@@ -143,7 +265,7 @@
     "url": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss",
     "time": "16小时前",
     "published_iso": "2026-03-21T12:15:20+00:00",
-    "id": "n11",
+    "id": "n20",
     "lead": false
   },
   {
@@ -156,7 +278,7 @@
     "url": "https://www.cnbc.com/2026/03/21/trump-oil-fed-economy-iran-war.html",
     "time": "1小时前",
     "published_iso": "2026-03-21T12:00:01+00:00",
-    "id": "n12",
+    "id": "n21",
     "lead": false
   },
   {
@@ -169,7 +291,7 @@
     "url": "https://www.cnbc.com/2026/03/21/iran-targeted-but-did-not-hit-diego-garcia-base-with-missiles-wsj.html",
     "time": "刚刚",
     "published_iso": "2026-03-21T09:11:47+00:00",
-    "id": "n13",
+    "id": "n22",
     "lead": false
   },
   {
@@ -182,7 +304,7 @@
     "url": "https://www.bbc.com/news/articles/crl18nwjzzzo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-03-21T08:54:29+00:00",
-    "id": "n14",
+    "id": "n23",
     "lead": false
   },
   {
@@ -195,7 +317,7 @@
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV2tBQmZhY1RwaS1QQzdHSTJhOXhSNU43REtjR1lDeUczdGFjWlR0aGZRTUpLUEx6d2gya0E3Z25SYnNxR3pYeDdGa3hQcHVMbGVXWFZSMEQ0TURORzFHb01GWV9lMXEtdml1ZVhKNTZIbXdTWWtIWkFrVVZYM2tyc3RvSzhCVUJ6bVRnenYzSTNoYzlfYkNCZUxkLXhNWE8tQkg0VDB0eDhVOWJjVTcwdlVSdnoySE9FZGJB?oc=5",
     "time": "21小时前",
     "published_iso": "2026-03-21T08:00:00+00:00",
-    "id": "n15",
+    "id": "n24",
     "lead": false
   },
   {
@@ -208,282 +330,7 @@
     "url": "https://www.cnbc.com/2026/03/21/united-airlines-to-cut-more-flights-as-it-eyes-elevated-oil-pric.html",
     "time": "1小时前",
     "published_iso": "2026-03-21T07:20:59+00:00",
-    "id": "n16",
-    "lead": false
-  },
-  {
-    "headline": "U.S. issues 30-day sanctions waiver for sale of Iranian oil at sea",
-    "deck": "The Trump administration on Friday issued a 30-day sanctions waiver for the purchase of Iranian oil at sea to ease energy supply pressures since the start of the U.S.-Israeli war on Iran, U.S. Treasury Secretary Scott Bessent said.",
-    "cnTitle": "美国发放伊朗石油海上销售30天豁免",
-    "cnDeck": "特朗普政府周五发放了为期30天的伊朗石油海上购买制裁豁免，以缓解自美以对伊朗战争开始以来的能源供应压力。美国财政部长斯科特·贝森特表示了这一决定。这一举措标志着特朗普政府在能源政策上的重大转变，旨在稳定全球石油市场并缓解美国及其盟国的能源成本压力。豁免期限为30天，这意味着在此期间，购买伊朗石油的国家将不会面临美国制裁。这一政策反映了政府在地缘政治紧张局势与能源安全之间的平衡考量。",
-    "cat": "politics",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/03/20/us-issues-30-day-sanctions-waiver-for-sale-of-iranian-oil-at-sea.html",
-    "time": "3小时前",
-    "published_iso": "2026-03-21T01:08:32+00:00",
-    "id": "n17",
-    "lead": false
-  },
-  {
-    "headline": "Super Micro Makes Changes After Smuggling Scandal Crushes Stock - Bloomberg.com",
-    "deck": "Super Micro Makes Changes After Smuggling Scandal Crushes Stock&nbsp;&nbsp;Bloomberg.com",
-    "cnTitle": "超微计算机因走私丑闻做出改革",
-    "cnDeck": "超微计算机公司因走私丑闻后股价大幅下跌，目前正在进行重大变革。该公司因涉及电子产品走私事件遭受重创，股价受到严重打击。作为服务器和计算机硬件制造商，超微计算机在数据中心和人工智能基础设施领域有重要市场地位。此次丑闻对公司声誉造成重大影响，导致投资者信心下降，股价急剧下跌。为应对危机，超微计算机正在实施一系列改革措施，包括加强内部管理、改进供应链监管和提升合规性等。这一事件反映出科技制造业在全球贸易和合规方面面临的挑战。超微计算机的这些变革举措旨在恢复市场信心，但市场对公司能否成功度过此次危机仍有疑虑。此事件也引起了业界对科技硬件制造商供应链管理和合规风险的广泛关注。",
-    "cat": "tech",
-    "source": "Bloomberg",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSzRCYXFLTUVoS0FwOWlQSVJqUXI4MExJUGlBYWJDLWpucEJYb0FzdFNxOHlSdGNtUm1ad0YxZmd4dUxJeVQ4elFWelFEU1NaaV9HRnFudFVmbUZqQmtablNPcXJISi1fcEp4Wmxnb0pscGtjUTU1R1ZCSkVodGhzWmYzT0dfNE1FaUpELWIzOFVVajNXVjUwU2p2ZFNrYmlDZmNOeVotWExBb0xEd3R2WHFQVFU2WVJEdVJmY202Rkp1MUl2OHkyVVp4X1VKWFk?oc=5",
-    "time": "1天前",
-    "published_iso": "2026-03-20T23:48:43+00:00",
-    "is_new": true,
-    "id": "n18",
-    "lead": false
-  },
-  {
-    "headline": "Super Micro Makes Changes After Smuggling Scandal Crushes Stock - Bloomberg.com",
-    "deck": "Super Micro Makes Changes After Smuggling Scandal Crushes Stock&nbsp;&nbsp;Bloomberg.com",
-    "cnTitle": "超微计算机因走私丑闻股价暴跌后做出改革",
-    "cnDeck": "超微计算机公司因走私丑闻导致股价大幅下跌后，正在进行内部改革。该公司面临严重的企业治理问题和供应链安全隐患。这一事件引发了市场对该公司商业实践和管理能力的广泛质疑。超微计算机是全球主要的服务器制造商之一，其股价暴跌反映了投资者对公司信誉和运营能力的信心下降。该丑闻涉及供应链管理的严重违规，对公司的国际商业关系造成了负面影响。此事件还可能对整个科技硬件供应链的信任度产生连锁反应。公司正在采取措施进行整改，但市场仍对其恢复能力持谨慎态度。",
-    "cat": "tech",
-    "source": "Bloomberg",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQd3ViTXFGNlVQNmx3RkVuOTlmVjRGNW04a29vQlhselBscXM5Tll2XzNubW93YzgxV3QybU9pVnBPRDAwWjFRdzl0Z3doWFJXMjlwNllYeUlXRHlhNzBlel8xdlg4Mmk2VmtmOTQwQ18xZVJlRlZZc3lhWFhYODFOcmg5b2dKejRIYW9aNDdqYWNYWFlSSmhDVFVsXzZZOVExczZxSXR0RmpkVHZTUVRRUHlIUmE?oc=5",
-    "time": "5小时前",
-    "published_iso": "2026-03-20T23:48:43+00:00",
-    "id": "n19",
-    "lead": false
-  },
-  {
-    "headline": "Elon Musk misled Twitter investors, jury finds",
-    "deck": "A San Francisco jury concludes Musk’s claims in 2022 were damaging to a group of Twitter investors.",
-    "cnTitle": "马斯克误导推特投资者被陪审团判定成立",
-    "cnDeck": "美国旧金山陪审团判定埃隆·马斯克在2022年对一群推特投资者做出的声明具有欺骗性。该陪审团认定马斯克在2022年期间所做的相关主张对这些推特投资者造成了损害。这一判决涉及马斯克在推特收购过程中是否向投资者披露了全面准确的信息，陪审团的结论表明马斯克存在误导行为。该案件围绕马斯克在推特收购交易前后的相关声明展开，涉及投资者利益和信息披露责任等核心问题。",
-    "cat": "finance",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c62j3yl842eo?at_medium=RSS&at_campaign=rss",
-    "time": "5小时前",
-    "published_iso": "2026-03-20T23:44:09+00:00",
-    "id": "n20",
-    "lead": false
-  },
-  {
-    "headline": "Super Micro co-founder indicted on Nvidia smuggling charges leaves board",
-    "deck": "Super Micro said Yih-Shyan \"Wally\" Liaw, a co-founder, has resigned from the server maker's board after he was indicted in the U.S.",
-    "cnTitle": "Super Micro联合创始人因芯片走私被控制",
-    "cnDeck": "Super Micro宣布联合创始人廖义贤(Yih-Shyan \"Wally\" Liaw)在被美国控诉芯片走私罪后已从该服务器制造商的董事会辞职。这一事件涉及美国对敏感技术出口管制的执法行动,反映了当前全球芯片产业供应链中日益紧张的地缘政治局势。Super Micro作为全球主要的服务器制造商,与英伟达等芯片巨头密切合作,该公司高管因违反出口管制规定而被起诉,表明美国政府对于防止先进半导体芯片流向受限国家的决心不断加强。此案涉及的具体走私指控涉及对美国国家安全利益至关重要的芯片技术,这类案件通常涉及美国出口管制法规的违反。Super Micro此举正式切割与涉案人员的关系,也反映了该公司对合规问题的重视。",
-    "cat": "tech",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/03/20/super-micro-co-founder-leaves-board.html",
-    "time": "6小时前",
-    "published_iso": "2026-03-20T22:52:55+00:00",
-    "id": "n21",
-    "lead": false
-  },
-  {
-    "headline": "Iranian strikes on bases used by US caused $800m in damage, new analysis shows",
-    "deck": "Much of the damage was caused in initial retaliatory strikes by Iran in the week after the US and Israel launched its operation.",
-    "cnTitle": "伊朗对美军基地造成8亿美元损失",
-    "cnDeck": "根据新的分析显示，伊朗对美军使用的基地造成了约8亿美元的损失。大部分损失是由伊朗在美国和以色列发动行动后一周内进行的初步报复性打击造成的。这次打击事件反映了中东地区日益紧张的军事局势，以及伊朗对美以军事行动的强硬回应态度。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cddq7j48p35o?at_medium=RSS&at_campaign=rss",
-    "time": "11小时前",
-    "published_iso": "2026-03-20T22:34:05+00:00",
-    "id": "n22",
-    "lead": false
-  },
-  {
-    "headline": "Trump says he doesn't want Iran war ceasefire, but is considering 'winding down' military ops",
-    "deck": "President Donald Trump also said the Strait of Hormuz, \"will have to be guarded and policed, as necessary, by other Nations who use it.\"",
-    "cnTitle": "重大人物言论涉及中东地缘政治",
-    "cnDeck": "特朗普总统表示，他不希望伊朗战争停火，但正在考虑\"逐步结束\"军事行动。特朗普在相关表述中指出，霍尔木兹海峡\"必须由使用它的其他国家根据需要进行守卫和巡逻\"。这一言论涉及美国对伊朗政策的重大调整，暗示特朗普政府可能改变其中东军事战略，从直接对抗转向间接监管。霍尔木兹海峡是全球最重要的能源运输通道之一，日均约有2100万桶石油经过该海峡，因此这一声明对全球能源市场和地缘政治局势均有重大影响。特朗普的表态反映了美国对伊朗问题的复杂态度，既不完全支持停火，又不主张长期军事部署。",
-    "cat": "politics",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/03/20/trump-iran-war-ceasefire.html",
-    "time": "8小时前",
-    "published_iso": "2026-03-20T22:23:55+00:00",
-    "id": "n23",
-    "lead": false
-  },
-  {
-    "headline": "JPMorgan Strategists Cut S&P 500 Target on Iran War Uncertainty - Bloomberg.com",
-    "deck": "JPMorgan Strategists Cut S&amp;P 500 Target on Iran War Uncertainty&nbsp;&nbsp;Bloomberg.com",
-    "cnTitle": "美国银行下调标普500目标价",
-    "cnDeck": "摩根大通策略师因伊朗战争不确定性下调标普500指数目标价。据彭博社报道，摩根大通的分析团队认为中东地缘政治局势升级带来的不确定性对全球股市构成重大风险。伊朗与以色列之间的军事冲突升级可能影响油价、全球供应链和经济增长前景。该行策略师指出，如果地缘政治风险进一步恶化，可能导致市场波动加剧，进而影响企业盈利预期。这次下调反映了摩根大通对短期市场前景的谨慎态度，同时也表明华尔街对中东局势可能造成的经济后果日益关注。伊朗与以色列之间的紧张局势已成为影响全球金融市场的重要因素之一。",
-    "cat": "finance",
-    "source": "Bloomberg",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLTUxWUYyWkd6ZEllcnRyZEM3NXdRTjFsMUg5Z1IxZnlOWGp3YUMwRXM1NmVsZFJXeWI5enEtRkl1NENGSmRrWklESEZOSU92V3pOalhUNHhxOE50QWZTWVF0eXVXR0Z3aks2eUVMakQ3Tjlsa1l2UlBXSDg1WUR6NFBhU2VJNWwyeWNsM3FGYzBOb19RS3l3MU1YTlU5T1pTUkRrSGNFWFEzSkJsOWtjS0pKei0?oc=5",
-    "time": "6小时前",
-    "published_iso": "2026-03-20T22:18:07+00:00",
-    "id": "n24",
-    "lead": false
-  },
-  {
-    "headline": "SoftBank Plans Giant Ohio AI Data Center Powered by Gas Plants - Bloomberg.com",
-    "deck": "SoftBank Plans Giant Ohio AI Data Center Powered by Gas Plants&nbsp;&nbsp;Bloomberg.com",
-    "cnTitle": "软银计划在俄亥俄州建设大型AI数据中心",
-    "cnDeck": "软银集团计划在美国俄亥俄州建设一个大型人工智能数据中心，该数据中心将由燃气电厂提供电力。这一项目反映了科技巨头对AI基础设施的持续投资热潮。数据中心是支撑AI模型训练和推理的关键基础设施，需要大量稳定的电力供应。软银选择用燃气电厂作为主要电力来源，体现了对能源稳定性和可靠性的考量。此举也表明软银在AI领域的战略重心。俄亥俄州拥有相对成熟的工业基础和能源基础设施，这使其成为建设大型数据中心的理想地点。该项目的实施将进一步推动美国AI产业的发展，同时也为当地创造就业机会和经济增长。",
-    "cat": "tech",
-    "source": "Bloomberg",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVkZTU2hCUmdaTVpSQTlGTmNMeTdPOWpCbjZGMU12Ry1kZl9SOUw3eXEyandzcldfWi1OaEVSc0NKRXdsWS0xRHRWVFJEaU9KSThnZlE5X0ZqNEVZOWxrWWU3bWdHVHFUeEctR3o0RGRBRWZmZkk5Vnc0dFdCRWh4Z1hpekdzbmdfVEVwckp0RXY1VzBCV0xSOUJSLXJDd2puQkFlYnUtb2VPbTlEc0lYZXlfdw?oc=5",
-    "time": "11小时前",
-    "published_iso": "2026-03-20T21:58:02+00:00",
     "id": "n25",
-    "lead": false
-  },
-  {
-    "headline": "Oil Declines as US, Israel Seek to Ease Concerns Over Iran War - Bloomberg.com",
-    "deck": "Oil Declines as US, Israel Seek to Ease Concerns Over Iran War&nbsp;&nbsp;Bloomberg.com",
-    "cnTitle": "油价因美以缓解伊朗战争担忧而下跌",
-    "cnDeck": "布隆伯格报道，国际油价下跌，原因是美国和以色列正在寻求缓解市场对伊朗战争风险的担忧。美国和以色列官员发表声明，试图降低区域冲突升级的可能性，这减轻了投资者对中东地缘政治局势恶化可能导致全球能源供应中断的忧虑。油价作为全球经济的重要指标，受地缘政治风险和能源供应前景变化的直接影响。美以两国的外交努力表明双方正在采取措施防止与伊朗的冲突进一步升级，这有助于缓解市场的紧张情绪。油价下跌反映了市场参与者对地缘政治风险可能缓解的积极预期。",
-    "cat": "finance",
-    "source": "Bloomberg",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcUZjTHdoXzVJY1dNejVtSlpiTE9qS2pZTGlJY2xDUWo5MWNRYVRGclhRY2hBNTYyZEZTMDNKRm5qSkdQRlFYZFVzX2xjSlpHV0psYXp1STRQUjQwTGNyd0pTM2ZrMkZQUk94aEsyVE1fejdSaFhYOTdLUkh4TjRWeXpOYm9uVm1CVzB3YVVGUnRwQXdOTkpQNF96VUJKTjdU?oc=5",
-    "time": "7小时前",
-    "published_iso": "2026-03-20T21:55:11+00:00",
-    "id": "n26",
-    "lead": false
-  },
-  {
-    "headline": "Ireland Credit Rating Raised by S&P on Strong Fiscal Buffer - Bloomberg.com",
-    "deck": "Ireland Credit Rating Raised by S&amp;P on Strong Fiscal Buffer&nbsp;&nbsp;Bloomberg.com",
-    "cnTitle": "爱尔兰信用评级被标普上调",
-    "cnDeck": "标准普尔上调了爱尔兰的信用评级，理由是该国拥有强劲的财政缓冲。这一积极举措反映了爱尔兰在经济管理和财政纪律方面的显著进展。信用评级的提升通常会降低一个国家的借贷成本，使其更容易在国际资本市场上筹集资金。此举对爱尔兰经济前景释放了正面信号，表明国际评级机构对其长期经济稳定性和偿债能力充满信心。强劲的财政缓冲意味着爱尔兰具有足够的财政灵活性来应对潜在的经济冲击，这对投资者和债权人而言都是有利因素。",
-    "cat": "finance",
-    "source": "Bloomberg",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd2g3OGxtUTI2TlkyOUYxQXVQc2VuNktBakN1dDlOU3Z2Mmctc0tTVmdiNXVXM3BKeTZQdmZRMjVmZGVqVjhldmtjSVZfdGlQZEUxUDF2d1dRVmVmQjhLV1pVQ2xoMjBLS1VLejQ1Z21TaUxwNXZ3ZzUxcUxnNVk0bUlzX0lJSU1HamV1SW5OcXZOV1RKUlFWc0lTa1FWNlczSHRKcm5EMG03NjNUc2t3?oc=5",
-    "time": "12小时前",
-    "published_iso": "2026-03-20T21:37:32+00:00",
-    "id": "n27",
-    "lead": false
-  },
-  {
-    "headline": "Elon Musk Misled Twitter Investors Before 2022 Buyout, Jury Says - Bloomberg.com",
-    "deck": "Elon Musk Misled Twitter Investors Before 2022 Buyout, Jury Says&nbsp;&nbsp;Bloomberg.com",
-    "cnTitle": "埃隆·马斯克被判误导推特投资者",
-    "cnDeck": "美国陪审团裁定，埃隆·马斯克在2022年收购推特前误导了投资者。此案涉及马斯克在收购前对推特财务状况和业务前景的虚假陈述。陪审团的裁定可能对马斯克及其企业造成重大法律和财务影响。这一判决反映了对科技企业并购交易中信息披露和投资者保护问题的司法审查。该案件涉及推特投资者就马斯克在要约收购期间的言论和行为提起的诉讼。陪审团的决定可能引发后续的损害赔偿程序和上诉。这一事件突显了大规模科技并购交易中的合规和透明度要求，也反映了对高管行为和投资者权益保护的司法监督。",
-    "cat": "finance",
-    "source": "Bloomberg",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZHNiek5SMkhtbjF0TjBPY1E3aVBOcGlXVGVGcVB6cjJ2d0NpQW5iYU03dTRoY194djJqcEZpVGVUNUxpMS1faGxFZ2hTMXhjTkVEQUJ5RFdlOEx3Z2JkcDl4amhKMUQxenJpWVh1YUxrNFlKcnVHWlpQZ3lGQUpDV3d6WlhTanpISEJ4S29QSkRoZ3V0MlQwaTBOdWt6TkRiSEFjSjAzd3dUNG5rd0UtX1V4emJCVmFUUUVTQXp5amEwY3NFQTBRVXphM3M3M1U?oc=5",
-    "time": "1天前",
-    "published_iso": "2026-03-20T21:33:41+00:00",
-    "is_new": true,
-    "id": "n28",
-    "lead": false
-  },
-  {
-    "headline": "ChatGPT's ad pilot has the industry excited, but some insiders are frustrated with the slow rollout",
-    "deck": "AI search ads are seen as having massive potential by ad industry insiders and analysts, but OpenAI rival Anthropic has pledged to not have them.",
-    "cnTitle": "ChatGPT广告试点启动引业界关注",
-    "cnDeck": "OpenAI在ChatGPT中启动广告试点项目，在AI搜索广告领域引起了广告业内人士和分析师的广泛关注。业内人士普遍认为AI搜索广告具有巨大的商业潜力，但同时对OpenAI的推出速度感到沮丧，认为进展缓慢。与此形成对比的是，OpenAI的竞争对手Anthropic公司已经做出承诺，表示不会在其产品中推出广告业务。这一举措突出了AI公司在商业变现策略上的分化态度，同时也反映了整个行业对AI广告变现的不同看法和立场。",
-    "cat": "tech",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/03/20/chatgpt-ads-testing-openai.html",
-    "time": "7小时前",
-    "published_iso": "2026-03-20T21:30:35+00:00",
-    "id": "n29",
-    "lead": false
-  },
-  {
-    "headline": "Super Micro Co-Founder Charged With Smuggling Chips to China - Bloomberg.com",
-    "deck": "Super Micro Co-Founder Charged With Smuggling Chips to China&nbsp;&nbsp;Bloomberg.com",
-    "cnTitle": "超微创始人被控向中国走私芯片",
-    "cnDeck": "美国司法部门指控超微计算机公司联合创始人向中国走私芯片。根据Bloomberg报道，这起案件涉及向受制裁国家非法出口敏感技术。超微计算机是全球主要的服务器和计算机硬件制造商，此案反映了美国政府对高科技产品流向中国的严格监管态度。案件涉及的芯片走私行为违反了美国出口管制法规，特别是涉及到可用于军事或敏感应用的先进技术。这起诉讼凸显了美国在科技领域对华政策的执行力度，以及对供应链安全和国家安全的重视。超微计算机在数据中心和AI服务器市场中占据重要地位，该公司因此面临的法律风险可能对其业务运营和国际竞争力产生影响。",
-    "cat": "politics",
-    "source": "Bloomberg",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMXpQVm10R19fUWtkSG9pTFpkMUF5UmZsRkhESEZEZUUxVzB6UFlWTU1CZWhEQXdoN0JrSmhnM2E5ZFhUZmpXV243dy1mV0ZmbHlqbS1UZEJSS1ZSWHI2RDN3TEhLWmJ3V0lWTHJCMWtGbHd2M3RjMU4yRmt4UEdMeHVlQzVDaThUZHBuMFF4bkpOeFJQMFdFTXlwdW93Mk51cHVETW53WVl4QjdxVnpHdEFxeGlPUQ?oc=5",
-    "time": "12小时前",
-    "published_iso": "2026-03-20T20:53:35+00:00",
-    "id": "n30",
-    "lead": false
-  },
-  {
-    "headline": "Ukraine-Hungary oil pipeline row threatens EU loan",
-    "deck": "Kyiv and Budapest disagree on how badly damaged a hub in western Ukraine bombed by Russia really is, as its oil flow remains suspended.",
-    "cnTitle": "乌克兰匈牙利油管争议威胁欧盟贷款",
-    "cnDeck": "乌克兰和匈牙利就俄罗斯轰炸的乌克兰西部一处枢纽设施受损程度产生分歧，该油管流量仍处于暂停状态。基辅和布达佩斯围绕这一关键能源基础设施的状况评估存在重大分歧。乌克兰方面声称该油管枢纽受到严重破坏，而匈牙利则对损伤程度的评估提出异议。这一争议涉及欧盟贷款问题，表明能源供应中断正在影响欧洲金融和政治关系。俄罗斯对乌克兰西部能源设施的轰炸导致该地区油气流通受阻，这不仅威胁到乌克兰的能源安全，也影响到匈牙利等依赖该管道的欧洲国家。油管暂停运营期间，两国围绕损伤评估的分歧可能会对欧盟内部团结和相关财政支持造成影响。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cr71rkeg7xxo?at_medium=RSS&at_campaign=rss",
-    "time": "19小时前",
-    "published_iso": "2026-03-20T20:16:29+00:00",
-    "id": "n31",
-    "lead": false
-  },
-  {
-    "headline": "Trump: U.S. could end Iran military operations 'right now' but will continue so Iran can 'never rebuild'",
-    "deck": "President Donald Trump's comments followed reports that the Pentagon is sending up to 2,500 more Marines to the Middle East from San Diego.",
-    "cnTitle": "特朗普称美国可随时结束对伊朗军事行动",
-    "cnDeck": "美国总统唐纳德·特朗普表示，美国可以立即结束对伊朗的军事行动，但将继续进行以确保伊朗\"永远无法重建\"。特朗普的言论是在五角大楼报告显示将向中东派遣多达2500名来自圣地亚哥的海军陆战队员之后发表的。这一表态反映了特朗普政府在中东地区对伊朗的强硬立场，并预示了美国在该地区军事部署的持续调整。五角大楼增派海军陆战队员前往中东，表明美国在该地区的军事存在正在加强，这与特朗普关于继续军事行动以削弱伊朗能力的言论相呼应。",
-    "cat": "politics",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/03/20/trump-iran-war-troops-rebuild.html",
-    "time": "11小时前",
-    "published_iso": "2026-03-20T17:12:58+00:00",
-    "id": "n32",
-    "lead": false
-  },
-  {
-    "headline": "Bitcoin Holding at $70,000 as Iran War Stokes Inflation Concerns - Bloomberg.com",
-    "deck": "Bitcoin Holding at $70,000 as Iran War Stokes Inflation Concerns&nbsp;&nbsp;Bloomberg.com",
-    "cnTitle": "比特币徘徊70000美元伊朗冲突引发通胀担忧",
-    "cnDeck": "比特币周二在70000美元附近徘徊，市场参与者继续权衡伊朗与以色列冲突升级对全球经济和通胀前景的潜在影响。地缘政治紧张局势加剧了能源市场的波动性，投资者担心石油供应中断可能推高全球油价，进而加重通胀压力。比特币作为具有通胀对冲属性的资产，其价格波动反映了市场对宏观经济环境的忧虑。分析人士指出，伊朗局势的任何进一步升级都可能引发风险资产的重新定价，同时推高大宗商品价格。这一事件凸显了地缘政治不确定性对全球金融市场的深远影响，尤其是对石油、贵金属和加密货币等风险敏感资产的影响。市场正密切关注伊朗问题的发展，以及这一冲突是否会进一步升级，进而对全球经济增长和通胀前景产生更大影响。",
-    "cat": "finance",
-    "source": "Bloomberg",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcWZ6X1BseG82N1JPY1lmMFVrR3hQYW9MR1M5Z2luaEJkRFhoQ21lS1VFMlNwWjYxb3dGS1hrSFFLcEh0QjNfLXhCdGdrcUZkM0xkMlFaYXF3ejlLSWpBMDBCVUZ2MUxSNXoxaDhGUDhUdU1mTnRXTnVEbXZfUnpxSGtSSWZDY25Zc3R5czBXVm5WYWp6eXliVzN2Ujc2eDdIMDBWQ0RwOWJva2k0bDh2SXVwSHI?oc=5",
-    "time": "12小时前",
-    "published_iso": "2026-03-20T16:36:09+00:00",
-    "id": "n33",
-    "lead": false
-  },
-  {
-    "headline": "Kyiv Will Raise Drone Deal Offer in US Talks, Zelenskiy Says - Bloomberg.com",
-    "deck": "Kyiv Will Raise Drone Deal Offer in US Talks, Zelenskiy Says&nbsp;&nbsp;Bloomberg.com",
-    "cnTitle": "基辅将在美国谈判中提高无人机交易提议",
-    "cnDeck": "乌克兰总统泽连斯基表示，基辅将在与美国的谈判中提高无人机交易提议。这一声明反映了乌克兰在继续寻求美国军事援助的背景下，采取的谈判策略调整。泽连斯基的表态表明，乌克兰正在积极与美国政府进行高层沟通，试图争取更多的无人机等军事装备支持，以加强其在对俄冲突中的防御和作战能力。这一举措是乌克兰长期以来寻求西方军事援助的持续努力的一部分，也反映了无人机在现代战争中的重要战略地位。美国对乌克兰的军事援助一直是影响乌俄冲突发展的关键因素，泽连斯基此番表示将提高无人机交易提议，可能意味着乌克兰希望获得数量更多或性能更先进的无人机系统。",
-    "cat": "politics",
-    "source": "Bloomberg",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUEpuMWNfQkpYSU1QZEV2ZjVZYnpXcXNUYWU2azhGTXRjNDJBN1B0OE8xQ1VLUTFLNkZDcHRWWHZrM0h0SWxvTGRRZXQ5SmtsTHk2UnBSQkRYQ3BYRk1NRGRKSXdKVFJTZHZUSDhadERweEZ3THAzZWkzaTlGY0NrUWgxNExvTzJqZTNqNFViSUdrRUZtMERMMzVhYUdzalJ0cFNhVmlic2luMm1uaDl6MC1Xbw?oc=5",
-    "time": "14小时前",
-    "published_iso": "2026-03-20T14:54:19+00:00",
-    "id": "n34",
-    "lead": false
-  },
-  {
-    "headline": "Government bonds face ‘perfect storm’ as Iran war rattles Europe's central banks",
-    "deck": "Bond yields have surged as Europe's central banks grapple with new inflation fears.",
-    "cnTitle": "欧洲债券市场面临\"完美风暴\"",
-    "cnDeck": "伊朗局势升温引发欧洲央行担忧，债券收益率大幅上升。欧洲央行正面临新的通胀压力，市场对地缘政治风险的担忧加剧。伊朗相关冲突可能推高能源价格，进而影响欧元区通胀前景。债券市场的波动反映出投资者对经济前景的不确定性增加，欧洲央行可能需要重新评估其货币政策立场。",
-    "cat": "politics",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/03/19/interest-rates-bonds-bank-of-england-european-central-bank-investors-iran-war-ecb-inflation.html",
-    "time": "18小时前",
-    "published_iso": "2026-03-20T14:52:52+00:00",
-    "id": "n35",
-    "lead": false
-  },
-  {
-    "headline": "UK borrowing costs hit highest level since 2008 financial crisis",
-    "deck": "The interest rate on government debt is climbing over fears about inflation, interest rates, and public spending, experts have said.",
-    "cnTitle": "英国政府债务成本升至2008年来最高",
-    "cnDeck": "英国政府债务的利率因通胀、利率和公共支出担忧而上升至2008年金融危机以来的最高水平。专家表示，市场对英国经济前景的担忧正在推高借贷成本。这一发展反映了全球金融市场对主要发达经济体财政状况的关注。英国作为全球第六大经济体，其政府债务成本的上升可能对欧洲金融市场产生连锁反应，也可能影响英镑汇率和英国央行的货币政策决策。",
-    "cat": "finance",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cx23yn735jdo?at_medium=RSS&at_campaign=rss",
-    "time": "刚刚",
-    "published_iso": "2026-03-20T14:13:39+00:00",
-    "id": "n36",
-    "lead": false
-  },
-  {
-    "headline": "Trump admin unveils national AI policy framework to limit state power",
-    "deck": "AI industry leaders have opposed state-level regulatory efforts, arguing that a \"patchwork\" of laws would hobble innovation and give China a competitive edge.",
-    "cnTitle": "特朗普政府公布国家AI政策框架",
-    "cnDeck": "特朗普政府公布了国家AI政策框架，旨在限制州政府权力。AI行业领导者一直反对州级监管努力，辩称\"拼凑式\"的法律会阻碍创新并给中国竞争优势。这一政策框架代表了联邦政府在AI监管上的新立场，试图建立统一的全国性标准，而不是让各州各自为政。",
-    "cat": "tech",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/03/20/trump-ai-policy-framework.html",
-    "time": "刚刚",
-    "published_iso": "2026-03-20T13:57:56+00:00",
-    "id": "n37",
     "lead": false
   }
 ]
