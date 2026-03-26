@@ -1,5 +1,103 @@
 [
   {
+    "headline": "Trump says Justices Barrett, Gorsuch ‘sicken me’ after Supreme Court tariff ruling",
+    "deck": "The Supreme Court, in a 6-3 ruling, said President Trump did not have authority under the International Emergency Economic Powers Act to impose tariffs.",
+    "cnTitle": "特朗普批评最高法院关税裁决",
+    "cnDeck": "美国最高法院以6比3的多数意见裁定，总统特朗普无权根据《国际紧急经济权力法案》实施关税。特朗普随后发表言论，对做出此裁决的大法官巴雷特和戈萨奇表达了不满，称他们的判决\"令我厌恶\"。这一裁决对特朗普的贸易政策构成重大打击，因为他一直计划利用紧急权力对进口商品实施广泛关税。最高法院的决定限制了行政部门在国家紧急状态下的权力范围，这可能影响特朗普政府后续的贸易政策执行能力。这一司法判决在美国政治中引发了关于总统权力边界和三权分立原则的重要讨论。",
+    "cat": "politics",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/26/trump-supreme-court-tariffs-barrett-gorsuch-trade-ieepa-ruling.html",
+    "time": "刚刚",
+    "published_iso": "2026-03-26T15:05:45+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "Israel says it has killed Iran naval chief overseeing Strait of Hormuz blockade",
+    "deck": "Israel's Defense Forces said Thursday that Iranian naval commander Alireza Tangsiri in a \"precise strike\" in the port city of Bandar Abbas.",
+    "cnTitle": "以色列声称击杀伊朗海军指挥官",
+    "cnDeck": "以色列国防军周四表示，已在伊朗港口城市班达尔阿巴斯对伊朗海军指挥官阿里雷扎·唐西里进行了\"精准打击\"。唐西里负责监督霍尔木兹海峡的封锁行动。这一事件发生在中东地区局势持续紧张的背景下，涉及伊朗在战略性海域的海事控制权。",
+    "cat": "politics",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/26/strait-of-hormuz-israel-iran-alireza-tangsiri-middle-east-war.html",
+    "time": "1小时前",
+    "published_iso": "2026-03-26T14:50:02+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
+    "headline": "Iran war will spare no major economy, says OECD — but the UK is more vulnerable than others",
+    "deck": "The U.K. is predicted to be worse hit by the Iran war than its developed market counterparts, the OECD said in its interim economic outlook on Thursday.",
+    "cnTitle": "伊朗战争威胁全球经济增长",
+    "cnDeck": "经济合作与发展组织（OECD）周四在其中期经济展望报告中指出，伊朗战争将对全球主要经济体造成影响，但英国受到的冲击预计将大于其他发达市场国家。OECD警告称，中东地区的军事冲突升级可能导致油价上涨、全球供应链中断和经济增长放缓。该组织表示，虽然所有主要经济体都无法幸免，但英国由于其对能源进口的依赖程度和贸易结构的特殊性，面临的风险相对更高。这一预警反映了地缘政治紧张局势对全球经济稳定性的威胁。",
+    "cat": "politics",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/26/uk-could-be-worse-hit-from-iran-war-of-all-major-economies-oecd.html",
+    "time": "1小时前",
+    "published_iso": "2026-03-26T14:39:08+00:00",
+    "is_new": true,
+    "id": "n3",
+    "lead": false
+  },
+  {
+    "headline": "Global forecasting group sees U.S. inflation at 4.2% this year, much higher than Fed estimate",
+    "deck": "The forecast is a sharp step up from the prior projection of 2.8%. Moreover, it is much higher than the 2.7% Fed officials estimated.",
+    "cnTitle": "美国通胀预测大幅上调至4.2%",
+    "cnDeck": "全球预测机构发布最新报告，预计美国今年通胀率将达到4.2%，相比之前的预测值2.8%出现了大幅上升，同时也远高于美联储官员估计的2.7%。这一预测的上调表明通胀压力可能比美联储此前认为的更为持久和顽固。",
+    "cat": "economy",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/26/global-forecasting-group-sees-us-inflation-at-4point2percent-this-year-much-higher-than-fed-estimate.html",
+    "time": "1小时前",
+    "published_iso": "2026-03-26T14:02:43+00:00",
+    "is_new": true,
+    "id": "n4",
+    "lead": false
+  },
+  {
+    "headline": "Apple expands American manufacturing program with four new partners",
+    "deck": "Apple is adding Bosch, Cirrus Logic, TDK, and Qnity Electronics to its American Manufacturing Program, committing $400 million through 2030.",
+    "cnTitle": "苹果扩大美国制造计划投资",
+    "cnDeck": "苹果公司宣布将博世(Bosch)、瑞昱半导体(Cirrus Logic)、TDK和Qnity Electronics四家公司纳入其美国制造计划，承诺到2030年投入4亿美元。这一举措是苹果为推进供应链本土化、减少对海外制造依赖的重要步骤。通过与这些全球知名零部件供应商的合作，苹果将在美国本土扩大关键元器件和配件的生产能力。此举既符合美国政府鼓励制造业回流的政策导向，也反映了苹果在地缘政治风险加剧背景下对供应链韧性的重视。这四家新合作伙伴涉及汽车电子、音频芯片、磁性元件和其他精密电子零部件等多个领域，将进一步完善苹果在北美的产业生态。该计划自推出以来已吸引多家全球顶级供应商参与，标志着苹果在践行\"美国优先\"战略方面的持续深化。",
+    "cat": "tech",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/26/apple-american-manufacturing-program-trump.html",
+    "time": "2小时前",
+    "published_iso": "2026-03-26T13:25:54+00:00",
+    "is_new": true,
+    "id": "n5",
+    "lead": false
+  },
+  {
+    "headline": "Trump wants to squeeze Iran into peace talks with more troops — but it may backfire, analysts say",
+    "deck": "Trump's threats to ramp up military presence may be to pressure Iran to negotiate but the battle may be harder than he calculated, say analysts.",
+    "cnTitle": "特朗普增兵施压伊朗谈判可能适得其反",
+    "cnDeck": "特朗普威胁增加军事存在可能是为了向伊朗施压促其谈判，但分析人士指出这场较量可能比他预期的更加困难。特朗普政府正考虑增派美军部队到中东地区，以此作为对伊朗的强硬立场。分析人士认为，虽然增兵可能会对伊朗造成压力，推动其坐上谈判桌，但这种军事施压策略存在多方面风险。首先，伊朗可能会将此举视为挑衅而强硬回应，导致局势进一步升级而非缓和。其次，在中东地区增加美军存在会引起地区国家的担忧，包括伊拉克等美军驻扎国可能反对进一步军事扩张。此外，这种做法可能激怒伊朗支持的代理武装力量在叙利亚、伊拉克等地的活动。分析人士普遍认为，单纯依靠军事威胁难以实现特朗普希望通过谈判解决伊朗问题的目标。伊朗已多次表示只有在美国解除制裁的前提下才愿意谈判，而特朗普政府则坚持要伊朗先改变行为。这种立场对立使得通过增兵来改变伊朗态度的策略效果有限。历史经验表明，单纯的军事施压往往无法达到预期目标，反而可能激化矛盾。因此专家认为特朗普的这一策略可能会适得其反。",
+    "cat": "politics",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/26/trump-iran-peace-talks-troops-ceasefire-forever-war.html",
+    "time": "3小时前",
+    "published_iso": "2026-03-26T12:41:07+00:00",
+    "is_new": true,
+    "id": "n6",
+    "lead": false
+  },
+  {
+    "headline": "Defense Startup Shield AI Nabs $2 Billion at $12.7 Billion Value - Bloomberg.com",
+    "deck": "Defense Startup Shield AI Nabs $2 Billion at $12.7 Billion Value&nbsp;&nbsp;Bloomberg.com",
+    "cnTitle": "防御初创公司Shield AI融资20亿美元",
+    "cnDeck": "防御初创公司Shield AI在最新融资中获得20亿美元，公司估值达到127亿美元。这笔融资使Shield AI成为防御科技领域的重要参与者，展示了投资者对国防和人工智能技术结合的持续兴趣。Shield AI专注于开发用于军事和防御应用的自主系统和人工智能技术。该公司的融资成功反映了美国及全球对先进防御技术的投资热情，特别是在地缘政治局势紧张的背景下。这笔巨额融资将被用于进一步开发防御相关的AI技术、扩展研发能力，以及加强公司在防御科技市场中的竞争地位。Shield AI的估值达到127亿美元，标志着该公司已经跻身独角兽俱乐部中的顶级成员，成为全球最有价值的防御科技初创公司之一。",
+    "cat": "tech",
+    "source": "Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOa0RTcGVoLTl5RTllUGdsUE04RWNuSlJRanZHSjQ1aTFVeTg2MmV5VDJSU2RyMWZMbm9Db2drTl9KMjFNd2NMY0RHU0hBUkt3MWd5UTNqeXJtS0x0Y0NUcm1FSmhiVUMtVkgtNjR0M21EdDlicVNHQnhBOUo3QldReUQ2Tm9aT081anhVdVhzVDlyNnEzN2c3Q1JrbTIyVUpZb2xGdE03WVZYN2pBMzZudVJRVnN1bzBfbEQ3UGUwbEdMTDRyMUNTeEh6NFp2dw?oc=5",
+    "time": "3小时前",
+    "published_iso": "2026-03-26T12:38:33+00:00",
+    "is_new": true,
+    "id": "n7",
+    "lead": false
+  },
+  {
     "headline": "Oil prices rise 2% as Iran rejects direct U.S. talks despite proposal review",
     "deck": "Oil prices rose after Iran signaled it had no intention of holding direct talks with the United States.",
     "cnTitle": "伊朗拒绝与美直接谈判油价上涨",
@@ -9,9 +107,8 @@
     "url": "https://www.cnbc.com/2026/03/26/oil-price-wti-brent-crude-iran-rejects-direct-us-trump-talks-hormuz.html",
     "time": "刚刚",
     "published_iso": "2026-03-26T05:20:02+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n8",
+    "lead": false
   },
   {
     "headline": "Iran Rejects US Peace Plan, Issues Demands of Its Own - Bloomberg.com",
@@ -23,8 +120,7 @@
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaVRvSUVpaktFbkRfR25IRExORVNJbmxOWXZhbUd1a3BHSzJGV2N6ME5tNERsMjNxemNtMl9fODQ0dF9PQXFoV09KbExEUUNtUVRZWG8zajU3OXRwM0ZXRTVPTndZb2d1RlE2WEZEd1BacTF2NGZmQUY0VWdqMEdsN2ZoSG50QWtvRWlVTVJ0TkRwRW1mTGVjcXVqdXdOdU9sblBXTDJZQkg3dw?oc=5",
     "time": "1小时前",
     "published_iso": "2026-03-26T04:54:27+00:00",
-    "is_new": true,
-    "id": "n2",
+    "id": "n9",
     "lead": false
   },
   {
@@ -37,8 +133,7 @@
     "url": "https://www.cnbc.com/2026/03/25/stock-market-today-live-updates.html",
     "time": "1小时前",
     "published_iso": "2026-03-26T04:29:36+00:00",
-    "is_new": true,
-    "id": "n3",
+    "id": "n10",
     "lead": false
   },
   {
@@ -51,8 +146,7 @@
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNWQ4MnV5eVpBYlltcWI1dEk3WVNIS3g4cjNDRGoyMV9WeTMxUnZSRnVtSlBtUFlkOUVSQUczcWo1b3NkT3F0ZTVyT2Q5c3ZaN01ldm9yblpnZ1dyWVJ3QjJmUEhmekhZUGZxR0hDdE1ST0dwZC1vaFRMWmtpQy1HNFVic2lJQXBRNHQ1eHZYSzBLSmVmemJaWGtnSGtwazkx?oc=5",
     "time": "1小时前",
     "published_iso": "2026-03-26T04:01:00+00:00",
-    "is_new": true,
-    "id": "n4",
+    "id": "n11",
     "lead": false
   },
   {
@@ -65,8 +159,7 @@
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVkpBME90eGlmN2hVZFB2TlVQeGtYUFhpUWZNVThyYkI5Y1l4RV9WNEFVbG1yUHJUa1FqRlhNamdhMmxsc0Z3WHBmdDN1b2hOZDQ0VGxNTThWWk5BUzN0aVZ4WmJ4ZVI2RERrd3pJMUJnNUlXdDRxYTlBM29ERHFJeTZNc18wSXhOU1lYQU9mdm9mX1JYeEtkVllyUHhnbGV1LUhVcEhKRXlvdw?oc=5",
     "time": "2小时前",
     "published_iso": "2026-03-26T03:45:10+00:00",
-    "is_new": true,
-    "id": "n5",
+    "id": "n12",
     "lead": false
   },
   {
@@ -79,8 +172,7 @@
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZGpYdHI4RE5PQUtkdElUT3N4TWZLQUo4Wk9JUkVDeHJ5UTNidklhdkszdVp5WEU0bEZpcm9ubzZQSVI2Y1pFU1E0YVFOQ0pybDFWbW1TdHNBTHRDb3U0d0R1WjRCLURlT245MUtqQnp0RDR1MllOQ1dPSWlQblE5WlQ3ZU45V3dpeDVDN25sdTBPWVFkUnZEY3hqMXJ3eFN4T2JISkFqd0Y1d1FHTHdOZGhhZlhHQQ?oc=5",
     "time": "2小时前",
     "published_iso": "2026-03-26T03:13:00+00:00",
-    "is_new": true,
-    "id": "n6",
+    "id": "n13",
     "lead": false
   },
   {
@@ -93,8 +185,7 @@
     "url": "https://www.cnbc.com/2026/03/26/asia-pacific-markets-live-updates-nikkei-225-kospi-hang-seng-index.html",
     "time": "2小时前",
     "published_iso": "2026-03-26T03:10:32+00:00",
-    "is_new": true,
-    "id": "n7",
+    "id": "n14",
     "lead": false
   },
   {
@@ -107,8 +198,7 @@
     "url": "https://www.bbc.com/news/articles/c5y8d721q18o?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-03-26T02:01:39+00:00",
-    "is_new": true,
-    "id": "n8",
+    "id": "n15",
     "lead": false
   },
   {
@@ -121,8 +211,7 @@
     "url": "https://www.bbc.com/news/articles/c05dpr1m71go?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-03-26T01:42:26+00:00",
-    "is_new": true,
-    "id": "n9",
+    "id": "n16",
     "lead": false
   },
   {
@@ -135,8 +224,7 @@
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTU1heXBMdW5CRTI1T21xSG5KQURLZGZNeGxESU5RTWIwUWVkWDNRNEhONTI3djNiaTgycXFSMy15S1gwRlNRa1h3aGE4Q1VhSkVVMDViV25aeFdyOS1SOHYzaUF5N0hYT09tOC1RNjJ5YXVMeUdLZG1qLV92c3VQcm1BS2RDdmdSd3dVV2VOanl6ZFZROHhRdWg4VnhrMXg1NzhFYWN0T0h1cmtiYmh0YUo2RQ?oc=5",
     "time": "6小时前",
     "published_iso": "2026-03-25T23:00:00+00:00",
-    "is_new": true,
-    "id": "n10",
+    "id": "n17",
     "lead": false
   },
   {
@@ -149,8 +237,7 @@
     "url": "https://www.cnbc.com/2026/03/25/us-postal-fuel-surcharge-package-deliveries-iran-oil.html",
     "time": "7小时前",
     "published_iso": "2026-03-25T21:57:14+00:00",
-    "is_new": true,
-    "id": "n11",
+    "id": "n18",
     "lead": false
   },
   {
@@ -163,8 +250,7 @@
     "url": "https://www.bbc.com/news/articles/c995xp4jxj2o?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-03-25T21:18:55+00:00",
-    "is_new": true,
-    "id": "n12",
+    "id": "n19",
     "lead": false
   },
   {
@@ -177,8 +263,7 @@
     "url": "https://www.cnbc.com/2026/03/25/iran-war-us-trump.html",
     "time": "9小时前",
     "published_iso": "2026-03-25T20:49:26+00:00",
-    "is_new": true,
-    "id": "n13",
+    "id": "n20",
     "lead": false
   },
   {
@@ -191,8 +276,7 @@
     "url": "https://www.cnbc.com/2026/03/25/trump-xi-beijing-china-summit.html",
     "time": "11小时前",
     "published_iso": "2026-03-25T18:24:19+00:00",
-    "is_new": true,
-    "id": "n14",
+    "id": "n21",
     "lead": false
   },
   {
@@ -205,7 +289,7 @@
     "url": "https://www.cnbc.com/2026/03/25/arm-stock-chip-revenue-agi-cpu.html",
     "time": "刚刚",
     "published_iso": "2026-03-25T15:46:16+00:00",
-    "id": "n15",
+    "id": "n22",
     "lead": false
   },
   {
@@ -218,7 +302,7 @@
     "url": "https://www.bbc.com/news/articles/c9qd7wyln2jo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-03-25T15:07:13+00:00",
-    "id": "n16",
+    "id": "n23",
     "lead": false
   },
   {
@@ -231,7 +315,7 @@
     "url": "https://www.bbc.com/news/articles/cvg06q36052o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-03-25T14:55:36+00:00",
-    "id": "n17",
+    "id": "n24",
     "lead": false
   },
   {
@@ -244,7 +328,7 @@
     "url": "https://www.cnbc.com/2026/03/25/fertilizer-price-iran-war-food-security-inflation-urea-potash-nitrogen-farmers.html",
     "time": "1小时前",
     "published_iso": "2026-03-25T14:42:46+00:00",
-    "id": "n18",
+    "id": "n25",
     "lead": false
   },
   {
@@ -257,7 +341,7 @@
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQazlqUkk1T0FMQmlmZ0htcXhsalFfVmtiNHd1QmJLc0xJR2NOMHphNTBSX1VJY2Q1Sk5qcUVweHN0dnNUQnhhT1Z6Y1Bpc0lCa0dtMTFJNnhGbURUcTMxZndTTGVxSU9tbnFOdmJEQ3p0OXAzTFhaNnVSVGlGaU1aczJ1amxRNlBqUUloTWs2OHlBZkI4dWJzRjgwalF6WEVXQUNaRkRfZS1QUQ?oc=5",
     "time": "1小时前",
     "published_iso": "2026-03-25T14:06:17+00:00",
-    "id": "n19",
+    "id": "n26",
     "lead": false
   },
   {
@@ -270,8 +354,7 @@
     "url": "https://www.bbc.com/news/articles/cx2w47e9v2vo?at_medium=RSS&at_campaign=rss",
     "time": "16小时前",
     "published_iso": "2026-03-25T13:27:50+00:00",
-    "is_new": true,
-    "id": "n20",
+    "id": "n27",
     "lead": false
   },
   {
@@ -284,7 +367,7 @@
     "url": "https://www.cnbc.com/2026/03/25/recession-odds-climb-on-wall-street-as-economy-shows-cracks-beneath-the-surface.html",
     "time": "2小时前",
     "published_iso": "2026-03-25T13:22:06+00:00",
-    "id": "n21",
+    "id": "n28",
     "lead": false
   },
   {
@@ -297,7 +380,7 @@
     "url": "https://www.cnbc.com/2026/03/25/hugo-barras-return-to-meta-5-years-after-exit-underscores-ai-urgency.html",
     "time": "2小时前",
     "published_iso": "2026-03-25T13:11:46+00:00",
-    "id": "n22",
+    "id": "n29",
     "lead": false
   },
   {
@@ -310,7 +393,7 @@
     "url": "https://www.bbc.com/news/articles/c1eql309n12o?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-03-25T12:42:14+00:00",
-    "id": "n23",
+    "id": "n30",
     "lead": false
   },
   {
@@ -323,7 +406,21 @@
     "url": "https://www.bbc.com/news/articles/c747x00m83vo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-03-25T12:27:28+00:00",
-    "id": "n24",
+    "id": "n31",
+    "lead": false
+  },
+  {
+    "headline": "AI Notetaker Granola Hits $1.5 Billion Value in $125 Million Funding - Bloomberg.com",
+    "deck": "AI Notetaker Granola Hits $1.5 Billion Value in $125 Million Funding&nbsp;&nbsp;Bloomberg.com",
+    "cnTitle": "AI笔记应用Granola融资1.25亿美元",
+    "cnDeck": "AI笔记应用Granola在最新一轮融资中筹集了1.25亿美元，公司估值达到15亿美元。这轮融资使Granola成为AI领域快速增长的初创企业之一，展现了投资者对AI辅助生产力工具的持续看好。Granola是一款利用人工智能技术帮助用户记录和整理笔记的应用程序。随着企业和个人对AI驱动的工作效率工具需求的增加，该公司的融资成功反映了这一市场趋势。此次融资将帮助Granola进一步开发产品功能、扩展市场覆盖范围并增加其研发投入。AI笔记应用市场竞争日益激烈，包括多个初创企业和大型科技公司都在推出类似产品。Granola的成功融资表明，专注于特定用途的AI应用仍然能够获得投资者青睐，特别是那些能够解决实际工作问题的工具。",
+    "cat": "tech",
+    "source": "Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTjZLQVpVdVZBakVVQXhfaDdxNFQweG1mVl9BWGFEbEJfY3M2UkdMTks5S2h3dmoyOXBKSEFXQTR3ek9hY3g5anRHaW5KeE82U1pSdFN2OGphaExKazNnclZRVklhamJUMkZ5dE5Dc0tLME1nVG0wNkJqalBfenQxXzZWcTlQX1k5UktRZVNYQWItLVdLRDdaeWVsQ0VBSzlTNDFRYXY1M2o0eDUxV25Gc2VHYkdoQWVfeHRIblVpaUdodVpfRGpxUXBxcjM2YlNaNUI0?oc=5",
+    "time": "1天前",
+    "published_iso": "2026-03-25T12:00:06+00:00",
+    "is_new": true,
+    "id": "n32",
     "lead": false
   },
   {
@@ -336,7 +433,7 @@
     "url": "https://www.bbc.com/news/articles/c3w3e467ewqo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-03-25T04:48:56+00:00",
-    "id": "n25",
+    "id": "n33",
     "lead": false
   },
   {
@@ -349,7 +446,7 @@
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQmotMmZtZVVxclJpYnJtUEdUeWJRY0FYMzRpRVNFRGZ2U0t4cUZXVHhwamhtSVc1akdCczJOM3loc25oQmNLa0J4WTZDMm1jUXV5RFdoRXBfLTJvRC1SOEtGcTlEX3ViN3BNLUxpSFRIM0kwMjBOZnRENXFtMERPb05jN21PaWJkNGJxZ19MRmc1ZTl2?oc=5",
     "time": "刚刚",
     "published_iso": "2026-03-25T04:23:00+00:00",
-    "id": "n26",
+    "id": "n34",
     "lead": false
   },
   {
@@ -362,7 +459,7 @@
     "url": "https://www.cnbc.com/2026/03/24/stock-market-today-live-updates.html",
     "time": "刚刚",
     "published_iso": "2026-03-25T04:19:51+00:00",
-    "id": "n27",
+    "id": "n35",
     "lead": false
   },
   {
@@ -375,7 +472,7 @@
     "url": "https://www.cnbc.com/2026/03/25/sk-hynix-confidential-us-listing-adr-ai-memory.html",
     "time": "1小时前",
     "published_iso": "2026-03-25T03:48:51+00:00",
-    "id": "n28",
+    "id": "n36",
     "lead": false
   },
   {
@@ -388,7 +485,7 @@
     "url": "https://www.cnbc.com/2026/03/24/meta-offers-stock-awards-options-for-executives-aggressive-timing.html",
     "time": "2小时前",
     "published_iso": "2026-03-25T02:44:18+00:00",
-    "id": "n29",
+    "id": "n37",
     "lead": false
   },
   {
@@ -401,7 +498,7 @@
     "url": "https://www.cnbc.com/2026/03/25/gold-prices-oil-us-iran-talks-goldman-forecast-trimp-middle-east-inflation.html",
     "time": "2小时前",
     "published_iso": "2026-03-25T02:36:50+00:00",
-    "id": "n30",
+    "id": "n38",
     "lead": false
   },
   {
@@ -414,7 +511,7 @@
     "url": "https://www.cnbc.com/2026/03/25/asia-markets-today-nikkei-225-kospi-hang-seng-index.html",
     "time": "2小时前",
     "published_iso": "2026-03-25T02:24:06+00:00",
-    "id": "n31",
+    "id": "n39",
     "lead": false
   },
   {
@@ -427,7 +524,7 @@
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTUt0SElIbGluSHBwTDE2UFR0QTJIMDF2am5XQV9IQUd3Ui1nUFpLYTZYN3F4Rk5jckdlcTI0c0RmalFZX0pTMzFpWjdhR2RyVEJBOWRtVDZGZ1JOUFRsTHh0dDQwY2t1MjB1Nko1MThBZDNsSnVwdkNJRnlGbHRSVHdMNHFMYnpIcXRWUmNIeEZiaWlBY2ozbXVZYlUtdktHN1BSWmpXektRYmMzdGtIM0V3?oc=5",
     "time": "4小时前",
     "published_iso": "2026-03-25T00:57:00+00:00",
-    "id": "n32",
+    "id": "n40",
     "lead": false
   },
   {
@@ -440,7 +537,7 @@
     "url": "https://www.bbc.com/news/articles/c9wqrdkx8ppo?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-03-25T00:00:20+00:00",
-    "id": "n33",
+    "id": "n41",
     "lead": false
   },
   {
@@ -453,7 +550,7 @@
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSkN0WGhLaExfXzFHMWR0Z2lmZmh0THVydTFpWEtRSmpNODB0WThWWHBsUEtfcFBLdHR2TDQzbDNBaFVRa3R0d3V3NXBKMFZ1bzcxR21IYnZVNF9WQzdvNUVoZm9zVEdobXhPaWdrbFNiVVJUWGd4YVl1NE55YXhxWTN6VjVMYVJLSVQyak9ESVFaN3gzdUJNU0dxcEJjTlBSV083Nm90NmR1QmpSbjgw?oc=5",
     "time": "6小时前",
     "published_iso": "2026-03-24T23:04:00+00:00",
-    "id": "n34",
+    "id": "n42",
     "lead": false
   },
   {
@@ -466,7 +563,7 @@
     "url": "https://www.cnbc.com/2026/03/24/arm-stock-pops-haas-chip-cpu.html",
     "time": "6小时前",
     "published_iso": "2026-03-24T22:46:48+00:00",
-    "id": "n35",
+    "id": "n43",
     "lead": false
   },
   {
@@ -479,7 +576,7 @@
     "url": "https://www.bbc.com/news/articles/cz90gpyw90wo?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-03-24T21:47:10+00:00",
-    "id": "n36",
+    "id": "n44",
     "lead": false
   },
   {
@@ -492,7 +589,7 @@
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVWRNN2VHMWdyQlpSZUZWazhOUHdqS3dhdGtyTVlLZWVUc1hxamJmTDRtMzRaTkxna2twM1dMbDluQnplQndfcktxci1TLWJKaS1SX3VMaU02UWJQaW53Rld6WEstUXVRS21sdE9KWjcxSVZXQlZ5dzVRQTF6UHV1bmV5OEI2YXdSOGpJa05Uc2tzNXRVbGxDM3draEx0ZFhjTFlqWDNtWEd2MzdpclVJ?oc=5",
     "time": "8小时前",
     "published_iso": "2026-03-24T20:25:50+00:00",
-    "id": "n37",
+    "id": "n45",
     "lead": false
   },
   {
@@ -505,7 +602,7 @@
     "url": "https://www.cnbc.com/2026/03/24/iran-war-oil-strait-hormuz-kuwait-gulf.html",
     "time": "8小时前",
     "published_iso": "2026-03-24T20:24:42+00:00",
-    "id": "n38",
+    "id": "n46",
     "lead": false
   },
   {
@@ -518,7 +615,7 @@
     "url": "https://www.cnbc.com/2026/03/24/micron-mu-stock-q2-earnings-memory-shortage.html",
     "time": "9小时前",
     "published_iso": "2026-03-24T20:19:48+00:00",
-    "id": "n39",
+    "id": "n47",
     "lead": false
   },
   {
@@ -531,7 +628,7 @@
     "url": "https://www.cnbc.com/2026/03/24/trump-iran-war-pakistan-talks.html",
     "time": "10小时前",
     "published_iso": "2026-03-24T18:26:00+00:00",
-    "id": "n40",
+    "id": "n48",
     "lead": false
   },
   {
@@ -544,7 +641,7 @@
     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMEZ5S29YWXplRm1PN1N5bWpUd3REbkdVMDc4MzVhVXkwU0RzWFRBSERDNXoyRWtlVHpjaXljSWp5Sk1uY05EdTZTY1FsRGRFM1RCeHMzZXZjVzhJR2pKbmpkaHdpeXkyNW5PalIzLUpMS3lyeFczcThYcGZpM0hTMEFUb21ZcmdwVy1ialRnZmNELW1KMHZvbm1Tb1loVV9HeXc3cVJRd2xDdkMtRF92NmI5MnAxZ0t0d2g1a2lkRkN1a21Zc2QzSjFiV3Y?oc=5",
     "time": "21小时前",
     "published_iso": "2026-03-24T18:07:03+00:00",
-    "id": "n41",
+    "id": "n49",
     "lead": false
   },
   {
@@ -557,46 +654,7 @@
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeWctSmdHRXJaUDVLRUk1R29NTk9MRWdEb081LU1NYUgzU2pnaUVHaklEUXJCeGVzbklOb1RYc1JUalAtUjBPdmVhTDlIcFVyRC1ZYjV2LU1hWFZHT1BqSm5iSVpfQjBlZWZZOWxuT2pCc0RiMzVkUF9GUzFjc0RuQjdqVTRkWkgxallZdjBjNXdPLXVaaVc5QkN1MEhUWXFtSVF2TGhUV3pRblVNS2hBOGN6ZjdrSHB2YTFrN2RscWJkWF93ZHljTzdta1dQQQ?oc=5",
     "time": "23小时前",
     "published_iso": "2026-03-24T16:55:29+00:00",
-    "id": "n42",
-    "lead": false
-  },
-  {
-    "headline": "DeepSeek’s Latest Job Postings Highlight Pivot to Agentic AI - Bloomberg.com",
-    "deck": "DeepSeek’s Latest Job Postings Highlight Pivot to Agentic AI&nbsp;&nbsp;Bloomberg.com",
-    "cnTitle": "DeepSeek转向智能体AI领域",
-    "cnDeck": "DeepSeek最新招聘信息显示该公司正在转向智能体AI（Agentic AI）领域。根据彭博社报道，DeepSeek的最新职位招聘反映了公司战略方向的调整。智能体AI是指能够自主规划、决策和执行任务的人工智能系统，相比传统AI模型具有更高的自主性和复杂任务处理能力。DeepSeek通过招聘新岗位来扩展其在这一领域的技术能力和研发团队。这一转向表明DeepSeek正在从大语言模型领域拓展到更高阶的AI应用，与行业内其他科技公司如OpenAI、Google等的发展方向相呼应。智能体AI被广泛认为是未来AI发展的重要方向，能够在自动化、决策支持、复杂问题求解等多个领域应用。DeepSeek此举标志着公司在AI技术演进中的新布局。",
-    "cat": "tech",
-    "source": "Bloomberg",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOWJ0clNVOWZXQVlZd08ybHJGcnV2TktHWjFiZWd1R19tcHB6OTkyak1VU3VFLWpXcTVBVVBYUlJIRTd0azctbnVoUXhKZkp4eWVWWUQydGVPWnJSV0hkc0FLdERfaUViam53NDFJRDBEZGd1TFZrdTlVYTlkdFVmQmtfR0E4ZmhWVC1OUXBrbGJjb3hLOXdueHVSeHlqSXFRclB1ck9mM1lRTW0yZW9YZUY5bzF2LXRMeC1YcE9iMk5PV3ByXzZ6cXdRQQ?oc=5",
-    "time": "1天前",
-    "published_iso": "2026-03-24T13:42:53+00:00",
-    "id": "n43",
-    "lead": false
-  },
-  {
-    "headline": "Amazon's Zoox to debut robotaxis in Austin, Miami later this year as it awaits paid ride approval",
-    "deck": "It marks the latest expansion for Amazon's Zoox self-driving unit, which opened rides to the public in some parts of Las Vegas and San Francisco last year.",
-    "cnTitle": "Amazon旗下Zoox将在美推出无人出租车",
-    "cnDeck": "亚马逊旗下自动驾驶公司Zoox将在今年晚些时候在奥斯汀和迈阿密推出无人出租车服务。这是Zoox最新的业务扩展举措。Zoox在去年已经在拉斯维加斯和旧金山的部分地区向公众开放了无人驾驶出租车服务。此次在奥斯汀和迈阿密的推出标志着该公司继续推进自动驾驶商业化的步伐。Zoox正在等待相关部门批准其付费骑行服务的运营。",
-    "cat": "tech",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/03/24/amazon-zoox-robotaxi-rides-austin-miami.html",
-    "time": "2小时前",
-    "published_iso": "2026-03-24T13:23:11+00:00",
-    "id": "n44",
-    "lead": false
-  },
-  {
-    "headline": "Australia and EU agree sweeping trade deal in face of global uncertainty",
-    "deck": "Australia and the EU sign sweeping trade and security deals after years of negotiations.",
-    "cnTitle": "澳大利亚与欧盟达成全面贸易安全协议",
-    "cnDeck": "澳大利亚和欧盟在多年谈判后签署了全面的贸易和安全协议。这项协议涵盖了双方在商业、投资和安全领域的合作，是两个重要经济体在全球不确定性加剧背景下加强关系的重要举措。该贸易协议将促进双方商品和服务的流动，降低关税壁垒，扩大投资机会。安全协议则强化了两方在印太地区的防务和安全合作，反映了对地区稳定性的共同关切。这个协议的达成表明尽管全球存在贸易保护主义和地缘政治风险，但主要民主国家仍在推进开放和互利的经贸关系。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cly6g6l6lq7o?at_medium=RSS&at_campaign=rss",
-    "time": "3小时前",
-    "published_iso": "2026-03-24T12:14:15+00:00",
-    "id": "n45",
+    "id": "n50",
     "lead": false
   }
 ]
