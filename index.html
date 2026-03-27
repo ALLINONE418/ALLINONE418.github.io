@@ -302,14 +302,11 @@ a{color:inherit;text-decoration:none;}
 <div id="panel-videos" class="panel">
 <div class="container" style="padding-top:24px">
   <div class="vd-updated" id="vd-updated"></div>
-
-  <!-- ★ 排序栏：仅选中具体频道时出现 -->
   <div id="vd-sort-bar">
     <span class="vd-sort-label">排序</span>
     <div class="tb-btn active" id="vd-sort-new" onclick="setVdSort('new',this)">最新</div>
     <div class="tb-btn" id="vd-sort-hot" onclick="setVdSort('hot',this)">最热</div>
   </div>
-
   <div class="vd-toolbar-wrap" id="vd-toolbar-wrap">
     <div class="vd-toolbar-row" id="vd-row-cn">
       <span class="vd-lang-label cn" id="vd-lbl-cn" onclick="setVdTop('cn',this)">中文</span>
@@ -405,17 +402,83 @@ const OPINIONS_FALLBACK=[
 ];
 let OPINIONS=[...OPINIONS_FALLBACK];
 
+// ══════════════════════════════════════
+// NEWS 静态 fallback 数据
+// 真实数据通过 news.json 加载，time 字段格式：
+//   今天  → "2h ago" / "30min ago" / "刚刚" / "just now"
+//   昨天  → "Yesterday" / "1 day ago" / "昨天"
+//   前天  → "2 days ago" / "前天" / 具体日期如 "Mar 25"
+// ══════════════════════════════════════
 const NEWS=[
-  {id:'n1',cat:'economy',source:'Reuters',headline:'Fed holds rates steady, signals two cuts remain on table for 2025',deck:'Federal Reserve officials kept interest rates unchanged while reaffirming their projection for two rate reductions before year-end.',time:'2h ago',url:'https://reuters.com',lead:true},
-  {id:'n2',cat:'finance',source:'Bloomberg',headline:'EUR/USD holds above 1.088 as dollar rally loses momentum',deck:'The euro steadied after three weeks of losses, with traders unwinding long-dollar bets.',time:'1h ago',url:'https://bloomberg.com'},
-  {id:'n3',cat:'economy',source:'Reuters',headline:'China\'s industrial output beats forecasts as exports surge 12% in February',deck:'Factory activity expanded at its fastest pace in seven months.',time:'6h ago',url:'https://reuters.com'},
-  {id:'n4',cat:'finance',source:'Reuters',headline:'JPMorgan, Goldman post record Q1 trading revenues on volatility spike',deck:'Wall Street\'s largest banks reported blowout results.',time:'8h ago',url:'https://reuters.com'},
-  {id:'n5',cat:'tech',source:'BBC',headline:'EU regulators open formal probe into Microsoft\'s AI integration with Office',deck:'Investigators will examine whether bundling Copilot constitutes unlawful market foreclosure.',time:'5h ago',url:'https://bbc.com'},
-  {id:'n6',cat:'politics',source:'Bloomberg',headline:'Trump administration imposes sweeping new tariff schedule',deck:'The White House unveiled the most significant overhaul of import duties in decades.',time:'3h ago',url:'https://bloomberg.com'},
-  {id:'n7',cat:'economy',source:'Reuters',headline:'ECB divided on pace of easing as eurozone growth outlook deteriorates',deck:'Minutes reveal sharp disagreement between hawks and doves.',time:'10h ago',url:'https://reuters.com'},
-  {id:'n8',cat:'economy',source:'BBC',headline:'UK inflation falls to 2.8%, closest to target in three years',deck:'Consumer prices dropped more sharply than expected.',time:'4h ago',url:'https://bbc.com'},
-  {id:'n9',cat:'tech',source:'BBC',headline:'OpenAI launches GPT-5 with unprecedented multimodal reasoning',deck:'The model demonstrates a significant leap in scientific problem-solving.',time:'7h ago',url:'https://bbc.com'},
-  {id:'n10',cat:'politics',source:'Reuters',headline:'G7 agrees framework on AI governance, stops short of binding rules',deck:'Finance and technology ministers endorsed voluntary principles.',time:'9h ago',url:'https://reuters.com'},
+  // 今天
+  {id:'n1',cat:'economy',source:'Reuters',
+   headline:'Fed holds rates steady, signals two cuts remain on table for 2025',
+   cnTitle:'美联储维持利率不变，暗示年内仍有两次降息空间',
+   deck:'Federal Reserve officials kept interest rates unchanged while reaffirming their projection for two rate reductions before year-end.',
+   cnDeck:'美联储官员维持利率不变，同时重申年底前仍有两次降息的预期。',
+   time:'2h ago',url:'https://reuters.com'},
+  {id:'n2',cat:'finance',source:'Bloomberg',
+   headline:'EUR/USD holds above 1.088 as dollar rally loses momentum',
+   cnTitle:'欧元兑美元守住1.088上方，美元涨势趋缓',
+   deck:'The euro steadied after three weeks of losses, with traders unwinding long-dollar bets.',
+   cnDeck:'欧元在连续三周下跌后企稳，交易员开始平仓美元多头头寸。',
+   time:'1h ago',url:'https://bloomberg.com'},
+  {id:'n3',cat:'economy',source:'Reuters',
+   headline:"China's industrial output beats forecasts as exports surge 12% in February",
+   cnTitle:'中国工业产出超预期，2月出口同比激增12%',
+   deck:'Factory activity expanded at its fastest pace in seven months.',
+   cnDeck:'工厂活动以七个月来最快速度扩张。',
+   time:'6h ago',url:'https://reuters.com'},
+  {id:'n4',cat:'finance',source:'Reuters',
+   headline:'JPMorgan, Goldman post record Q1 trading revenues on volatility spike',
+   cnTitle:'摩根大通、高盛一季度交易收入创纪录，市场波动功不可没',
+   deck:"Wall Street's largest banks reported blowout results.",
+   cnDeck:'华尔街大型银行公布亮眼业绩。',
+   time:'8h ago',url:'https://reuters.com'},
+  {id:'n5',cat:'tech',source:'BBC',
+   headline:"EU regulators open formal probe into Microsoft's AI integration with Office",
+   cnTitle:'欧盟监管机构对微软Office内置AI展开正式调查',
+   deck:'Investigators will examine whether bundling Copilot constitutes unlawful market foreclosure.',
+   cnDeck:'调查人员将审查捆绑Copilot是否构成非法市场封锁。',
+   time:'5h ago',url:'https://bbc.com'},
+  {id:'n6',cat:'politics',source:'Bloomberg',
+   headline:'Trump administration imposes sweeping new tariff schedule',
+   cnTitle:'特朗普政府推出大规模新关税方案',
+   deck:'The White House unveiled the most significant overhaul of import duties in decades.',
+   cnDeck:'白宫公布数十年来最重大的进口关税调整方案。',
+   time:'3h ago',url:'https://bloomberg.com'},
+  // 昨天
+  {id:'n7',cat:'economy',source:'Reuters',
+   headline:'ECB divided on pace of easing as eurozone growth outlook deteriorates',
+   cnTitle:'欧元区增长前景恶化，欧央行内部在宽松节奏上分歧加剧',
+   deck:'Minutes reveal sharp disagreement between hawks and doves.',
+   cnDeck:'会议纪要显示鹰派与鸽派之间存在明显分歧。',
+   time:'Yesterday',url:'https://reuters.com'},
+  {id:'n8',cat:'economy',source:'BBC',
+   headline:'UK inflation falls to 2.8%, closest to target in three years',
+   cnTitle:'英国通胀降至2.8%，三年来最接近目标水平',
+   deck:'Consumer prices dropped more sharply than expected.',
+   cnDeck:'消费价格降幅超出预期。',
+   time:'Yesterday',url:'https://bbc.com'},
+  {id:'n9',cat:'tech',source:'BBC',
+   headline:'OpenAI launches GPT-5 with unprecedented multimodal reasoning',
+   cnTitle:'OpenAI发布GPT-5，多模态推理能力空前强大',
+   deck:'The model demonstrates a significant leap in scientific problem-solving.',
+   cnDeck:'该模型在科学问题求解方面展现出显著跨越。',
+   time:'Yesterday',url:'https://bbc.com'},
+  // 前天
+  {id:'n10',cat:'politics',source:'Reuters',
+   headline:'G7 agrees framework on AI governance, stops short of binding rules',
+   cnTitle:'G7就AI治理框架达成共识，但未设具有约束力的规则',
+   deck:'Finance and technology ministers endorsed voluntary principles.',
+   cnDeck:'财政部长和技术部长认可了自愿性原则。',
+   time:'2 days ago',url:'https://reuters.com'},
+  {id:'n11',cat:'finance',source:'FT',
+   headline:'Private equity dealmaking rebounds as rate cuts revive appetite',
+   cnTitle:'降息提振风险偏好，私募股权并购活动回暖',
+   deck:'Deal volumes in Q1 surpassed year-ago levels for the first time since 2022.',
+   cnDeck:'一季度交易量自2022年以来首次超过去年同期水平。',
+   time:'2 days ago',url:'https://ft.com'},
 ];
 
 const ARTICLES_FALLBACK=[
@@ -476,37 +539,27 @@ function drawSparkline(canvasId,key){
 }
 
 // ══════════════════════════════════════
-// VIDEOS  ★ 含排序功能
+// VIDEOS
 // ══════════════════════════════════════
 let VIDEO_DATA=[];
-let VD_ACTIVE_CHANNEL='all'; // ★
-let VD_SORT='new';           // ★ 'new' | 'hot'
+let VD_ACTIVE_CHANNEL='all';
+let VD_SORT='new';
 
 function fmtVideoDate(iso){if(!iso)return'';const d=new Date(iso);return d.toLocaleDateString('en-US',{year:'numeric',month:'short',day:'numeric'});}
 
 function renderVideos(filterChannel,sort){
   if(filterChannel!==undefined) VD_ACTIVE_CHANNEL=filterChannel;
   if(sort!==undefined) VD_SORT=sort;
-
   const grid=document.getElementById('vd-grid');
   grid.innerHTML='';
-
   if(VIDEO_DATA.length===0){
     grid.innerHTML=Array(8).fill(`<div class="vd-skeleton-card"><div class="vd-skeleton"></div><div class="vd-skeleton-body"><div class="vd-skeleton-line" style="width:40%;height:8px"></div><div class="vd-skeleton-line" style="width:90%;height:10px"></div><div class="vd-skeleton-line" style="width:65%;height:8px"></div></div></div>`).join('');
     return;
   }
-
-  // ★ 单频道模式：选中了某个具体频道（不是 all / cn-all / en-all）
   const isSingle = VD_ACTIVE_CHANNEL!=='all' && VD_ACTIVE_CHANNEL!=='cn-all' && VD_ACTIVE_CHANNEL!=='en-all';
-
-  // ★ 排序栏显示/隐藏
   const sortBar=document.getElementById('vd-sort-bar');
   if(sortBar) sortBar.style.display = isSingle ? 'flex' : 'none';
-
-  // ★ 汇总模式（中文/AI学习）每个博主只取最新2条，避免手机卡顿
   const isAggregate = VD_ACTIVE_CHANNEL==='cn-all' || VD_ACTIVE_CHANNEL==='en-all';
-
-  // 收集符合筛选条件的视频
   let allVideos=[];
   VIDEO_DATA.forEach(ch=>{
     if(VD_ACTIVE_CHANNEL==='cn-all' && ch.lang!=='cn') return;
@@ -515,19 +568,15 @@ function renderVideos(filterChannel,sort){
     const vids = isAggregate ? ch.videos.slice(0,2) : ch.videos;
     vids.forEach(v=>allVideos.push({...v, _chName:ch.channel_name, _chId:ch.channel_id}));
   });
-
-  // ★ 排序：单频道支持最新/最热；汇总模式始终按时间降序
-if(isSingle){
-  if(VD_SORT==='hot'){
-    allVideos.sort((a,b)=>(b.view_count||0)-(a.view_count||0));
+  if(isSingle){
+    if(VD_SORT==='hot'){
+      allVideos.sort((a,b)=>(b.view_count||0)-(a.view_count||0));
+    } else {
+      allVideos.sort((a,b)=>new Date(b.published_at||0)-new Date(a.published_at||0));
+    }
   } else {
     allVideos.sort((a,b)=>new Date(b.published_at||0)-new Date(a.published_at||0));
   }
-} else {
-  // 汇总模式：各频道2条视频混合后，统一按发布时间由新到旧排列
-  allVideos.sort((a,b)=>new Date(b.published_at||0)-new Date(a.published_at||0));
-}
-
   let idx=0;
   allVideos.forEach((v,vi)=>{
     const ch={channel_name:v._chName, channel_id:v._chId};
@@ -540,23 +589,14 @@ if(isSingle){
     grid.appendChild(card);
     idx++;
   });
-
   if(grid.children.length===0) grid.innerHTML=`<p style="color:var(--ink4);font-size:13px;padding:24px 0;grid-column:1/-1">No videos available.</p>`;
 }
 
-// ★ 切换排序
 function setVdSort(sort,el){
   VD_SORT=sort;
   document.querySelectorAll('#vd-sort-bar .tb-btn').forEach(b=>b.classList.remove('active'));
   el.classList.add('active');
   renderVideos();
-}
-
-function openYoutube(embedUrl){
-  // embed_url: https://www.youtube.com/embed/VIDEO_ID → watch?v=VIDEO_ID
-  const videoId = embedUrl.split('/embed/')[1]?.split('?')[0];
-  const url = videoId ? `https://www.youtube.com/watch?v=${videoId}` : embedUrl;
-  window.open(url, '_blank');
 }
 
 function openVdModal(embedUrl,channelName,title){
@@ -578,7 +618,6 @@ async function translateVd(btn,boxId,title){
   catch{box.textContent='翻译暂时不可用';box.classList.add('show');}
 }
 
-// ★ 清除频道高亮，同时重置排序为「最新」
 function clearAllActive(){
   document.querySelectorAll('.vd-tb-cn,.vd-tb-en,.vd-lang-label').forEach(b=>b.classList.remove('active'));
   VD_SORT='new';
@@ -608,7 +647,6 @@ async function loadVideos(){
     const rowEn=document.getElementById('vd-row-en');
     rowCn.querySelectorAll('.vd-tb-cn').forEach(b=>b.remove());
     rowEn.querySelectorAll('.vd-tb-en').forEach(b=>b.remove());
-
     VIDEO_DATA.filter(ch=>ch.lang==='cn').forEach(ch=>{
       const btn=document.createElement('div');
       btn.className='vd-tb-cn';
@@ -616,11 +654,10 @@ async function loadVideos(){
       btn.onclick=function(){
         clearAllActive();
         this.classList.add('active');
-        renderVideos(ch.channel_id); // ★ 单频道 → 触发排序栏
+        renderVideos(ch.channel_id);
       };
       rowCn.appendChild(btn);
     });
-
     VIDEO_DATA.filter(ch=>ch.lang==='en').forEach(ch=>{
       const btn=document.createElement('div');
       btn.className='vd-tb-en';
@@ -628,12 +665,10 @@ async function loadVideos(){
       btn.onclick=function(){
         clearAllActive();
         this.classList.add('active');
-        renderVideos(ch.channel_id); // ★ 单频道 → 触发排序栏
+        renderVideos(ch.channel_id);
       };
       rowEn.appendChild(btn);
     });
-
-    // ★ 默认打开「中文」汇总（每博主2条）
     const lblCn = document.getElementById('vd-lbl-cn');
     if(lblCn) lblCn.classList.add('active');
     renderVideos('cn-all');
@@ -644,10 +679,7 @@ async function loadVideos(){
 }
 
 // ══════════════════════════════════════
-// NEWS
-// ══════════════════════════════════════
-// ══════════════════════════════════════
-// NEWS 播报（Web Speech API）
+// NEWS 播报
 // ══════════════════════════════════════
 let _newsSpeaking = false;
 
@@ -660,16 +692,8 @@ function toggleNewsPlay() {
     btn.style.background = '#7a2828';
     return;
   }
-
-  // 收集当日新闻标题+摘要
-  const items = NEWS.filter(n =>
-    n.time.includes('h ago') || n.time.includes('小时前') || n.time === '刚刚'
-  );
-  if (!items.length) {
-    alert('暂无当日新闻可播报');
-    return;
-  }
-
+  const items = NEWS.filter(n => isToday(n.time));
+  if (!items.length) { alert('暂无当日新闻可播报'); return; }
   let text = '你好，世界！以下是今日财经要闻。';
   items.forEach((n, i) => {
     const title = n.cnTitle || n.headline;
@@ -677,15 +701,8 @@ function toggleNewsPlay() {
     text += `第${['一','二','三','四','五','六','七','八','九','十'][i]||i+1}条。${title}。${deck} `;
   });
   text += '今日要闻播报完毕，感谢收听。';
-
   const utter = new SpeechSynthesisUtterance(text);
-  utter.lang   = 'zh-CN';
-  utter.rate   = 1.2;   // 新闻播报节奏，清晰不拖沓
-  utter.pitch  = 1.0;
-  utter.volume = 1;
-
-  // 优先锁定 Microsoft Huihui（网页效果最佳）
-  // 手机没有时依次 fallback 到其他中文声音
+  utter.lang='zh-CN'; utter.rate=1.2; utter.pitch=1.0; utter.volume=1;
   const voices = window.speechSynthesis.getVoices();
   const preferred = voices.find(v => v.name === 'Microsoft Huihui - Chinese (Simplified, PRC)')
     || voices.find(v => v.name.includes('Huihui'))
@@ -693,41 +710,84 @@ function toggleNewsPlay() {
     || voices.find(v => v.lang === 'zh-CN')
     || voices.find(v => v.lang.startsWith('zh'));
   if (preferred) utter.voice = preferred;
-
-  utter.onend = () => {
-    _newsSpeaking = false;
-    btn.textContent = '▶ 播报';
-    btn.style.background = '#7a2828';
-  };
-  utter.onerror = () => {
-    _newsSpeaking = false;
-    btn.textContent = '▶ 播报';
-    btn.style.background = '#7a2828';
-  };
-
-  window.speechSynthesis.cancel(); // 清除残留
+  utter.onend = () => { _newsSpeaking=false; btn.textContent='▶ 播报'; btn.style.background='#7a2828'; };
+  utter.onerror = () => { _newsSpeaking=false; btn.textContent='▶ 播报'; btn.style.background='#7a2828'; };
+  window.speechSynthesis.cancel();
   window.speechSynthesis.speak(utter);
   _newsSpeaking = true;
   btn.textContent = '■ 停止';
   btn.style.background = '#a04040';
 }
-
-// 语音列表异步加载时重新触发
 if (window.speechSynthesis && window.speechSynthesis.onvoiceschanged !== undefined) {
   window.speechSynthesis.onvoiceschanged = () => {};
 }
 
-function srcColor(src){const map={'BBC':'#8B0000','CNBC':'#1a3d5c','Bloomberg':'#2c4a1e','Reuters':'#5a3e1e','FT':'#8B4513','WSJ':'#1a1a4a','NYT':'#2a2a2a'};return map[src]||'#555';}
-function renderNews(cat){
-  const list=cat==='all'?NEWS:NEWS.filter(n=>n.cat===cat);
-  const today=list.filter(n=>n.time.includes('h ago')||n.time.includes('小时前')||n.time==='刚刚');
-  const older=list.filter(n=>!n.time.includes('h ago')&&!n.time.includes('小时前')&&n.time!=='刚刚');
-  document.getElementById('news-main').innerHTML=today.map((n,i)=>`
+// ══════════════════════════════════════
+// NEWS 渲染
+// ══════════════════════════════════════
+
+/**
+ * isToday(timeStr)
+ * 判断一条新闻是否属于"今天"
+ * 今天的格式（来自 Make.com / 手写 fallback）：
+ *   "2h ago" / "30min ago" / "5 hours ago" / "刚刚" / "just now" / "10m ago"
+ * 不是今天的格式（归入右侧 Earlier）：
+ *   "Yesterday" / "昨天" / "1 day ago" / "2 days ago" / "前天"
+ *   "Mar 25" / "March 25" / "2026-03-25" / 任何其他字符串
+ */
+function isToday(t) {
+  if (!t) return false;
+  const s = t.trim().toLowerCase();
+  // 匹配：数字 + h/hour/hr/min/m/s/sec + (ago/前) 或结尾
+  if (/^\d+\s*(h|hour|hours|hr|hrs|min|mins|minute|minutes|m|s|sec|secs|second|seconds)\s*(ago|前)?$/.test(s)) return true;
+  // 匹配：刚刚 / just now
+  if (s === '刚刚' || s === 'just now' || s === 'now') return true;
+  return false;
+}
+
+/**
+ * 将 time 字段标准化为右侧侧栏的分组标题
+ * "Yesterday" / "yesterday" / "昨天" / "1 day ago"  → "昨天 Yesterday"
+ * "2 days ago" / "前天" / "2天前"                   → "前天 2 Days Ago"
+ * "3 days ago" 及更早 / 具体日期                    → 原样显示（或"更早 Earlier"）
+ */
+function normalizeOlderTime(t) {
+  if (!t) return 'Earlier';
+  const s = t.trim().toLowerCase();
+  if (s === 'yesterday' || s === '昨天' || s === '1 day ago' || s === '1天前') {
+    return '昨天 · Yesterday';
+  }
+  if (s === '2 days ago' || s === '前天' || s === '2天前' || s === 'the day before yesterday') {
+    return '前天 · 2 Days Ago';
+  }
+  if (/^3 days? ago$/.test(s) || s === '3天前') return '3天前 · 3 Days Ago';
+  if (/^(\d+) days? ago$/.test(s)) {
+    const n = s.match(/^(\d+)/)[1];
+    return `${n}天前 · ${n} Days Ago`;
+  }
+  // 具体日期或其他 → 原样
+  return t;
+}
+
+function srcColor(src){
+  const map={'BBC':'#8B0000','CNBC':'#1a3d5c','Bloomberg':'#2c4a1e','Reuters':'#5a3e1e','FT':'#8B4513','WSJ':'#1a1a4a','NYT':'#2a2a2a'};
+  return map[src]||'#555';
+}
+
+function renderNews(cat) {
+  const list = cat === 'all' ? NEWS : NEWS.filter(n => n.cat === cat);
+
+  // ── 今天 vs 更早 ──
+  const today = list.filter(n => isToday(n.time));
+  const older  = list.filter(n => !isToday(n.time));
+
+  // ══ 左边：今日新闻（完全不动）══
+  document.getElementById('news-main').innerHTML = today.map((n, i) => `
     <div class="secondary-story" style="border-bottom:1px solid var(--rule2);padding:14px 0;">
-      <div class="sec-num" style="font-family:var(--mono);font-size:13px;font-weight:300;color:var(--rule);min-width:36px">${String(i+1).padStart(2,'0')}</div>
+      <div class="sec-num" style="font-family:var(--mono);font-size:13px;font-weight:300;color:var(--rule);min-width:36px">${String(i + 1).padStart(2, '0')}</div>
       <div class="sec-content">
-        <div class="sec-headline" onclick="toggleDeck('deck-${n.id}')" style="cursor:pointer;font-family:var(--serif);font-size:16px;font-weight:600;line-height:1.4">${n.cnTitle||n.headline}</div>
-        <div id="deck-${n.id}" style="display:none;margin:8px 0;padding:12px 14px;background:var(--bg-light);border-left:3px solid var(--accent2);font-family:var(--cn);font-size:13px;color:var(--ink2);line-height:1.8">${n.cnDeck||n.deck}</div>
+        <div class="sec-headline" onclick="toggleDeck('deck-${n.id}')" style="cursor:pointer;font-family:var(--serif);font-size:16px;font-weight:600;line-height:1.4">${n.cnTitle || n.headline}</div>
+        <div id="deck-${n.id}" style="display:none;margin:8px 0;padding:12px 14px;background:var(--bg-light);border-left:3px solid var(--accent2);font-family:var(--cn);font-size:13px;color:var(--ink2);line-height:1.8">${n.cnDeck || n.deck}</div>
         <div class="sec-meta" style="margin-top:6px">
           <span style="color:${srcColor(n.source)};font-weight:600">${n.source}</span>
           <span>${n.time}</span>
@@ -735,14 +795,49 @@ function renderNews(cat){
         </div>
       </div>
     </div>`).join('');
-  document.getElementById('news-sidebar').innerHTML=`<div class="sidebar-section"><div class="sidebar-heading">Earlier</div>${older.map(n=>`
-    <div class="sidebar-item">
-      <div class="sidebar-hl" onclick="toggleDeck('sdeck-${n.id}')" style="cursor:pointer;font-size:12px">${n.cnTitle||n.headline}</div>
-      <div id="sdeck-${n.id}" style="display:none;margin:4px 0 6px;padding:8px 10px;background:var(--bg-light);border-left:2px solid var(--accent2);font-family:var(--cn);font-size:11px;color:var(--ink2);line-height:1.7">${n.cnDeck||''}</div>
-      <div class="sidebar-src" style="color:${srcColor(n.source)}">${n.source} <span style="color:var(--ink4)">· ${n.time} · <a href="${n.url}" target="_blank" style="color:var(--accent2)">原文</a></span></div>
-    </div>`).join('')}</div>`;
+
+  // ══ 右边：Earlier，按日期分组 ══
+  if (older.length === 0) {
+    // 右侧没有旧新闻时显示占位提示
+    document.getElementById('news-sidebar').innerHTML = `
+      <div class="sidebar-heading">Earlier · 往期</div>
+      <p style="font-family:var(--mono);font-size:10px;color:var(--ink4);padding:12px 0;line-height:1.8">
+        昨日及更早的新闻将在此显示。<br>Today's earlier stories appear here.
+      </p>`;
+    return;
+  }
+
+  // 按 normalizeOlderTime 分组，保持顺序（先出现的 time 先显示）
+  const groupOrder = [];
+  const groupMap   = {};
+  older.forEach(n => {
+    const key = normalizeOlderTime(n.time);
+    if (!groupMap[key]) { groupMap[key] = []; groupOrder.push(key); }
+    groupMap[key].push(n);
+  });
+
+  document.getElementById('news-sidebar').innerHTML = groupOrder.map(day => `
+    <div class="sidebar-section">
+      <div class="sidebar-heading">${day}</div>
+      ${groupMap[day].map(n => `
+        <div class="sidebar-item">
+          <div class="sidebar-hl"
+               onclick="toggleDeck('sdeck-${n.id}')"
+               style="cursor:pointer;font-size:12px">${n.cnTitle || n.headline}</div>
+          <div id="sdeck-${n.id}"
+               style="display:none;margin:4px 0 6px;padding:8px 10px;background:var(--bg-light);border-left:2px solid var(--accent2);font-family:var(--cn);font-size:11px;color:var(--ink2);line-height:1.7">${n.cnDeck || n.deck || ''}</div>
+          <div class="sidebar-src" style="color:${srcColor(n.source)}">
+            ${n.source}
+            <span style="color:var(--ink4)"> · ${n.time} · <a href="${n.url}" target="_blank" style="color:var(--accent2)">原文</a></span>
+          </div>
+        </div>`).join('')}
+    </div>`).join('');
 }
-function toggleDeck(id){const el=document.getElementById(id);if(el)el.style.display=el.style.display==='none'?'block':'none';}
+
+function toggleDeck(id){
+  const el = document.getElementById(id);
+  if (el) el.style.display = el.style.display === 'none' ? 'block' : 'none';
+}
 
 // ══════════════════════════════════════
 // DEEP READING
@@ -910,7 +1005,11 @@ function showPanel(id,el){
   if(id==='opinions'&&!document.getElementById('op-main').children.length)renderOpinions('all');
   if(id==='reading'&&!document.getElementById('reading-main').children.length)renderReading('all');
 }
-function filterNews(cat,el){document.querySelectorAll('#news-toolbar .tb-btn').forEach(b=>b.classList.remove('active'));el.classList.add('active');renderNews(cat);}
+function filterNews(cat,el){
+  document.querySelectorAll('#news-toolbar .tb-btn').forEach(b=>b.classList.remove('active'));
+  el.classList.add('active');
+  renderNews(cat);
+}
 function closeModal(){document.getElementById('modal').classList.remove('open');}
 document.addEventListener('keydown',e=>{if(e.key==='Escape'){closeModal();closeVdModal();}});
 
@@ -928,9 +1027,15 @@ document.getElementById('mdate').textContent=new Date().toLocaleDateString('en-U
 
 async function loadData(){
   await Promise.all([
-    fetch('./data/news.json?t='+Date.now()).then(r=>r.ok?r.json():null).then(data=>{if(data&&data.length){NEWS.length=0;data.forEach(item=>NEWS.push(item));}}).catch(e=>console.warn('news.json',e)),
-    fetch('./data/opinions.json?t='+Date.now()).then(r=>r.ok?r.json():null).then(data=>{if(data&&data.length){OPINIONS.length=0;data.forEach(item=>OPINIONS.push(item));}}).catch(e=>console.warn('opinions.json',e)),
-    fetch('./data/reading.json?t='+Date.now()).then(r=>r.ok?r.json():null).then(data=>{if(data&&data.length){ARTICLES.length=0;data.forEach(item=>ARTICLES.push(item));}}).catch(e=>console.warn('reading.json',e)),
+    fetch('./data/news.json?t='+Date.now()).then(r=>r.ok?r.json():null).then(data=>{
+      if(data&&data.length){NEWS.length=0;data.forEach(item=>NEWS.push(item));}
+    }).catch(e=>console.warn('news.json',e)),
+    fetch('./data/opinions.json?t='+Date.now()).then(r=>r.ok?r.json():null).then(data=>{
+      if(data&&data.length){OPINIONS.length=0;data.forEach(item=>OPINIONS.push(item));}
+    }).catch(e=>console.warn('opinions.json',e)),
+    fetch('./data/reading.json?t='+Date.now()).then(r=>r.ok?r.json():null).then(data=>{
+      if(data&&data.length){ARTICLES.length=0;data.forEach(item=>ARTICLES.push(item));}
+    }).catch(e=>console.warn('reading.json',e)),
   ]);
   renderNews('all');
   renderReading('all');
@@ -949,9 +1054,7 @@ async function loadDailyQuote(){
     const author = q.a;
     document.getElementById('dq-en').textContent = '"' + en + '"';
     document.getElementById('dq-author').textContent = '— ' + author;
-    // 用 Claude 翻译
-    const cn = await callClaude(`将以下英文名言翻译成中文，只输出译文，不要任何解释：
-"${en}"`);
+    const cn = await callClaude(`将以下英文名言翻译成中文，只输出译文，不要任何解释：\n"${en}"`);
     document.getElementById('dq-cn').textContent = cn;
   }catch(e){
     console.warn('quote load failed:',e);
