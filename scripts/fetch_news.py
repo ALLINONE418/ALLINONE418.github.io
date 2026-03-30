@@ -3,6 +3,7 @@ import json
 import os
 import requests
 import re
+import time
 from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
 
@@ -51,11 +52,13 @@ def get_time_ago(dt):
 
 def clean_title(raw):
     t = raw.strip()
-    t = t.strip('[]【】')
+    t = t.strip('[]【】「」《》')
     for prefix in ['标题：', '标题:', '第一行：', '第一行:', '中文标题：',
-                   '中文标题:', '一、', '1. ', '1、', 'Title:', 'title:']:
+                   '中文标题:', '一、', '1. ', '1、', 'Title:', 'title:',
+                   '**', '*']:
         if t.startswith(prefix):
             t = t[len(prefix):].strip()
+    t = t.strip('*').strip()
     if '：' in t and len(t) < 20:
         t = t.split('：', 1)[-1].strip()
     if len(t) > 30:
@@ -97,24 +100,24 @@ def generate_cn_content(headline, deck):
                             f"不要：本地小事、娱乐体育、消费提示、交通延误、地方政策、动物故事、软性生活内容。\n\n"
                             f"如果不值得关注，只回复：SKIP\n\n"
                             f"如果值得关注，严格按以下格式输出，共三行，行与行之间只有换行符，"
-                            f"每行【不加任何前缀、标签、序号、冒号】，直接输出内容：\n"
-                            f"第1行：中文标题，15字以内，直接写标题文字\n"
-                            f"第2行：中文摘要，将原文直译成中文，保留所有数字/人名/机构名/直接引语，【不少于600字，不超过1000字】，内容要完整充实，不能只写一句话，直接写摘要文字\n"
+                            f"每行【不加任何前缀、标签、序号、冒号、星号、markdown符号】，直接输出纯文本内容：\n"
+                            f"第1行：中文标题，必须是简洁的新闻标题，8-15字，概括核心事件，不能是翻译腔，直接写标题文字\n"
+                            f"第2行：中文摘要，将原文扩展翻译成中文，保留所有数字/人名/机构名/直接引语，字数必须在600到800字之间，内容完整充实，直接写摘要文字\n"
                             f"第3行：分类，只能是 economy 或 tech 或 finance 或 politics 四个词之一\n\n"
                             f"分类说明：economy=宏观经济/央行/贸易/通胀，tech=科技/AI/芯片/互联网，"
                             f"finance=金融市场/股票/外汇/加密/银行，politics=地缘政治/战争/选举/外交\n\n"
-                            f"示例输出（注意：没有任何前缀标签）：\n"
+                            f"示例输出（注意：没有任何前缀标签，没有星号，没有markdown）：\n"
                             f"美联储维持利率不变\n"
-                            f"美联储周三宣布维持联邦基金利率目标区间在5.25%-5.5%不变，符合市场预期。主席鲍威尔表示，在通胀明确回落至2%目标前，不会考虑降息。\n"
+                            f"美联储周三宣布维持联邦基金利率目标区间在5.25%至5.5%不变，符合市场普遍预期。美联储主席杰罗姆·鲍威尔在新闻发布会上表示，委员会在评估更多数据之前不会急于调整政策立场。鲍威尔强调，在通胀明确且持续回落至2%目标之前，委员会不会考虑降息。他同时指出，劳动力市场依然强劲，失业率维持在历史低位附近，消费支出保持韧性。市场参与者对此次决议反应平淡，此前已有充分预期。分析人士认为，美联储的谨慎态度反映出其对通胀粘性的担忧，尤其是核心通胀仍高于目标水平。部分联储官员在会后发言中暗示，年内降息次数可能少于市场预期，这一表态引发债券市场小幅波动，10年期美债收益率短暂走高后回落。\n"
                             f"economy\n\n"
                             f"新闻标题：{headline}\n"
                             f"新闻内容：{deck}"
                         )
                     }]
                 }],
-                "generationConfig": {"maxOutputTokens": 1500}
+                "generationConfig": {"maxOutputTokens": 2000}
             },
-            timeout=15
+            timeout=30
         )
         data = response.json()
         if "candidates" not in data:
@@ -148,6 +151,8 @@ def generate_cn_content(headline, deck):
     except Exception as e:
         print(f"  API error: {e}")
         return "", "", ""
+    finally:
+        time.sleep(13)  # 每分钟限5次，间隔13秒确保不超限
 
 
 def fetch_news():
