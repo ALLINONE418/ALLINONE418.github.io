@@ -1,5 +1,19 @@
 [
   {
+    "headline": "Latin Patriarch will have access to Jerusalem holy site after police stopped entry",
+    "deck": "The Israeli PM says Cardinal Pierbattista Pizzaballa had been asked not to enter the church over concerns about Iranian strikes.",
+    "cnTitle": "拉丁宗主教获准进入耶路撒冷圣地",
+    "cnDeck": "据最新报道，拉丁宗主教皮耶巴蒂斯塔·皮扎巴拉枢机（Cardinal Pierbattista Pizzaballa）已被允许进入耶路撒冷的一处圣地，此前他曾被警方阻止进入。这一事件",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cvg0128z41eo?at_medium=RSS&at_campaign=rss",
+    "time": "刚刚",
+    "published_iso": "2026-03-30T13:30:32+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
     "headline": "Trump reportedly wants to 'take the oil in Iran' as Tehran targets water, power facilities in Kuwait",
     "deck": "The Middle East conflict has entered its fifth week, with attacks expanding across the region and raising risks to energy and infrastructure.",
     "cnTitle": "政局在中东不断升级",
@@ -9,8 +23,8 @@
     "url": "https://www.cnbc.com/2026/03/30/trump-iran-oil-middle-east-war-israel-us-kuwait-attack-.html",
     "time": "刚刚",
     "published_iso": "2026-03-30T13:07:30+00:00",
-    "id": "n1",
-    "lead": true
+    "id": "n2",
+    "lead": false
   },
   {
     "headline": "Oil Gains as Iran War Escalates With Houthi Attacks on Israel - Bloomberg.com",
@@ -22,7 +36,21 @@
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaHNiVjlPRk54ODZrMFlCY05lU2NEeG90b0s5OWFlUFd3dV91WUFWMnBFQTkxNHhkbU5Yc2VfeDhCZDMxenEtZ054dEFqUU5lb0RpdVpLMEFyRjZCNjd2NGt3ZTZjaXNadE5iMnBqdnh4RGNhU3dnZEE1M185a25XeWdvTkNFOFFoVmZBd043Mko0RWlOdmRHTGg5Qjdyb3d3?oc=5",
     "time": "刚刚",
     "published_iso": "2026-03-30T12:30:46+00:00",
-    "id": "n2",
+    "id": "n3",
+    "lead": false
+  },
+  {
+    "headline": "Spain closes airspace to US aircraft involved in Iran war",
+    "deck": "It follows a decision by the Spanish government to deny the US use of the two jointly run military bases in Andalusia.",
+    "cnTitle": "西班牙拒绝美军参与伊朗战争的飞机使用领空",
+    "cnDeck": "西班牙政府已决定对参与伊朗战争的美国飞机关闭其领空。此举是继西班牙政府此前作出的、拒绝美国使用位于安达卢西亚的两处两国共同管理的军事基地之后，又一项重要决定",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cwy368j1e3lo?at_medium=RSS&at_campaign=rss",
+    "time": "1小时前",
+    "published_iso": "2026-03-30T12:27:25+00:00",
+    "is_new": true,
+    "id": "n4",
     "lead": false
   },
   {
@@ -35,7 +63,7 @@
     "url": "https://www.bbc.com/news/articles/c8jxzlwvd8ro?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-03-30T12:11:07+00:00",
-    "id": "n3",
+    "id": "n5",
     "lead": false
   },
   {
@@ -48,7 +76,21 @@
     "url": "https://www.cnbc.com/2026/03/30/quantum-computing-firms-go-public-breakthroughs-commercialization.html",
     "time": "1小时前",
     "published_iso": "2026-03-30T11:29:15+00:00",
-    "id": "n4",
+    "id": "n6",
+    "lead": false
+  },
+  {
+    "headline": "Fuel rations and free buses: How countries are responding to rising oil prices",
+    "deck": "Governments around the world have introduced measures to limit the impact of price increases.",
+    "cnTitle": "各国应对油价上涨措施",
+    "cnDeck": "全球范围内，各国政府正在采取一系列措施以限制物价上涨，特别是能源价格飙升所带来的影响。面对国际原油市场价格的持续走高，以及由此传导至消费者端的通胀压力，各国决策者正积极寻求应对",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cjr9yr73xyeo?at_medium=RSS&at_campaign=rss",
+    "time": "3小时前",
+    "published_iso": "2026-03-30T10:52:05+00:00",
+    "is_new": true,
+    "id": "n7",
     "lead": false
   },
   {
@@ -61,7 +103,7 @@
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVVR3a0dBU0JkUzY2Tzlka1lkdVZyYXI4ODBNSjRudExtNF8tNUtqNS1NZk5RS2pLQUtabkQ3ZGRERnRzUUNJUEJpT0Qtckt0T0Y0ZzNjVl83SnhvZG1Ob1dKbXBCdUNnMU9VOU1VTGIxY09uNGFoMTgxOXhHUVdzemlSVUR4MV91UzV4X2FTX0c1TW5wd0tpV1lmQ1p0enJJNFo1S013VmhUM0k?oc=5",
     "time": "2小时前",
     "published_iso": "2026-03-30T10:40:36+00:00",
-    "id": "n5",
+    "id": "n8",
     "lead": false
   },
   {
@@ -74,7 +116,7 @@
     "url": "https://www.bbc.com/news/articles/czx94e7j5jpo?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-03-30T10:33:56+00:00",
-    "id": "n6",
+    "id": "n9",
     "lead": false
   },
   {
@@ -87,7 +129,7 @@
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNnVneml0U1dKcjlnN2FhdXc0U3hRYXlzaGg0MExDbUt3cUFvNGtFYzZWaDFWTFIyXzIzdENhdlZEakpGR2dFM1JKZDdfX3o5U2pfUjBrT0gxUTZzSmstdTZUVGhxcVNtN3Z0NWYzcG5lQmRUTzJ4aUlpRTNxSk5iMlNNam4xSFBEX1lqVEJMX004d3AxSzFkMG1pcEQxNG1tLTZPdWZDVjZCOW5KTWNXdElJYjE0VlN5ZVUw?oc=5",
     "time": "3小时前",
     "published_iso": "2026-03-30T10:08:42+00:00",
-    "id": "n7",
+    "id": "n10",
     "lead": false
   },
   {
@@ -100,7 +142,21 @@
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNlc3cnFtSHRvS2c4RUFFa1RVX2ZfRU1wUE1UU1pqbjRTckRMYnNYblkzaDY5MWM1dXlsVERSYTRodEI4YW1ya1RZbHNETWtobTB5TmhMWWtERkV4WXBGc28zMU8zUnZoZGhHcGxDZ3JmODJMc3FvQk5nMjVTVmJyTExyWEpXZmUzTVdPN2p5OU5lU0hOQzNZNlNSdEUtSjZnOFB3djlSc0pWd2piX3BaYWsyZ3Ezdw?oc=5",
     "time": "3小时前",
     "published_iso": "2026-03-30T09:55:02+00:00",
-    "id": "n8",
+    "id": "n11",
+    "lead": false
+  },
+  {
+    "headline": "Russian oil tanker reaches Cuba after Trump appears to loosen blockade",
+    "deck": "The tanker has reached Cuban waters just hours after Donald Trump said he had \"no problem\" with it arriving.",
+    "cnTitle": "俄罗斯油轮抵古巴，特朗普言论引关注",
+    "cnDeck": "一艘俄罗斯油轮在唐纳德·特朗普表示他对该油轮抵达“没有问题”的数小时后，已成功抵达古巴水域。这一事件引发了国际社会的广泛关注，因为它",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/czrevyx28z2o?at_medium=RSS&at_campaign=rss",
+    "time": "4小时前",
+    "published_iso": "2026-03-30T09:46:42+00:00",
+    "is_new": true,
+    "id": "n12",
     "lead": false
   },
   {
@@ -113,7 +169,7 @@
     "url": "https://www.bbc.com/news/articles/cz905eyjznno?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-03-30T06:37:22+00:00",
-    "id": "n9",
+    "id": "n13",
     "lead": false
   },
   {
@@ -126,7 +182,7 @@
     "url": "https://www.bbc.com/news/articles/clyew40w249o?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-03-30T05:26:09+00:00",
-    "id": "n10",
+    "id": "n14",
     "lead": false
   },
   {
@@ -139,7 +195,21 @@
     "url": "https://www.bbc.com/news/articles/cyv1qpzq5v7o?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-03-30T01:13:51+00:00",
-    "id": "n11",
+    "id": "n15",
+    "lead": false
+  },
+  {
+    "headline": "First stop, the Moon. Next stop, Mars? Why Nasa's mission matters",
+    "deck": "From a race with China to lunar discoveries, the US is investing time, effort and money to head to the Moon - and beyond.",
+    "cnTitle": "月球是第一站，火星是下一站？",
+    "cnDeck": "美国宇航局（NASA）的月球任务之所以重要，是因为它不仅关乎科学探索，更被视为与中国的太空竞赛以及对月球资源的争夺。此次任务标志着美国在太空探索",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cd6wp6xenv0o?at_medium=RSS&at_campaign=rss",
+    "time": "14小时前",
+    "published_iso": "2026-03-29T23:50:21+00:00",
+    "is_new": true,
+    "id": "n16",
     "lead": false
   },
   {
@@ -152,7 +222,21 @@
     "url": "https://www.bbc.com/news/articles/c8d5v404m96o?at_medium=RSS&at_campaign=rss",
     "time": "14小时前",
     "published_iso": "2026-03-29T23:07:12+00:00",
-    "id": "n12",
+    "id": "n17",
+    "lead": false
+  },
+  {
+    "headline": "Compensation details for millions of drivers set to be revealed",
+    "deck": "The City regulator will outline how millions of people can claim compensation for mis-sold car finance.",
+    "cnTitle": "数百万司机汽车金融补偿细节将公布",
+    "cnDeck": "英国金融监管机构，即广泛被称为“城市监管机构”（The City regulator），即将公布一项重要计划的详细信息。该计划旨在指导数百万曾购买销售不当汽车金融产品的消费者如何提出索赔并获得补偿",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c9vlm2ggrwlo?at_medium=RSS&at_campaign=rss",
+    "time": "14小时前",
+    "published_iso": "2026-03-29T23:04:10+00:00",
+    "is_new": true,
+    "id": "n18",
     "lead": false
   },
   {
@@ -165,7 +249,7 @@
     "url": "https://www.bbc.com/news/articles/czd74q2nqp0o?at_medium=RSS&at_campaign=rss",
     "time": "21小时前",
     "published_iso": "2026-03-29T16:01:00+00:00",
-    "id": "n13",
+    "id": "n19",
     "lead": false
   },
   {
@@ -178,7 +262,7 @@
     "url": "https://www.bbc.com/news/articles/cd9v234j2v7o?at_medium=RSS&at_campaign=rss",
     "time": "21小时前",
     "published_iso": "2026-03-29T15:33:36+00:00",
-    "id": "n14",
+    "id": "n20",
     "lead": false
   },
   {
@@ -191,7 +275,7 @@
     "url": "https://www.cnbc.com/2026/03/29/affordable-housing-trump-ban-investor-home-buying-real-estate.html",
     "time": "23小时前",
     "published_iso": "2026-03-29T13:43:41+00:00",
-    "id": "n15",
+    "id": "n21",
     "lead": false
   },
   {
@@ -204,7 +288,21 @@
     "url": "https://www.cnbc.com/2026/03/29/this-chinese-jewelry-stock-is-attractive-despite-the-swings-in-gold-prices.html",
     "time": "1天前",
     "published_iso": "2026-03-29T12:21:58+00:00",
-    "id": "n16",
+    "id": "n22",
+    "lead": false
+  },
+  {
+    "headline": "Cut taxes on energy bills before giving bailouts, Badenoch says",
+    "deck": "The Tory leader refuses to rule out direct payments to households if bills spike but says this would come at a cost.",
+    "cnTitle": "优先削减能源税而非救助",
+    "cnDeck": "英国保守党领袖凯米·巴德诺克（Kemi Badenoch）发表声明，呼吁政府应优先考虑削减能源账单上的税费，而不是采取直接向家庭发放救助金的",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c1d941vw172o?at_medium=RSS&at_campaign=rss",
+    "time": "1天前",
+    "published_iso": "2026-03-29T11:12:33+00:00",
+    "is_new": true,
+    "id": "n23",
     "lead": false
   }
 ]
