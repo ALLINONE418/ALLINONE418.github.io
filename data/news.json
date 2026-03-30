@@ -1,5 +1,19 @@
 [
   {
+    "headline": "Goldman says traders have Fed outlook wrong as oil surge drives rate hike fears",
+    "deck": "\"The market has priced a much larger hawkish shock than historical experience would suggest,\" Goldman wrote in a note.",
+    "cnTitle": "市场误判美联储加息前景",
+    "cnDeck": "高盛集团在一份面向客户的重要研究报告中明确指出，当前市场交易员对美联储（Federal Reserve）未来货币政策走向的预期存在显著偏差，其鹰派立场（hawkishness）的定价远超历史经验所应有的水平。这份分析是在国际原油价格近期飙",
+    "cat": "finance",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/30/goldman-says-traders-have-fed-outlook-wrong-as-oil-surge-drives-rate-hike-fears.html",
+    "time": "刚刚",
+    "published_iso": "2026-03-30T13:45:16+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
     "headline": "Latin Patriarch will have access to Jerusalem holy site after police stopped entry",
     "deck": "The Israeli PM says Cardinal Pierbattista Pizzaballa had been asked not to enter the church over concerns about Iranian strikes.",
     "cnTitle": "拉丁宗主教获准进入耶路撒冷圣地",
@@ -9,9 +23,8 @@
     "url": "https://www.bbc.com/news/articles/cvg0128z41eo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-03-30T13:30:32+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n2",
+    "lead": false
   },
   {
     "headline": "Trump reportedly wants to 'take the oil in Iran' as Tehran targets water, power facilities in Kuwait",
@@ -23,7 +36,7 @@
     "url": "https://www.cnbc.com/2026/03/30/trump-iran-oil-middle-east-war-israel-us-kuwait-attack-.html",
     "time": "刚刚",
     "published_iso": "2026-03-30T13:07:30+00:00",
-    "id": "n2",
+    "id": "n3",
     "lead": false
   },
   {
@@ -36,7 +49,7 @@
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaHNiVjlPRk54ODZrMFlCY05lU2NEeG90b0s5OWFlUFd3dV91WUFWMnBFQTkxNHhkbU5Yc2VfeDhCZDMxenEtZ054dEFqUU5lb0RpdVpLMEFyRjZCNjd2NGt3ZTZjaXNadE5iMnBqdnh4RGNhU3dnZEE1M185a25XeWdvTkNFOFFoVmZBd043Mko0RWlOdmRHTGg5Qjdyb3d3?oc=5",
     "time": "刚刚",
     "published_iso": "2026-03-30T12:30:46+00:00",
-    "id": "n3",
+    "id": "n4",
     "lead": false
   },
   {
@@ -49,8 +62,7 @@
     "url": "https://www.bbc.com/news/articles/cwy368j1e3lo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-03-30T12:27:25+00:00",
-    "is_new": true,
-    "id": "n4",
+    "id": "n5",
     "lead": false
   },
   {
@@ -63,7 +75,7 @@
     "url": "https://www.bbc.com/news/articles/c8jxzlwvd8ro?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-03-30T12:11:07+00:00",
-    "id": "n5",
+    "id": "n6",
     "lead": false
   },
   {
@@ -76,7 +88,7 @@
     "url": "https://www.cnbc.com/2026/03/30/quantum-computing-firms-go-public-breakthroughs-commercialization.html",
     "time": "1小时前",
     "published_iso": "2026-03-30T11:29:15+00:00",
-    "id": "n6",
+    "id": "n7",
     "lead": false
   },
   {
@@ -89,8 +101,7 @@
     "url": "https://www.bbc.com/news/articles/cjr9yr73xyeo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-03-30T10:52:05+00:00",
-    "is_new": true,
-    "id": "n7",
+    "id": "n8",
     "lead": false
   },
   {
@@ -103,7 +114,7 @@
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVVR3a0dBU0JkUzY2Tzlka1lkdVZyYXI4ODBNSjRudExtNF8tNUtqNS1NZk5RS2pLQUtabkQ3ZGRERnRzUUNJUEJpT0Qtckt0T0Y0ZzNjVl83SnhvZG1Ob1dKbXBCdUNnMU9VOU1VTGIxY09uNGFoMTgxOXhHUVdzemlSVUR4MV91UzV4X2FTX0c1TW5wd0tpV1lmQ1p0enJJNFo1S013VmhUM0k?oc=5",
     "time": "2小时前",
     "published_iso": "2026-03-30T10:40:36+00:00",
-    "id": "n8",
+    "id": "n9",
     "lead": false
   },
   {
@@ -116,7 +127,7 @@
     "url": "https://www.bbc.com/news/articles/czx94e7j5jpo?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-03-30T10:33:56+00:00",
-    "id": "n9",
+    "id": "n10",
     "lead": false
   },
   {
@@ -129,7 +140,7 @@
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNnVneml0U1dKcjlnN2FhdXc0U3hRYXlzaGg0MExDbUt3cUFvNGtFYzZWaDFWTFIyXzIzdENhdlZEakpGR2dFM1JKZDdfX3o5U2pfUjBrT0gxUTZzSmstdTZUVGhxcVNtN3Z0NWYzcG5lQmRUTzJ4aUlpRTNxSk5iMlNNam4xSFBEX1lqVEJMX004d3AxSzFkMG1pcEQxNG1tLTZPdWZDVjZCOW5KTWNXdElJYjE0VlN5ZVUw?oc=5",
     "time": "3小时前",
     "published_iso": "2026-03-30T10:08:42+00:00",
-    "id": "n10",
+    "id": "n11",
     "lead": false
   },
   {
@@ -142,7 +153,7 @@
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNlc3cnFtSHRvS2c4RUFFa1RVX2ZfRU1wUE1UU1pqbjRTckRMYnNYblkzaDY5MWM1dXlsVERSYTRodEI4YW1ya1RZbHNETWtobTB5TmhMWWtERkV4WXBGc28zMU8zUnZoZGhHcGxDZ3JmODJMc3FvQk5nMjVTVmJyTExyWEpXZmUzTVdPN2p5OU5lU0hOQzNZNlNSdEUtSjZnOFB3djlSc0pWd2piX3BaYWsyZ3Ezdw?oc=5",
     "time": "3小时前",
     "published_iso": "2026-03-30T09:55:02+00:00",
-    "id": "n11",
+    "id": "n12",
     "lead": false
   },
   {
@@ -155,8 +166,7 @@
     "url": "https://www.bbc.com/news/articles/czrevyx28z2o?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-03-30T09:46:42+00:00",
-    "is_new": true,
-    "id": "n12",
+    "id": "n13",
     "lead": false
   },
   {
@@ -169,7 +179,7 @@
     "url": "https://www.bbc.com/news/articles/cz905eyjznno?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-03-30T06:37:22+00:00",
-    "id": "n13",
+    "id": "n14",
     "lead": false
   },
   {
@@ -182,7 +192,7 @@
     "url": "https://www.bbc.com/news/articles/clyew40w249o?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-03-30T05:26:09+00:00",
-    "id": "n14",
+    "id": "n15",
     "lead": false
   },
   {
@@ -195,7 +205,7 @@
     "url": "https://www.bbc.com/news/articles/cyv1qpzq5v7o?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-03-30T01:13:51+00:00",
-    "id": "n15",
+    "id": "n16",
     "lead": false
   },
   {
@@ -208,8 +218,7 @@
     "url": "https://www.bbc.com/news/articles/cd6wp6xenv0o?at_medium=RSS&at_campaign=rss",
     "time": "14小时前",
     "published_iso": "2026-03-29T23:50:21+00:00",
-    "is_new": true,
-    "id": "n16",
+    "id": "n17",
     "lead": false
   },
   {
@@ -222,7 +231,21 @@
     "url": "https://www.bbc.com/news/articles/c8d5v404m96o?at_medium=RSS&at_campaign=rss",
     "time": "14小时前",
     "published_iso": "2026-03-29T23:07:12+00:00",
-    "id": "n17",
+    "id": "n18",
+    "lead": false
+  },
+  {
+    "headline": "Tech CEOs suddenly love blaming AI for mass job cuts. Why?",
+    "deck": "More tech leaders are pointing to job cuts caused by AI tools - and a need for more investment cash.",
+    "cnTitle": "科技高管将裁员归因AI",
+    "cnDeck": "随着人工智能（AI）技术在全球范围内的迅速发展和应用，科技行业正经历一场深刻的变革。近期，越来越多的科技界领袖和企业高管公开表示，其公司内部正在进行或计划进行的大规模裁员，与AI工具的日益普及和效率提升密切相关。这一趋势引发了广泛关注，并促使人们重新审视AI技术对劳动力市场和企业运营模式的深远影响。科技高管们普遍指出，AI工具，特别是生成式AI和自动化解决方案，正在显著提高特定任务的执行效率，从而使得一些传统岗位变得不再必要。例如，在软件开发、客户服务、数据分析、内容创作乃至行政管理等领域，AI系统能够承担过去需要大量人力完成的工作，且通常效率更高、成本更低。这种技术驱动的效率提升，使得企业在追求运营优化和成本控制的过程中，倾向于减少非核心或可自动化岗位的员工数量。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cde5y2x51y8o?at_medium=RSS&at_campaign=rss",
+    "time": "14小时前",
+    "published_iso": "2026-03-29T23:07:04+00:00",
+    "is_new": true,
+    "id": "n19",
     "lead": false
   },
   {
@@ -235,8 +258,7 @@
     "url": "https://www.bbc.com/news/articles/c9vlm2ggrwlo?at_medium=RSS&at_campaign=rss",
     "time": "14小时前",
     "published_iso": "2026-03-29T23:04:10+00:00",
-    "is_new": true,
-    "id": "n18",
+    "id": "n20",
     "lead": false
   },
   {
@@ -249,7 +271,7 @@
     "url": "https://www.bbc.com/news/articles/czd74q2nqp0o?at_medium=RSS&at_campaign=rss",
     "time": "21小时前",
     "published_iso": "2026-03-29T16:01:00+00:00",
-    "id": "n19",
+    "id": "n21",
     "lead": false
   },
   {
@@ -262,7 +284,7 @@
     "url": "https://www.bbc.com/news/articles/cd9v234j2v7o?at_medium=RSS&at_campaign=rss",
     "time": "21小时前",
     "published_iso": "2026-03-29T15:33:36+00:00",
-    "id": "n20",
+    "id": "n22",
     "lead": false
   },
   {
@@ -275,7 +297,7 @@
     "url": "https://www.cnbc.com/2026/03/29/affordable-housing-trump-ban-investor-home-buying-real-estate.html",
     "time": "23小时前",
     "published_iso": "2026-03-29T13:43:41+00:00",
-    "id": "n21",
+    "id": "n23",
     "lead": false
   },
   {
@@ -288,7 +310,7 @@
     "url": "https://www.cnbc.com/2026/03/29/this-chinese-jewelry-stock-is-attractive-despite-the-swings-in-gold-prices.html",
     "time": "1天前",
     "published_iso": "2026-03-29T12:21:58+00:00",
-    "id": "n22",
+    "id": "n24",
     "lead": false
   },
   {
@@ -301,8 +323,7 @@
     "url": "https://www.bbc.com/news/articles/c1d941vw172o?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-03-29T11:12:33+00:00",
-    "is_new": true,
-    "id": "n23",
+    "id": "n25",
     "lead": false
   }
 ]
