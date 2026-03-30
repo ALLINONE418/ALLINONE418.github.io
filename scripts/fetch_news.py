@@ -93,7 +93,7 @@ def generate_cn_content(headline, deck):
                 "Content-Type": "application/json"
             },
             json={
-                "model": "anthropic/claude-haiku-4-5",
+                "model": "google/gemini-flash-1.5",
                 "max_tokens": 1500,
                 "messages": [{
                     "role": "user",
