@@ -1,5 +1,33 @@
 [
   {
+    "headline": "Credit Risk in Asia Poised for Biggest Monthly Spike Since 2023 - Bloomberg",
+    "deck": "Credit Risk in Asia Poised for Biggest Monthly Spike Since 2023&nbsp;&nbsp;Bloomberg",
+    "cnTitle": "亚洲信用风险创2023年来最大涨幅",
+    "cnDeck": "根据彭博社的报道，亚洲地区的信用风险正面临自2023年以来最大的月度飙升，这一趋势引发了市场对区域经济健康状况的深切关注。信用风险的衡量指标，如信贷违约互换（CDS）息差和企业债券收益率利差，在过去一个月内显著扩大。数据显示，亚洲信用风险指数（例如Markit iTraxx Asia Ex-Japan指数）已达到自去年下半年以来的最高水平，这表明投资者对该地区企业和主权债务的违约可能性担忧加剧。",
+    "cat": "finance",
+    "source": "Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUm5ZcVB1bkM3V2VUM0FDUXFvNHQteU9ZU09ZWi1tdFJMOEVhQnJIOVZNUVhPU3ltOGNiVXpNX1cwUXQwVmNjUkJGZWEwZ0Rzck5ReU5Yd1FzcGRYejZEc3F1Qm5QUlFac2FBX2pIWmpISk9wY2w3bDM3czlDdndTTWd6YjVkMkhYZTlOeTZhZXdZNGpMdGpmSG5MbTJ6d1hXQXNqUVFHSGpFNlRScUNPRWVlR0lkWGY0Q2dWckZrVl8?oc=5",
+    "time": "1小时前",
+    "published_iso": "2026-03-31T05:05:00+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "'I sent eight letters': Drivers hope for payout from car finance redress scheme",
+    "deck": "Millions of motorists could be entitled to compensation with the financial regulator setting out how to apply",
+    "cnTitle": "英国金融监管机构推出汽车贷款赔偿计划",
+    "cnDeck": "英国金融行为监管局（FCA）近日公布了一项针对汽车贷款合同的重大赔偿计划，预计将有数百万名购车者有资格获得补偿。这项举措是在FCA经过深入调查后作出的，调查发现部分汽车金融公司可能在过去向客户销售汽车贷款产品时存在不当行为，尤其是在隐瞒佣金方面。这些未披露的佣金可能导致消费者支付了更高的利息或不公平的费用。FCA表示，此次赔偿计划旨在纠正市场失衡，保护消费者权益，并确保金融机构遵守公平和透明的原则。FCA的调查最初在2023年启动，重点是审查汽车经销商和贷款机构之间存在的“酌情佣金安排”（Discretionary Commission Arrangements, DCA），即经销商有权在FCA规定的范围内设定消费者支付的利率，从而赚取更高的佣金。FCA在2021年已禁止了这种模式，但当时的禁令并未追溯既往。然而，随着大量消费者投诉涌现，以及多家法院判决支持消费者，FCA决定对2021年之前签订的合同进行全面审查。根据FCA公布的指导方针，符合条件的消费者现在可以开始申请赔偿。申请流程相对简化，消费者可以通过访问FCA官方网站或直接联系其汽车贷款提供商了解详细信息并提交申请。FCA建议，所有在2007年至2021年之间签订过汽车贷款合同的消费者都应仔细审查自己的合同条款，评估是否可能受到影响。具体的赔偿金额将根据个案情况而定，可能包括超额支付的利息、相关费用以及一定比例的利息补偿。FCA还指出，金融机构在处理索赔时必须遵循既定程序，并在规定时间内作出回应。如果消费者对金融机构的回复不满意，可以向金融申诉服务（Financial Ombudsman Service, FOS）提出申诉。这项赔偿计划预计将对英国汽车金融市场产生深远影响。分析师普遍认为，相关金融机构，包括多家大型银行和专业汽车贷款公司，可能面临数十亿英镑的赔偿支出。这可能会对其盈利能力和资本储备构成压力。一些机构已经开始计提相关准备金以应对潜在的赔偿。FCA强调，此次行动不仅是为了赔偿受害者，更是为了向整个金融行业传递一个明确信号：消费者保护是核心，任何形式的不当销售行为都将受到严厉监管和追责。此举也将提升消费者对金融市场的信任度，促使金融机构在产品设计和销售过程中更加注重透明度和公平性。",
+    "cat": "finance",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c20dxdy33llo?at_medium=RSS&at_campaign=rss",
+    "time": "1小时前",
+    "published_iso": "2026-03-31T04:17:19+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
     "headline": "Most Syrian refugees in Germany expected to return home in three years, Merz says",
     "deck": "Merz’s government has taken a tougher line on refugees and migrants, amid surging support for the anti-immigration AfD party.",
     "cnTitle": "默茨预计多数叙利亚难民将回国",
@@ -9,9 +37,22 @@
     "url": "https://www.bbc.com/news/articles/cy41vqx4pdzo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-03-30T20:07:17+00:00",
+    "id": "n3",
+    "lead": false
+  },
+  {
+    "headline": "How will car finance compensation payments work?",
+    "deck": "Millions could be entitled to compensation as a result of commission arrangements between lenders and dealers.",
+    "cnTitle": "数百万车贷用户或将获赔偿",
+    "cnDeck": "近期，一项针对汽车金融行业佣金安排的重大审查正在进行中，数百万消费者有望因此获得赔偿。这一审查的核心问题在于，贷款机构与汽车经销商之间存在的隐秘佣金协议，特别是所谓的“酌情佣金安排”（Discretionary Commission Arrangements, DCAs）。在这种机制下，经销商有权在一定范围内自行设定客户的贷款利率，从而赚取更高的佣金，而消费者往往对此毫不知情，也未能充分理解其对贷款成本的影响。据初步调查显示，从2007年到2021年期间，英国金融行为监管局（FCA）所关注的这类佣金安排导致了大量消费者支付了过高的贷款利息。监管机构目前正在深入评估这些不透明的佣金结构，旨在确保金融市场的公平性和透明度。预计将有数百万受影响的消费者，他们曾通过个人合同购买（PCP）或分期付款（HP）等方式获得汽车金融服务。这些消费者在签署贷款协议时，可能并未被告知经销商从其贷款中获得的具体佣金数额，也未被告知如果经销商选择较低的利率，他们本可以支付更少的利息。FCA已于近期宣布，将对历史上的汽车金融佣金安排展开一项全面调查，以确定是否存在普遍性的消费者损害。这一举措是在收到大量消费者投诉后采取的，投诉内容大多指向因不透明佣金而导致的贷款成本不公。监管机构强调，其目标是确保消费者获得公正对待，并明确界定未来汽车金融产品销售中的佣金披露标准。FCA已暂停了与此类佣金相关的消费者投诉处理，直至其调查结果公布并确定赔偿机制。目前，关于赔偿将如何具体操作的细节尚未完全公布，但预计将涉及以下几个关键方面：首先，FCA将发布一份详细报告，阐明其调查结果和对相关金融机构的预期。其次，可能会设立一个集体的索赔框架，以便受影响的消费者能够便捷地提交赔偿申请。赔偿的形式可能包括退还多支付的利息、降低未偿还贷款余额，甚至可能包括额外的补偿。金融机构，包括主要银行和专业汽车金融贷款公司，已被要求审查其历史",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c2l9vvj097lo?at_medium=RSS&at_campaign=rss",
+    "time": "13小时前",
+    "published_iso": "2026-03-30T16:50:46+00:00",
     "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n4",
+    "lead": false
   },
   {
     "headline": "What was the 1970s oil crisis, and are we heading for something worse?",
@@ -23,8 +64,7 @@
     "url": "https://www.bbc.com/news/articles/c78lj4976lvo?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-03-30T15:22:18+00:00",
-    "is_new": true,
-    "id": "n2",
+    "id": "n5",
     "lead": false
   },
   {
@@ -37,8 +77,7 @@
     "url": "https://www.bbc.com/news/articles/cvgk8zk9epgo?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-03-30T14:10:06+00:00",
-    "is_new": true,
-    "id": "n3",
+    "id": "n6",
     "lead": false
   },
   {
@@ -51,7 +90,21 @@
     "url": "https://www.bbc.com/news/articles/czx94e7j5jpo?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-03-30T10:33:56+00:00",
-    "id": "n4",
+    "id": "n7",
+    "lead": false
+  },
+  {
+    "headline": "European Bank Stocks to Snap Record Quarterly Run on Iran, AI - Bloomberg",
+    "deck": "European Bank Stocks to Snap Record Quarterly Run on Iran, AI&nbsp;&nbsp;Bloomberg",
+    "cnTitle": "欧洲银行股季度涨势或终结",
+    "cnDeck": "据彭博社报道，欧洲银行股在经历了强劲的连续几个季度上涨之后，其创纪录的涨势预计将在当前季度戛然而止。分析师指出，导致这一转变的主要因素包括伊朗地区日益紧张的地缘政治局势以及人工智能（AI）技术带来的变革性影响。此前，欧洲银行股受益于全球经济复苏、利率上升带来的净息差改善以及相对稳定的市场环境，一度表现抢眼，吸引了大量投资者的关注。然而，中东地区围绕伊朗的紧张局势，特别是关于潜在冲突升级、石油供应中断以及对全球贸易路线（如红海航运）的潜在影响，正在引发市场对宏观经济稳定性和银行业风险敞口的担忧。地缘政治风险的加剧可能导致能源价格波动，影响企业盈利能力，进而增加银行的不良贷款风险。此外，任何针对伊朗的新制裁措施都可能对与该地区有业务往来的欧洲银行带来合规成本上升和潜在资产减值的压力，从而冲击银行的盈利前景和投资者信心。",
+    "cat": "tech",
+    "source": "Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbGEyYlZrbk42QVpwejdMT3I4ZElsU2ZIQmxPUUNnajBfVElLaWktdzJWZ1pJTWZHc0dic21QeWlzczVKcGpoRUxWczhCQllzWFc2QmtObkh4Z3NYUm0tWmVhcHVRcFdKd0pEV1ppS2p2dnNQVWhsclVNc1RqaXBsMmlrel9aYS1yR2NLQzBRNlR5TkdTQVJQazUxRDRJamlmZlFqaFRpTFprcm16ZEd0TUxfRXlGazh2bV92X2FJQV9ROUlKS1RDWWtHRQ?oc=5",
+    "time": "22小时前",
+    "published_iso": "2026-03-30T08:03:20+00:00",
+    "is_new": true,
+    "id": "n8",
     "lead": false
   },
   {
@@ -64,7 +117,7 @@
     "url": "https://www.bbc.com/news/articles/cz905eyjznno?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-03-30T06:37:22+00:00",
-    "id": "n5",
+    "id": "n9",
     "lead": false
   },
   {
@@ -77,7 +130,7 @@
     "url": "https://www.bbc.com/news/articles/c9vlm2ggrwlo?at_medium=RSS&at_campaign=rss",
     "time": "15小时前",
     "published_iso": "2026-03-29T23:04:10+00:00",
-    "id": "n6",
+    "id": "n10",
     "lead": false
   },
   {
@@ -90,8 +143,7 @@
     "url": "https://www.bbc.com/news/articles/c1d941vw172o?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-03-29T11:12:33+00:00",
-    "is_new": true,
-    "id": "n7",
+    "id": "n11",
     "lead": false
   }
 ]
