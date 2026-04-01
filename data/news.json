@@ -1,5 +1,131 @@
 [
   {
+    "headline": "Iran threatens Nvidia, Apple and other tech giants with attack",
+    "deck": "Iran's Islamic Revolutionary Guard Corps (IRGC) has warned a number of tech companies with Middle East operations they'll be considered \"legitimate targets.\"",
+    "cnTitle": "伊朗威胁英伟达苹果等科技巨头",
+    "cnDeck": "伊朗伊斯兰革命卫队（IRGC）近日向在中东地区运营的多家科技巨头发出严厉警告，声称这些公司将被视为“合法目标”。尽管声明中并未详尽列出所有受威胁的公司，但点名了全球知名企业如英伟达（Nvidia）和苹果（Apple），暗示其范围广泛，覆盖了在该地区拥有重要业务或基础设施的科技公司。此举立即引发了国际社会对地区安全局势以及跨国企业在中东运营风险的广泛关注和担忧。IRGC的这一警告被解读为伊朗对西方国家及其盟友在该地区影响力的一种强硬回应，特别是在当前中东地缘政治紧张局势加剧的背景下。近年来，伊朗与美国及其地区盟友之间的关系一直处于高度紧张状态，涉及核计划、地区代理人冲突以及网络攻击等多个层面。IRGC作为伊朗最强大的军事和安全机构之一，其发出的威胁通常被视为具备高度的严肃性和潜在行动的可能性。此前，伊朗曾被指控对关键基础设施、政府机构和私营企业发动网络攻击，这使得本次对科技巨头的警告显得尤为突出且令人不安。",
+    "cat": "finance",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/04/01/iran-irgc-nvidia-appple-attack-threat.html",
+    "time": "刚刚",
+    "published_iso": "2026-04-01T10:28:08+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "Stock futures are higher to start the month as optimism around Iran war ending grows: Live updates",
+    "deck": "Tuesday concluded both a losing month and quarter for all three major indexes.",
+    "cnTitle": "伊朗局势乐观，美股期货上涨",
+    "cnDeck": "今日全球金融市场呈现积极态势，股指期货在新的月份伊始录得上涨，这一乐观情绪的背后，是市场对中东地区紧张局势，特别是围绕伊朗的冲突有望结束的信心日益增强。投资者普遍认为，地缘政治风险的缓解将对全球经济产生积极影响，从而提振风险资产的表现。如果伊朗相关的地区冲突能够趋于平息或达成某种形式的解决方案，将有效降低全球原油供应中断的风险，稳定国际能源价格，并减轻对",
+    "cat": "finance",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/31/stock-market-today-live-updates.html",
+    "time": "刚刚",
+    "published_iso": "2026-04-01T10:20:04+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
+    "headline": "Warning Iran war 'shock' could push up mortgages for 1.3m homeowners",
+    "deck": "Higher energy prices could lead to higher borrowing costs for homeowners, the Bank warns.",
+    "cnTitle": "伊朗战争恐推高房贷",
+    "cnDeck": "一家主要银行日前发出严厉警告，指出如果伊朗战争的“冲击”成为现实，可能会导致130万房产持有者的抵押贷款成本大幅上升。该银行强调，涉及中东主要产油国伊朗的军事行动，将不可避免地对全球能源市场造成剧烈冲击。一旦冲突爆发，原油和天然气供应中断风险将推高国际能源价格，引发市场恐慌情绪，并迅速传导至全球。历史经验表明，中东地区的任何重大",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c895pqepwv2o?at_medium=RSS&at_campaign=rss",
+    "time": "刚刚",
+    "published_iso": "2026-04-01T10:19:22+00:00",
+    "is_new": true,
+    "id": "n3",
+    "lead": false
+  },
+  {
+    "headline": "Trump says he's considering pulling U.S. out of 'paper tiger' NATO",
+    "deck": "The President's comments are the latest threat to America's allies after their reluctance to help reopen the Strait of Hormuz.",
+    "cnTitle": "特朗普考虑让美国退出北约",
+    "cnDeck": "美国前总统唐纳德·特朗普近日再次发表重磅言论，公开表示他正在“考虑”将美国撤出北大西洋公约组织（NATO），并将该军事联盟形容为“纸老虎”。此番表态被视为特朗普对美国盟友发出的“最新威胁”，其背景是他对盟友们在“协助重新开放霍尔木兹海峡”问题上表现出的“不情愿”感到不满。霍尔木兹海峡是连接波斯湾和阿曼湾的",
+    "cat": "finance",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/04/01/trump-says-hes-considering-pulling-us-out-of-paper-tiger-nato.html",
+    "time": "刚刚",
+    "published_iso": "2026-04-01T10:08:20+00:00",
+    "is_new": true,
+    "id": "n4",
+    "lead": false
+  },
+  {
+    "headline": "Russian military plane crash kills 29 in occupied Crimea",
+    "deck": "Russian authorities say a technical malfunction caused the An-26 to crash into a cliff.",
+    "cnTitle": "俄军机克里米亚坠毁致29人遇难",
+    "cnDeck": "俄罗斯一架An-26军用运输机在被俄罗斯占领的克里米亚半岛坠毁，造成机上29人全部遇难。俄罗斯当局迅速发布声明，将这起悲剧事件的原因归结为技术故障，并表示飞机在坠毁前撞上了一处悬崖。这起发生在军事高度敏感区域的重大事故，立即引发了国际社会对俄乌冲突背景下军事行动风险的广泛关注。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cly6387xgqxo?at_medium=RSS&at_campaign=rss",
+    "time": "刚刚",
+    "published_iso": "2026-04-01T09:55:28+00:00",
+    "is_new": true,
+    "id": "n5",
+    "lead": false
+  },
+  {
+    "headline": "SpaceX lines up 21 banks for mega IPO, code-named project Apex",
+    "deck": "SpaceX is working with at least 21 banks on its initial public offering, in one of the largest underwriting syndicates assembled in recent years.",
+    "cnTitle": "SpaceX启动超级IPO 21家银行助阵",
+    "cnDeck": "SpaceX，由埃隆·马斯克创立的全球领先航空航天制造与空间运输服务公司，正为其备受期待的首次公开募股（IPO）进行紧锣密鼓的筹备。据透露，该公司已与至少21家银行达成合作，共同推进这项内部代号为“Project Apex”的庞大上市计划。如此规模的银行承销团在近年来极为罕见，其广泛参与不仅彰显了此次发行规模的巨大与复杂性",
+    "cat": "finance",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/04/01/spacex-lines-up-21-banks-for-mega-ipo-code-named-project-apex.html",
+    "time": "1小时前",
+    "published_iso": "2026-04-01T09:25:35+00:00",
+    "is_new": true,
+    "id": "n6",
+    "lead": false
+  },
+  {
+    "headline": "Estate agents accuse Rightmove of charging excessive fees",
+    "deck": "The online listing portal is now being pursued in a class action, launched on behalf of potentially hundreds of estate agents.",
+    "cnTitle": "Rightmove遭集体诉讼指控收费过高",
+    "cnDeck": "英国领先的在线房产门户Rightmove正面临一场由数百家房产中介机构提起的集体诉讼，被指控收取过高的费用。此次诉讼是由代表这些中介机构的法律团队发起的，核心指控是Rightmove滥用其在英国房产信息市场的主导地位，向中介机构征收不公平且过高的订阅费和广告刊登费用。根据诉讼文件，Rightmove占据了英国在线房产搜索市场的大部分份额，使得房产中介几乎别无选择，只能依赖其平台来发布房源、吸引潜在买家和租客。因此，尽管对Rightmove的收费标准感到不满，但为了维持业务运作和市场竞争力，许多中介机构不得不忍受这些高昂的费用。发起诉讼的中介机构表示，Rightmove的定价策略缺乏透明度和合理性，其服务价值与所收取的费用严重不符。他们认为，Rightmove的行为已经构成了市场垄断和反竞争行为，损害了房产中介的利益，并最终可能导致这些额外成本转嫁给消费者，推高购房和租房成本。此次集体诉讼寻求法院判令Rightmove赔偿因其不合理收费而给中介机构造成的经济损失，并要求其调整收费模式，以建立一个更公平、更具竞争性的市场环境。业界普遍认为，此案是英国乃至全球范围内对科技平台市场支配力日益增长担忧的一个缩影。近年来，包括欧盟、美国在内的多个司法管辖区都加强了对大型科技公司滥用市场优势行为的反垄断审查。如果Rightmove在这场诉讼中败诉，不仅可能面临巨额罚款和赔偿，其当前的商业模式也可能被迫进行重大调整，这将对英国的房地产科技行业产生深远影响。同时，此案的判决结果也将为其他在线平台提供商与下游服务商之间的关系设定一个重要的法律先例，可能促使监管机构对平台经济体的收费行为和市场行为进行更严格的审视。预计此案的审理过程和最终判决将受到行业内外的广泛关注。",
+    "cat": "tech",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cn0yle5rrp8o?at_medium=RSS&at_campaign=rss",
+    "time": "2小时前",
+    "published_iso": "2026-04-01T08:15:36+00:00",
+    "is_new": true,
+    "id": "n7",
+    "lead": false
+  },
+  {
+    "headline": "China is trying to play peacemaker in the Iran war - will it work?",
+    "deck": "It's a turnaround for Beijing, whose official response has been muted so far. Why is China stepping in now?",
+    "cnTitle": "中国试图斡旋伊朗战争",
+    "cnDeck": "中国正在尝试在潜在的伊朗战争中扮演和平缔造者的角色，这一举动引起了国际社会的广泛关注和深入讨论。这标志着北京此前在处理中东地区冲突，特别是与伊朗相关的紧张局势时，官方回应通常较为谨慎且保持低调的立场发生了显著转变。长期以来，中国的外交策略以不干涉他国内政为主，并倾向于通过呼吁对话和保持克制来表达对地区和平的愿望，但很少主动深入介入具体冲突的斡旋。然而",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cze0kz7gr84o?at_medium=RSS&at_campaign=rss",
+    "time": "3小时前",
+    "published_iso": "2026-04-01T07:16:15+00:00",
+    "is_new": true,
+    "id": "n8",
+    "lead": false
+  },
+  {
+    "headline": "Thousands lose their jobs in deep cuts at tech giant Oracle",
+    "deck": "It is thought that thousands of people may have lost their jobs at Oracle, one of the world's largest tech companies.",
+    "cnTitle": "科技巨头甲骨文或裁员数千人",
+    "cnDeck": "据消息人士透露，全球科技巨头甲骨文公司（Oracle）可能已裁员数千人。此次大规模裁员被认为是该公司在当前全球经济环境下进行战略调整和成本控制的一部分。甲骨文作为全球最大的企业软件公司之一，其数据库产品和云服务在行业内占据重要地位。此次裁员涉及的具体部门和地区尚未完全披露，但预计将对公司内部产生广泛影响。近年来，随着全球经济面临不确定性，以及人工智能（AI）等新兴技术的快速发展对传统IT行业的冲击，许多科技公司都在经历转型。裁员已成为科技行业的一种普遍趋势，从初创企业到谷歌、微软等大型科技公司都曾宣布过类似的员工削减计划。甲骨文此次的行动，虽然具体细节仍待官方确认，但已引发了市场对其业务策略和未来增长前景的关注。分析人士指出，科技巨头裁员往往有多重原因，可能包括：优化组织结构以提高效率；剥离非核心业务部门；重新分配资源以专注于高增长领域，如云计算和人工智能；以及应对宏观经济逆风带来的营收压力。对于甲骨文而言，在与亚马逊AWS、微软Azure和谷歌云等竞争对手争夺云市场份额的同时，通过精简人员来提升运营效率和盈利能力，可能是其战略考量之一。此次裁员事件，即便尚未获得甲骨文官方的正式声明，其潜在规模——“数千人”——也足以在全球科技行业内部引发波澜，并可能对受影响员工的职业生涯产生深远影响。这也再次凸显了当前科技行业所面临的结构性调整和市场挑战。甲骨文在全球拥有超过17万名员工，数千人的裁员比例虽然相对较小，但对于受影响的个体及其家庭而言，无疑是重大的变动。市场和投资者将密切关注甲骨文后续的财报和官方声明，以获取更多关于此次裁员及其对公司未来发展影响的详细信息。",
+    "cat": "tech",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cm296jzzl9yo?at_medium=RSS&at_campaign=rss",
+    "time": "3小时前",
+    "published_iso": "2026-04-01T07:09:46+00:00",
+    "is_new": true,
+    "id": "n9",
+    "lead": false
+  },
+  {
     "headline": "Energy bill support would be based on household income, Reeves says",
     "deck": "The chancellor tells the BBC it is \"too early\" to say exactly who would get help but hinted any support would not arrive until the autumn.",
     "cnTitle": "能源补贴或与家庭收入挂钩",
@@ -9,9 +135,8 @@
     "url": "https://www.bbc.com/news/articles/cgk0d76yg8po?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-01T06:12:24+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n10",
+    "lead": false
   },
   {
     "headline": "Asia stocks jump after Trump suggests Iran war could end in weeks",
@@ -23,8 +148,7 @@
     "url": "https://www.bbc.com/news/articles/c2489v97842o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-04-01T05:17:12+00:00",
-    "is_new": true,
-    "id": "n2",
+    "id": "n11",
     "lead": false
   },
   {
@@ -37,8 +161,49 @@
     "url": "https://www.bbc.com/news/articles/c36r7jk6093o?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-03-31T23:01:15+00:00",
+    "id": "n12",
+    "lead": false
+  },
+  {
+    "headline": "Asia's migrant workers debate if Gulf jobs are worth deadly risk of Iran war",
+    "deck": "Iran's strikes on Gulf states have been especially hard for migrants who have long supported these economies to lift their families back home from poverty.",
+    "cnTitle": "伊朗冲突加剧亚洲移民工人风险",
+    "cnDeck": "近期，中东地区的地缘政治紧张局势因伊朗对海湾国家发动的袭击而急剧升级，这不仅对全球能源市场和区域稳定造成冲击，更给长期以来支撑海湾地区经济发展的亚洲移民工人带来了前所未有的严峻挑战。这些来自南亚和东南亚国家（如印度、巴基斯坦、菲律宾、孟加拉国和尼泊尔等）的数百万劳工，在海湾国家（如沙特阿拉伯、阿联酋、卡塔尔、科威特等）的建筑、服务、石油和天然气等关键行业中扮演着不可或缺的角色。他们离开家乡，在异国他乡辛勤工作，只为将宝贵的收入寄回家中，帮助自己的家庭摆脱贫困，改善生活条件，支撑子女教育，甚至推动本国经济发展。然而，随着伊朗与海湾地区之间的军事摩擦不断增多，以及“伊朗战争”爆发的潜在风险日益加剧，这些移民工人的生命安全和经济前景正面临着致命的威胁。空袭和导弹袭击的可能性让他们的日常工作环境变得危险重重。许多工人开始质疑，为了维持生计和家庭的福祉，继续留在冲突高风险区域工作是否值得付出生命的代价。他们面临着一个两难的困境：一方面，海湾地区的工作机会和相对较高的薪酬是他们养家糊口的主要来源，回国可能意味着失业和经济上的绝望；另一方面，留在海湾地区则意味着可能随时面临空袭、地区动荡乃至更大规模战争的风险。这种不确定性也对移民工人的心理健康造成了巨大压力。他们不仅要担心自己的人身安全，还要担忧远在家乡的亲人会受到何种影响。一旦大规模撤离发生，其过程也将充满挑战和危险，且可能导致他们失去在海湾地区积累的一切。此外，如果冲突进一步升级导致海湾地区经济活动大规模中断，建筑项目停工、服务业需求锐减，将会有大量移民工人失业，被迫返回原籍国。这对劳务输出国而言，也将是沉重的打击。这些国家严重依赖侨汇收入来平衡国际收支，缓解贫困，并刺激国内消费。据世界银行数据，2023年，南亚地区收到的侨汇总额预计将超过1700亿美元，其中很大一部分来自海湾地区。一旦海湾局势恶化，侨汇收入锐减，将直接冲击这些国家的经济稳定，加剧失业问题，并对社会福利系统构成巨大压力。许多家庭可能因此重新陷入贫困，甚至引发人道主义危机。因此，伊朗与海湾国家的冲突不仅仅是地区政治和军事问题，它还深刻地影响着全球劳务市场、移民群体的人权保障以及多个亚洲国家的经济和社会稳定。亚洲移民工人及其家庭正被迫在生存与安全之间做出艰难的抉择，他们的命运成为这场地缘政治博弈中最脆弱、最无声的受害者之一。国际社会和相关政府亟需关注这一群体的困境，并制定应对策略，以减轻潜在的冲突对他们的负面影响。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c0kr8lrpekmo?at_medium=RSS&at_campaign=rss",
+    "time": "11小时前",
+    "published_iso": "2026-03-31T22:48:34+00:00",
     "is_new": true,
-    "id": "n3",
+    "id": "n13",
+    "lead": false
+  },
+  {
+    "headline": "Peacekeepers killed by roadside explosion in Lebanon, initial report finds",
+    "deck": "The deaths of the two Indonesian nationals came less than a day after another UN peacekeeper - also Indonesian - was killed in Lebanon.",
+    "cnTitle": "黎巴嫩联合国维和人员遇袭身亡",
+    "cnDeck": "一份初步报告显示，在黎巴嫩发生的路边炸弹袭击中，联合国维和人员不幸遇难。这起事件进一步加剧了该地区本已紧张的局势。根据最新消息，两名印度尼西亚籍联合国维和人员在黎巴嫩遭遇路边炸弹袭击身亡。这起令人震惊的事件发生在前一日，另一名同样是印度尼西亚籍的联合国维和人员在黎巴嫩遇害之后不到24小时。这一连",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c05d7md899ro?at_medium=RSS&at_campaign=rss",
+    "time": "12小时前",
+    "published_iso": "2026-03-31T22:07:26+00:00",
+    "is_new": true,
+    "id": "n14",
+    "lead": false
+  },
+  {
+    "headline": "US journalist Shelly Kittleson kidnapped in Baghdad",
+    "deck": "The US state department says a suspect in her abduction has ties to an Iran-backed militia group, Kataib Hezbollah.",
+    "cnTitle": "美记者巴格达被绑架 牵出亲伊朗民兵",
+    "cnDeck": "美国国务院证实，美国记者谢莉·基特尔森（Shelly Kittleson）在伊拉克首都巴格达遭到绑架。这一事件引起了美国政府的高度关注，并可能对本已紧张的地区局势造成进一步影响。美国国务院周三发表声明，指出涉嫌参与绑架基特尔森的一名嫌疑人与一个名为“真主党旅”（Kataib Hezbollah）的伊拉克什叶派民兵组织存在关联。“真主党旅”被美国认定为外国恐怖组织，并被广泛认为是伊朗在伊拉克地区的主要代理人之一。该组织曾在伊拉克多次对美国目标发动袭击，包括针对美国大使馆和驻伊美军基地的火箭弹袭击。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c5yled478zwo?at_medium=RSS&at_campaign=rss",
+    "time": "13小时前",
+    "published_iso": "2026-03-31T21:08:35+00:00",
+    "is_new": true,
+    "id": "n15",
     "lead": false
   },
   {
@@ -51,7 +216,63 @@
     "url": "https://www.cnbc.com/2026/03/31/trump-mail-in-voting-executive-order.html",
     "time": "刚刚",
     "published_iso": "2026-03-31T20:58:38+00:00",
-    "id": "n4",
+    "id": "n16",
+    "lead": false
+  },
+  {
+    "headline": "Morgan Stanley says buy this dividend-paying ‘key beneficiary’ of rising oil prices",
+    "deck": "The firm recently upgraded a stock that could see a boost to its free cash flow yields as oil prices become sticky.",
+    "cnTitle": "摩根士丹利看好高油价受益股",
+    "cnDeck": "摩根士丹利近期发布研究报告，上调了一只派息股票的评级，称其为“油价上涨的关键受益者”，并预计该公司的自由现金流收益率将因此得到显著提振。这一举动反映了该投资银行对当前能源市场趋势及其对特定优质股票影响的乐观态度。根据摩根士丹利的分析，在全球原油价格保持“粘性”或持续高位运行的环境下，这家公司具有独特的优势，能够转化为更高的股东回报。",
+    "cat": "finance",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/31/morgan-stanley-says-buy-this-dividend-paying-key-beneficiary-of-rising-oil-prices.html",
+    "time": "14小时前",
+    "published_iso": "2026-03-31T20:07:20+00:00",
+    "is_new": true,
+    "id": "n17",
+    "lead": false
+  },
+  {
+    "headline": "Silver just had its worst month in 15 years. Where investors see it going next",
+    "deck": "Silver shed almost 20% in March, marking its worst monthly performance since September 2011.",
+    "cnTitle": "白银创15年来最差月度表现",
+    "cnDeck": "白银在三月份经历了自2011年9月以来最糟糕的月度表现，价格下跌近20%。这一显著跌幅引发了全球金融市场的广泛关注，尤其是商品交易者和对贵金属有兴趣的投资者。白银作为一种兼具贵金属和工业金属双重属性的大宗商品，其价格波动受到多种宏观经济因素的综合影响。分析人士普遍认为，导致白银价格大幅下挫的主要原因包括对全球经济增长放缓的担忧、美元走强以及美联储等主要央行维持紧缩货币政策的预期。首先，白银大约一半的需求来自工业用途，例如电子产品、太阳能电池板和医疗设备等领域。随着全球制造业采购经理人指数（PMI）数据持续疲软，以及主要经济体，特别是欧洲和中国的经济复苏前景面临不确定性，市场对白银的工业需求前景感到悲观，从而打压了其价格。例如，近期公布的一些制造业数据低于预期，加剧了投资者对工业活动减弱的担忧。其次，美元的持续强势对以美元计价的商品构成了下行压力。当美元走强时，持有其他货币的买家购买美元计价的白银成本更高，这通常会导致需求下降和价格下跌。三月份，美元指数在多重因素支撑下表现强劲，进一步挤压了白银等大宗商品的价格空间。再者，全球主要央行，特别是美联储，虽然市场普遍预期其加息周期可能已近尾声，但对于何时开始降息以及降息的幅度和速度，依然存在高度不确定性。高利率环境增加了持有无息资产如白银的机会成本，使得投资者更倾向于收益更高的债券或存款。尽管近期通胀数据显示出一些回落迹象，但核心通胀的粘性以及劳动力市场的韧性，使得美联储在调整货币政策上持谨慎态度，这种“更高更久”的利率预期不利于贵金属的表现。部分分析师指出，市场对降息预期的调整也导致了资金从贵金属市场流出。此外，与黄金相比，白银市场规模相对较小，流动性较低，因此对市场情绪和资金流动的敏感性更高，价格波动幅度也往往更大。虽然黄金在同期也受到一定压力，但其跌幅远小于白银，这反映出在不确定性时期，黄金作为最终避险资产的地位更为稳固，而白银的工业属性使其更容易受到经济周期波动的冲击。展望未来，投资者对白银走势的看法存在分歧。一部分看涨观点认为，当前的价格下跌可能为长期投资者提供了买入机会。他们预计，一旦全球经济增长回暖，或主要央行明确转向宽松货币政策，白银的工业需求和投资需求都将得到提振。特别是在绿色能源转型的大背景下，太阳能产业对白银的需求预计将继续增长。国际能源署（IEA）的报告显示，可再生能源的部署仍在加速，这将是白银长期需求的重要支撑。然而，看跌观点则强调，如果全球经济陷入更深的衰退，或者通胀压力持续，导致央行维持限制性政策的时间超出预期，白银价格可能面临进一步的下行风险。地缘政治紧张局势虽然理论上会提升避险需求，但其对工业供应链和全球经济信心的影响，也可能抵消部分避险溢价。总的来说，白银在三月份的剧烈下跌是多种宏观因素交织作用的结果。其未来走势将密切依赖于全球经济的复苏步伐、主要央行的货币政策路径以及美元的强度。投资者需密切关注相关经济数据和政策动态，以评估白银市场的后续表现。当前的表现凸显了商品市场，特别是那些具有工业属性的贵金属，对宏观经济环境的敏感性。",
+    "cat": "finance",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/31/silver-just-had-its-worst-month-in-15-years-where-investors-see-it-going-next.html",
+    "time": "14小时前",
+    "published_iso": "2026-03-31T20:06:33+00:00",
+    "is_new": true,
+    "id": "n18",
+    "lead": false
+  },
+  {
+    "headline": "Tech Life",
+    "deck": "Attribution science is becoming an increasingly important tool in climate lawsuits.",
+    "cnTitle": "气候诉讼归因科学日益重要",
+    "cnDeck": "归因科学（Attribution science）正日益成为气候诉讼中一个至关重要的工具，其核心在于量化人类活动对特定极端天气事件和长期气候趋势的影响。这一新兴的科学领域，利用复杂的全球气候模型、统计分析以及历史气象数据，旨在区分自然变率与人为温室气体排放对气候系统造成的具体改变。例如，科学家现在能够计算出，特定热浪、洪水、干旱或风暴在多大程度上因气候变化而变得更有可能发生或强度更大。",
+    "cat": "tech",
+    "source": "BBC",
+    "url": "https://www.bbc.co.uk/sounds/play/w3ct8jxn?at_medium=RSS&at_campaign=rss",
+    "time": "14小时前",
+    "published_iso": "2026-03-31T20:00:00+00:00",
+    "is_new": true,
+    "id": "n19",
+    "lead": false
+  },
+  {
+    "headline": "Social Security needs money to fix its shortfall. The question is, who will pay?",
+    "deck": "Social Security's retirement trust fund may run out of money in 2032, according to the latest projections. Lawmakers have some ideas for how to fix the program.",
+    "cnTitle": "美国社保退休金面临耗尽风险",
+    "cnDeck": "根据最新预测，美国社会保障退休信托基金可能在2032年面临资金耗尽的严峻局面。这一预测引发了广泛关注，因为社会保障体系是数千万美国老年人、遗属和残疾人士的主要收入来源，对其偿付能力可能影响到整个国家的经济稳定和社会福祉。社会保障体系以“现收现付”制为基础运作，即当前工人的缴费用于支付当前退休人员的福利。然而，人口结构的变化，尤其是婴儿潮一代的退休潮、预期寿命的延长以及出生率的下降，导致领取福利的人数相对于缴纳社保税的工人数量不断增加，使得该体系面临长期的财政压力。",
+    "cat": "finance",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/31/social-security-shortfall-who-will-pay.html",
+    "time": "15小时前",
+    "published_iso": "2026-03-31T18:58:39+00:00",
+    "is_new": true,
+    "id": "n20",
     "lead": false
   },
   {
@@ -64,7 +285,7 @@
     "url": "https://www.bbc.com/news/articles/c17vrd0pj95o?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-03-31T18:33:00+00:00",
-    "id": "n5",
+    "id": "n21",
     "lead": false
   },
   {
@@ -77,7 +298,7 @@
     "url": "https://www.cnbc.com/2026/03/31/oracle-layoffs-ai-spending.html",
     "time": "刚刚",
     "published_iso": "2026-03-31T16:26:37+00:00",
-    "id": "n6",
+    "id": "n22",
     "lead": false
   },
   {
@@ -90,7 +311,7 @@
     "url": "https://www.bbc.com/news/articles/c5yx8knpr5no?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-03-31T16:12:59+00:00",
-    "id": "n7",
+    "id": "n23",
     "lead": false
   },
   {
@@ -103,7 +324,7 @@
     "url": "https://www.bbc.com/news/articles/cjd8nkezdyxo?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-03-31T14:05:10+00:00",
-    "id": "n8",
+    "id": "n24",
     "lead": false
   },
   {
@@ -116,7 +337,7 @@
     "url": "https://www.cnbc.com/2026/03/31/goldman-is-betting-nvidia-will-get-a-boost-from-health-care-as-industry-builds-out-ai-capabilities-.html",
     "time": "2小时前",
     "published_iso": "2026-03-31T13:59:48+00:00",
-    "id": "n9",
+    "id": "n25",
     "lead": false
   },
   {
@@ -129,7 +350,7 @@
     "url": "https://www.bbc.com/news/articles/cn8d47vzz13o?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-03-31T13:56:01+00:00",
-    "id": "n10",
+    "id": "n26",
     "lead": false
   },
   {
@@ -142,7 +363,7 @@
     "url": "https://www.bbc.com/news/articles/c9wqgjn7x89o?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-03-31T12:56:45+00:00",
-    "id": "n11",
+    "id": "n27",
     "lead": false
   },
   {
@@ -155,7 +376,7 @@
     "url": "https://www.bbc.com/news/articles/ckgwe7k49d7o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-03-31T09:47:33+00:00",
-    "id": "n12",
+    "id": "n28",
     "lead": false
   },
   {
@@ -168,7 +389,7 @@
     "url": "https://www.cnbc.com/2026/03/31/autonomous-boat-startup-saronic-raises-1point75-billion-.html",
     "time": "1小时前",
     "published_iso": "2026-03-31T09:00:01+00:00",
-    "id": "n13",
+    "id": "n29",
     "lead": false
   },
   {
@@ -181,7 +402,7 @@
     "url": "https://www.cnbc.com/2026/03/30/stock-market-today-live-updates.html",
     "time": "1小时前",
     "published_iso": "2026-03-31T08:48:18+00:00",
-    "id": "n14",
+    "id": "n30",
     "lead": false
   },
   {
@@ -194,7 +415,7 @@
     "url": "https://www.cnbc.com/2026/03/31/gold-on-track-for-worst-month-since-2008-as-iran-war-drags-on.html",
     "time": "1小时前",
     "published_iso": "2026-03-31T08:37:51+00:00",
-    "id": "n15",
+    "id": "n31",
     "lead": false
   },
   {
@@ -207,7 +428,7 @@
     "url": "https://www.bbc.com/news/articles/cn78xp0m75zo?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-03-31T07:55:23+00:00",
-    "id": "n16",
+    "id": "n32",
     "lead": false
   },
   {
@@ -220,7 +441,7 @@
     "url": "https://www.cnbc.com/2026/03/31/gas-oil-diesel-price-iran-war.html",
     "time": "2小时前",
     "published_iso": "2026-03-31T07:23:40+00:00",
-    "id": "n17",
+    "id": "n33",
     "lead": false
   },
   {
@@ -233,7 +454,7 @@
     "url": "https://www.bbc.com/news/articles/c5ywgn2n3nqo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-03-31T07:12:41+00:00",
-    "id": "n18",
+    "id": "n34",
     "lead": false
   },
   {
@@ -246,7 +467,7 @@
     "url": "https://www.cnbc.com/2026/03/30/iran-attacks-aluminum-producers-shockwaves-market-metals.html",
     "time": "3小时前",
     "published_iso": "2026-03-31T06:51:14+00:00",
-    "id": "n19",
+    "id": "n35",
     "lead": false
   },
   {
@@ -259,7 +480,7 @@
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWDBxaDdPdmJSMXhBYUVuWVhlOVVPQm0wTXp5cmVjVTJUczh2VHl1Z2k0NXBEZ2l1aGR4SU5YRmtkeDY4TTdRcGhqeFdYNXFNX2FkUUdROE1PU1dreWxnWVFZMWM5YzdQYndLMEZ0ZUlpR00tcFFmNnNvWWh5U0hSR2dqdWl3NmZtLXltQ0Y0b0RTVzdPQW5XbGZmU3N0YS0t?oc=5",
     "time": "3小时前",
     "published_iso": "2026-03-31T06:37:00+00:00",
-    "id": "n20",
+    "id": "n36",
     "lead": false
   },
   {
@@ -272,7 +493,7 @@
     "url": "https://www.bbc.com/news/articles/c5yvg42kr21o?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-03-31T05:33:56+00:00",
-    "id": "n21",
+    "id": "n37",
     "lead": false
   },
   {
@@ -285,7 +506,7 @@
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUm5ZcVB1bkM3V2VUM0FDUXFvNHQteU9ZU09ZWi1tdFJMOEVhQnJIOVZNUVhPU3ltOGNiVXpNX1cwUXQwVmNjUkJGZWEwZ0Rzck5ReU5Yd1FzcGRYejZEc3F1Qm5QUlFac2FBX2pIWmpISk9wY2w3bDM3czlDdndTTWd6YjVkMkhYZTlOeTZhZXdZNGpMdGpmSG5MbTJ6d1hXQXNqUVFHSGpFNlRScUNPRWVlR0lkWGY0Q2dWckZrVl8?oc=5",
     "time": "1小时前",
     "published_iso": "2026-03-31T05:05:00+00:00",
-    "id": "n22",
+    "id": "n38",
     "lead": false
   },
   {
@@ -298,7 +519,7 @@
     "url": "https://www.bbc.com/news/articles/c20dxdy33llo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-03-31T04:17:19+00:00",
-    "id": "n23",
+    "id": "n39",
     "lead": false
   },
   {
@@ -311,7 +532,7 @@
     "url": "https://www.cnbc.com/2026/03/31/pete-hegseth-defence-investments-iran-war-pentagon.html",
     "time": "6小时前",
     "published_iso": "2026-03-31T03:53:20+00:00",
-    "id": "n24",
+    "id": "n40",
     "lead": false
   },
   {
@@ -324,7 +545,7 @@
     "url": "https://www.bbc.com/news/articles/cy4181pkxl2o?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-03-31T02:00:24+00:00",
-    "id": "n25",
+    "id": "n41",
     "lead": false
   },
   {
@@ -337,7 +558,7 @@
     "url": "https://www.bbc.com/news/articles/czex10lngzjo?at_medium=RSS&at_campaign=rss",
     "time": "13小时前",
     "published_iso": "2026-03-30T21:12:29+00:00",
-    "id": "n26",
+    "id": "n42",
     "lead": false
   },
   {
@@ -350,7 +571,7 @@
     "url": "https://www.bbc.com/news/articles/cp8dkd6lnjdo?at_medium=RSS&at_campaign=rss",
     "time": "13小时前",
     "published_iso": "2026-03-30T21:11:37+00:00",
-    "id": "n27",
+    "id": "n43",
     "lead": false
   },
   {
@@ -363,7 +584,7 @@
     "url": "https://www.bbc.com/news/articles/cy41vqx4pdzo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-03-30T20:07:17+00:00",
-    "id": "n28",
+    "id": "n44",
     "lead": false
   },
   {
@@ -376,7 +597,21 @@
     "url": "https://www.cnbc.com/2026/03/30/powell-sees-inflation-outlook-in-check-no-wider-crisis-yet-in-private-credit.html",
     "time": "14小时前",
     "published_iso": "2026-03-30T19:34:25+00:00",
-    "id": "n29",
+    "id": "n45",
+    "lead": false
+  },
+  {
+    "headline": "Millions of drivers mis-sold car finance to receive average £829 in compensation",
+    "deck": "The City regulator says 12.1 million mis-sold motor finance deals will be eligible for redress.",
+    "cnTitle": "英国数百万司机将获车贷误售赔偿",
+    "cnDeck": "英国金融行为监管局（FCA），通常被称为“伦敦金融城监管机构”，近期宣布，预计将有高达1210万笔汽车金融交易符合获得赔偿的资格。这些交易涉及过去广泛存在的“误售”行为，即汽车贷款提供商或经纪人未向消费者充分披露其从贷款安排中获得的佣金。根据初步估计，受到影响的司机平均每人将收到约829英镑的赔偿。FCA此举源于其对汽车金融市场长达数月的深入调查。该调查重点关注了从2007年到2021年期间，贷款机构向汽车经销商和经纪人支付的“酌情佣金”模式。在这种模式下，经销商可以自行设定消费者支付的贷款利率，并从中赚取更高的佣金，而消费者往往对此毫不知情，导致他们支付了过高的利息。FCA认为，这种做法可能导致了数百万消费者在不知情的情况下支付了不合理的费用，并违反了公平对待客户的原则。FCA的调查报告指出，这些误售行为普遍存在于汽车贷款市场，影响了包括个人合同购买（PCP）和分期付款（HP）等多种类型的汽车金融产品。此次赔偿方案的推出，旨在纠正历史遗留问题，保护消费者权益，并确保金融服务市场的透明度和公平性。监管机构已明确表示，相关金融机构将有义务对受影响的客户进行评估，并按照指导方针提供适当的赔偿。市场分析师预计，此次大规模赔偿将对英国汽车金融行业产生深远影响。一些主要的银行和贷款机构可能面临数十亿英镑的赔偿成本，这可能对其财务状况造成压力，并促使它们重新审视其佣金结构和销售流程。此外，这一事件也将提高消费者对汽车金融产品的警惕性，促使他们在签订协议前更仔细地审查条款和条件。FCA已设立了一个专门的流程，指导消费者如何提出索",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c9vlm2ggrwlo?at_medium=RSS&at_campaign=rss",
+    "time": "1天前",
+    "published_iso": "2026-03-30T18:59:19+00:00",
+    "is_new": true,
+    "id": "n46",
     "lead": false
   },
   {
@@ -389,7 +624,7 @@
     "url": "https://www.bbc.com/news/articles/c2l9vvj097lo?at_medium=RSS&at_campaign=rss",
     "time": "13小时前",
     "published_iso": "2026-03-30T16:50:46+00:00",
-    "id": "n30",
+    "id": "n47",
     "lead": false
   },
   {
@@ -402,7 +637,7 @@
     "url": "https://www.bbc.com/news/articles/cwy368j1e3lo?at_medium=RSS&at_campaign=rss",
     "time": "18小时前",
     "published_iso": "2026-03-30T15:29:15+00:00",
-    "id": "n31",
+    "id": "n48",
     "lead": false
   },
   {
@@ -415,7 +650,7 @@
     "url": "https://www.bbc.com/news/articles/c78lj4976lvo?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-03-30T15:22:18+00:00",
-    "id": "n32",
+    "id": "n49",
     "lead": false
   },
   {
@@ -428,7 +663,7 @@
     "url": "https://www.cnbc.com/2026/03/30/trump-iran-war-obliterate-kharg-island-strait-of-hormuz-peace-deal.html",
     "time": "19小时前",
     "published_iso": "2026-03-30T14:43:49+00:00",
-    "id": "n33",
+    "id": "n50",
     "lead": false
   },
   {
@@ -441,46 +676,7 @@
     "url": "https://www.bbc.com/news/articles/cvgk8zk9epgo?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-03-30T14:10:06+00:00",
-    "id": "n34",
-    "lead": false
-  },
-  {
-    "headline": "Russia expels British diplomat over spying allegations",
-    "deck": "A UK Foreign Office spokesman accused Russia of an \"aggressive and co-ordinated campaign of harassment against British diplomats\".",
-    "cnTitle": "俄驱逐英外交官涉间谍指控",
-    "cnDeck": "俄罗斯政府近日宣布驱逐一名英国外交官，理由是该外交官涉嫌从事间谍活动，此举立即升级了两国间本已高度紧张的外交关系。俄罗斯官方通讯社报道称，俄罗斯外交部召见了英国驻莫斯科大使馆的一名高级官员，并告知其大使馆内的一名英国外交官已被宣布为“不受欢迎的人”（persona non grata），并被要求在规定期限内离开俄罗斯领土。俄罗斯外交部在随后的声明中表示，",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/czx94e7j5jpo?at_medium=RSS&at_campaign=rss",
-    "time": "4小时前",
-    "published_iso": "2026-03-30T10:33:56+00:00",
-    "id": "n35",
-    "lead": false
-  },
-  {
-    "headline": "European Bank Stocks to Snap Record Quarterly Run on Iran, AI - Bloomberg",
-    "deck": "European Bank Stocks to Snap Record Quarterly Run on Iran, AI&nbsp;&nbsp;Bloomberg",
-    "cnTitle": "欧洲银行股季度涨势或终结",
-    "cnDeck": "据彭博社报道，欧洲银行股在经历了强劲的连续几个季度上涨之后，其创纪录的涨势预计将在当前季度戛然而止。分析师指出，导致这一转变的主要因素包括伊朗地区日益紧张的地缘政治局势以及人工智能（AI）技术带来的变革性影响。此前，欧洲银行股受益于全球经济复苏、利率上升带来的净息差改善以及相对稳定的市场环境，一度表现抢眼，吸引了大量投资者的关注。然而，中东地区围绕伊朗的紧张局势，特别是关于潜在冲突升级、石油供应中断以及对全球贸易路线（如红海航运）的潜在影响，正在引发市场对宏观经济稳定性和银行业风险敞口的担忧。地缘政治风险的加剧可能导致能源价格波动，影响企业盈利能力，进而增加银行的不良贷款风险。此外，任何针对伊朗的新制裁措施都可能对与该地区有业务往来的欧洲银行带来合规成本上升和潜在资产减值的压力，从而冲击银行的盈利前景和投资者信心。",
-    "cat": "tech",
-    "source": "Bloomberg",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbGEyYlZrbk42QVpwejdMT3I4ZElsU2ZIQmxPUUNnajBfVElLaWktdzJWZ1pJTWZHc0dic21QeWlzczVKcGpoRUxWczhCQllzWFc2QmtObkh4Z3NYUm0tWmVhcHVRcFdKd0pEV1ppS2p2dnNQVWhsclVNc1RqaXBsMmlrel9aYS1yR2NLQzBRNlR5TkdTQVJQazUxRDRJamlmZlFqaFRpTFprcm16ZEd0TUxfRXlGazh2bV92X2FJQV9ROUlKS1RDWWtHRQ?oc=5",
-    "time": "22小时前",
-    "published_iso": "2026-03-30T08:03:20+00:00",
-    "id": "n36",
-    "lead": false
-  },
-  {
-    "headline": "Oil rises above $115 and Asia shares slide as Iran war enters fifth week",
-    "deck": "It comes after Iran-backed Houthi rebels in Yemen joined the conflict by striking Israel over the weekend.",
-    "cnTitle": "伊朗冲突升级油价飙升亚洲股市下跌",
-    "cnDeck": "中东地区日益升级的冲突正对全球能源市场和金融市场产生显著影响。随着“伊朗战争”进入第五周，国际油价飙升至每桶115美元以上，而亚洲股市普遍下滑，这反映出投资者对地缘政治风险的深切担忧。此次市场震荡的直接诱因是，上周末伊朗支持的也门胡塞武装首次直接介入本轮冲突，向以色列发动了袭击，标志着中东紧张局势的进一步升级和冲突范围的",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cz905eyjznno?at_medium=RSS&at_campaign=rss",
-    "time": "8小时前",
-    "published_iso": "2026-03-30T06:37:22+00:00",
-    "id": "n37",
+    "id": "n51",
     "lead": false
   }
 ]
