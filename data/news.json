@@ -13,6 +13,20 @@
     "lead": true
   },
   {
+    "headline": "State pension age starts rising to 67 - here's how much you get and when",
+    "deck": "The age at which people can start receiving the state pension is going up in stages over the next two years.",
+    "cnTitle": "养老金领取年龄逐步上调至67岁",
+    "cnDeck": "本则新闻报道指出，某国公民开始领取国家养老金的年龄将在未来两年内分阶段提高至67岁。这一政策调整是许多发达经济体为应对人口结构变化、确保社会福利体系可持续性而采取的普遍措施。国家养老金通常是政府向达到特定年龄且符合一定条件的公民提供的定期支付，旨在为老年人提供基本收入保障，支撑其退休生活。领取年龄的提高，直接影响到数百万即将退休的劳动者及其家庭的财务规划。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cx2e7e90kneo?at_medium=RSS&at_campaign=rss",
+    "time": "20小时前",
+    "published_iso": "2026-04-03T23:27:52+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
     "headline": "Faced with new energy shock, Europe asks if reviving nuclear is the answer",
     "deck": "As war drives up gas and fuel prices, Europeans turn again to the issue of energy independence.",
     "cnTitle": "欧洲应对能源危机 审视核电复兴",
@@ -22,7 +36,7 @@
     "url": "https://www.bbc.com/news/articles/c4g8k8vq8gno?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-04-03T23:14:04+00:00",
-    "id": "n2",
+    "id": "n3",
     "lead": false
   },
   {
@@ -35,7 +49,7 @@
     "url": "https://www.bbc.com/news/articles/czd7y1n3jyjo?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-04-03T23:04:24+00:00",
-    "id": "n3",
+    "id": "n4",
     "lead": false
   },
   {
@@ -48,7 +62,7 @@
     "url": "https://www.bbc.com/news/articles/cwy3r3w4zl8o?at_medium=RSS&at_campaign=rss",
     "time": "12小时前",
     "published_iso": "2026-04-03T20:59:48+00:00",
-    "id": "n4",
+    "id": "n5",
     "lead": false
   },
   {
@@ -61,7 +75,7 @@
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVHF4bE9TRmZNaEF0Qkstamttcmk5NVh4STFXeEVtUXY0aUxtdmg5TERWcGd1UGZ3Z1JFZncxOXJxN0VuY0pwZ0R3QmxreVg0bm1uS29YRVBaMXJWTlRjVnNTd215ckNaQWpuQmtYdXJNaGxSaXBORkl0enpZRnR5aVFUQWEyTk1EYXNvS2tJc1JHazg0d2NKVFBNdHZjYnZndjVDQ3c2a2pHcVUyTlkzcDdkVHRnUQ?oc=5",
     "time": "刚刚",
     "published_iso": "2026-04-03T19:27:54+00:00",
-    "id": "n5",
+    "id": "n6",
     "lead": false
   },
   {
@@ -74,7 +88,7 @@
     "url": "https://www.bbc.com/news/articles/cjd8275jrrko?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-04-03T17:45:46+00:00",
-    "id": "n6",
+    "id": "n7",
     "lead": false
   },
   {
@@ -87,7 +101,7 @@
     "url": "https://www.bbc.com/news/articles/crr1q4kjvn2o?at_medium=RSS&at_campaign=rss",
     "time": "17小时前",
     "published_iso": "2026-04-03T15:45:25+00:00",
-    "id": "n7",
+    "id": "n8",
     "lead": false
   },
   {
@@ -100,7 +114,7 @@
     "url": "https://www.bbc.com/news/articles/crk165g4vv3o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-04-03T13:35:11+00:00",
-    "id": "n8",
+    "id": "n9",
     "lead": false
   },
   {
@@ -113,7 +127,7 @@
     "url": "https://www.cnbc.com/2026/04/03/trump-tariffs-trade-war-impact.html",
     "time": "18小时前",
     "published_iso": "2026-04-03T11:30:01+00:00",
-    "id": "n9",
+    "id": "n10",
     "lead": false
   },
   {
@@ -126,7 +140,7 @@
     "url": "https://www.bbc.com/news/articles/cly0zp1xgz3o?at_medium=RSS&at_campaign=rss",
     "time": "21小时前",
     "published_iso": "2026-04-03T11:11:42+00:00",
-    "id": "n10",
+    "id": "n11",
     "lead": false
   },
   {
@@ -139,7 +153,7 @@
     "url": "https://www.bbc.com/news/articles/ce843ge47z4o?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-04-03T00:31:27+00:00",
-    "id": "n11",
+    "id": "n12",
     "lead": false
   },
   {
@@ -152,7 +166,7 @@
     "url": "https://www.bbc.com/news/articles/cn8d63v058zo?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-04-02T22:57:37+00:00",
-    "id": "n12",
+    "id": "n13",
     "lead": false
   },
   {
@@ -165,7 +179,7 @@
     "url": "https://www.bbc.com/news/articles/ce8lzd4v7zdo?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-04-02T22:25:44+00:00",
-    "id": "n13",
+    "id": "n14",
     "lead": false
   },
   {
@@ -178,46 +192,7 @@
     "url": "https://www.bbc.com/news/articles/cx29kke01gpo?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-04-02T22:06:30+00:00",
-    "id": "n14",
-    "lead": false
-  },
-  {
-    "headline": "Iran's two largest steel plants shut down due to air strikes, companies say",
-    "deck": "The strikes, which Iran says were first launched by Israel in co-ordination with the US last week, could cause major damage to the Iranian economy.",
-    "cnTitle": "伊朗两巨型钢厂因空袭停工，经济受重创",
-    "cnDeck": "据伊朗相关企业报告，伊朗国内两家规模最大的钢铁厂目前已因遭受空袭而被迫停产。伊朗方面指出，这些空袭事件首次发生在上周，并声称袭击是由以色列与美国协调合作发动的。德黑兰当局强调，此类针对伊朗关键工业基础设施的袭击行动，可能对其国家经济造成灾难性的重大损害。这一事件不仅凸显了中东地区地缘政治紧张局势的剧烈升级，也对伊朗本已面临严峻挑战的经济前景蒙上更深的阴影。钢铁产业在伊朗经济中占据举足轻重的地位。作为世界十大钢铁生产国之一，伊朗的钢铁工业是其非石油出口收入的重要来源，尤其是在国际社会对其实施严厉制裁的背景下，钢铁出口为伊朗带来了宝贵的外汇收入。这两家最大的钢铁厂的停产，意味着伊朗钢铁产能将遭受巨大损失，直接影响到国家出口创汇能力、国内工业生产链的稳定以及大量就业岗位。伊朗的钢铁产品广泛应用于建筑、基础设施建设、能源（尤其是石油和天然气）以及军事工业等多个关键领域。因此，工厂的停工将导致相关供应链中断，抬高国内钢铁价格，进一步加剧通货膨胀压力，并可能对国民经济的多个部门产生连锁反应。从更宏观的经济层面来看，此次空袭对伊朗经济的打击是多方面的。首先，生产中断将直接导致产量减少，出口受阻，从而削弱伊朗政府的财政收入。其次，修复受损设施需要大量资金和时间，而西方国家的制裁使得伊朗获取先进技术和零部件变得异常困难，这将进一步延缓恢复进程。再次，对关键工业设施的直接打击，会严重打击外国投资者对伊朗经济的信心，阻碍任何潜在的经济复苏努力。最后，失业率的上升和基本物资价格的上涨，可能引发社会不满，对伊朗国内稳定构成潜在威胁。地缘政治层面，伊朗将此次袭击归咎于以色列与美国的协调行动，这无疑将地区冲突的风险推向新的高度。长期以来，以色列和伊朗一直处于“影子战争”状态，双方在网络空间、海上以及通过代理人进行对抗。但直接针对伊朗本土核心工业资产的空袭，被视为一种更为直接和公开的升级。如果伊朗的指控属实，这将表明冲突性质正在从间接对抗转向更具破坏性的直接攻击，可能会引发伊朗方面的强烈报复，从而导致中东地区局势进一步恶化，甚至可能演变为更大规模的地区冲突。国际社会对此次事件的反应将备受关注，尤其是在当前加沙冲突背景下，任何一方的进一步军事行动都可能打破脆弱的地区平衡。美国和以色列方面通常对此类指控不予置评，但其行动的影响力不容忽视。对于伊朗而言，如何在遭受重大经济损失的同时，应对地缘政治压力并避免冲突失控，将是其面临的重大挑战。此次袭击不仅对伊朗的经济复苏计划构成重大打击，也深刻揭示了中东地区复杂且危险的权力动态，预示着未来一段时期内",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c1w4pdexxqpo?at_medium=RSS&at_campaign=rss",
-    "time": "16小时前",
-    "published_iso": "2026-04-02T17:01:08+00:00",
     "id": "n15",
-    "lead": false
-  },
-  {
-    "headline": "'I haven't slept for days': Iranians describe mounting desperation after a month of war",
-    "deck": "Ordinary people from various parts of Iran describe expanding strikes, economic pain and fear of repression.",
-    "cnTitle": "战火一月 伊朗民众绝望经济困境加剧",
-    "cnDeck": "“我已数日未眠。”这句充满绝望的话语，道出了伊朗普通民众在长达一个月的战争冲突中日益加剧的困境与挣扎。随着战火持续蔓延，伊朗各地的民众正经历着前所未有的生存危机和心理重压。这场持续一个月的冲突，不仅在边境地区造成了直接破坏，其深远影响已渗透到伊朗社会的每一个角落。据来自不同地区的报告，日常生活已变得面目全非。空袭警报成为常态，物资供应紧张，许多家庭被迫应对电力中断和基本服务中断的挑战。人们普遍感到未来充满不确定性，对自身和家人的安全忧虑重重。民众的绝望情绪日益加重，不仅仅是由于物质匮乏，更是因为精神上的持续打击。许多人表示，战前原本就面临的生活压力，如今在战争阴影下变得难以承受。心理健康问题，如失眠、焦虑和抑郁，在社区中普遍蔓延。家庭团聚变得奢侈，许多年轻人面临着是否应离家寻求安全的艰难抉择。儿童教育受阻，学校时常关闭，未来一代的命运也因此蒙上阴影。报道指出，伊朗多个行业的罢工活动正在扩大，这反映出工人对经济状况的强烈不满。在战争的催化下，伊朗经济遭受重创，通货膨胀飙升，物价飞涨，货币大幅贬值，普通民众的购买力急剧下降。许多企业因供应链中断、国际制裁加剧以及国内需求萎缩而被迫停产或裁员，导致失业率飙升。食品、药品等基本生活必需品的价格居高不下，使得原本就捉襟见肘的家庭雪上加霜。一些工人表示，他们的工资已数月未发，家庭收入完全中断，这促使他们走上街头，以罢工形式表达抗议和绝望。伴随经济困境和民间不满情绪的加剧，政府的镇压手段也日益严厉。民众普遍生活在对当局报复和压制的恐惧之中。言论自由受到严格限制，任何公开表达不满的行为都可能招致严厉后果。逮捕、拘禁和未经审判的关押时有发生，使得社会氛围更加紧张。人权组织报告称，公民社会的活动空间被进一步压缩，异议人士和媒体工作者面临的风险显著增加。这种恐惧使得许多人选择沉默，但内心的绝望和不满却在持续积累。综合来看，持续一个月的战争已经将伊朗推向一个深渊，普通民众在生理和心理上都承受着巨大的痛苦。“我已数日未眠”的声音，是无数伊朗民众内心挣扎的缩影。国际社会对伊朗局势的关注日益增加，但对这些普通民众而言，他们的生存困境和对未来的迷茫依然是每天需要面对的残酷现实。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/crm1vj941x9o?at_medium=RSS&at_campaign=rss",
-    "time": "17小时前",
-    "published_iso": "2026-04-02T16:09:24+00:00",
-    "id": "n16",
-    "lead": false
-  },
-  {
-    "headline": "Iranian Nobel laureate suffered suspected heart attack in prison, family says",
-    "deck": "Narges Mohammadi's brother says he fears her life is in imminent danger and she needs to be transferred to a hospital.",
-    "cnTitle": "诺奖得主狱中疑心脏病发",
-    "cnDeck": "伊朗著名人权活动家、2023年诺贝尔和平奖得主纳尔吉斯·穆罕默迪（Narges Mohammadi）的家人日前对外透露，穆罕默迪女士在伊朗臭名昭著的埃文监狱（Evin Prison）中疑似突发心脏病，情况危急。她的兄弟贾瓦德·穆罕默迪（Javad Mohammadi）通过社交媒体和媒体声明，向外界表达了对妹妹生命安危的深切担忧，并强烈呼吁伊朗当局立即将她转送至设备齐全的医院进行紧急救治。贾瓦德·穆罕默迪明确表示，他“担心她的生命处于迫在眉睫的危险之中，她需要被转送至医院”，这句话直接引述了他在焦急状态下的呼吁，强调了情况的紧迫性与潜在的致命风险。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cdj7xye8knxo?at_medium=RSS&at_campaign=rss",
-    "time": "17小时前",
-    "published_iso": "2026-04-02T16:00:58+00:00",
-    "id": "n17",
     "lead": false
   }
 ]
