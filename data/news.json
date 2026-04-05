@@ -9,7 +9,6 @@
     "url": "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-04-05T06:59:48+00:00",
-    "is_new": true,
     "id": "n1",
     "lead": true
   },
@@ -23,7 +22,6 @@
     "url": "https://www.bbc.com/news/articles/c5yj97yd6v5o?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-04-04T23:15:48+00:00",
-    "is_new": true,
     "id": "n2",
     "lead": false
   },
@@ -37,7 +35,6 @@
     "url": "https://www.bbc.com/news/articles/cgqkn4j48qdo?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-04-04T21:29:46+00:00",
-    "is_new": true,
     "id": "n3",
     "lead": false
   },
@@ -51,7 +48,6 @@
     "url": "https://www.bbc.com/news/articles/cvg3nr83xyvo?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-04-04T21:16:42+00:00",
-    "is_new": true,
     "id": "n4",
     "lead": false
   },
@@ -78,7 +74,6 @@
     "url": "https://www.bbc.com/news/articles/cx2e95xqn10o?at_medium=RSS&at_campaign=rss",
     "time": "14小时前",
     "published_iso": "2026-04-04T18:30:58+00:00",
-    "is_new": true,
     "id": "n6",
     "lead": false
   },
@@ -92,7 +87,6 @@
     "url": "https://www.cnbc.com/2026/04/04/us-iran-war-gas-prices-diesel-jet-fuel-economy-consumer-tax.html",
     "time": "20小时前",
     "published_iso": "2026-04-04T13:16:08+00:00",
-    "is_new": true,
     "id": "n7",
     "lead": false
   },
@@ -106,7 +100,6 @@
     "url": "https://www.bbc.com/news/articles/c62l084kgk6o?at_medium=RSS&at_campaign=rss",
     "time": "21小时前",
     "published_iso": "2026-04-04T12:10:10+00:00",
-    "is_new": true,
     "id": "n8",
     "lead": false
   },
@@ -120,7 +113,6 @@
     "url": "https://www.cnbc.com/2026/04/04/apple-50-anniversary-ai-iphone-siri.html",
     "time": "21小时前",
     "published_iso": "2026-04-04T12:00:01+00:00",
-    "is_new": true,
     "id": "n9",
     "lead": false
   },
@@ -134,7 +126,6 @@
     "url": "https://www.bbc.com/news/videos/c7vqlr5gqr0o?at_medium=RSS&at_campaign=rss",
     "time": "22小时前",
     "published_iso": "2026-04-04T11:00:34+00:00",
-    "is_new": true,
     "id": "n10",
     "lead": false
   },
@@ -240,45 +231,6 @@
     "time": "17小时前",
     "published_iso": "2026-04-03T15:45:25+00:00",
     "id": "n18",
-    "lead": false
-  },
-  {
-    "headline": "US jobs surge unexpectedly in March despite Iran war",
-    "deck": "Employers added 178,000 jobs, far more than had expected, the Labor Department says.",
-    "cnTitle": "美国3月就业超预期增长",
-    "cnDeck": "美国劳工部周五发布的数据显示，尽管中东地区“伊朗战争”的阴影持续笼罩，美国就业市场在三月份仍表现出人意料的强劲势头。当月，美国雇主共新增了17.8万个非农就业岗位，这一数字远超市场此前普遍预期。此前的分析普遍认为，地缘政治紧张局势的加剧，特别是中东冲突可能带来的不确定性，会促使企业在招聘方面趋于谨慎，从而",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/crk165g4vv3o?at_medium=RSS&at_campaign=rss",
-    "time": "1小时前",
-    "published_iso": "2026-04-03T13:35:11+00:00",
-    "id": "n19",
-    "lead": false
-  },
-  {
-    "headline": "Trump tariff fallout: Some industries grapple with lingering effects one year later",
-    "deck": "A year after his \"liberation day,\" Trump's trade war has reshaped how companies in industries such as retail and autos are modeling economic and policy risk.",
-    "cnTitle": "特朗普关税战一年后影响",
-    "cnDeck": "一年前，在前总统唐纳德·特朗普宣布其所谓的“解放日”——即实施大规模关税措施——之后，其发起的贸易战至今仍在对全球多个行业产生深远而持久的影响。尤其是零售和汽车行业，许多企业被迫从根本上重新评估并调整其经济和政策风险建模方法。特朗普政府实施的关税，旨在通过对来自中国等国家的进口商品征收高额关税来保护美国国内产业，最初给企业带来了巨大的成本冲击。一年过后，这种影响已经不仅仅是简单的交易成本增加，而是演变为一种更深层次的系统性转变。如今，企业在进行长期战略规划和供应链管理时，已主动将地缘政治紧张局势、贸易政策波动以及未来可能再次实施关税的可能性纳入考量。在零售领域，企业面临着从服装到电子产品等各类消费品采购成本的显著上涨。这迫使它们不得不探索多元化的供应链，将生产基地从传统的制造中心转移，或与新供应商重新谈判协议。在某些情况下，零售商选择自行消化更高的成本，这可能影响其利润率，或导致最终消费者需要支付更高的价格。对于汽车行业而言，针对钢铁、铝以及进口汽车零部件或整车征收的关税，直接影响了生产成本和国际销售策略。汽车制造商和供应商不得不遵守复杂的原产地新规，投资于生产回流或近岸外包，并重新校准其全球制造布局。特朗普政府的“贸易战”环境，以频繁的政策变化和不可预测的言论为特征，带来了前所未有的不确定性。这种不确定性促使企业发展出更强大的情景规划能力，并在其运营中建立更高的韧性。它们现在定期分析关税升级或降级的潜在情景，评估政治格局，并审视未来政府贸易政策的潜在影响。过去一年的经验，已经在企业风险评估中确立了一种新的范式。一度被认为是异类或黑天鹅事件的全面贸易战，现在已成为全球经济运营环境中一个被认可的、尽管不受欢迎的组成部分。企业正通过优先考虑灵活性、敏捷性以及对国际贸易动态的全面理解来适应这种变化，认识到贸易政策是其未来成功的关键且可能具有颠覆性的因素。",
-    "cat": "economy",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/04/03/trump-tariffs-trade-war-impact.html",
-    "time": "18小时前",
-    "published_iso": "2026-04-03T11:30:01+00:00",
-    "id": "n20",
-    "lead": false
-  },
-  {
-    "headline": "Burkina Faso must 'forget' about democracy, military leader says",
-    "deck": "Capt Ibrahim Traoré, who seized power in 2023, says democratic rule would not work for his country.",
-    "cnTitle": "布基纳法索军方领导人称不适合民主制",
-    "cnDeck": "布基纳法索的军事领导人易卜拉欣·特拉奥雷上尉（Capt Ibrahim Traoré），他在2023年通过政变上台，近日明确表示，布基纳法索必须“忘记民主”（'forget' about democracy），并坚称民主统治“不适合他的国家”（'would not work for his country'）。这一声明标志着布基纳法索军政府在回归文官民主治理问题上的立场显著强硬化，预示着该国可能将长期脱离既定的民主规范，对非洲萨赫勒地区乃至国际社会都具有深远的影响。特拉奥雷上尉在一次公开讲话中发表了上述言论，强调在布基纳法索当前面临严峻安全挑战的背景下，民主制度的传统运作方式可能无法有效应对危机。他的这番话语反映了该国军方领导层对西方民主模式的深刻怀疑，并暗示将寻求一种更符合其认为的国家现实和优先事项的治理路径。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cly0zp1xgz3o?at_medium=RSS&at_campaign=rss",
-    "time": "21小时前",
-    "published_iso": "2026-04-03T11:11:42+00:00",
-    "id": "n21",
     "lead": false
   }
 ]
