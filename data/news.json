@@ -1,5 +1,19 @@
 [
   {
+    "headline": "Ten killed in Israeli strikes and clashes between Hamas and militia in Gaza, local sources say",
+    "deck": "The Israeli strikes reportedly targeted Hamas security personnel after they clashed with an Israeli-backed militia near Maghazi camp.",
+    "cnTitle": "加沙冲突升级，以军空袭致十人死亡",
+    "cnDeck": "根据当地消息来源的最新报道，加沙地带的紧张局势再次升级，以色列的空袭行动与哈马斯安全人员及一支民兵之间的冲突，已导致至少十人死亡。此次事件的具体地点位于加沙地带中部的马加齐（Maghazi）难民营附近，进一步加剧了该区域本已复杂且脆弱的安全环境。消息指出，以色列军队的空袭目标据称是哈马斯的安全人员。在此次空袭发生之前，这些哈马斯安全人员与一个被认为是受到以色列支持的民兵组织发生了激烈交火。冲突的详细经过目前仍在调查中，但初步报告显示，双方在马加齐难民营附近展开了军事对抗，随后以色列对哈马斯阵地采取了空中打击。此次伤亡事件凸显了加沙地带内部派系斗争以及与外部势力关联的复杂性。哈马斯作为加沙地带的实际控制者，其安全部队负责维护当地秩序，但其行动常常引发地区内的摩擦和更广泛的冲突。与此同时，存在以色列支持的民兵组织，这表明加沙内部力量格局的多元性和潜在的对抗点。马加齐难民营作为一个人口稠密的区域，任何军事行动和暴力事件都不可避免地对当地居民造成严重影响和生命威胁。国际社会对加沙地带的人道主义状况长期表示关切，并呼吁各方保持克制，避免暴力升级，以防止地区局势进一步恶化。然而，此次事件再次证明，该地区的安全形势依然动荡不安，任何火花都可能点燃大规模冲突的导火索。预计未来一段时间内，加沙地带的局势将持续紧张，国际社会将密切关注事态发展。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c77md512n71o?at_medium=RSS&at_campaign=rss",
+    "time": "1小时前",
+    "published_iso": "2026-04-06T19:11:20+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
     "headline": "Stock futures slip after a winning week as oil prices tick higher: Live updates",
     "deck": "Wall Street is coming off a strong performance last week, with the S&amp;P 500 soaring nearly 6%.",
     "cnTitle": "美股期货下跌油价小幅走高",
@@ -9,8 +23,8 @@
     "url": "https://www.cnbc.com/2026/04/05/stock-market-today-live-updates.html",
     "time": "刚刚",
     "published_iso": "2026-04-06T06:59:57+00:00",
-    "id": "n1",
-    "lead": true
+    "id": "n2",
+    "lead": false
   },
   {
     "headline": "Trump's Iran ultimatum and signals of a possible deal keep investors on tenterhooks",
@@ -22,7 +36,7 @@
     "url": "https://www.cnbc.com/2026/04/06/trump-iran-deadline-investors-markets-trade-deal-war-.html",
     "time": "1小时前",
     "published_iso": "2026-04-06T05:31:39+00:00",
-    "id": "n2",
+    "id": "n3",
     "lead": false
   },
   {
@@ -35,7 +49,7 @@
     "url": "https://www.bbc.com/news/articles/c8dl7g6e59eo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-04-06T03:33:35+00:00",
-    "id": "n3",
+    "id": "n4",
     "lead": false
   },
   {
@@ -48,7 +62,7 @@
     "url": "https://www.bbc.com/news/articles/cy01vg7x5ppo?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-04-06T00:23:16+00:00",
-    "id": "n4",
+    "id": "n5",
     "lead": false
   },
   {
@@ -61,7 +75,21 @@
     "url": "https://www.bbc.com/news/articles/c2ev3p14kvlo?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-04-05T23:19:20+00:00",
-    "id": "n5",
+    "id": "n6",
+    "lead": false
+  },
+  {
+    "headline": "Benefits and pensions rise as two-child cap ends",
+    "deck": "Families on some benefits with three or more children will get an average rise of £4,100 a year.",
+    "cnTitle": "英国废除两孩上限福利金上调",
+    "cnDeck": "英国政府近日宣布，已正式废除此前针对领取特定福利金家庭设置的“两孩上限”规定。这一重大政策调整将使育有三名或以上子女的符合条件家庭，平均每年额外获得4,100英镑的福利金增长，此举旨在显著改善这些家庭的经济状况，并减轻其生活压力。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cn085pdly86o?at_medium=RSS&at_campaign=rss",
+    "time": "21小时前",
+    "published_iso": "2026-04-05T23:00:58+00:00",
+    "is_new": true,
+    "id": "n7",
     "lead": false
   },
   {
@@ -74,7 +102,7 @@
     "url": "https://www.bbc.com/news/articles/cy41n17e23go?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-04-05T22:07:40+00:00",
-    "id": "n6",
+    "id": "n8",
     "lead": false
   },
   {
@@ -87,7 +115,7 @@
     "url": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-04-05T21:19:02+00:00",
-    "id": "n7",
+    "id": "n9",
     "lead": false
   },
   {
@@ -100,7 +128,7 @@
     "url": "https://www.bbc.com/news/articles/cj60x206dx1o?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-04-05T19:17:42+00:00",
-    "id": "n8",
+    "id": "n10",
     "lead": false
   },
   {
@@ -113,7 +141,7 @@
     "url": "https://www.bbc.com/news/articles/clye6j0g840o?at_medium=RSS&at_campaign=rss",
     "time": "16小时前",
     "published_iso": "2026-04-05T15:03:19+00:00",
-    "id": "n9",
+    "id": "n11",
     "lead": false
   },
   {
@@ -126,7 +154,7 @@
     "url": "https://www.bbc.com/news/articles/crk1zgjj7y1o?at_medium=RSS&at_campaign=rss",
     "time": "18小时前",
     "published_iso": "2026-04-05T12:35:36+00:00",
-    "id": "n10",
+    "id": "n12",
     "lead": false
   },
   {
@@ -139,7 +167,7 @@
     "url": "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-04-05T06:59:48+00:00",
-    "id": "n11",
+    "id": "n13",
     "lead": false
   },
   {
@@ -152,7 +180,7 @@
     "url": "https://www.bbc.com/news/videos/ce3d5gkd2geo?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-04-05T00:04:03+00:00",
-    "id": "n12",
+    "id": "n14",
     "lead": false
   },
   {
@@ -165,7 +193,7 @@
     "url": "https://www.bbc.com/news/articles/ckgxdn9lyd2o?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-04-04T23:56:55+00:00",
-    "id": "n13",
+    "id": "n15",
     "lead": false
   },
   {
@@ -178,7 +206,7 @@
     "url": "https://www.bbc.com/news/articles/c5yj97yd6v5o?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-04-04T23:15:48+00:00",
-    "id": "n14",
+    "id": "n16",
     "lead": false
   },
   {
@@ -191,7 +219,7 @@
     "url": "https://www.bbc.com/news/articles/cgqkn4j48qdo?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-04-04T21:29:46+00:00",
-    "id": "n15",
+    "id": "n17",
     "lead": false
   },
   {
@@ -204,32 +232,6 @@
     "url": "https://www.bbc.com/news/articles/cvg3nr83xyvo?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-04-04T21:16:42+00:00",
-    "id": "n16",
-    "lead": false
-  },
-  {
-    "headline": "Russian attack on Ukraine market kills five",
-    "deck": "A Russian drone hit a busy spot in the southern Ukrainian town on Saturday morning, injuring another 21 people.",
-    "cnTitle": "俄无人机袭击乌克兰南部城镇市场",
-    "cnDeck": "俄罗斯对乌克兰南部城镇的袭击造成5人死亡，另有21人受伤。这起严重事件发生在周六上午，一枚俄罗斯无人机击中了该城镇一个繁忙的市场区域，给当地社区带来了毁灭性的打击。据当地官员和目击者报告，袭击发生时，市场正值一周中最繁忙的时刻，许多居民正在此购买食物和生活必需品。无人机突然的出现和随后的爆炸，导致市场内部瞬间陷入一片混乱与恐慌。多栋建筑物",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cp869m2gzr0o?at_medium=RSS&at_campaign=rss",
-    "time": "11小时前",
-    "published_iso": "2026-04-04T18:54:53+00:00",
-    "id": "n17",
-    "lead": false
-  },
-  {
-    "headline": "World's oldest leader to get a deputy for first time in 43-year rule",
-    "deck": "Cameroon's President Paul Biya, 93, won his eighth successive term last year in a disputed election.",
-    "cnTitle": "喀麦隆比亚总统将设副手",
-    "cnDeck": "喀麦隆总统保罗·比亚，这位现年93岁、全球最年长的国家元首，即将首次任命一位副手，此举标志着其长达43年执政生涯中的一个重大转变。比亚总统自1982年上任以来，一直稳固掌控国家权力，而这一全新的职位设立，无疑引发了外界对喀麦隆未来政治走向的广泛关注和猜测。背景资料显示，比亚总统在去年举行的总统选举中，成功赢得了他的",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cx2e95xqn10o?at_medium=RSS&at_campaign=rss",
-    "time": "14小时前",
-    "published_iso": "2026-04-04T18:30:58+00:00",
     "id": "n18",
     "lead": false
   }
