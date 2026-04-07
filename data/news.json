@@ -1,5 +1,33 @@
 [
   {
+    "headline": "Airlines cut flights and hike fares as fuel prices surge",
+    "deck": "Airlines have reduced services and lifted ticket costs as the Iran war weighs on jet fuel costs.",
+    "cnTitle": "航司削减航班票价上涨应对油价飙升",
+    "cnDeck": "受中东地区持续升级的伊朗战争影响，全球航空业正面临前所未有的运营挑战。这场地缘政治冲突引发了市场对关键石油供应路线，尤其是霍尔木兹海峡，潜在中断的担忧，直接导致国际原油价格，如布伦特原油和西德克萨斯中质原油（WTI），出现显著飙升。作为航空公司的主要运营成本之一，航空燃油（喷气燃料）价格随之水涨船高",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c87w4x0n3j0o?at_medium=RSS&at_campaign=rss",
+    "time": "刚刚",
+    "published_iso": "2026-04-07T15:49:22+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "One gunman killed and two injured in shooting at Israeli consulate in Istanbul",
+    "deck": "No Israeli diplomats are currently in Turkey and the Istanbul consulate has been empty for the past two-and-a-half years.",
+    "cnTitle": "伊斯坦布尔以色列领馆枪击 一死两伤",
+    "cnDeck": "据多家国际媒体报道，土耳其最大城市伊斯坦布尔的以色列领事馆日前发生了一起引人关注的枪击事件。事件中，一名身份不明的枪手被击毙，另有两名人员受伤。伤者的具体身份和受伤程度目前尚未有详细披露，但初步消息显示，事件可能涉及安全人员与枪手之间的交火。然而，此次事件的特殊之处在于，该以色列领事馆在过去的两年半时间里一直处于空置状态，且目前没有以色列外交官在土耳其境内履行职务。这一事实引发了外界对于此次枪击事件动机的广泛猜测。土耳其与以色列两国关系历来复杂，时而紧张，时而寻求合作。自2020年以来，由于一系列地区冲突和政策分歧，两国关系曾一度降至低点。尽管近年来双方曾尝试修复关系，但加沙地带冲突的持续升级，使得土耳其国内的反以色列情绪高涨。此次针对空置领事馆的袭击，可能被视为对以色列近期行动的象征性抗议，或者试图以此事件向以色列施压。土耳其当局已对此事件展开全面调查，以查明枪手的身份、袭击动机以及是否存在任何幕后指使。目前，土耳其政府尚未就此事件发表官方声明，以色列方面也未立即作出回应。然而，鉴于外交机构的敏感性，即使是空置的领事馆遭到袭击，也可能被视为对国家主权的挑衅，并可能对本已脆弱的地区稳定局势产生潜在影响。分析人士指出，虽然此次事件并未造成以色列外交人员伤亡，但其象征意义不容小觑。在当前中东地区紧张局势加剧的背景下，任何针对以色列目标的暴力行为，无论其规模大小，都可能被放大解读，并可能进一步加剧",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c3exp8j7yz4o?at_medium=RSS&at_campaign=rss",
+    "time": "1小时前",
+    "published_iso": "2026-04-07T14:51:07+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
     "headline": "Music giant Universal gets $64bn takeover offer",
     "deck": "The music giant behind acts such as Taylor Swift and Sabrina Carpenter gets an offer from Bill Ackman's Pershing Square.",
     "cnTitle": "艾克曼基金640亿美元收购环球音乐",
@@ -9,9 +37,8 @@
     "url": "https://www.bbc.com/news/articles/cz0ex432dmyo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-07T10:35:36+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n3",
+    "lead": false
   },
   {
     "headline": "JD Vance arrives in Hungary to back Orbán's re-election bid",
@@ -23,8 +50,7 @@
     "url": "https://www.bbc.com/news/articles/cyv16lq2rp1o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-07T09:55:07+00:00",
-    "is_new": true,
-    "id": "n2",
+    "id": "n4",
     "lead": false
   },
   {
@@ -37,8 +63,7 @@
     "url": "https://www.bbc.com/news/articles/c0krnz7mmmjo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-04-07T07:29:55+00:00",
-    "is_new": true,
-    "id": "n3",
+    "id": "n5",
     "lead": false
   },
   {
@@ -51,8 +76,7 @@
     "url": "https://www.bbc.com/news/articles/crr1jyk0qwjo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-04-07T07:19:27+00:00",
-    "is_new": true,
-    "id": "n4",
+    "id": "n6",
     "lead": false
   },
   {
@@ -65,8 +89,7 @@
     "url": "https://www.bbc.com/news/articles/cgld111d9jpo?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-04-07T06:41:24+00:00",
-    "is_new": true,
-    "id": "n5",
+    "id": "n7",
     "lead": false
   },
   {
@@ -79,8 +102,7 @@
     "url": "https://www.bbc.com/news/articles/c145enxln0go?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-04-07T05:13:12+00:00",
-    "is_new": true,
-    "id": "n6",
+    "id": "n8",
     "lead": false
   },
   {
@@ -93,7 +115,7 @@
     "url": "https://www.bbc.com/news/articles/c20qv0w1j1do?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-07T05:10:36+00:00",
-    "id": "n7",
+    "id": "n9",
     "lead": false
   },
   {
@@ -106,8 +128,7 @@
     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUFE4ZXlFWjdXNU9mY1VEQmVJZzJGNk1lMV9PSVREY1dkODZDT0VUWjVWZ3FzVGpUZjBPT3dBU3R2Q0ZhM292WmdweFpvYktMYjdMdk9HSDJsTkpjcWFHSHhSRmlVcUljc1M2eHA2RHpIVGhicEhUTGtidlJrSDI0b3daV0U3My1oQ1NLQVlxVFdkdUJTdzBLUVRzbFBuS3pOZWtOQUZBcWdHNUx2azdEblNDbDVEVkxhdklfYjhlTWlBMHo3eXU4Um9PUVpndEE?oc=5",
     "time": "8小时前",
     "published_iso": "2026-04-07T02:50:46+00:00",
-    "is_new": true,
-    "id": "n8",
+    "id": "n10",
     "lead": false
   },
   {
@@ -120,7 +141,7 @@
     "url": "https://www.bbc.com/news/articles/cn43wllgn4vo?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-04-07T01:21:36+00:00",
-    "id": "n9",
+    "id": "n11",
     "lead": false
   },
   {
@@ -133,7 +154,7 @@
     "url": "https://www.bbc.com/news/articles/c79jqx1xdy9o?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-04-06T23:34:11+00:00",
-    "id": "n10",
+    "id": "n12",
     "lead": false
   },
   {
@@ -146,8 +167,7 @@
     "url": "https://www.bbc.com/news/articles/c70n2rjgxeyo?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-04-06T23:20:52+00:00",
-    "is_new": true,
-    "id": "n11",
+    "id": "n13",
     "lead": false
   },
   {
@@ -160,8 +180,7 @@
     "url": "https://www.bbc.com/news/articles/czexw94rj5jo?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-04-06T23:04:23+00:00",
-    "is_new": true,
-    "id": "n12",
+    "id": "n14",
     "lead": false
   },
   {
@@ -174,7 +193,7 @@
     "url": "https://www.bbc.com/news/articles/c77md512n71o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-04-06T19:11:20+00:00",
-    "id": "n13",
+    "id": "n15",
     "lead": false
   },
   {
@@ -187,8 +206,7 @@
     "url": "https://www.bbc.com/news/articles/c0mj4jeyvmzo?at_medium=RSS&at_campaign=rss",
     "time": "15小时前",
     "published_iso": "2026-04-06T18:55:45+00:00",
-    "is_new": true,
-    "id": "n14",
+    "id": "n16",
     "lead": false
   },
   {
@@ -201,7 +219,7 @@
     "url": "https://www.bbc.com/news/articles/cvgl0ng8z0do?at_medium=RSS&at_campaign=rss",
     "time": "14小时前",
     "published_iso": "2026-04-06T15:40:35+00:00",
-    "id": "n15",
+    "id": "n17",
     "lead": false
   },
   {
@@ -214,7 +232,7 @@
     "url": "https://www.cnbc.com/2026/04/06/jpmorgan-ceo-jamie-dimon-annual-letter-risks.html",
     "time": "18小时前",
     "published_iso": "2026-04-06T11:55:38+00:00",
-    "id": "n16",
+    "id": "n18",
     "lead": false
   },
   {
@@ -227,7 +245,7 @@
     "url": "https://www.cnbc.com/2026/04/05/stock-market-today-live-updates.html",
     "time": "刚刚",
     "published_iso": "2026-04-06T06:59:57+00:00",
-    "id": "n17",
+    "id": "n19",
     "lead": false
   },
   {
@@ -240,7 +258,7 @@
     "url": "https://www.cnbc.com/2026/04/06/trump-iran-deadline-investors-markets-trade-deal-war-.html",
     "time": "1小时前",
     "published_iso": "2026-04-06T05:31:39+00:00",
-    "id": "n18",
+    "id": "n20",
     "lead": false
   },
   {
@@ -253,7 +271,7 @@
     "url": "https://www.bbc.com/news/articles/c8dl7g6e59eo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-04-06T03:33:35+00:00",
-    "id": "n19",
+    "id": "n21",
     "lead": false
   },
   {
@@ -266,7 +284,7 @@
     "url": "https://www.bbc.com/news/articles/cy01vg7x5ppo?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-04-06T00:23:16+00:00",
-    "id": "n20",
+    "id": "n22",
     "lead": false
   },
   {
@@ -279,7 +297,7 @@
     "url": "https://www.bbc.com/news/articles/c2ev3p14kvlo?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-04-05T23:19:20+00:00",
-    "id": "n21",
+    "id": "n23",
     "lead": false
   },
   {
@@ -292,7 +310,7 @@
     "url": "https://www.bbc.com/news/articles/cn085pdly86o?at_medium=RSS&at_campaign=rss",
     "time": "21小时前",
     "published_iso": "2026-04-05T23:00:58+00:00",
-    "id": "n22",
+    "id": "n24",
     "lead": false
   },
   {
@@ -305,7 +323,7 @@
     "url": "https://www.bbc.com/news/articles/cy41n17e23go?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-04-05T22:07:40+00:00",
-    "id": "n23",
+    "id": "n25",
     "lead": false
   },
   {
@@ -318,7 +336,7 @@
     "url": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-04-05T21:19:02+00:00",
-    "id": "n24",
+    "id": "n26",
     "lead": false
   },
   {
@@ -331,32 +349,6 @@
     "url": "https://www.bbc.com/news/articles/cj60x206dx1o?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-04-05T19:17:42+00:00",
-    "id": "n25",
-    "lead": false
-  },
-  {
-    "headline": "Artemis's stunning Moon pictures - science or holiday photos?",
-    "deck": "The story behind the beautiful pictures beamed back to Earth from the Artemis II astronauts.",
-    "cnTitle": "探索与科技成就",
-    "cnDeck": "阿尔忒弥斯二号任务传回地球的月球照片，不仅仅是美丽的图像，更是人类深空探索中科技进步与雄心壮志的生动体现。这些照片由NASA阿尔忒弥斯二号任务的宇航员从猎户座飞船上拍摄，标志着人类时隔半个多世纪再次进行载人绕月飞行。阿尔忒弥斯二号是NASA重返月球计划中的关键一步，其主要目标是测试猎户座飞船的各项系统，验证其在深空环境下的性能，并确保宇航员的安全。任务团队包括指令长里德·怀斯曼、飞行员维克多·格洛弗、任务专家克里斯蒂娜·科克以及加拿大航天局的宇航员杰里米·汉森。这些令人惊叹的月球照片背后，是复杂且精密的航天科技。宇航员们使用专业相机设备，在远离地球的深空环境中捕捉月球表面细节、地球的壮丽景象以及猎户座飞船自身的姿态。图像的传输依赖于NASA的深空网络（Deep Space Network, DSN），这是一个全球性的通信系统，负责接收来自数亿公里之外的探测器和载人飞船的数据。DSN的高带宽和高灵敏度对于确保这些高质量图像能够顺利、及时地传回地球至关重要。照片内容涵盖了从猎户座飞船舷窗看到的月球表面陨石坑、地球的蓝色大理石景象，甚至可能是飞船自身的外部结构。这些图像不仅具有巨大的科学价值，有助于科学家们更好地了解月球地形和宇宙环境，也为公众提供了身临其境的宇宙视角，激发了全球对太空探索的热情和兴趣。阿尔忒弥斯计划旨在通过一系列渐进式任务，最终实现人类再次登月，并建立月球长期驻留基地，为未来的火星任务铺平道路。阿尔忒弥斯二号任务的成功及其传回的影像，证明了新一代太空探索技术，包括新型的太空服、生命支持系统、导航与通信系统等的可靠性。这些照片是任务顺利进行和技术成熟的直观证据，也是宇航员在极端环境下出色工作的见证。此外，这些照片也具有重要的象征意义。它们提醒着世界，在国际合作与科技创新的推动下，人类能够不断突破探索的界限。加拿大航天局宇航员的参与，也体现了阿尔忒弥斯计划的国际合作性质。这些图像将作为历史记录，激励未来一代的科学家、工程师和宇航员继续探索未知，追求更远的星辰大海。它们不仅仅是“假日照片”，更是科学探索、技术突破和人类梦想的视觉结晶，揭示了人类重返月球并最终抵达火星的宏伟愿景。",
-    "cat": "tech",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/clye6j0g840o?at_medium=RSS&at_campaign=rss",
-    "time": "16小时前",
-    "published_iso": "2026-04-05T15:03:19+00:00",
-    "id": "n26",
-    "lead": false
-  },
-  {
-    "headline": "Pope Leo calls for global leaders to choose peace in his first Easter Mass",
-    "deck": "Pope Leo XIV addressed thousands of worshippers gathered in St Peter's Square on Easter Sunday in his first address as pontiff.",
-    "cnTitle": "教皇利奥吁全球领导人选择和平",
-    "cnDeck": "教皇利奥十四世于复活节星期日在圣彼得广场向数千名聚集的信众发表了他作为教宗的首次复活节弥撒讲话。在这场具有历史意义的首次公开布道中，教皇利奥十四世发出了强烈的和平呼吁，恳请全球各国领导人放弃冲突与对抗，转而选择对话、理解与和平共处。他强调，当前世界正面临多重危机，包括日益加剧的地缘政治紧张局势、地区冲突的持续升级以及人道主义灾难的蔓延。在圣彼得广场庄严而神圣的氛围中，教皇利奥十四世指出，和平不仅仅是没有战争的状态，更是一种积极的承诺，要求各国在面对分歧时展现智慧和勇气，通过外交途径解决争端，而非诉诸武力。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/crk1zgjj7y1o?at_medium=RSS&at_campaign=rss",
-    "time": "18小时前",
-    "published_iso": "2026-04-05T12:35:36+00:00",
     "id": "n27",
     "lead": false
   }
