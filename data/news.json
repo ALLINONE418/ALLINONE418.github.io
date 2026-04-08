@@ -1,5 +1,19 @@
 [
   {
+    "headline": "Will UK petrol and diesel prices start going down?",
+    "deck": "UK petrol prices have risen because of the US-Israel war with Iran but the ceasefire could see prices drop.",
+    "cnTitle": "英油价受美以伊战事影响或回落",
+    "cnDeck": "英国的汽油和柴油价格近期呈现显著上涨趋势，引发了英国消费者和经济界的广泛关注。根据最新分析，此次油价飙升的直接原因被认为是“美国-以色列与伊朗之间的战争”。这场地缘政治冲突被认为对全球原油供应的稳定性和市场预期产生了重大冲击。中东地区是全球重要的石油产地，任何在该地区发生的冲突或紧张局势，都可能导致市场对原油供应中断的担忧加剧。具体来说，当“美国-以色列与伊朗之间的战争”爆发或升级时，投资者和交易商会普遍预期原油供应可能受到干扰，例如通过霍尔木兹海峡的航运受阻，或是主要产油国的基础设施遭到破坏。这种预期推动了国际原油价格的上涨，因为市场为可能出现的供应短缺提前定价。炼油商和燃料供应商随之将更高的原油成本转嫁给终端消费者，最终导致英国加油站的汽油和柴油价格攀升。这不仅增加了英国普通民众的出行成本，也对物流、运输等行业造成了压力，进一步加剧了英国本已面临的生活成本危机和通胀压力。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+    "time": "刚刚",
+    "published_iso": "2026-04-08T13:29:24+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
     "headline": "Oil plunges after US-Iran ceasefire deal to reopen Strait of Hormuz",
     "deck": "The agreement was announced not long before Trump's Tuesday evening deadline was reached.",
     "cnTitle": "美伊停火协议达成油价暴跌",
@@ -9,8 +23,8 @@
     "url": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-04-08T03:24:53+00:00",
-    "id": "n1",
-    "lead": true
+    "id": "n2",
+    "lead": false
   },
   {
     "headline": "Plan to scrap presidential elections puts Zimbabweans at loggerheads",
@@ -22,8 +36,7 @@
     "url": "https://www.bbc.com/news/articles/cg54zy5dq1yo?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-04-07T23:15:33+00:00",
-    "is_new": true,
-    "id": "n2",
+    "id": "n3",
     "lead": false
   },
   {
@@ -36,7 +49,7 @@
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRmxsSXFVVkVOMnNMTVh0SjBMRU5tSUlNT280d21iZEtoNzllcVVwZGVBbHV2Skt0WmMwU0dORUk4ajhOS2NIRjZXbDY1VHZSb2picWtSQUlDbWJnZC0zUTdIVFE1UDBzbjRLUGUxdjEyb0dSOVRuNl9NeEU3WERhRWwyOWppTWhYdWpmNkhEelhJSTg2Wm1fQms0c3BFc2l6Z0FzM2Y4WlR2Qk45eTdrbA?oc=5",
     "time": "1小时前",
     "published_iso": "2026-04-07T20:16:56+00:00",
-    "id": "n3",
+    "id": "n4",
     "lead": false
   },
   {
@@ -49,7 +62,7 @@
     "url": "https://www.cnbc.com/2026/04/07/trump-vance-orban-hungary-iran-war.html",
     "time": "2小时前",
     "published_iso": "2026-04-07T18:49:06+00:00",
-    "id": "n4",
+    "id": "n5",
     "lead": false
   },
   {
@@ -62,7 +75,21 @@
     "url": "https://www.bbc.com/news/articles/c87w4x0n3j0o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-07T15:49:22+00:00",
-    "id": "n5",
+    "id": "n6",
+    "lead": false
+  },
+  {
+    "headline": "Ex-Meta worker investigated for downloading 30,000 private Facebook photos",
+    "deck": "The former employee was fired from Meta after being suspected of downloading 30,000 photos, the company said.",
+    "cnTitle": "前Meta员工涉下载3万脸书私照",
+    "cnDeck": "前Meta员工涉嫌下载3万张私人Facebook照片一事正受到广泛关注和深入调查。Meta公司官方确认，一名曾受雇于公司的员工，因涉嫌未经授权下载了高达30,000张私人Facebook用户照片，已被公司解雇。这一事件揭示了大型科技公司在维护用户数据隐私和安全方面所面临的严峻挑战，尤其是在内部人员可能滥用权限的情况下。Facebook作为全球最大的社交网络平台之一，拥有数十亿用户，其平台上存储着海量的个人敏感信息和私密内容。此类内部数据泄露事件，不仅直接侵犯了受影响用户的隐私权，更严重损害了用户对Meta及其服务平台的信任。根据Meta公司的声明，此次事件已促使内部启动全面调查，以查明事件的全部真相，包括该前员工是如何获取这些照片的权限，其具体操作方式，以及这些照片是否已被进一步分享、泄露或用于非法目的。尽管目前关于该员工的身份、动机以及照片的最终去向等关键信息尚未公开，但可以预见的是，这起事件将对Meta公司的声誉造成负面影响，并可能引发监管机构的审查。在全球范围内，数据隐私保护已成为各国政府和公众高度关注的焦点，尤其是在《通用数据保护条例》（GDPR）和《加州消费者隐私法案》（CCPA）等严格法规生效后，任何涉及用户数据泄露或滥用的行为都可能导致巨额罚款和严厉的法律制裁。对于受影响的Facebook用户而言，这一消息无疑令人担忧，它再次提醒用户在网络平台上分享个人内容时需要谨慎。同时，事件也向所有科技公司敲响了警钟，要求它们必须持续强化内部安全协议、提高员工数据伦理意识、并部署更先进的访问控制和审计系统，以最大程度地降低内部风险。Meta公司需要采取透明化的态度，及时向公众和受影响用户通报调查进展，并提供必要的支持和补救措施。此次事件的处理结果，不仅关乎Meta自身的未来发展，更将为整个互联网行业在处理用户隐私和数据安全问题上树立一个重要先例，促使业界共同思考如何更好地平衡用户体验与数据保护的责任。未来几周内，随着调查的深入，预计将有更多细节浮出水面，届时Meta将面临更大的压力来证明其保护用户数据的能力和决心。",
+    "cat": "tech",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cvg049xz1ygo?at_medium=RSS&at_campaign=rss",
+    "time": "22小时前",
+    "published_iso": "2026-04-07T15:39:33+00:00",
+    "is_new": true,
+    "id": "n7",
     "lead": false
   },
   {
@@ -75,7 +102,7 @@
     "url": "https://www.bbc.com/news/articles/c3exp8j7yz4o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-04-07T14:51:07+00:00",
-    "id": "n6",
+    "id": "n8",
     "lead": false
   },
   {
@@ -88,8 +115,7 @@
     "url": "https://www.bbc.com/news/articles/c4g8pzpw2g2o?at_medium=RSS&at_campaign=rss",
     "time": "18小时前",
     "published_iso": "2026-04-07T13:55:19+00:00",
-    "is_new": true,
-    "id": "n7",
+    "id": "n9",
     "lead": false
   },
   {
@@ -102,8 +128,7 @@
     "url": "https://www.bbc.com/news/articles/c0q4w3l0wdvo?at_medium=RSS&at_campaign=rss",
     "time": "20小时前",
     "published_iso": "2026-04-07T12:04:09+00:00",
-    "is_new": true,
-    "id": "n8",
+    "id": "n10",
     "lead": false
   },
   {
@@ -116,7 +141,7 @@
     "url": "https://www.bbc.com/news/articles/c8x71ejrp92o?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-04-07T11:55:47+00:00",
-    "id": "n9",
+    "id": "n11",
     "lead": false
   },
   {
@@ -129,7 +154,7 @@
     "url": "https://www.bbc.com/news/videos/c3exp80x7vqo?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-04-07T10:56:44+00:00",
-    "id": "n10",
+    "id": "n12",
     "lead": false
   },
   {
@@ -142,7 +167,7 @@
     "url": "https://www.bbc.com/news/articles/c2e4ygndjpwo?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-04-07T10:43:34+00:00",
-    "id": "n11",
+    "id": "n13",
     "lead": false
   },
   {
@@ -155,7 +180,7 @@
     "url": "https://www.bbc.com/news/articles/cz0ex432dmyo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-07T10:35:36+00:00",
-    "id": "n12",
+    "id": "n14",
     "lead": false
   },
   {
@@ -168,7 +193,7 @@
     "url": "https://www.bbc.com/news/articles/cyv16lq2rp1o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-07T09:55:07+00:00",
-    "id": "n13",
+    "id": "n15",
     "lead": false
   },
   {
@@ -181,7 +206,7 @@
     "url": "https://www.bbc.com/news/articles/c0krnz7mmmjo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-04-07T07:29:55+00:00",
-    "id": "n14",
+    "id": "n16",
     "lead": false
   },
   {
@@ -194,7 +219,7 @@
     "url": "https://www.bbc.com/news/articles/crr1jyk0qwjo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-04-07T07:19:27+00:00",
-    "id": "n15",
+    "id": "n17",
     "lead": false
   },
   {
@@ -207,7 +232,7 @@
     "url": "https://www.bbc.com/news/articles/cgld111d9jpo?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-04-07T06:41:24+00:00",
-    "id": "n16",
+    "id": "n18",
     "lead": false
   },
   {
@@ -220,7 +245,7 @@
     "url": "https://www.bbc.com/news/articles/c145enxln0go?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-04-07T05:13:12+00:00",
-    "id": "n17",
+    "id": "n19",
     "lead": false
   },
   {
@@ -233,7 +258,7 @@
     "url": "https://www.bbc.com/news/articles/c20qv0w1j1do?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-07T05:10:36+00:00",
-    "id": "n18",
+    "id": "n20",
     "lead": false
   },
   {
@@ -246,7 +271,7 @@
     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUFE4ZXlFWjdXNU9mY1VEQmVJZzJGNk1lMV9PSVREY1dkODZDT0VUWjVWZ3FzVGpUZjBPT3dBU3R2Q0ZhM292WmdweFpvYktMYjdMdk9HSDJsTkpjcWFHSHhSRmlVcUljc1M2eHA2RHpIVGhicEhUTGtidlJrSDI0b3daV0U3My1oQ1NLQVlxVFdkdUJTdzBLUVRzbFBuS3pOZWtOQUZBcWdHNUx2azdEblNDbDVEVkxhdklfYjhlTWlBMHo3eXU4Um9PUVpndEE?oc=5",
     "time": "8小时前",
     "published_iso": "2026-04-07T02:50:46+00:00",
-    "id": "n19",
+    "id": "n21",
     "lead": false
   },
   {
@@ -259,7 +284,7 @@
     "url": "https://www.bbc.com/news/articles/cn43wllgn4vo?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-04-07T01:21:36+00:00",
-    "id": "n20",
+    "id": "n22",
     "lead": false
   },
   {
@@ -272,7 +297,7 @@
     "url": "https://www.bbc.com/news/articles/c79jqx1xdy9o?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-04-06T23:34:11+00:00",
-    "id": "n21",
+    "id": "n23",
     "lead": false
   },
   {
@@ -285,7 +310,7 @@
     "url": "https://www.bbc.com/news/articles/c70n2rjgxeyo?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-04-06T23:20:52+00:00",
-    "id": "n22",
+    "id": "n24",
     "lead": false
   },
   {
@@ -298,7 +323,7 @@
     "url": "https://www.bbc.com/news/articles/czexw94rj5jo?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-04-06T23:04:23+00:00",
-    "id": "n23",
+    "id": "n25",
     "lead": false
   },
   {
@@ -311,7 +336,7 @@
     "url": "https://www.bbc.com/news/articles/c77md512n71o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-04-06T19:11:20+00:00",
-    "id": "n24",
+    "id": "n26",
     "lead": false
   },
   {
@@ -324,7 +349,7 @@
     "url": "https://www.bbc.com/news/articles/c0mj4jeyvmzo?at_medium=RSS&at_campaign=rss",
     "time": "15小时前",
     "published_iso": "2026-04-06T18:55:45+00:00",
-    "id": "n25",
+    "id": "n27",
     "lead": false
   },
   {
@@ -337,20 +362,7 @@
     "url": "https://www.bbc.com/news/articles/cvgl0ng8z0do?at_medium=RSS&at_campaign=rss",
     "time": "14小时前",
     "published_iso": "2026-04-06T15:40:35+00:00",
-    "id": "n26",
-    "lead": false
-  },
-  {
-    "headline": "JPMorgan CEO Jamie Dimon in annual letter cites risks in geopolitics, AI and private markets",
-    "deck": "JPMorgan CEO Jamie Dimon in his annual letter to shareholders noted the country's 250th anniversary and called for a broad recommitment to American ideals.",
-    "cnTitle": "摩根大通CEO戴蒙警示三大风险",
-    "cnDeck": "摩根大通首席执行官杰米·戴蒙在其备受关注的年度致股东信中，对全球经济和金融市场未来面临的潜在挑战发出了明确警告，重点提及了地缘政治紧张局势、人工智能（AI）的复杂影响以及私募市场的固有风险。作为全球最大的银行之一的掌舵人，戴蒙的观点通常被视为对全球经济和金融趋势的权威解读，对投资者和政策制定者具有重要的参考价值。",
-    "cat": "tech",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/04/06/jpmorgan-ceo-jamie-dimon-annual-letter-risks.html",
-    "time": "18小时前",
-    "published_iso": "2026-04-06T11:55:38+00:00",
-    "id": "n27",
+    "id": "n28",
     "lead": false
   }
 ]
