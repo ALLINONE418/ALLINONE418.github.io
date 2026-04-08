@@ -1,5 +1,19 @@
 [
   {
+    "headline": "Why fuel and food prices could still be affected for months",
+    "deck": "Analysts fear long-lasting economic damage from the US-Israel war with Iran has already been set in motion.",
+    "cnTitle": "美伊冲突恐长期影响全球经济",
+    "cnDeck": "分析人士担忧，美国、以色列与伊朗之间的紧张对峙及可能升级的冲突，其长期经济损害可能已经开始显现。这场被视为中东地区地缘政治紧张局势最新一轮升级的事件，其潜在的广度和持续性引发了全球范围内的严重关注。作为世界主要的石油和天然气生产中心，中东地区的任何不稳定因素都可能对全球能源市场产生立竿见影的冲击。专家指出，如果军事行动扩大或关键石油航运路线（例如霍尔木兹海峡）受到干扰，全球原油价格将面临巨大上涨压力。原油价格的飙升将直接传导至汽油、柴油等终端燃料价格，大幅增加运输、制造和农业等关键行业的运营成本。企业为了维持利润，很可能会将这些额外的成本转嫁给消费者，从而推动普遍的通货膨胀，侵蚀家庭购买力，并可能抑制消费支出。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c5ywpv1d4geo?at_medium=RSS&at_campaign=rss",
+    "time": "5小时前",
+    "published_iso": "2026-04-08T14:07:41+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
     "headline": "Will UK petrol and diesel prices start going down?",
     "deck": "UK petrol prices have risen because of the US-Israel war with Iran but the ceasefire could see prices drop.",
     "cnTitle": "英油价受美以伊战事影响或回落",
@@ -9,9 +23,22 @@
     "url": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-08T13:29:24+00:00",
+    "id": "n2",
+    "lead": false
+  },
+  {
+    "headline": "Faisal Islam: Iran war pause is welcome but the economic scars will last",
+    "deck": "Allowing all ships through the Strait of Hormuz will calm markets but the war has created new problems.",
+    "cnTitle": "伊朗战争暂停经济伤疤持续",
+    "cnDeck": "知名经济评论员费萨尔·伊斯兰（Faisal Islam）指出，尽管当前伊朗局势的“战争暂停”令人欣慰，并且霍尔木兹海峡恢复所有船只通行能够暂时平息全球市场，但此次冲突所造成的经济创伤将是长期且深远的，已然产生了诸多新的经济问题。霍尔木兹海峡作为全球最重要的石油运输咽喉之一，其通畅对全球能源供应稳定至关重要。当海峡面临封锁或安全威胁时，国际原油价格往往会飙升，航运保险费用急剧增加，供应链面临巨大压力，进而引发全球范围内的通货膨胀担忧。因此，此次“战争暂停”和海峡恢复畅通，短期内确实能够有效缓解市场对能源供应中断的恐慌情绪，促使国际油价回落，降低航运成本，为全球经济注入一剂强心针，使投资者情绪得到一定程度的修复。然而，伊斯兰强调，这种暂时的平静并不能抹去冲突带来的长期经济影响。首先，即使战争暂停，地区地缘政治风险溢价仍将持续存在。航运公司和保险机构可能会继续对途经该区域的船只征收更高的风险费用，这使得全球贸易成本长期居高不下。其次，能源市场的脆弱性已被暴露无遗。各国和企业将更加重视能源安全，可能会加速多元化能源供应、发展可再生能源或建立战略储备，这些结构性转变虽然有益于长期发展，但在短期内意味着巨大的投资和调整成本。第三，供应链的韧性受到考验。企业可能会重新评估其供应链布局，寻求更安全的替代路线或生产基地，从而导致生产成本上升和效率下降。第四，投资信心受损。投资者在经历了地缘政治动荡后，对中东地区的长期投资持更谨慎态度，资金可能流向被认为更安全的地区，从而影响该区域乃至全球的经济增长潜力。第五，冲突可能已经对一些国家的宏观经济指标造成了不可逆的损害，例如通胀率的结构性上升，以及政府为应对危机而增加的财政支出，这些都将为未来的经济政策带来挑战。费萨尔·伊斯兰的观点警示世人，尽管战火暂时平息，但其在贸易、投资、能源和通胀等方面留下的“经济伤疤”，将需要长时间才能愈合，并可能塑造未来全球经济格局的新常态。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c5yx4e9d8pdo?at_medium=RSS&at_campaign=rss",
+    "time": "7小时前",
+    "published_iso": "2026-04-08T12:44:15+00:00",
     "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n3",
+    "lead": false
   },
   {
     "headline": "Oil plunges after US-Iran ceasefire deal to reopen Strait of Hormuz",
@@ -23,7 +50,7 @@
     "url": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-04-08T03:24:53+00:00",
-    "id": "n2",
+    "id": "n4",
     "lead": false
   },
   {
@@ -36,7 +63,7 @@
     "url": "https://www.bbc.com/news/articles/cg54zy5dq1yo?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-04-07T23:15:33+00:00",
-    "id": "n3",
+    "id": "n5",
     "lead": false
   },
   {
@@ -49,7 +76,7 @@
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRmxsSXFVVkVOMnNMTVh0SjBMRU5tSUlNT280d21iZEtoNzllcVVwZGVBbHV2Skt0WmMwU0dORUk4ajhOS2NIRjZXbDY1VHZSb2picWtSQUlDbWJnZC0zUTdIVFE1UDBzbjRLUGUxdjEyb0dSOVRuNl9NeEU3WERhRWwyOWppTWhYdWpmNkhEelhJSTg2Wm1fQms0c3BFc2l6Z0FzM2Y4WlR2Qk45eTdrbA?oc=5",
     "time": "1小时前",
     "published_iso": "2026-04-07T20:16:56+00:00",
-    "id": "n4",
+    "id": "n6",
     "lead": false
   },
   {
@@ -62,7 +89,7 @@
     "url": "https://www.cnbc.com/2026/04/07/trump-vance-orban-hungary-iran-war.html",
     "time": "2小时前",
     "published_iso": "2026-04-07T18:49:06+00:00",
-    "id": "n5",
+    "id": "n7",
     "lead": false
   },
   {
@@ -75,7 +102,7 @@
     "url": "https://www.bbc.com/news/articles/c87w4x0n3j0o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-07T15:49:22+00:00",
-    "id": "n6",
+    "id": "n8",
     "lead": false
   },
   {
@@ -88,8 +115,7 @@
     "url": "https://www.bbc.com/news/articles/cvg049xz1ygo?at_medium=RSS&at_campaign=rss",
     "time": "22小时前",
     "published_iso": "2026-04-07T15:39:33+00:00",
-    "is_new": true,
-    "id": "n7",
+    "id": "n9",
     "lead": false
   },
   {
@@ -102,7 +128,7 @@
     "url": "https://www.bbc.com/news/articles/c3exp8j7yz4o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-04-07T14:51:07+00:00",
-    "id": "n8",
+    "id": "n10",
     "lead": false
   },
   {
@@ -115,7 +141,7 @@
     "url": "https://www.bbc.com/news/articles/c4g8pzpw2g2o?at_medium=RSS&at_campaign=rss",
     "time": "18小时前",
     "published_iso": "2026-04-07T13:55:19+00:00",
-    "id": "n9",
+    "id": "n11",
     "lead": false
   },
   {
@@ -128,7 +154,7 @@
     "url": "https://www.bbc.com/news/articles/c0q4w3l0wdvo?at_medium=RSS&at_campaign=rss",
     "time": "20小时前",
     "published_iso": "2026-04-07T12:04:09+00:00",
-    "id": "n10",
+    "id": "n12",
     "lead": false
   },
   {
@@ -141,7 +167,7 @@
     "url": "https://www.bbc.com/news/articles/c8x71ejrp92o?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-04-07T11:55:47+00:00",
-    "id": "n11",
+    "id": "n13",
     "lead": false
   },
   {
@@ -154,7 +180,7 @@
     "url": "https://www.bbc.com/news/videos/c3exp80x7vqo?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-04-07T10:56:44+00:00",
-    "id": "n12",
+    "id": "n14",
     "lead": false
   },
   {
@@ -167,7 +193,7 @@
     "url": "https://www.bbc.com/news/articles/c2e4ygndjpwo?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-04-07T10:43:34+00:00",
-    "id": "n13",
+    "id": "n15",
     "lead": false
   },
   {
@@ -180,7 +206,7 @@
     "url": "https://www.bbc.com/news/articles/cz0ex432dmyo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-07T10:35:36+00:00",
-    "id": "n14",
+    "id": "n16",
     "lead": false
   },
   {
@@ -193,7 +219,7 @@
     "url": "https://www.bbc.com/news/articles/cyv16lq2rp1o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-07T09:55:07+00:00",
-    "id": "n15",
+    "id": "n17",
     "lead": false
   },
   {
@@ -206,7 +232,7 @@
     "url": "https://www.bbc.com/news/articles/c0krnz7mmmjo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-04-07T07:29:55+00:00",
-    "id": "n16",
+    "id": "n18",
     "lead": false
   },
   {
@@ -219,7 +245,7 @@
     "url": "https://www.bbc.com/news/articles/crr1jyk0qwjo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-04-07T07:19:27+00:00",
-    "id": "n17",
+    "id": "n19",
     "lead": false
   },
   {
@@ -232,7 +258,7 @@
     "url": "https://www.bbc.com/news/articles/cgld111d9jpo?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-04-07T06:41:24+00:00",
-    "id": "n18",
+    "id": "n20",
     "lead": false
   },
   {
@@ -245,7 +271,7 @@
     "url": "https://www.bbc.com/news/articles/c145enxln0go?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-04-07T05:13:12+00:00",
-    "id": "n19",
+    "id": "n21",
     "lead": false
   },
   {
@@ -258,7 +284,7 @@
     "url": "https://www.bbc.com/news/articles/c20qv0w1j1do?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-07T05:10:36+00:00",
-    "id": "n20",
+    "id": "n22",
     "lead": false
   },
   {
@@ -271,7 +297,7 @@
     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUFE4ZXlFWjdXNU9mY1VEQmVJZzJGNk1lMV9PSVREY1dkODZDT0VUWjVWZ3FzVGpUZjBPT3dBU3R2Q0ZhM292WmdweFpvYktMYjdMdk9HSDJsTkpjcWFHSHhSRmlVcUljc1M2eHA2RHpIVGhicEhUTGtidlJrSDI0b3daV0U3My1oQ1NLQVlxVFdkdUJTdzBLUVRzbFBuS3pOZWtOQUZBcWdHNUx2azdEblNDbDVEVkxhdklfYjhlTWlBMHo3eXU4Um9PUVpndEE?oc=5",
     "time": "8小时前",
     "published_iso": "2026-04-07T02:50:46+00:00",
-    "id": "n21",
+    "id": "n23",
     "lead": false
   },
   {
@@ -284,7 +310,7 @@
     "url": "https://www.bbc.com/news/articles/cn43wllgn4vo?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-04-07T01:21:36+00:00",
-    "id": "n22",
+    "id": "n24",
     "lead": false
   },
   {
@@ -297,7 +323,7 @@
     "url": "https://www.bbc.com/news/articles/c79jqx1xdy9o?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-04-06T23:34:11+00:00",
-    "id": "n23",
+    "id": "n25",
     "lead": false
   },
   {
@@ -310,7 +336,7 @@
     "url": "https://www.bbc.com/news/articles/c70n2rjgxeyo?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-04-06T23:20:52+00:00",
-    "id": "n24",
+    "id": "n26",
     "lead": false
   },
   {
@@ -323,46 +349,7 @@
     "url": "https://www.bbc.com/news/articles/czexw94rj5jo?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-04-06T23:04:23+00:00",
-    "id": "n25",
-    "lead": false
-  },
-  {
-    "headline": "Ten killed in Israeli strikes and clashes between Hamas and militia in Gaza, local sources say",
-    "deck": "The Israeli strikes reportedly targeted Hamas security personnel after they clashed with an Israeli-backed militia near Maghazi camp.",
-    "cnTitle": "加沙冲突升级，以军空袭致十人死亡",
-    "cnDeck": "根据当地消息来源的最新报道，加沙地带的紧张局势再次升级，以色列的空袭行动与哈马斯安全人员及一支民兵之间的冲突，已导致至少十人死亡。此次事件的具体地点位于加沙地带中部的马加齐（Maghazi）难民营附近，进一步加剧了该区域本已复杂且脆弱的安全环境。消息指出，以色列军队的空袭目标据称是哈马斯的安全人员。在此次空袭发生之前，这些哈马斯安全人员与一个被认为是受到以色列支持的民兵组织发生了激烈交火。冲突的详细经过目前仍在调查中，但初步报告显示，双方在马加齐难民营附近展开了军事对抗，随后以色列对哈马斯阵地采取了空中打击。此次伤亡事件凸显了加沙地带内部派系斗争以及与外部势力关联的复杂性。哈马斯作为加沙地带的实际控制者，其安全部队负责维护当地秩序，但其行动常常引发地区内的摩擦和更广泛的冲突。与此同时，存在以色列支持的民兵组织，这表明加沙内部力量格局的多元性和潜在的对抗点。马加齐难民营作为一个人口稠密的区域，任何军事行动和暴力事件都不可避免地对当地居民造成严重影响和生命威胁。国际社会对加沙地带的人道主义状况长期表示关切，并呼吁各方保持克制，避免暴力升级，以防止地区局势进一步恶化。然而，此次事件再次证明，该地区的安全形势依然动荡不安，任何火花都可能点燃大规模冲突的导火索。预计未来一段时间内，加沙地带的局势将持续紧张，国际社会将密切关注事态发展。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c77md512n71o?at_medium=RSS&at_campaign=rss",
-    "time": "1小时前",
-    "published_iso": "2026-04-06T19:11:20+00:00",
-    "id": "n26",
-    "lead": false
-  },
-  {
-    "headline": "Trump endorses ex-UK political aide Steve Hilton for California governor",
-    "deck": "Steve Hilton, who advised the former prime minster and hosted a Fox News show, is running as a Republican.",
-    "cnTitle": "特朗普支持前英国顾问竞选加州州长",
-    "cnDeck": "美国前总统唐纳德·特朗普近日宣布支持前英国政治顾问史蒂夫·希尔顿竞选加利福尼亚州州长一职。史蒂夫·希尔顿作为一名共和党人参选，其政治生涯引人注目。他曾担任英国前首相大卫·卡梅伦的资深顾问，在英国政界拥有丰富的经验。希尔顿在“唐宁街10号”期间，参与了多项重要政策的制定，尤其以其对“大社会”理念的推动而闻名，该理念旨在通过赋权社区和个人来解决社会问题。此后，希尔顿将事业重心转向美国，并成为福克斯新闻频道的一名知名主持人，主持名为“今夜史蒂夫·希尔顿”（The Next Revolution with Steve Hilton）的周日晚间节目。在该节目中，他经常批评左翼政策，并表达对民粹主义和保守主义观点的支持，这使其在美国保守派观众中积累了大量人气。特朗普此次对希尔顿的背书，不仅凸显了其在共和党内部的巨大影响力，也为希尔顿的竞选活动注入了强大的动力和知名度。加利福尼亚州作为美国人口最多、经济体量最大的州，长期以来一直是民主党的“蓝州”堡垒。现任州长加文·纽森（Gavin Newsom）是一位民主党人，其执政地位在州内相对稳固。然而，共和党人在此地的任何有竞争力的挑战都备受关注。特朗普的支持预计将帮助希尔顿在共和党初选中争取到更多选票和捐款，尤其是在那些支持特朗普的选民群体中。同时，这也可能引发关于加州政治格局、共和党未来方向以及特朗普在州级选举中持续影响力的广泛讨论。希尔顿的竞选平台预计将围绕共和党的传统主题，如减税、放松管制、打击犯罪和边境安全等，以期吸引对当前州政府政策不满的选民。此次背书也反映出特朗普倾向于支持那些在媒体领域具有影响力的保守派人物，进一步巩固其在美国右翼政治和媒体生态系统中的主导地位。分析人士指出，尽管加州对共和党而言是一块难啃的骨头，但特朗普的公开力挺无疑会为希尔顿的竞选带来更多全国性的关注和资源，使其成为一个不容忽视的挑战者，即使最终胜选的可能性较低。此举也可能被视为特朗普在为2024年总统大选铺路，通过支持盟友来巩固其在共和党内的控制力，并动员其核心选民基础。希尔顿的参选，加上特朗普的背书，无疑会给本已复杂的加州政治图景增添更多变数和看点。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c0mj4jeyvmzo?at_medium=RSS&at_campaign=rss",
-    "time": "15小时前",
-    "published_iso": "2026-04-06T18:55:45+00:00",
     "id": "n27",
-    "lead": false
-  },
-  {
-    "headline": "'We're sinking deeper': Iranians brace for infrastructure strikes as Trump deadline nears",
-    "deck": "Ordinary Iranians respond to the US president's threat to destroy Iran's power plants and bridges unless it opens the Strait of Hormuz.",
-    "cnTitle": "美总统威胁伊朗，或攻击其基建",
-    "cnDeck": "美国总统对伊朗发出的严厉威胁，即除非伊朗开放具有战略重要性的霍尔木兹海峡，否则美国将摧毁伊朗的发电厂和桥梁，这在伊朗国内引起了广泛的担忧和紧张情绪。随着特朗普总统设定的最后期限日益临近，普通伊朗民众正在为可能到来的基础设施打击做准备。许多伊朗人表达了深深的忧虑，正如新闻标题中引用的那样，他们感觉‘我们正在越陷越深’，对国家的未来和个人生活都充满了不确定性。霍尔木兹海峡是连接波斯湾与阿曼湾的咽喉要道，全球约五分之一的石油供应需要通过此海峡运输，其战略地位不言而喻。任何对该海峡通航自由的威胁或潜在军事冲突都可能对全球能源市场造成毁灭性冲击，导致国际油价飙升，并对全球经济稳定构成严重挑战。美国总统的此番言论被视为美伊两国之间长期紧张关系的一次重大升级，这种紧张关系自美国退出伊朗核协议并重新实施严厉制裁以来持续加剧。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cvgl0ng8z0do?at_medium=RSS&at_campaign=rss",
-    "time": "14小时前",
-    "published_iso": "2026-04-06T15:40:35+00:00",
-    "id": "n28",
     "lead": false
   }
 ]
