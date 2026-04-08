@@ -9,9 +9,22 @@
     "url": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-04-08T03:24:53+00:00",
-    "is_new": true,
     "id": "n1",
     "lead": true
+  },
+  {
+    "headline": "Plan to scrap presidential elections puts Zimbabweans at loggerheads",
+    "deck": "The ruling party has unveiled a draft law that strips voters of the chance to elect the president.",
+    "cnTitle": "津巴布韦执政党拟废总统选举",
+    "cnDeck": "津巴布韦执政党近日公布了一项引发巨大争议的法律草案，旨在取消选民直接选举总统的权利。此举立即在津巴布韦国内引发轩然大波，社会各界对此表达了强烈反对和担忧，认为这将严重损害国家的民主基础和宪政秩序。该法律草案由执政党（通常指津巴布韦非洲民族联盟-爱国阵线，ZANU-PF）提出，其核心内容是将总统的产生方式从全民普选改为由某种形式的议会或特定机构选举，这意味着普通公民将失去通过投票箱选择国家最高领导人的机会。这一提案被普遍解读为执政党试图巩固权力、削弱反对派、并可能为现任总统埃默森·姆南加古瓦（Emmerson Mnangagwa）及其继任者长期执政铺平道路。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cg54zy5dq1yo?at_medium=RSS&at_campaign=rss",
+    "time": "8小时前",
+    "published_iso": "2026-04-07T23:15:33+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
   },
   {
     "headline": "Anthropic Tops $30 Billion Run Rate, Seals Deal With Broadcom - bloomberg.com",
@@ -23,7 +36,7 @@
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRmxsSXFVVkVOMnNMTVh0SjBMRU5tSUlNT280d21iZEtoNzllcVVwZGVBbHV2Skt0WmMwU0dORUk4ajhOS2NIRjZXbDY1VHZSb2picWtSQUlDbWJnZC0zUTdIVFE1UDBzbjRLUGUxdjEyb0dSOVRuNl9NeEU3WERhRWwyOWppTWhYdWpmNkhEelhJSTg2Wm1fQms0c3BFc2l6Z0FzM2Y4WlR2Qk45eTdrbA?oc=5",
     "time": "1小时前",
     "published_iso": "2026-04-07T20:16:56+00:00",
-    "id": "n2",
+    "id": "n3",
     "lead": false
   },
   {
@@ -36,7 +49,7 @@
     "url": "https://www.cnbc.com/2026/04/07/trump-vance-orban-hungary-iran-war.html",
     "time": "2小时前",
     "published_iso": "2026-04-07T18:49:06+00:00",
-    "id": "n3",
+    "id": "n4",
     "lead": false
   },
   {
@@ -49,7 +62,7 @@
     "url": "https://www.bbc.com/news/articles/c87w4x0n3j0o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-07T15:49:22+00:00",
-    "id": "n4",
+    "id": "n5",
     "lead": false
   },
   {
@@ -62,7 +75,35 @@
     "url": "https://www.bbc.com/news/articles/c3exp8j7yz4o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-04-07T14:51:07+00:00",
-    "id": "n5",
+    "id": "n6",
+    "lead": false
+  },
+  {
+    "headline": "WHO suspends Gaza medical evacuations after contractor killed by Israeli troops",
+    "deck": "Israel's military says troops fired at a vehicle driven by the Palestinian because they believed it posed \"an immediate threat\".",
+    "cnTitle": "世卫暂停加沙医疗撤离因承包商遭以军击毙",
+    "cnDeck": "世界卫生组织（WHO）近日宣布暂停在加沙地带进行的医疗撤离行动。这一重大决定是在一名为世卫组织提供服务的承包商被以色列军队击毙后作出的。这起事件进一步加剧了加沙地区本已严峻的人道主义危机，并对脆弱病患的生命构成了直接威胁。据世界卫生组织透露，该名承包商在执行与医疗撤离相关的任务时遭遇不幸。以色列军方随后发表声明，证实其部队向一名巴勒斯坦人驾驶的车辆开火，并声称之所以采取行动，是因为他们认为该车辆构成了“迫在眉睫的威胁”。然而，以军的这一说法尚未得到独立核实，并且与世卫组织关于其承包商在人道主义任务中丧生的说法形成了鲜明对比。加沙地带在长期冲突和持续封锁下，医疗系统早已崩溃，大量病患，特别是重症伤员、癌症患者和需要特殊治疗的儿童，急需通过医疗撤离前往加沙以外的地区接受救治。世界卫生组织一直在努力协调这些关键的撤离工作，为数千名生命垂危的巴勒斯坦民众提供唯一的生存希望。此次撤离行动的暂停，意味着这些患者的生命线被切断，他们的病情可能因此恶化，甚至面临死亡威胁。世卫组织此次的决定，凸显了在冲突区域开展人道主义援助工作的巨大风险和挑战。国际法明确规定，冲突各方必须保护人道主义工作者和医疗设施。然而，此类事件的发生，无疑是对国际人道法的公然违背，也使得其他援助机构在加沙开展工作时面临越来越大的安全顾虑。这起事件引发了国际社会对以色列军队在加沙行动中遵守国际人道法义务的强烈质疑。许多国际组织和人权团体呼吁对此次击毙事件进行彻底、透明的调查，以查明真相并追究责任。同时，他们也敦促以色列和所有相关方确保人道主义援助人员和医疗服务的安全通行，允许世卫组织及其他援助机构恢复并扩大其在加沙的关键行动，以避免更多无辜生命因无法获得医疗救助而逝去。此次事件无疑将对未来在冲突区域开展人道主义援助的方式和安全保障措施产生深远影响，使得本已复杂的人道主义局势更加雪上加霜。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c4g8pzpw2g2o?at_medium=RSS&at_campaign=rss",
+    "time": "18小时前",
+    "published_iso": "2026-04-07T13:55:19+00:00",
+    "is_new": true,
+    "id": "n7",
+    "lead": false
+  },
+  {
+    "headline": "Everything you need to know about Nasa's Artemis II mission",
+    "deck": "The Artemis II mission has taken its four astronauts further into space than anyone has been before.",
+    "cnTitle": "阿耳忒弥斯2号宇航员创深空新纪录",
+    "cnDeck": "美国国家航空航天局（NASA）的阿耳忒弥斯2号（Artemis II）任务近日取得了历史性突破，其搭载的四名宇航员已经抵达了比以往任何人类飞行任务都更远的深空区域。这一里程碑事件标志着人类探索宇宙迈出了重要一步。阿耳忒弥斯2号任务是NASA重返月球计划中的第二次飞行，也是首次载人飞行，旨在为未来更复杂的月球着陆任务——阿耳忒弥斯3号——进行关键验证。此次任务的乘组由四名经验丰富的宇航员组成，他们分别是：指令长里德·怀斯曼（Reid Wiseman），驾驶员维克多·格洛弗（Victor Glover），任务专家克里斯蒂娜·科赫（Christina Koch），以及加拿大航天局的任务专家杰里米·汉森（Jeremy Hansen）。这四位宇航员不仅代表了顶尖的飞行技术，也承载着全人类对深空探索的梦想。他们乘坐猎户座（Orion）飞船，由强大的太空发射系统（SLS）火箭送入太空。任务的核心目标之一便是验证猎户座飞船的所有关键系统在载人飞行状态下的性能，包括生命支持系统、导航和通信系统、隔热罩以及回收程序。此次飞行路径将环绕月球，并深入到月球背面之外的深空，超越了阿波罗计划中任何一次载人任务所达到的最远距离。这意味着宇航员们将亲身体验并验证飞船在月球远侧运行时的各项性能，为将来载人月球着陆以及建立月球基地奠定基础。阿耳忒弥斯计划的最终愿景是建立一个可持续的月球存在，并利用月球作为进一步探索火星的跳板。阿耳忒弥斯2号的成功将极大地提升NASA及其国际合作伙伴对未来深空任务的信心，也为人类最终登陆火星积累宝贵经验。此次任务预计将持续约10天，在此期间，宇航员们将执行一系列复杂的测试和操作，以确保飞船在极限环境下的可靠性。此次历史性飞行的成功不仅是工程技术的胜利，更是人类探索精神的体现。它激发了全球对太空探索的关注，并有望吸引更多年轻人投身于科学、技术、工程和数学（STEM）领域。随着阿耳忒弥斯计划的逐步推进，人类重返月球并最终抵达火星的梦想正变得越来越清晰。",
+    "cat": "tech",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c0q4w3l0wdvo?at_medium=RSS&at_campaign=rss",
+    "time": "20小时前",
+    "published_iso": "2026-04-07T12:04:09+00:00",
+    "is_new": true,
+    "id": "n8",
     "lead": false
   },
   {
@@ -75,7 +116,7 @@
     "url": "https://www.bbc.com/news/articles/c8x71ejrp92o?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-04-07T11:55:47+00:00",
-    "id": "n6",
+    "id": "n9",
     "lead": false
   },
   {
@@ -88,7 +129,7 @@
     "url": "https://www.bbc.com/news/videos/c3exp80x7vqo?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-04-07T10:56:44+00:00",
-    "id": "n7",
+    "id": "n10",
     "lead": false
   },
   {
@@ -101,7 +142,7 @@
     "url": "https://www.bbc.com/news/articles/c2e4ygndjpwo?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-04-07T10:43:34+00:00",
-    "id": "n8",
+    "id": "n11",
     "lead": false
   },
   {
@@ -114,7 +155,7 @@
     "url": "https://www.bbc.com/news/articles/cz0ex432dmyo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-07T10:35:36+00:00",
-    "id": "n9",
+    "id": "n12",
     "lead": false
   },
   {
@@ -127,7 +168,7 @@
     "url": "https://www.bbc.com/news/articles/cyv16lq2rp1o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-07T09:55:07+00:00",
-    "id": "n10",
+    "id": "n13",
     "lead": false
   },
   {
@@ -140,7 +181,7 @@
     "url": "https://www.bbc.com/news/articles/c0krnz7mmmjo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-04-07T07:29:55+00:00",
-    "id": "n11",
+    "id": "n14",
     "lead": false
   },
   {
@@ -153,7 +194,7 @@
     "url": "https://www.bbc.com/news/articles/crr1jyk0qwjo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-04-07T07:19:27+00:00",
-    "id": "n12",
+    "id": "n15",
     "lead": false
   },
   {
@@ -166,7 +207,7 @@
     "url": "https://www.bbc.com/news/articles/cgld111d9jpo?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-04-07T06:41:24+00:00",
-    "id": "n13",
+    "id": "n16",
     "lead": false
   },
   {
@@ -179,7 +220,7 @@
     "url": "https://www.bbc.com/news/articles/c145enxln0go?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-04-07T05:13:12+00:00",
-    "id": "n14",
+    "id": "n17",
     "lead": false
   },
   {
@@ -192,7 +233,7 @@
     "url": "https://www.bbc.com/news/articles/c20qv0w1j1do?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-07T05:10:36+00:00",
-    "id": "n15",
+    "id": "n18",
     "lead": false
   },
   {
@@ -205,7 +246,7 @@
     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUFE4ZXlFWjdXNU9mY1VEQmVJZzJGNk1lMV9PSVREY1dkODZDT0VUWjVWZ3FzVGpUZjBPT3dBU3R2Q0ZhM292WmdweFpvYktMYjdMdk9HSDJsTkpjcWFHSHhSRmlVcUljc1M2eHA2RHpIVGhicEhUTGtidlJrSDI0b3daV0U3My1oQ1NLQVlxVFdkdUJTdzBLUVRzbFBuS3pOZWtOQUZBcWdHNUx2azdEblNDbDVEVkxhdklfYjhlTWlBMHo3eXU4Um9PUVpndEE?oc=5",
     "time": "8小时前",
     "published_iso": "2026-04-07T02:50:46+00:00",
-    "id": "n16",
+    "id": "n19",
     "lead": false
   },
   {
@@ -218,7 +259,7 @@
     "url": "https://www.bbc.com/news/articles/cn43wllgn4vo?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-04-07T01:21:36+00:00",
-    "id": "n17",
+    "id": "n20",
     "lead": false
   },
   {
@@ -231,7 +272,7 @@
     "url": "https://www.bbc.com/news/articles/c79jqx1xdy9o?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-04-06T23:34:11+00:00",
-    "id": "n18",
+    "id": "n21",
     "lead": false
   },
   {
@@ -244,7 +285,7 @@
     "url": "https://www.bbc.com/news/articles/c70n2rjgxeyo?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-04-06T23:20:52+00:00",
-    "id": "n19",
+    "id": "n22",
     "lead": false
   },
   {
@@ -257,7 +298,7 @@
     "url": "https://www.bbc.com/news/articles/czexw94rj5jo?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-04-06T23:04:23+00:00",
-    "id": "n20",
+    "id": "n23",
     "lead": false
   },
   {
@@ -270,7 +311,7 @@
     "url": "https://www.bbc.com/news/articles/c77md512n71o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-04-06T19:11:20+00:00",
-    "id": "n21",
+    "id": "n24",
     "lead": false
   },
   {
@@ -283,7 +324,7 @@
     "url": "https://www.bbc.com/news/articles/c0mj4jeyvmzo?at_medium=RSS&at_campaign=rss",
     "time": "15小时前",
     "published_iso": "2026-04-06T18:55:45+00:00",
-    "id": "n22",
+    "id": "n25",
     "lead": false
   },
   {
@@ -296,7 +337,7 @@
     "url": "https://www.bbc.com/news/articles/cvgl0ng8z0do?at_medium=RSS&at_campaign=rss",
     "time": "14小时前",
     "published_iso": "2026-04-06T15:40:35+00:00",
-    "id": "n23",
+    "id": "n26",
     "lead": false
   },
   {
@@ -309,20 +350,7 @@
     "url": "https://www.cnbc.com/2026/04/06/jpmorgan-ceo-jamie-dimon-annual-letter-risks.html",
     "time": "18小时前",
     "published_iso": "2026-04-06T11:55:38+00:00",
-    "id": "n24",
-    "lead": false
-  },
-  {
-    "headline": "Stock futures slip after a winning week as oil prices tick higher: Live updates",
-    "deck": "Wall Street is coming off a strong performance last week, with the S&amp;P 500 soaring nearly 6%.",
-    "cnTitle": "美股期货下跌油价小幅走高",
-    "cnDeck": "华尔街在上周经历了强劲的表现之后，本周伊始却显露出谨慎的基调。标普500指数在上周飙升近6%，创下自去年底以来表现最佳的单周涨幅之一，然而，股票期货在周一开盘前却出现下滑，投资者在近期涨势后进行获利了结，同时对不断上升的油价保持警惕。国际原油价格小幅走高，再次引发市场对通胀可能持续高企的担忧，这可能对美联储未来的货币政策路径构成影响。",
-    "cat": "finance",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/04/05/stock-market-today-live-updates.html",
-    "time": "刚刚",
-    "published_iso": "2026-04-06T06:59:57+00:00",
-    "id": "n25",
+    "id": "n27",
     "lead": false
   }
 ]
