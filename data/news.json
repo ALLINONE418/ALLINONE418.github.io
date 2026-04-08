@@ -1,5 +1,19 @@
 [
   {
+    "headline": "Oil plunges after US-Iran ceasefire deal to reopen Strait of Hormuz",
+    "deck": "The agreement was announced not long before Trump's Tuesday evening deadline was reached.",
+    "cnTitle": "美伊停火协议达成油价暴跌",
+    "cnDeck": "据报道，美国与伊朗之间达成了一项停火协议，协议内容包括重新开放对全球能源供应至关重要的霍尔木兹海峡。此消息一经公布，国际原油市场立即做出反应，油价出现暴跌。这一重磅协议的宣布，恰好发生在时任美国总统特朗普设定的周二晚间最后期限之前，这表明双方在关键时刻避免了一场潜在的冲突升级。霍尔木兹海峡作为连接波斯湾与阿曼湾的",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss",
+    "time": "2小时前",
+    "published_iso": "2026-04-08T03:24:53+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
     "headline": "Anthropic Tops $30 Billion Run Rate, Seals Deal With Broadcom - bloomberg.com",
     "deck": "Anthropic Tops $30 Billion Run Rate, Seals Deal With Broadcom&nbsp;&nbsp;bloomberg.com",
     "cnTitle": "Anthropic年营收300亿与博通签约",
@@ -9,9 +23,8 @@
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRmxsSXFVVkVOMnNMTVh0SjBMRU5tSUlNT280d21iZEtoNzllcVVwZGVBbHV2Skt0WmMwU0dORUk4ajhOS2NIRjZXbDY1VHZSb2picWtSQUlDbWJnZC0zUTdIVFE1UDBzbjRLUGUxdjEyb0dSOVRuNl9NeEU3WERhRWwyOWppTWhYdWpmNkhEelhJSTg2Wm1fQms0c3BFc2l6Z0FzM2Y4WlR2Qk45eTdrbA?oc=5",
     "time": "1小时前",
     "published_iso": "2026-04-07T20:16:56+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n2",
+    "lead": false
   },
   {
     "headline": "Trump praises Hungary PM Viktor Orbán after Vance calls him at Budapest rally",
@@ -23,8 +36,7 @@
     "url": "https://www.cnbc.com/2026/04/07/trump-vance-orban-hungary-iran-war.html",
     "time": "2小时前",
     "published_iso": "2026-04-07T18:49:06+00:00",
-    "is_new": true,
-    "id": "n2",
+    "id": "n3",
     "lead": false
   },
   {
@@ -37,7 +49,7 @@
     "url": "https://www.bbc.com/news/articles/c87w4x0n3j0o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-07T15:49:22+00:00",
-    "id": "n3",
+    "id": "n4",
     "lead": false
   },
   {
@@ -50,7 +62,7 @@
     "url": "https://www.bbc.com/news/articles/c3exp8j7yz4o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-04-07T14:51:07+00:00",
-    "id": "n4",
+    "id": "n5",
     "lead": false
   },
   {
@@ -63,8 +75,7 @@
     "url": "https://www.bbc.com/news/articles/c8x71ejrp92o?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-04-07T11:55:47+00:00",
-    "is_new": true,
-    "id": "n5",
+    "id": "n6",
     "lead": false
   },
   {
@@ -77,8 +88,7 @@
     "url": "https://www.bbc.com/news/videos/c3exp80x7vqo?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-04-07T10:56:44+00:00",
-    "is_new": true,
-    "id": "n6",
+    "id": "n7",
     "lead": false
   },
   {
@@ -91,8 +101,7 @@
     "url": "https://www.bbc.com/news/articles/c2e4ygndjpwo?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-04-07T10:43:34+00:00",
-    "is_new": true,
-    "id": "n7",
+    "id": "n8",
     "lead": false
   },
   {
@@ -105,7 +114,7 @@
     "url": "https://www.bbc.com/news/articles/cz0ex432dmyo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-07T10:35:36+00:00",
-    "id": "n8",
+    "id": "n9",
     "lead": false
   },
   {
@@ -118,7 +127,7 @@
     "url": "https://www.bbc.com/news/articles/cyv16lq2rp1o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-07T09:55:07+00:00",
-    "id": "n9",
+    "id": "n10",
     "lead": false
   },
   {
@@ -131,7 +140,7 @@
     "url": "https://www.bbc.com/news/articles/c0krnz7mmmjo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-04-07T07:29:55+00:00",
-    "id": "n10",
+    "id": "n11",
     "lead": false
   },
   {
@@ -144,7 +153,7 @@
     "url": "https://www.bbc.com/news/articles/crr1jyk0qwjo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-04-07T07:19:27+00:00",
-    "id": "n11",
+    "id": "n12",
     "lead": false
   },
   {
@@ -157,7 +166,7 @@
     "url": "https://www.bbc.com/news/articles/cgld111d9jpo?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-04-07T06:41:24+00:00",
-    "id": "n12",
+    "id": "n13",
     "lead": false
   },
   {
@@ -170,7 +179,7 @@
     "url": "https://www.bbc.com/news/articles/c145enxln0go?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-04-07T05:13:12+00:00",
-    "id": "n13",
+    "id": "n14",
     "lead": false
   },
   {
@@ -183,7 +192,7 @@
     "url": "https://www.bbc.com/news/articles/c20qv0w1j1do?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-07T05:10:36+00:00",
-    "id": "n14",
+    "id": "n15",
     "lead": false
   },
   {
@@ -196,7 +205,7 @@
     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUFE4ZXlFWjdXNU9mY1VEQmVJZzJGNk1lMV9PSVREY1dkODZDT0VUWjVWZ3FzVGpUZjBPT3dBU3R2Q0ZhM292WmdweFpvYktMYjdMdk9HSDJsTkpjcWFHSHhSRmlVcUljc1M2eHA2RHpIVGhicEhUTGtidlJrSDI0b3daV0U3My1oQ1NLQVlxVFdkdUJTdzBLUVRzbFBuS3pOZWtOQUZBcWdHNUx2azdEblNDbDVEVkxhdklfYjhlTWlBMHo3eXU4Um9PUVpndEE?oc=5",
     "time": "8小时前",
     "published_iso": "2026-04-07T02:50:46+00:00",
-    "id": "n15",
+    "id": "n16",
     "lead": false
   },
   {
@@ -209,7 +218,7 @@
     "url": "https://www.bbc.com/news/articles/cn43wllgn4vo?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-04-07T01:21:36+00:00",
-    "id": "n16",
+    "id": "n17",
     "lead": false
   },
   {
@@ -222,7 +231,7 @@
     "url": "https://www.bbc.com/news/articles/c79jqx1xdy9o?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-04-06T23:34:11+00:00",
-    "id": "n17",
+    "id": "n18",
     "lead": false
   },
   {
@@ -235,7 +244,7 @@
     "url": "https://www.bbc.com/news/articles/c70n2rjgxeyo?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-04-06T23:20:52+00:00",
-    "id": "n18",
+    "id": "n19",
     "lead": false
   },
   {
@@ -248,7 +257,7 @@
     "url": "https://www.bbc.com/news/articles/czexw94rj5jo?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-04-06T23:04:23+00:00",
-    "id": "n19",
+    "id": "n20",
     "lead": false
   },
   {
@@ -261,7 +270,7 @@
     "url": "https://www.bbc.com/news/articles/c77md512n71o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-04-06T19:11:20+00:00",
-    "id": "n20",
+    "id": "n21",
     "lead": false
   },
   {
@@ -274,7 +283,7 @@
     "url": "https://www.bbc.com/news/articles/c0mj4jeyvmzo?at_medium=RSS&at_campaign=rss",
     "time": "15小时前",
     "published_iso": "2026-04-06T18:55:45+00:00",
-    "id": "n21",
+    "id": "n22",
     "lead": false
   },
   {
@@ -287,7 +296,7 @@
     "url": "https://www.bbc.com/news/articles/cvgl0ng8z0do?at_medium=RSS&at_campaign=rss",
     "time": "14小时前",
     "published_iso": "2026-04-06T15:40:35+00:00",
-    "id": "n22",
+    "id": "n23",
     "lead": false
   },
   {
@@ -300,7 +309,7 @@
     "url": "https://www.cnbc.com/2026/04/06/jpmorgan-ceo-jamie-dimon-annual-letter-risks.html",
     "time": "18小时前",
     "published_iso": "2026-04-06T11:55:38+00:00",
-    "id": "n23",
+    "id": "n24",
     "lead": false
   },
   {
@@ -313,85 +322,7 @@
     "url": "https://www.cnbc.com/2026/04/05/stock-market-today-live-updates.html",
     "time": "刚刚",
     "published_iso": "2026-04-06T06:59:57+00:00",
-    "id": "n24",
-    "lead": false
-  },
-  {
-    "headline": "Trump's Iran ultimatum and signals of a possible deal keep investors on tenterhooks",
-    "deck": "Investors head into what could be the most consequential week of the Iran conflict, scrambling to position for binary outcomes: an imminent deal or further escalation.",
-    "cnTitle": "特朗普伊朗最后通牒令投资者紧张",
-    "cnDeck": "美国前总统特朗普就伊朗问题发出的最后通牒，以及随之而来的可能达成协议的信号，使得全球投资者陷入了高度紧张和不确定之中。市场参与者正为可能成为伊朗冲突中最具决定性的一周做准备，他们争相调整仓位，以应对两种截然不同的二元结果：一场迫在眉睫的协议达成，或冲突进一步升级。特朗普的强硬立场，尤其是他多次强调若伊朗不满足特定条件，美国可能退出伊朗核协议（即《联合全面行动计划》JCPOA）或重新实施严厉制裁，给中东地区乃至全球能源市场带来了巨大的地缘政治风险。投资者尤其关注霍尔木兹海峡的石油运输安全，任何对该区域的潜在干扰都可能导致全球原油供应中断，从而推高油价，对全球经济复苏造成打击。这种不确定性促使投资者对中东地区局势的任何风吹草动都保持高度警惕，评估其对供应链和企业运营的潜在影响。",
-    "cat": "finance",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/04/06/trump-iran-deadline-investors-markets-trade-deal-war-.html",
-    "time": "1小时前",
-    "published_iso": "2026-04-06T05:31:39+00:00",
     "id": "n25",
-    "lead": false
-  },
-  {
-    "headline": "Oil prices choppy after expletive-laden Trump threat to Iran",
-    "deck": "Brent crude rose above $110 before those gains eased after a report of US-Iran talks over a potential ceasefire.",
-    "cnTitle": "特朗普威胁伊朗油价震荡，美伊或将谈判",
-    "cnDeck": "前美国总统唐纳德·特朗普针对伊朗发表了一系列措辞强硬、充满脏话的威胁言论后，全球原油市场随即出现剧烈波动，布伦特原油价格一度飙升至每桶110美元以上。特朗普的此番言论迅速加剧了中东地区的地缘政治紧张局势，引发了市场对伊朗原油供应可能中断以及霍尔木兹海峡航运安全受威胁的担忧。霍尔木兹海",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c8dl7g6e59eo?at_medium=RSS&at_campaign=rss",
-    "time": "3小时前",
-    "published_iso": "2026-04-06T03:33:35+00:00",
-    "id": "n26",
-    "lead": false
-  },
-  {
-    "headline": "Trump declares victory after rescue but threats to US operation in Iran still loom",
-    "deck": "The rescue could impact how Trump views a ground operation to take Kharg Island or to seize enriched uranium sites.",
-    "cnTitle": "特朗普宣称胜利，美伊冲突风险加剧",
-    "cnDeck": "特朗普总统近日就一次成功的营救行动发表声明，宣称取得了“胜利”。尽管新闻内容并未详细披露此次营救的具体细节，但这一声明被视为美国政府在对外行动中获得积极成果的体现，可能对未来的地缘战略决策产生重要影响。然而，与此同时，关于美国在伊朗进行潜在军事行动的威胁依然存在，且情况复杂严峻。中东地区，特别是美国与伊朗之间的关系，长期以来一直处于高度紧张状态，任何细微的变动都可能引发连锁反应。当前的局势预示着波斯湾地区未来可能面临进一步的军事介入或战略性行动，从而加剧地区的不稳定性。值得注意的是，此次成功的营救行动可能正在影响特朗普总统对于对伊朗采取更直接、更具决定性军事行动的战略评估。分析人士普遍认为，此次积极的军事成果或许会提升其授权对伊朗关键目标采取地面军事行动的意愿。新闻中特别提及的两个潜在目标，对伊朗而言都具有极其重要的战略意义。首先是霍尔木兹岛（Kharg Island）。该岛是伊朗最重要的石油出口终端，承担着伊朗绝大部分原油出口的重任。一旦美国对其采取“占领”行动，其战略和经济影响将是灾难性的。这不仅会切断伊朗赖以生存的石油收入命脉，还将极大地升级美伊之间的冲突，甚至可能引发更广泛的地区战争。此类行动无疑会招致国际社会的强烈谴责，并使整个中东局势面临失控的风险。其次是伊朗的“浓缩铀设施”（enriched uranium sites）。这些设施是伊朗备受争议的核计划的核心组成部分。如果美国选择对这些设施采取“夺取”或使其失效的军事行动，其主要目的将是阻止伊朗发展核武器，这也是美国及其盟友长期以来深切关注的问题。然而，针对核设施的军事打击行动极度危险，不仅可能引发全面的战争，更会彻底颠覆中东地区的现有秩序，造成难以预估的人道主义灾难和地缘政治后果。这份新闻强调了美国与伊朗之间持续存在的战略对峙，表明特朗普政府仍将军事选项作为应对伊朗挑战的潜在手段。此次营救行动的成功，可能会鼓励美国采取更加强硬的外交政策，尤其是在面对来自伊朗的所谓“威胁”时。国际社会正密切关注事态的进一步发展，因为任何美国针对伊朗经济或核基础设施",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cy01vg7x5ppo?at_medium=RSS&at_campaign=rss",
-    "time": "6小时前",
-    "published_iso": "2026-04-06T00:23:16+00:00",
-    "id": "n27",
-    "lead": false
-  },
-  {
-    "headline": "Spain's huge pork industry seeks salvation from swine fever threat",
-    "deck": "Countries around the world, including the US, have already stopped imports over the outbreak.",
-    "cnTitle": "全球多国暂停进口西班牙猪肉",
-    "cnDeck": "西班牙庞大的生猪产业正面临非洲猪瘟的严重威胁，这场疫情已导致全球多个国家，包括美国在内，停止从西班牙进口猪肉产品。西班牙是欧盟乃至全球主要的猪肉生产国和出口国之一，其生猪养殖业对该国经济贡献巨大，是重要的农业支柱产业。根据行业数据显示，西班牙每年出口数百万吨猪肉及其制品，市场覆盖欧洲、亚洲及美洲等多个地区。猪瘟，特别是非洲猪瘟（ASF），是一种对猪类具有高度传染性和致命性的疾病，目前尚无有效的疫苗或治疗方法，一旦在养殖场爆发，通常需要大规模扑杀受感染的生猪以控制疫情蔓延。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c2ev3p14kvlo?at_medium=RSS&at_campaign=rss",
-    "time": "7小时前",
-    "published_iso": "2026-04-05T23:19:20+00:00",
-    "id": "n28",
-    "lead": false
-  },
-  {
-    "headline": "Benefits and pensions rise as two-child cap ends",
-    "deck": "Families on some benefits with three or more children will get an average rise of £4,100 a year.",
-    "cnTitle": "英国废除两孩上限福利金上调",
-    "cnDeck": "英国政府近日宣布，已正式废除此前针对领取特定福利金家庭设置的“两孩上限”规定。这一重大政策调整将使育有三名或以上子女的符合条件家庭，平均每年额外获得4,100英镑的福利金增长，此举旨在显著改善这些家庭的经济状况，并减轻其生活压力。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cn085pdly86o?at_medium=RSS&at_campaign=rss",
-    "time": "21小时前",
-    "published_iso": "2026-04-05T23:00:58+00:00",
-    "id": "n29",
-    "lead": false
-  },
-  {
-    "headline": "How China fell for a lobster: What an AI assistant tells us about Beijing's ambition",
-    "deck": "The AI agent sparked a frenzy of \"raising lobsters\" in March, with users training the tool to suit their needs.",
-    "cnTitle": "中国AI工具掀起“养龙虾”热潮",
-    "cnDeck": "三月份，一款先进的人工智能（AI）工具在中国引发了一场名为“养龙虾”的狂热现象，用户们纷纷投入精力训练这款工具，使其能够更好地满足自身个性化需求。这场热潮并非字面意义上的饲养海洋生物，而是指用户以高度投入的方式，对AI代理进行深度定制和个性化调教，使其像被精心培育的“数字宠物”一样，具备独一无二的特性和能力。“养龙虾”迅速成为",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cy41n17e23go?at_medium=RSS&at_campaign=rss",
-    "time": "9小时前",
-    "published_iso": "2026-04-05T22:07:40+00:00",
-    "id": "n30",
     "lead": false
   }
 ]
