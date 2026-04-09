@@ -1,5 +1,33 @@
 [
   {
+    "headline": "Oil prices rise as traders eye fragile US-Iran ceasefire",
+    "deck": "The cost of crude plunged on Wednesday after a deal was announced that includes the opening of the Strait of Hormuz.",
+    "cnTitle": "海峡协议促油价大跌",
+    "cnDeck": "全球原油市场在周三经历了一次剧烈波动，原油价格大幅下跌。此前，市场交易员曾密切关注美国与伊朗之间可能存在的脆弱停火协议，这种紧张且不确定的地缘政治局势一度可能引发市场对原油供应中断的担忧，从而在特定时段对油价形成支撑或导致其上涨。然而，这种市场情绪在周三被一项重大协议的宣布所彻底逆转。据报道，一项关键协议已经达成，其中一个核心条款",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cq6j0rnvlzeo?at_medium=RSS&at_campaign=rss",
+    "time": "刚刚",
+    "published_iso": "2026-04-09T03:33:31+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "Iran Strait of Hormuz warning adds to shipping uncertainty",
+    "deck": "Only a few vessels have crossed the strait since the US-Iran ceasefire deal, according to BBC Verify analysis.",
+    "cnTitle": "伊朗霍尔木兹海峡警告加剧航运不确定性",
+    "cnDeck": "伊朗近日发出的霍尔木兹海峡警告，使得全球航运面临的不确定性进一步加剧。霍尔木兹海峡是连接波斯湾与阿拉伯海的战略性水道，全球约三分之一的海运石油和液化天然气通过此处运输，其战略和经济重要性不言而喻，被视为全球能源供应的“咽喉要道”。伊朗长期以来在此区域拥有显著影响力，并多次利用其地位在地区乃至国际事务中施加压力。此次警告正值美伊两国达成“停火协议”之后。尽管具体的“美伊停火协议”细节在新闻原文中并未展开，但这一措辞暗示了美伊之间曾存在某种形式的紧张对抗，而该协议旨在缓解这些紧张局势，以期实现区域稳定。然而，伊朗的最新警告无疑给外界对地区和平与航运安全的预期蒙上了一层阴影。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss",
+    "time": "10小时前",
+    "published_iso": "2026-04-08T17:21:31+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
     "headline": "Why fuel and food prices could still be affected for months",
     "deck": "Analysts fear long-lasting economic damage from the US-Israel war with Iran has already been set in motion.",
     "cnTitle": "美伊冲突恐长期影响全球经济",
@@ -9,9 +37,8 @@
     "url": "https://www.bbc.com/news/articles/c5ywpv1d4geo?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-04-08T14:07:41+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n3",
+    "lead": false
   },
   {
     "headline": "Will UK petrol and diesel prices start going down?",
@@ -23,7 +50,7 @@
     "url": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-08T13:29:24+00:00",
-    "id": "n2",
+    "id": "n4",
     "lead": false
   },
   {
@@ -36,8 +63,7 @@
     "url": "https://www.bbc.com/news/articles/c5yx4e9d8pdo?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-04-08T12:44:15+00:00",
-    "is_new": true,
-    "id": "n3",
+    "id": "n5",
     "lead": false
   },
   {
@@ -50,7 +76,7 @@
     "url": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-04-08T03:24:53+00:00",
-    "id": "n4",
+    "id": "n6",
     "lead": false
   },
   {
@@ -63,7 +89,7 @@
     "url": "https://www.bbc.com/news/articles/cg54zy5dq1yo?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-04-07T23:15:33+00:00",
-    "id": "n5",
+    "id": "n7",
     "lead": false
   },
   {
@@ -76,7 +102,7 @@
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRmxsSXFVVkVOMnNMTVh0SjBMRU5tSUlNT280d21iZEtoNzllcVVwZGVBbHV2Skt0WmMwU0dORUk4ajhOS2NIRjZXbDY1VHZSb2picWtSQUlDbWJnZC0zUTdIVFE1UDBzbjRLUGUxdjEyb0dSOVRuNl9NeEU3WERhRWwyOWppTWhYdWpmNkhEelhJSTg2Wm1fQms0c3BFc2l6Z0FzM2Y4WlR2Qk45eTdrbA?oc=5",
     "time": "1小时前",
     "published_iso": "2026-04-07T20:16:56+00:00",
-    "id": "n6",
+    "id": "n8",
     "lead": false
   },
   {
@@ -89,7 +115,7 @@
     "url": "https://www.cnbc.com/2026/04/07/trump-vance-orban-hungary-iran-war.html",
     "time": "2小时前",
     "published_iso": "2026-04-07T18:49:06+00:00",
-    "id": "n7",
+    "id": "n9",
     "lead": false
   },
   {
@@ -102,7 +128,7 @@
     "url": "https://www.bbc.com/news/articles/c87w4x0n3j0o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-07T15:49:22+00:00",
-    "id": "n8",
+    "id": "n10",
     "lead": false
   },
   {
@@ -115,7 +141,7 @@
     "url": "https://www.bbc.com/news/articles/cvg049xz1ygo?at_medium=RSS&at_campaign=rss",
     "time": "22小时前",
     "published_iso": "2026-04-07T15:39:33+00:00",
-    "id": "n9",
+    "id": "n11",
     "lead": false
   },
   {
@@ -128,7 +154,7 @@
     "url": "https://www.bbc.com/news/articles/c3exp8j7yz4o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-04-07T14:51:07+00:00",
-    "id": "n10",
+    "id": "n12",
     "lead": false
   },
   {
@@ -141,7 +167,7 @@
     "url": "https://www.bbc.com/news/articles/c4g8pzpw2g2o?at_medium=RSS&at_campaign=rss",
     "time": "18小时前",
     "published_iso": "2026-04-07T13:55:19+00:00",
-    "id": "n11",
+    "id": "n13",
     "lead": false
   },
   {
@@ -154,7 +180,7 @@
     "url": "https://www.bbc.com/news/articles/c0q4w3l0wdvo?at_medium=RSS&at_campaign=rss",
     "time": "20小时前",
     "published_iso": "2026-04-07T12:04:09+00:00",
-    "id": "n12",
+    "id": "n14",
     "lead": false
   },
   {
@@ -167,7 +193,7 @@
     "url": "https://www.bbc.com/news/articles/c8x71ejrp92o?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-04-07T11:55:47+00:00",
-    "id": "n13",
+    "id": "n15",
     "lead": false
   },
   {
@@ -180,7 +206,7 @@
     "url": "https://www.bbc.com/news/videos/c3exp80x7vqo?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-04-07T10:56:44+00:00",
-    "id": "n14",
+    "id": "n16",
     "lead": false
   },
   {
@@ -193,7 +219,7 @@
     "url": "https://www.bbc.com/news/articles/c2e4ygndjpwo?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-04-07T10:43:34+00:00",
-    "id": "n15",
+    "id": "n17",
     "lead": false
   },
   {
@@ -206,7 +232,7 @@
     "url": "https://www.bbc.com/news/articles/cz0ex432dmyo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-07T10:35:36+00:00",
-    "id": "n16",
+    "id": "n18",
     "lead": false
   },
   {
@@ -219,7 +245,7 @@
     "url": "https://www.bbc.com/news/articles/cyv16lq2rp1o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-07T09:55:07+00:00",
-    "id": "n17",
+    "id": "n19",
     "lead": false
   },
   {
@@ -232,7 +258,7 @@
     "url": "https://www.bbc.com/news/articles/c0krnz7mmmjo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-04-07T07:29:55+00:00",
-    "id": "n18",
+    "id": "n20",
     "lead": false
   },
   {
@@ -245,7 +271,7 @@
     "url": "https://www.bbc.com/news/articles/crr1jyk0qwjo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-04-07T07:19:27+00:00",
-    "id": "n19",
+    "id": "n21",
     "lead": false
   },
   {
@@ -258,7 +284,7 @@
     "url": "https://www.bbc.com/news/articles/cgld111d9jpo?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-04-07T06:41:24+00:00",
-    "id": "n20",
+    "id": "n22",
     "lead": false
   },
   {
@@ -271,7 +297,7 @@
     "url": "https://www.bbc.com/news/articles/c145enxln0go?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-04-07T05:13:12+00:00",
-    "id": "n21",
+    "id": "n23",
     "lead": false
   },
   {
@@ -284,72 +310,7 @@
     "url": "https://www.bbc.com/news/articles/c20qv0w1j1do?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-07T05:10:36+00:00",
-    "id": "n22",
-    "lead": false
-  },
-  {
-    "headline": "India’s Stock Rout Creates Openings for Bargain Hunters - bloomberg.com",
-    "deck": "India’s Stock Rout Creates Openings for Bargain Hunters&nbsp;&nbsp;bloomberg.com",
-    "cnTitle": "印度股市暴跌提供抄底机会",
-    "cnDeck": "印度股市近期遭遇显著下跌，包括孟买SENSEX指数和印度NIFTY指数在内的主要股指均录得可观跌幅。此次市场回调主要源于5月初印度大选结果的意外波动。市场一度担忧执政党印度人民党（BJP）可能无法获得绝对多数席位，导致投资者情绪恐慌性抛售。国际机构投资者（FIIs）在大选计票日当天出现了大规模资金撤离，使得市场流动性紧张，卖压骤增。",
-    "cat": "finance",
-    "source": "Bloomberg",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUFE4ZXlFWjdXNU9mY1VEQmVJZzJGNk1lMV9PSVREY1dkODZDT0VUWjVWZ3FzVGpUZjBPT3dBU3R2Q0ZhM292WmdweFpvYktMYjdMdk9HSDJsTkpjcWFHSHhSRmlVcUljc1M2eHA2RHpIVGhicEhUTGtidlJrSDI0b3daV0U3My1oQ1NLQVlxVFdkdUJTdzBLUVRzbFBuS3pOZWtOQUZBcWdHNUx2azdEblNDbDVEVkxhdklfYjhlTWlBMHo3eXU4Um9PUVpndEE?oc=5",
-    "time": "8小时前",
-    "published_iso": "2026-04-07T02:50:46+00:00",
-    "id": "n23",
-    "lead": false
-  },
-  {
-    "headline": "India's high-growth economy gets a Middle East oil shock",
-    "deck": "India's currency, stocks and growth projections take a beating as the country faces a triple energy shock due to Iran war.",
-    "cnTitle": "伊朗战争致印度经济面临石油冲击",
-    "cnDeck": "印度经济正面临来自中东的严重石油冲击，其货币、股市和经济增长预测均受到重创。这一“三重能源冲击”的根源在于伊朗战争的爆发及其在中东地区引发的连锁反应。作为全球主要的石油进口国之一，印度经济对国际原油价格的波动极其敏感，而中东局势的升级直接导致了全球原油供应的不确定性增加和价格飙升。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cn43wllgn4vo?at_medium=RSS&at_campaign=rss",
-    "time": "4小时前",
-    "published_iso": "2026-04-07T01:21:36+00:00",
     "id": "n24",
-    "lead": false
-  },
-  {
-    "headline": "Trump's Hormuz deadline looms but Asian nations have already struck deals with Iran",
-    "deck": "Nations in the region have been keen to reach agreements as their economies are heavily reliant on Middle East energy.",
-    "cnTitle": "亚洲多国与伊朗达成能源协议",
-    "cnDeck": "美国前总统特朗普政府时期，曾对伊朗实施了“极限施压”政策，旨在全面切断伊朗的石油出口收入，以迫使其在核计划和地区活动上做出让步。作为这一策略的关键组成部分，美国曾向全球多个国家施加巨大压力，要求它们在特定期限内停止从伊朗进口石油，否则将面临次级制裁的风险。新闻中提及的“特朗普霍尔木兹最后期限临近”，正是指美国对伊朗石油出口制裁的豁",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c79jqx1xdy9o?at_medium=RSS&at_campaign=rss",
-    "time": "6小时前",
-    "published_iso": "2026-04-06T23:34:11+00:00",
-    "id": "n25",
-    "lead": false
-  },
-  {
-    "headline": "Businesses scramble to get noticed by AI search",
-    "deck": "Firms are changing the way they present information on their websites, so they get noticed by AI.",
-    "cnTitle": "企业调整网站适应AI搜索趋势",
-    "cnDeck": "随着人工智能（AI）在搜索领域的崛起，全球企业正积极调整其网站信息呈现方式，以确保能被AI搜索引擎“注意到”并有效抓取。这一现象标志着搜索引擎优化（SEO）领域正在经历一场深刻的变革。过去，企业主要关注关键词排名和链接建设，但在AI驱动的搜索时代，如谷歌的搜索生成体验（SGE）和微软的Copilot等，用户越来越倾向于直接从AI获得汇总或生成的答案，而非点击进入多个网站。这种模式对企业原有的网站流量和用户互动方式构成了直接挑战，迫使它们重新评估并革新其数字内容战略。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c70n2rjgxeyo?at_medium=RSS&at_campaign=rss",
-    "time": "11小时前",
-    "published_iso": "2026-04-06T23:20:52+00:00",
-    "id": "n26",
-    "lead": false
-  },
-  {
-    "headline": "Little sign of breakthrough as Trump's Iran deadline nears",
-    "deck": "The US president is in a delicate political position as the final hours to Tuesday's deadline for Iran to open the Strait of Hormuz tick down.",
-    "cnTitle": "特朗普伊朗霍尔木兹海峡最后期限临近",
-    "cnDeck": "美国总统特朗普设定的伊朗开放霍尔木兹海峡的最后期限临近，局势异常紧张。该期限定于周二，目前已进入最后倒计时阶段，然而，双方在关键问题上几乎没有取得任何突破性进展的迹象。特朗普政府长期以来对伊朗采取“极限施压”策略，旨在迫使伊朗重新谈判核协议，停止其弹道导弹计划，并停止对地区代理人的支持。美国此前已单方面退出《联合全面行动计划》(JCPOA)，即伊朗核协议，并对伊朗实施了包括石油出口禁运在内的严厉经济制裁，试图切断其主要经济收入来源。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/czexw94rj5jo?at_medium=RSS&at_campaign=rss",
-    "time": "11小时前",
-    "published_iso": "2026-04-06T23:04:23+00:00",
-    "id": "n27",
     "lead": false
   }
 ]
