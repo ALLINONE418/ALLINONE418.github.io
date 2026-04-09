@@ -9,9 +9,22 @@
     "url": "https://www.bbc.com/news/articles/cq6j0rnvlzeo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-09T03:33:31+00:00",
-    "is_new": true,
     "id": "n1",
     "lead": true
+  },
+  {
+    "headline": "Anthropic loses appeals court bid to temporarily block Pentagon blacklisting",
+    "deck": "A federal appeals on denied Anthropic's request for a stay in its lawsuit against the Department of Defense.",
+    "cnTitle": "Anthropic阻止国防部黑名单上诉被驳回",
+    "cnDeck": "美国一家联邦上诉法院驳回了人工智能领军企业Anthropic公司提出的一项请求，该请求旨在其与美国国防部之间的诉讼中获得一项中止令。这一裁决意味着Anthropic公司在挑战国防部对其采取的“黑名单”措施时，将面临更大的运营压力。Anthropic作为OpenAI的主要竞争对手之一，以其专注于AI安全和研究的Claude系列大型语言模型而闻名，此次与美国政府关键部门的法律纠纷，凸显了新兴科技巨头与国家安全机构之间日益复杂的互动。",
+    "cat": "finance",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/04/08/anthropic-pentagon-court-ruling-supply-chain-risk.html",
+    "time": "8小时前",
+    "published_iso": "2026-04-08T23:52:04+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
   },
   {
     "headline": "Iran Strait of Hormuz warning adds to shipping uncertainty",
@@ -23,8 +36,7 @@
     "url": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-04-08T17:21:31+00:00",
-    "is_new": true,
-    "id": "n2",
+    "id": "n3",
     "lead": false
   },
   {
@@ -37,7 +49,7 @@
     "url": "https://www.bbc.com/news/articles/c5ywpv1d4geo?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-04-08T14:07:41+00:00",
-    "id": "n3",
+    "id": "n4",
     "lead": false
   },
   {
@@ -50,7 +62,7 @@
     "url": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-08T13:29:24+00:00",
-    "id": "n4",
+    "id": "n5",
     "lead": false
   },
   {
@@ -63,7 +75,21 @@
     "url": "https://www.bbc.com/news/articles/c5yx4e9d8pdo?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-04-08T12:44:15+00:00",
-    "id": "n5",
+    "id": "n6",
+    "lead": false
+  },
+  {
+    "headline": "India's lack of widebody aircraft a 'scandal', says incoming IndiGo chief",
+    "deck": "India’s aviation market is set to grow but is held back by limited long-haul capacity, says Willie Walsh.",
+    "cnTitle": "印度远程航空运力不足引业内批评",
+    "cnDeck": "全球航空业重要人物威利·沃尔什指出，印度航空市场尽管增长潜力巨大，但却受到远程宽体飞机短缺的严重制约，他直言将这种现状描述为一场“丑闻”。沃尔什先生曾担任国际航空运输协会（IATA）总干事和国际航空集团（IAG）首席执行官，以其对行业趋势的深刻洞察和坦率言论而闻名，目前新闻称其为“即将上任的IndiGo首席”。他的言论强调了印度作为全球人口最多的国家和新兴经济体，在航空基础设施发展方面存在的明显短板。印度国内航空市场蓬勃发展，是全球增速最快的市场之一",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c4g5jej5ydyo?at_medium=RSS&at_campaign=rss",
+    "time": "22小时前",
+    "published_iso": "2026-04-08T09:39:07+00:00",
+    "is_new": true,
+    "id": "n7",
     "lead": false
   },
   {
@@ -76,7 +102,7 @@
     "url": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-04-08T03:24:53+00:00",
-    "id": "n6",
+    "id": "n8",
     "lead": false
   },
   {
@@ -89,7 +115,21 @@
     "url": "https://www.bbc.com/news/articles/cg54zy5dq1yo?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-04-07T23:15:33+00:00",
-    "id": "n7",
+    "id": "n9",
+    "lead": false
+  },
+  {
+    "headline": "Indian migrant workers hit by cooking gas shortages are leaving cities",
+    "deck": "Migrant workers say they are struggling to access cooking gas cylinders as the Iran war squeezes supplies.",
+    "cnTitle": "伊朗战争致印度燃气供应紧张",
+    "cnDeck": "根据报道，一场被称为“伊朗战争”的地区冲突正对全球能源市场造成严重冲击，特别是液化石油气（LPG，即烹饪燃气）的供应。这场地缘政治事件导致伊朗及其周边地区的能源生产和运输受阻，加剧了国际市场液化石油气的供应紧张局面，并推高了国际油气价格。作为主要的能源进口国，印度深受此次供应危机的影响，其国内的燃气钢瓶供应量出现严重短缺。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c20d10980e9o?at_medium=RSS&at_campaign=rss",
+    "time": "1天前",
+    "published_iso": "2026-04-07T21:02:07+00:00",
+    "is_new": true,
+    "id": "n10",
     "lead": false
   },
   {
@@ -102,7 +142,7 @@
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRmxsSXFVVkVOMnNMTVh0SjBMRU5tSUlNT280d21iZEtoNzllcVVwZGVBbHV2Skt0WmMwU0dORUk4ajhOS2NIRjZXbDY1VHZSb2picWtSQUlDbWJnZC0zUTdIVFE1UDBzbjRLUGUxdjEyb0dSOVRuNl9NeEU3WERhRWwyOWppTWhYdWpmNkhEelhJSTg2Wm1fQms0c3BFc2l6Z0FzM2Y4WlR2Qk45eTdrbA?oc=5",
     "time": "1小时前",
     "published_iso": "2026-04-07T20:16:56+00:00",
-    "id": "n8",
+    "id": "n11",
     "lead": false
   },
   {
@@ -115,7 +155,7 @@
     "url": "https://www.cnbc.com/2026/04/07/trump-vance-orban-hungary-iran-war.html",
     "time": "2小时前",
     "published_iso": "2026-04-07T18:49:06+00:00",
-    "id": "n9",
+    "id": "n12",
     "lead": false
   },
   {
@@ -128,7 +168,7 @@
     "url": "https://www.bbc.com/news/articles/c87w4x0n3j0o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-07T15:49:22+00:00",
-    "id": "n10",
+    "id": "n13",
     "lead": false
   },
   {
@@ -141,7 +181,7 @@
     "url": "https://www.bbc.com/news/articles/cvg049xz1ygo?at_medium=RSS&at_campaign=rss",
     "time": "22小时前",
     "published_iso": "2026-04-07T15:39:33+00:00",
-    "id": "n11",
+    "id": "n14",
     "lead": false
   },
   {
@@ -154,7 +194,7 @@
     "url": "https://www.bbc.com/news/articles/c3exp8j7yz4o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-04-07T14:51:07+00:00",
-    "id": "n12",
+    "id": "n15",
     "lead": false
   },
   {
@@ -167,7 +207,7 @@
     "url": "https://www.bbc.com/news/articles/c4g8pzpw2g2o?at_medium=RSS&at_campaign=rss",
     "time": "18小时前",
     "published_iso": "2026-04-07T13:55:19+00:00",
-    "id": "n13",
+    "id": "n16",
     "lead": false
   },
   {
@@ -180,7 +220,7 @@
     "url": "https://www.bbc.com/news/articles/c0q4w3l0wdvo?at_medium=RSS&at_campaign=rss",
     "time": "20小时前",
     "published_iso": "2026-04-07T12:04:09+00:00",
-    "id": "n14",
+    "id": "n17",
     "lead": false
   },
   {
@@ -193,7 +233,7 @@
     "url": "https://www.bbc.com/news/articles/c8x71ejrp92o?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-04-07T11:55:47+00:00",
-    "id": "n15",
+    "id": "n18",
     "lead": false
   },
   {
@@ -206,7 +246,7 @@
     "url": "https://www.bbc.com/news/videos/c3exp80x7vqo?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-04-07T10:56:44+00:00",
-    "id": "n16",
+    "id": "n19",
     "lead": false
   },
   {
@@ -219,7 +259,7 @@
     "url": "https://www.bbc.com/news/articles/c2e4ygndjpwo?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-04-07T10:43:34+00:00",
-    "id": "n17",
+    "id": "n20",
     "lead": false
   },
   {
@@ -232,7 +272,7 @@
     "url": "https://www.bbc.com/news/articles/cz0ex432dmyo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-07T10:35:36+00:00",
-    "id": "n18",
+    "id": "n21",
     "lead": false
   },
   {
@@ -245,72 +285,7 @@
     "url": "https://www.bbc.com/news/articles/cyv16lq2rp1o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-07T09:55:07+00:00",
-    "id": "n19",
-    "lead": false
-  },
-  {
-    "headline": "Taiwan opposition leader visits China for expected meeting with Xi Jinping",
-    "deck": "Cheng Li-wun said she \"gladly accepted\" Xi Jinping's invitation and hopes to be a \"bridge for peace\".",
-    "cnTitle": "台湾反对党领袖应邀访华会习近平",
-    "cnDeck": "台湾反对党领袖郑丽文（Cheng Li-wun）近日启程前往中国大陆，外界普遍预计她将与中国国家主席习近平进行会晤。郑丽文本人在启程前明确表示，她“欣然接受了习近平的邀请”，并表达了她希望“成为和平桥梁”的愿望。此次访问正值两岸关系敏感且复杂时期，尤其是在当前民进党政府执政下，台湾与大陆之间的官方交流几乎停滞，使得反对党领袖的此次访问具有重要的象征意义和潜在的实质影响。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c0krnz7mmmjo?at_medium=RSS&at_campaign=rss",
-    "time": "3小时前",
-    "published_iso": "2026-04-07T07:29:55+00:00",
-    "id": "n20",
-    "lead": false
-  },
-  {
-    "headline": "Australia's most-decorated living soldier charged over alleged war crimes",
-    "deck": "Ben Roberts-Smith, who denies all wrongdoing, previously lost a landmark defamation case over the alleged murders.",
-    "cnTitle": "澳功勋士兵涉战争罪遭起诉",
-    "cnDeck": "澳大利亚最受勋的在世士兵本·罗伯茨-史密斯（Ben Roberts-Smith）目前正面临对其涉嫌战争罪行的刑事指控。这些指控的核心内容是他在阿富汗服役期间，涉嫌非法杀害手无寸铁的阿富汗囚犯和平民。罗伯茨-史密斯曾是澳大利亚特种空勤团（SASR）的一员，因其在战场上的英勇表现被授予国家最高军事荣誉——维多利亚十字勋章，是澳大利亚家喻户晓的军事英雄。然而，自2018年起，关于他在阿富汗行动中行为不当的报道和指控逐渐浮出水面，严重玷污了他的声誉。罗伯茨-史密斯本人始终坚决否认所有不当行为和指控。他曾于2018年对费尔法克斯媒体（Fairfax Media，现九",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/crr1jyk0qwjo?at_medium=RSS&at_campaign=rss",
-    "time": "3小时前",
-    "published_iso": "2026-04-07T07:19:27+00:00",
-    "id": "n21",
-    "lead": false
-  },
-  {
-    "headline": "Locals dispute Nigerian army claim of 31 rescued after Easter attack",
-    "deck": "Five civilians were killed by the gunmen and their bodies were recovered at the scene, the army said.",
-    "cnTitle": "尼日利亚复活节袭击后军队救援人数引争议",
-    "cnDeck": "近期，尼日利亚发生的一起复活节袭击事件引发了广泛关注，尤其是在官方与当地民众对救援结果的描述上出现了显著分歧。据军方声明，在袭击发生后，他们成功解救了31名受害者，并同时证实了另有五名平民在此次由武装分子发动的袭击中不幸遇难，他们的遗体已在现场被找到。然而，当地居民对此军方说法表示质疑，指出实际情况可能与军方公布的数据存在出入，使得这起悲剧的真相更加扑朔迷离。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cgld111d9jpo?at_medium=RSS&at_campaign=rss",
-    "time": "4小时前",
-    "published_iso": "2026-04-07T06:41:24+00:00",
     "id": "n22",
-    "lead": false
-  },
-  {
-    "headline": "China is winning one AI race, the US another - but either might pull ahead",
-    "deck": "Both sides don't want to let their rival dominate. And the competition may yet be transformed further.",
-    "cnTitle": "中美AI竞赛各有领先",
-    "cnDeck": "这篇新闻指出，中国和美国在人工智能（AI）领域展开激烈竞争，目前呈现出各自在不同方面取得领先的局面，但双方均不愿让对手占据主导地位，且这场竞争的格局未来可能进一步演变。文章强调，中美两国在全球AI竞赛中扮演着核心角色，两国都将AI视为塑造未来经济增长、国家安全和全球影响力的关键技术。",
-    "cat": "tech",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c145enxln0go?at_medium=RSS&at_campaign=rss",
-    "time": "5小时前",
-    "published_iso": "2026-04-07T05:13:12+00:00",
-    "id": "n23",
-    "lead": false
-  },
-  {
-    "headline": "Oil prices rise ahead of Trump's Iran deal deadline",
-    "deck": "The US president has threatened to take out Iran \"in one night\" if it does not agree to open the Strait of Hormuz.",
-    "cnTitle": "特朗普威胁伊朗 油价上涨",
-    "cnDeck": "美国总统特朗普在“伊朗协议”截止日期临近之际，向伊朗发出严厉警告。他威胁称，若伊朗不开放具有战略重要性的霍尔木兹海峡，美国可能“在一夜之间”采取军事行动“将其除掉”。此番言论迅速加剧了中东地缘政治紧张局势，引发国际社会广泛关注。霍尔木兹海峡是连接波斯湾与阿曼湾的全球关键石油运输咽喉，承载着全球约五分之一的石油供应。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c20qv0w1j1do?at_medium=RSS&at_campaign=rss",
-    "time": "刚刚",
-    "published_iso": "2026-04-07T05:10:36+00:00",
-    "id": "n24",
     "lead": false
   }
 ]
