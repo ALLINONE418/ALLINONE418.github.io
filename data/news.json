@@ -9,7 +9,6 @@
     "url": "https://www.bbc.com/news/articles/cgld65x396go?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-04-10T02:32:27+00:00",
-    "is_new": true,
     "id": "n1",
     "lead": true
   },
@@ -23,8 +22,21 @@
     "url": "https://www.bbc.com/news/articles/c39rkpe8mj2o?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-04-09T23:04:32+00:00",
-    "is_new": true,
     "id": "n2",
+    "lead": false
+  },
+  {
+    "headline": "Ceasefire or no ceasefire, the Middle East's reshuffling is not yet done",
+    "deck": "Both sides have reason to end the war but share no common ground.",
+    "cnTitle": "停火与否仍将重塑格局",
+    "cnDeck": "中东地区正经历一场深刻而持续的地缘政治重塑，其复杂性远超短期冲突的停火与否。当前的核心冲突，例如围绕加沙地带的军事行动，已造成严重的人道主义危机和巨大破坏。冲突双方，例如以色列与哈马斯，都有充分理由寻求停火。对以色列而言，战争成本高昂，国际社会压力与日俱增，人质的命运牵动人心，长期安全保障需重新审视。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cp3l4yk5rlgo?at_medium=RSS&at_campaign=rss",
+    "time": "9小时前",
+    "published_iso": "2026-04-09T23:01:47+00:00",
+    "is_new": true,
+    "id": "n3",
     "lead": false
   },
   {
@@ -37,8 +49,35 @@
     "url": "https://www.bbc.com/news/articles/c80mxrdvkpjo?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-04-09T22:03:15+00:00",
+    "id": "n4",
+    "lead": false
+  },
+  {
+    "headline": "Watch: How the US Navy will help recover the Artemis II crew",
+    "deck": "The Orion spacecraft is expected to splash down off the coast of San Diego on 10 April.",
+    "cnTitle": "美海军将协助阿耳忒弥斯II乘组返回",
+    "cnDeck": "美国海军将为NASA阿耳忒弥斯II任务的乘组回收提供关键支持，此次回收行动预计于4月10日在圣迭戈海岸附近进行。阿耳忒弥斯II任务是NASA“阿耳忒弥斯”计划中的第二次任务，也是自阿波罗时代以来首次载人绕月飞行测试，旨在为后续的载人登月任务——阿耳忒弥斯III奠定基础。猎户座（Orion）飞船作为",
+    "cat": "tech",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/videos/cj609y6nnxzo?at_medium=RSS&at_campaign=rss",
+    "time": "15小时前",
+    "published_iso": "2026-04-09T17:22:14+00:00",
     "is_new": true,
-    "id": "n3",
+    "id": "n5",
+    "lead": false
+  },
+  {
+    "headline": "He's Australia's most decorated soldier. Now he's at the centre of a historic war crimes case",
+    "deck": "Ben Roberts-Smith's case is not only unprecedented for Australia but \"extraordinary\" for the globe too, scholars say.",
+    "cnTitle": "澳功勋士兵被控战争罪",
+    "cnDeck": "澳大利亚的军事界正面临一场前所未有的考验。该国最负盛名的士兵本·罗伯茨-史密斯（Ben Roberts-Smith）目前正卷入一桩具有里程碑意义的战争罪案件的核心。罗伯茨-史密斯作为澳大利亚军方的英雄人物，曾获得最高军事荣誉——维多利亚十字勋章，他的这一身份使得此案在全球范围内引发了广泛关注和深刻反思。学者们普遍指出，本·罗伯茨-史密斯的案件不仅对澳大利亚而言是史无前例的，即便放眼全球，其影响和性质也堪称“非同寻常”。这一表述强调了此案的特殊性和其可能带来的深远影响。通常，战争罪案件涉及对武装冲突法（如日内瓦公约）的严重违反，包括但不限于非法杀戮平民、虐待战俘、酷刑以及其他战争暴行。对于一位被誉为国家英雄、承载着国家荣誉的士兵而言，面临此类指控，无疑是对一个国家军事道德和法律体系的巨大挑战。此案的“史无前例”之处在于，它可能标志着澳大利亚在追究其武装部队成员战争罪行方面的决心和制度性转变。此前，尽管有过针对普通士兵的指控，但涉及如此高级别且功勋卓著的军事人物，在澳大利亚历史上尚属首次。这可能为未来类似案件的处理方式设定新的标准，并促使澳大利亚军方对其在海外军事行动中的行为准则和问责机制进行全面审视。从全球视角来看，此案的“非同寻常”性体现在多个层面。首先，它在全球范围内引发了关于军事英雄形象与战争罪行之间复杂关系的讨论。一位被国家赋予最高荣誉的士兵，若最终被证实犯下战争罪行，将对公众对军事人员的信任、对国家在冲突中行为的看法产生颠覆性影响。其次，此案将置于国际人道法和军事司法体系的聚光灯下，其审理过程和结果可能对国际法实践、特别是对各国军队如何处理其在境外行动中被控犯罪的指控产生示范效应。此外，本·罗伯茨-史密斯案也可能引发关于战争创伤、决策压力以及在极端环境下人性挑战的更深层次探讨。这不仅仅是一场法律审判，更是一次对国家价值观、军事文化以及国际责任的全面拷问。此案的走向和最终裁决，预计将对澳大利亚的国际声誉、其与盟友的关系，乃至对全球范围内军事人员的法律责任界定产生广泛而持久的影响。它提醒所有国家，即使在最艰难的冲突环境中，也必须坚持最高的行为标准和对人权的尊重。可以预见，该案的进展将持续受到国内外媒体和法律专家的密切关注。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/czjwp1vjn9lo?at_medium=RSS&at_campaign=rss",
+    "time": "23小时前",
+    "published_iso": "2026-04-09T08:23:11+00:00",
+    "is_new": true,
+    "id": "n6",
     "lead": false
   },
   {
@@ -51,7 +90,7 @@
     "url": "https://www.bbc.com/news/articles/cq6j0rnvlzeo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-09T03:33:31+00:00",
-    "id": "n4",
+    "id": "n7",
     "lead": false
   },
   {
@@ -64,7 +103,7 @@
     "url": "https://www.cnbc.com/2026/04/08/anthropic-pentagon-court-ruling-supply-chain-risk.html",
     "time": "8小时前",
     "published_iso": "2026-04-08T23:52:04+00:00",
-    "id": "n5",
+    "id": "n8",
     "lead": false
   },
   {
@@ -77,7 +116,7 @@
     "url": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-04-08T17:21:31+00:00",
-    "id": "n6",
+    "id": "n9",
     "lead": false
   },
   {
@@ -90,7 +129,7 @@
     "url": "https://www.bbc.com/news/articles/c5ywpv1d4geo?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-04-08T14:07:41+00:00",
-    "id": "n7",
+    "id": "n10",
     "lead": false
   },
   {
@@ -103,7 +142,7 @@
     "url": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-08T13:29:24+00:00",
-    "id": "n8",
+    "id": "n11",
     "lead": false
   },
   {
@@ -116,7 +155,21 @@
     "url": "https://www.bbc.com/news/articles/c5yx4e9d8pdo?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-04-08T12:44:15+00:00",
-    "id": "n9",
+    "id": "n12",
+    "lead": false
+  },
+  {
+    "headline": "Brit says he is not elusive Bitcoin creator named by New York Times",
+    "deck": "The British computer scientist and entrepreneur has denied being the man who the New York Times identified at Satoshi Nakamoto.",
+    "cnTitle": "英国科学家否认是比特币创始人",
+    "cnDeck": "一位匿名的英国计算机科学家和企业家近日公开否认，自己就是《纽约时报》此前报道中指出的比特币（Bitcoin）神秘创造者“中本聪”（Satoshi Nakamoto）。这一声明再次将全球金融和科技领域长期以来围绕中本聪身份的谜团推向风口浪尖。中本聪是比特币白皮书的作者，并于2009年部署了比特币网络的第一个区块，从而启动了全球首个去中心化数字货币系统。自20",
+    "cat": "tech",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cgrl4l1y9yxo?at_medium=RSS&at_campaign=rss",
+    "time": "1天前",
+    "published_iso": "2026-04-08T10:33:54+00:00",
+    "is_new": true,
+    "id": "n13",
     "lead": false
   },
   {
@@ -129,7 +182,7 @@
     "url": "https://www.bbc.com/news/articles/c4g5jej5ydyo?at_medium=RSS&at_campaign=rss",
     "time": "22小时前",
     "published_iso": "2026-04-08T09:39:07+00:00",
-    "id": "n10",
+    "id": "n14",
     "lead": false
   }
 ]
