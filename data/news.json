@@ -1,5 +1,47 @@
 [
   {
+    "headline": "White House staff told not to place bets on prediction markets",
+    "deck": "The platforms have grown in popularity, with some users making bets on global events.",
+    "cnTitle": "白宫禁止员工参与预测市场下注",
+    "cnDeck": "白宫近日发布明确指令，禁止其工作人员在任何预测市场上进行下注活动。此项政策的核心在于加强白宫内部的道德标准，防范潜在的利益冲突，并维护政府操作的公平性与透明度。预测市场作为一种日益流行的在线平台，其运作机制是允许用户通过买卖合约来对未来事件的结果进行投注。这些事件的范围极其广泛，涵盖了从政治选举结果、重大政策决定、经济数据发布、全球地缘政治冲突的走向，到特定法案的立法前景等诸多领域。近年来，随着数字技术和互联网平台的普及，预测市场在全球范围内的用户基数显著增长，吸引了大量个人对各种未来事件进行预测性投注。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cgld65x396go?at_medium=RSS&at_campaign=rss",
+    "time": "1小时前",
+    "published_iso": "2026-04-10T02:32:27+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "EU fingerprint and photo travel rules come into force",
+    "deck": "The EU's much-delayed Entry/Exit System will change the way UK passengers travel to 29 countries.",
+    "cnTitle": "欧盟启用新入境系统影响英旅客",
+    "cnDeck": "欧盟备受关注的入境/出境系统（EES）已正式启动，这一新规将显著改变英国乘客前往29个欧盟及申根区国家的旅行方式。EES是一个全自动化的IT系统，旨在取代目前手动在护照上盖章的做法，用于记录非欧盟公民（包括英国公民）的入境、出境和拒绝入境信息。该系统的核心目的是强化欧盟外部边境安全，打击有组织犯罪和恐怖主义，并有效识别逾期逗留者。根据新规，所有免签进入申根区的非欧盟旅客（包括英国公民）在首次入境时，需要在边境进行生物识别数据采集，包括指纹和面部照片。这些数据将与旅行证件信息、入境和出境日期一并存储在系统中，有效期为三年。此举意味着英国旅客在每次进入欧盟时，将不再获得护照盖章，而是通过EES系统进行电子记录和追踪。该系统原本计划更早实施，但由于技术准备、操作协调以及成员国基础设施升级等方面的复杂挑战而多次推迟。英国脱欧后，英国公民失去了在欧盟境内自由流动的权利，现在被视为“第三国公民”。因此，他们将受到EES系统的全面约束，这标志着英国与欧盟之间人员流动管理迈入了新阶段。对于英国旅客而言，这意味着在边境检查时可能需要预留更多时间，尤其是在系统运行初期。尽管欧盟方面表示EES系统长期将有助于加速边境检查流程，但初期可能出现排队时间延长的情况。这一系统的实施对英国与欧盟之间的关系具有象征性意义，进一步巩固了英国作为非欧盟成员国的地位，并对两国公民的跨境旅行体验产生了深远影响。受影响的国家包括26个申根区成员国，以及保加利亚、罗马尼亚和塞浦路斯等。欧盟强调，EES是其智能化边境管理系统的重要组成部分，未来还将与欧盟旅行信息与授权系统（ETIAS）协同运作，对旅客进行更全面的预筛查。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c39rkpe8mj2o?at_medium=RSS&at_campaign=rss",
+    "time": "4小时前",
+    "published_iso": "2026-04-09T23:04:32+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
+    "headline": "Hot in the city: Energy crisis tests Singapore's air-con addiction",
+    "deck": "The rise in energy prices has hit Asia particularly hard as many nations are heavily reliant on Gulf oil.",
+    "cnTitle": "能源价格上涨冲击亚洲经济",
+    "cnDeck": "当前，全球能源市场正经历显著的价格上涨，这一趋势对全球经济，特别是亚洲地区，构成了严峻挑战。新闻指出，能源价格的飙升尤其对亚洲造成了沉重打击，其主要原因是亚洲众多国家对海湾地区的石油供应存在高度依赖性。这种地缘经济格局使得亚洲在面对全球能源市场波动时显得尤为脆弱。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c80mxrdvkpjo?at_medium=RSS&at_campaign=rss",
+    "time": "5小时前",
+    "published_iso": "2026-04-09T22:03:15+00:00",
+    "is_new": true,
+    "id": "n3",
+    "lead": false
+  },
+  {
     "headline": "Oil prices rise as traders eye fragile US-Iran ceasefire",
     "deck": "The cost of crude plunged on Wednesday after a deal was announced that includes the opening of the Strait of Hormuz.",
     "cnTitle": "海峡协议促油价大跌",
@@ -9,8 +51,8 @@
     "url": "https://www.bbc.com/news/articles/cq6j0rnvlzeo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-09T03:33:31+00:00",
-    "id": "n1",
-    "lead": true
+    "id": "n4",
+    "lead": false
   },
   {
     "headline": "Anthropic loses appeals court bid to temporarily block Pentagon blacklisting",
@@ -22,7 +64,7 @@
     "url": "https://www.cnbc.com/2026/04/08/anthropic-pentagon-court-ruling-supply-chain-risk.html",
     "time": "8小时前",
     "published_iso": "2026-04-08T23:52:04+00:00",
-    "id": "n2",
+    "id": "n5",
     "lead": false
   },
   {
@@ -35,7 +77,7 @@
     "url": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-04-08T17:21:31+00:00",
-    "id": "n3",
+    "id": "n6",
     "lead": false
   },
   {
@@ -48,7 +90,7 @@
     "url": "https://www.bbc.com/news/articles/c5ywpv1d4geo?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-04-08T14:07:41+00:00",
-    "id": "n4",
+    "id": "n7",
     "lead": false
   },
   {
@@ -61,7 +103,7 @@
     "url": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-08T13:29:24+00:00",
-    "id": "n5",
+    "id": "n8",
     "lead": false
   },
   {
@@ -74,7 +116,7 @@
     "url": "https://www.bbc.com/news/articles/c5yx4e9d8pdo?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-04-08T12:44:15+00:00",
-    "id": "n6",
+    "id": "n9",
     "lead": false
   },
   {
@@ -87,59 +129,7 @@
     "url": "https://www.bbc.com/news/articles/c4g5jej5ydyo?at_medium=RSS&at_campaign=rss",
     "time": "22小时前",
     "published_iso": "2026-04-08T09:39:07+00:00",
-    "id": "n7",
-    "lead": false
-  },
-  {
-    "headline": "Oil plunges after US-Iran ceasefire deal to reopen Strait of Hormuz",
-    "deck": "The agreement was announced not long before Trump's Tuesday evening deadline was reached.",
-    "cnTitle": "美伊停火协议达成油价暴跌",
-    "cnDeck": "据报道，美国与伊朗之间达成了一项停火协议，协议内容包括重新开放对全球能源供应至关重要的霍尔木兹海峡。此消息一经公布，国际原油市场立即做出反应，油价出现暴跌。这一重磅协议的宣布，恰好发生在时任美国总统特朗普设定的周二晚间最后期限之前，这表明双方在关键时刻避免了一场潜在的冲突升级。霍尔木兹海峡作为连接波斯湾与阿曼湾的",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss",
-    "time": "2小时前",
-    "published_iso": "2026-04-08T03:24:53+00:00",
-    "id": "n8",
-    "lead": false
-  },
-  {
-    "headline": "Plan to scrap presidential elections puts Zimbabweans at loggerheads",
-    "deck": "The ruling party has unveiled a draft law that strips voters of the chance to elect the president.",
-    "cnTitle": "津巴布韦执政党拟废总统选举",
-    "cnDeck": "津巴布韦执政党近日公布了一项引发巨大争议的法律草案，旨在取消选民直接选举总统的权利。此举立即在津巴布韦国内引发轩然大波，社会各界对此表达了强烈反对和担忧，认为这将严重损害国家的民主基础和宪政秩序。该法律草案由执政党（通常指津巴布韦非洲民族联盟-爱国阵线，ZANU-PF）提出，其核心内容是将总统的产生方式从全民普选改为由某种形式的议会或特定机构选举，这意味着普通公民将失去通过投票箱选择国家最高领导人的机会。这一提案被普遍解读为执政党试图巩固权力、削弱反对派、并可能为现任总统埃默森·姆南加古瓦（Emmerson Mnangagwa）及其继任者长期执政铺平道路。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cg54zy5dq1yo?at_medium=RSS&at_campaign=rss",
-    "time": "8小时前",
-    "published_iso": "2026-04-07T23:15:33+00:00",
-    "id": "n9",
-    "lead": false
-  },
-  {
-    "headline": "Indian migrant workers hit by cooking gas shortages are leaving cities",
-    "deck": "Migrant workers say they are struggling to access cooking gas cylinders as the Iran war squeezes supplies.",
-    "cnTitle": "伊朗战争致印度燃气供应紧张",
-    "cnDeck": "根据报道，一场被称为“伊朗战争”的地区冲突正对全球能源市场造成严重冲击，特别是液化石油气（LPG，即烹饪燃气）的供应。这场地缘政治事件导致伊朗及其周边地区的能源生产和运输受阻，加剧了国际市场液化石油气的供应紧张局面，并推高了国际油气价格。作为主要的能源进口国，印度深受此次供应危机的影响，其国内的燃气钢瓶供应量出现严重短缺。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c20d10980e9o?at_medium=RSS&at_campaign=rss",
-    "time": "1天前",
-    "published_iso": "2026-04-07T21:02:07+00:00",
     "id": "n10",
-    "lead": false
-  },
-  {
-    "headline": "Anthropic Tops $30 Billion Run Rate, Seals Deal With Broadcom - bloomberg.com",
-    "deck": "Anthropic Tops $30 Billion Run Rate, Seals Deal With Broadcom&nbsp;&nbsp;bloomberg.com",
-    "cnTitle": "Anthropic年营收300亿与博通签约",
-    "cnDeck": "Anthropic，作为人工智能（AI）领域最受关注的初创公司之一，其年化营收（run rate）已突破300亿美元大关。这一里程碑式的成就，标志着该公司在竞争激烈且快速扩张的生成式AI市场中取得了显著的商业成功和市场份额。年化营收通常是指基于近期销售数据推断出的年度收入预测，反映了Anthropic在提供先进AI模型订阅、API服务以及企业级定制解决方案方面的强大变现能力。此番高额营收，无疑使其成为AI赛道上的重量级玩家，并有望对其未来的融资轮次或潜在首次公开募股（IPO）产生积极影响，增强投资者对其长期增长潜力的信心。与此同时，Anthropic还宣布与全球领先的半导体和基础设施软件解决方案提供商博通（Broadcom）达成了一项重要的战略合作协议。博通以其在定制芯片（ASIC）设计、网络通信和服务器技术方面的深厚积累而闻名。鉴于当前AI模型对计算能力和硬件效率的极致需求，Anthropic与博通的合作极可能聚焦于开发专门为其大型语言模型（LLM）优化的定制化AI芯片。通过定制芯片，Anthropic有望大幅提升其AI模型的训练效率和推理速度，同时有效降低能源消耗和运营成本，从而在技术性能和经济效益上获得双重优势。这种合作模式在当前AI军备竞赛中日益成为主流，确保AI创新者能够获得稳定、前沿且定制化的算力支持。对于博通而言，与Anthropic这类顶尖AI公司的合作，无疑将进一步巩固其在快速增长的AI硬件供应链中的核心地位。随着全球对AI算力需求的持续飙升，博通在提供高性能定制芯片方面的专业能力将变得更加宝贵。此项协议不仅拓宽了博通在数据中心和AI基础设施领域的市场影响力，也强化了其作为AI芯片关键供应商的战略布局。该合作也体现了AI产业上下游生态系统日益紧密的协同关系。这项关于Anthropic营收表现和与博通达成合作的重磅新闻，共同揭示了AI产业",
-    "cat": "finance",
-    "source": "Bloomberg",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRmxsSXFVVkVOMnNMTVh0SjBMRU5tSUlNT280d21iZEtoNzllcVVwZGVBbHV2Skt0WmMwU0dORUk4ajhOS2NIRjZXbDY1VHZSb2picWtSQUlDbWJnZC0zUTdIVFE1UDBzbjRLUGUxdjEyb0dSOVRuNl9NeEU3WERhRWwyOWppTWhYdWpmNkhEelhJSTg2Wm1fQms0c3BFc2l6Z0FzM2Y4WlR2Qk45eTdrbA?oc=5",
-    "time": "1小时前",
-    "published_iso": "2026-04-07T20:16:56+00:00",
-    "id": "n11",
     "lead": false
   }
 ]
