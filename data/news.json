@@ -1,5 +1,33 @@
 [
   {
+    "headline": "Concerns after satellite provider restricts Iran images following US pressure",
+    "deck": "Planet Labs says it is restricting coverage of Iran and parts of the Middle East indefinitely.",
+    "cnTitle": "美施压卫星公司限制伊朗影像引关注",
+    "cnDeck": "全球领先的地球成像和数据分析公司Planet Labs近日宣布，将无限期限制对伊朗及中东部分地区的卫星影像覆盖。这一决定是在“美国施压”之后做出的，立即引发了国际社会对信息自由、新闻透明度以及地缘政治影响的广泛担忧。Planet Labs是一家总部位于美国的私营公司，以其庞大的微型卫星群和每日地球全景扫描能力而闻名。其提供的超高分辨率卫星图像被广泛应用于环境监测、农业分析、城市规划、灾害响应，以及至关重要的新闻调查、冲突监测和人权监督等领域。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c5y721yqe6ro?at_medium=RSS&at_campaign=rss",
+    "time": "8小时前",
+    "published_iso": "2026-04-11T05:40:51+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "Frontrunner for California governor denies sexual assault allegations",
+    "deck": "The congressman is a leading Democratic candidate who is now facing calls to drop out of the race.",
+    "cnTitle": "加州州长热门人选否认性侵指控",
+    "cnDeck": "一位角逐加州州长的民主党领先候选人、现任国会议员近日面临严重的性侵指控，但他本人坚决否认这些指控。据悉，指控最早由一名不愿透露姓名的女性通过媒体曝光，随后有更多细节浮出水面，引发了广泛关注。指控内容涉及数年前发生的事件，具体细节包括对受害者的不当接触和强迫行为。这名国会议员迅速发表声明，称这些指控“毫无根据”、“完全是政治攻击”，旨在破坏他在即将到来的加州州长选举中的竞选前景。他强调，自己将全力配合任何调查，并坚信真相最终会水落石出。然而，尽管该候选人矢口否认，这些指控已在政治圈和社会各界引起轩然大波。部分党内人士和女性权益组织已公开呼吁他退出竞选，认为此类指控，无论真伪，都可能损害民主党的形象和胜选机会。一位资深民主党策略师表示：“在这种高度敏感的时刻，任何涉及个人行为不端的指控都可能成为对手攻击的靶子，对竞选团队造成不可逆转的损害。”一些民主党同僚也表达了担忧，敦促其严肃对待此事，并尽快给出一个令人信服的解释。目前，这位国会议员的竞选团队正面临巨大压力，其民意支持率也可能因此受到影响。分析人士指出，加州州长选举历来竞争激烈，任何负面新闻都可能对选情产生决定性影响。尽管该候选人在初选中表现强劲，被普遍视为领跑者，但性侵指控的出现无疑为他的竞选之路蒙上了一层阴影。共和党方面则趁机对民主党施压，要求其对候选人进行更严格的审查。法律专家表示，此类指控通常会引发一系列调查，可能包括内部调查、新闻媒体调查，甚至执法部门的介入，具体取决于指控的严重性和证据的可靠性。该国会议员的法律团队已表示将采取一切必要措施维护其声誉，并可能对发布不实信息者提起诉讼。无论最终调查结果如何，这场风波已成为加州州长竞选中的一个关键节点，可能重塑未来的政治格局。此次事件不仅考验了该候选人的政治智慧和危机处理能力，也反映出社会对政治人物道德操守日益严格的审视态度。许多选民表示，他们将密切关注事态发展，并根据最终的事实判断来决定自己的投票意向。这使得此次选举的结果充满了更多不确定性。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c20qg3g9554o?at_medium=RSS&at_campaign=rss",
+    "time": "10小时前",
+    "published_iso": "2026-04-11T03:13:10+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
     "headline": "Final push for votes as challenger to Hungary's Orbán scents victory",
     "deck": "As Péter Magyar's opposition movement leads in the polls, tens of thousands of anti-Orbán supporters fill Heroes' Square in Budapest.",
     "cnTitle": "马扎尔民调领先，冲击匈牙利大选",
@@ -9,9 +37,8 @@
     "url": "https://www.bbc.com/news/articles/c0q9527y41lo?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-04-11T00:17:18+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n3",
+    "lead": false
   },
   {
     "headline": "Lyse Doucet: Historic US-Iran talks must bridge deep distrust",
@@ -23,8 +50,7 @@
     "url": "https://www.bbc.com/news/articles/cn9qzl12537o?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-04-10T23:46:49+00:00",
-    "is_new": true,
-    "id": "n2",
+    "id": "n4",
     "lead": false
   },
   {
@@ -37,7 +63,7 @@
     "url": "https://www.bbc.com/news/articles/cr51z5p17myo?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-04-10T20:07:07+00:00",
-    "id": "n3",
+    "id": "n5",
     "lead": false
   },
   {
@@ -50,8 +76,7 @@
     "url": "https://www.cnbc.com/2026/04/10/oil-price-wti-brent-saudi-pipeline-attack-middle-east-war.html",
     "time": "12小时前",
     "published_iso": "2026-04-10T18:57:26+00:00",
-    "is_new": true,
-    "id": "n4",
+    "id": "n6",
     "lead": false
   },
   {
@@ -64,7 +89,7 @@
     "url": "https://www.bbc.com/news/articles/c3dl0gdvvveo?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-04-10T18:45:33+00:00",
-    "id": "n5",
+    "id": "n7",
     "lead": false
   },
   {
@@ -77,8 +102,7 @@
     "url": "https://www.bbc.com/news/articles/cde56g80xp5o?at_medium=RSS&at_campaign=rss",
     "time": "15小时前",
     "published_iso": "2026-04-10T16:20:58+00:00",
-    "is_new": true,
-    "id": "n6",
+    "id": "n8",
     "lead": false
   },
   {
@@ -91,8 +115,7 @@
     "url": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss",
     "time": "15小时前",
     "published_iso": "2026-04-10T16:08:19+00:00",
-    "is_new": true,
-    "id": "n7",
+    "id": "n9",
     "lead": false
   },
   {
@@ -105,8 +128,7 @@
     "url": "https://www.bbc.com/news/articles/czjw0zgz9zyo?at_medium=RSS&at_campaign=rss",
     "time": "16小时前",
     "published_iso": "2026-04-10T15:44:12+00:00",
-    "is_new": true,
-    "id": "n8",
+    "id": "n10",
     "lead": false
   },
   {
@@ -119,7 +141,7 @@
     "url": "https://www.bbc.com/news/articles/c3w37ggp011o?at_medium=RSS&at_campaign=rss",
     "time": "12小时前",
     "published_iso": "2026-04-10T15:12:57+00:00",
-    "id": "n9",
+    "id": "n11",
     "lead": false
   },
   {
@@ -132,8 +154,7 @@
     "url": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
     "time": "21小时前",
     "published_iso": "2026-04-10T10:42:48+00:00",
-    "is_new": true,
-    "id": "n10",
+    "id": "n12",
     "lead": false
   },
   {
@@ -146,7 +167,7 @@
     "url": "https://www.bbc.com/news/articles/ckgr67kgvdko?at_medium=RSS&at_campaign=rss",
     "time": "20小时前",
     "published_iso": "2026-04-10T06:41:40+00:00",
-    "id": "n11",
+    "id": "n13",
     "lead": false
   },
   {
@@ -159,7 +180,7 @@
     "url": "https://www.bbc.com/news/articles/cgld65x396go?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-04-10T02:32:27+00:00",
-    "id": "n12",
+    "id": "n14",
     "lead": false
   },
   {
@@ -172,7 +193,7 @@
     "url": "https://www.bbc.com/news/articles/c39rkpe8mj2o?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-04-09T23:04:32+00:00",
-    "id": "n13",
+    "id": "n15",
     "lead": false
   },
   {
@@ -185,7 +206,7 @@
     "url": "https://www.bbc.com/news/articles/cp3l4yk5rlgo?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-04-09T23:01:47+00:00",
-    "id": "n14",
+    "id": "n16",
     "lead": false
   },
   {
@@ -198,7 +219,7 @@
     "url": "https://www.bbc.com/news/articles/c80mxrdvkpjo?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-04-09T22:03:15+00:00",
-    "id": "n15",
+    "id": "n17",
     "lead": false
   },
   {
@@ -211,8 +232,7 @@
     "url": "https://www.bbc.com/news/articles/clyd032ej70o?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-04-09T20:36:41+00:00",
-    "is_new": true,
-    "id": "n16",
+    "id": "n18",
     "lead": false
   },
   {
@@ -225,8 +245,7 @@
     "url": "https://www.bbc.com/news/articles/cq6j0rnvlzeo?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-04-09T20:07:08+00:00",
-    "is_new": true,
-    "id": "n17",
+    "id": "n19",
     "lead": false
   },
   {
@@ -239,47 +258,7 @@
     "url": "https://www.bbc.com/news/videos/cj609y6nnxzo?at_medium=RSS&at_campaign=rss",
     "time": "15小时前",
     "published_iso": "2026-04-09T17:22:14+00:00",
-    "id": "n18",
-    "lead": false
-  },
-  {
-    "headline": "Amazon to end support for older Kindles, prompting user outcry",
-    "deck": "The move means owners of Kindles released before 2013 will be unable to download new e-books.",
-    "cnTitle": "亚马逊停止部分Kindle支持引不满",
-    "cnDeck": "亚马逊公司近日宣布，将停止对部分旧款Kindle电子阅读器的支持，此举立即引发了大量用户的强烈不满和抗议。根据亚马逊的声明，这一政策调整将影响所有在2013年之前发布的老旧Kindle型号的用户。具体而言，这些设备的用户将不再能够直接从亚马逊的在线商店下载新的电子书内容。尽管用户仍然可以通过将电子书文件传输到设备上（例如通过USB连接或Send to Kindle功能）来阅读现有或新获取的内容，但直接从设备端购买和下载新书的功能将被禁用，这无疑大大降低了这些设备的使用便利性和完整体验。",
-    "cat": "tech",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c98k91yy4z4o?at_medium=RSS&at_campaign=rss",
-    "time": "1天前",
-    "published_iso": "2026-04-09T13:12:45+00:00",
-    "is_new": true,
-    "id": "n19",
-    "lead": false
-  },
-  {
-    "headline": "UK farmers warn Iran ceasefire too late to stop higher food costs",
-    "deck": "Despite a ceasefire, the Iran war will continue to affect farmers' costs and therefore food prices.",
-    "cnTitle": "英国农民警示伊朗战事影响粮食价格",
-    "cnDeck": "英国农民协会发出严峻警告，指出尽管伊朗战争已经达成停火协议，但其对农业生产成本以及最终食品价格的负面影响仍将持续，且可能为时已晚，无法阻止价格上涨的趋势。此次警告反映出英国农业界对全球地缘政治冲突引发的经济连锁反应深感忧虑，并强调了此类事件对普通民众日常生活成本的深远影响。分析人士指出，虽然停火为地区局势带来了一线希望，但战争期间累积的经济压力和供应链中断并非短期内可以消除。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c0q98w57k25o?at_medium=RSS&at_campaign=rss",
-    "time": "1天前",
-    "published_iso": "2026-04-09T08:34:04+00:00",
     "id": "n20",
-    "lead": false
-  },
-  {
-    "headline": "He's Australia's most decorated soldier. Now he's at the centre of a historic war crimes case",
-    "deck": "Ben Roberts-Smith's case is not only unprecedented for Australia but \"extraordinary\" for the globe too, scholars say.",
-    "cnTitle": "澳功勋士兵被控战争罪",
-    "cnDeck": "澳大利亚的军事界正面临一场前所未有的考验。该国最负盛名的士兵本·罗伯茨-史密斯（Ben Roberts-Smith）目前正卷入一桩具有里程碑意义的战争罪案件的核心。罗伯茨-史密斯作为澳大利亚军方的英雄人物，曾获得最高军事荣誉——维多利亚十字勋章，他的这一身份使得此案在全球范围内引发了广泛关注和深刻反思。学者们普遍指出，本·罗伯茨-史密斯的案件不仅对澳大利亚而言是史无前例的，即便放眼全球，其影响和性质也堪称“非同寻常”。这一表述强调了此案的特殊性和其可能带来的深远影响。通常，战争罪案件涉及对武装冲突法（如日内瓦公约）的严重违反，包括但不限于非法杀戮平民、虐待战俘、酷刑以及其他战争暴行。对于一位被誉为国家英雄、承载着国家荣誉的士兵而言，面临此类指控，无疑是对一个国家军事道德和法律体系的巨大挑战。此案的“史无前例”之处在于，它可能标志着澳大利亚在追究其武装部队成员战争罪行方面的决心和制度性转变。此前，尽管有过针对普通士兵的指控，但涉及如此高级别且功勋卓著的军事人物，在澳大利亚历史上尚属首次。这可能为未来类似案件的处理方式设定新的标准，并促使澳大利亚军方对其在海外军事行动中的行为准则和问责机制进行全面审视。从全球视角来看，此案的“非同寻常”性体现在多个层面。首先，它在全球范围内引发了关于军事英雄形象与战争罪行之间复杂关系的讨论。一位被国家赋予最高荣誉的士兵，若最终被证实犯下战争罪行，将对公众对军事人员的信任、对国家在冲突中行为的看法产生颠覆性影响。其次，此案将置于国际人道法和军事司法体系的聚光灯下，其审理过程和结果可能对国际法实践、特别是对各国军队如何处理其在境外行动中被控犯罪的指控产生示范效应。此外，本·罗伯茨-史密斯案也可能引发关于战争创伤、决策压力以及在极端环境下人性挑战的更深层次探讨。这不仅仅是一场法律审判，更是一次对国家价值观、军事文化以及国际责任的全面拷问。此案的走向和最终裁决，预计将对澳大利亚的国际声誉、其与盟友的关系，乃至对全球范围内军事人员的法律责任界定产生广泛而持久的影响。它提醒所有国家，即使在最艰难的冲突环境中，也必须坚持最高的行为标准和对人权的尊重。可以预见，该案的进展将持续受到国内外媒体和法律专家的密切关注。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/czjwp1vjn9lo?at_medium=RSS&at_campaign=rss",
-    "time": "23小时前",
-    "published_iso": "2026-04-09T08:23:11+00:00",
-    "id": "n21",
     "lead": false
   }
 ]
