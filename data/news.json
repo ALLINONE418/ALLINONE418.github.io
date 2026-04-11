@@ -1,5 +1,33 @@
 [
   {
+    "headline": "Final push for votes as challenger to Hungary's Orbán scents victory",
+    "deck": "As Péter Magyar's opposition movement leads in the polls, tens of thousands of anti-Orbán supporters fill Heroes' Square in Budapest.",
+    "cnTitle": "马扎尔民调领先，冲击匈牙利大选",
+    "cnDeck": "匈牙利政治格局正面临重大转变，挑战者彼得·马扎尔（Péter Magyar）领导的反对派运动在最新民意调查中表现强劲，有望在即将举行的选举中对总理维克多·欧尔班（Viktor Orbán）长期执政的政府构成严峻冲击。在欧尔班政府面临内外多重压力之际，马扎尔的崛起被视为匈牙利近十余年来最重要的政治力量。正值关键的投票冲刺阶段，数以万计反对欧尔班的总理的支持者们，蜂拥至布达佩斯市中心的英雄广场（Heroes' Square）举行大规模集会，展现出强大的民众动员能力和对变革的渴望。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c0q9527y41lo?at_medium=RSS&at_campaign=rss",
+    "time": "7小时前",
+    "published_iso": "2026-04-11T00:17:18+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "Lyse Doucet: Historic US-Iran talks must bridge deep distrust",
+    "deck": "Face-to-face talks would mark the highest-level engagement between Iran and the US since the 1979 Islamic Revolution.",
+    "cnTitle": "美伊最高级别会谈破除不信任",
+    "cnDeck": "BBC记者Lyse Doucet评论指出，美伊之间可能进行的面对面会谈，如果实现，将是自1979年伊斯兰革命以来美国和伊朗之间最高级别的接触。Doucet强调，此次历史性的对话必须努力弥合两国间根深蒂固的不信任。自1979年伊朗伊斯兰革命爆发，导致美国驻伊朗大使馆人质危机以及两国断绝外交关系以来，美国和伊朗的关系一直处于高度紧张和敌对状态。数十年间，两国在核问题、地区安全、人权以及恐怖主义等多个领域存在严重分歧，并在中东地区通过代理人战争进行对抗，加剧了彼此间的敌意和不信任。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cn9qzl12537o?at_medium=RSS&at_campaign=rss",
+    "time": "8小时前",
+    "published_iso": "2026-04-10T23:46:49+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
     "headline": "Gunmen kill at least four people at Afghanistan picnic spot",
     "deck": "Officials say attackers opened fire near the village of Deh Mehri in Herat.",
     "cnTitle": "阿富汗枪手袭击致四人死亡",
@@ -9,9 +37,22 @@
     "url": "https://www.bbc.com/news/articles/cr51z5p17myo?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-04-10T20:07:07+00:00",
+    "id": "n3",
+    "lead": false
+  },
+  {
+    "headline": "U.S. oil slips below $100 as Trump demands reopening of Strait of Hormuz",
+    "deck": "U.S. President Donald Trump on Thursday warned Iran to \"stop now\" if it was charging tankers to transit the Strait of Hormuz.",
+    "cnTitle": "特朗普警告伊朗勿收费霍尔木兹海峡",
+    "cnDeck": "美国总统唐纳德·特朗普于周四向伊朗发出严厉警告，要求其“立即停止”对霍尔木兹海峡过往油轮征收任何费用或采取类似的阻碍航运的行为。这一声明直接针对伊朗可能试图控制或从中获利的关键国际航道，并迅速引发了全球能源市场的关注。消息发布后，美国原油价格一度跌破每桶100美元，反映出市场对潜在地缘政治紧张局势可能影响全球石油供应的担忧。霍尔木兹海峡是连接波斯湾与阿曼湾的唯一海上通道，也是全球最重要的石油运输咽喉之一。据估计，全球约五分之一的液化天然气和近三分之一的海运石油（包括来自沙特阿拉伯、伊朗、阿联酋、科威特和伊拉克的石油）通过此海峡运输。任何对该海峡自由通航的威胁，都会对全球能源供应和价格造成重大冲击。",
+    "cat": "finance",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/04/10/oil-price-wti-brent-saudi-pipeline-attack-middle-east-war.html",
+    "time": "12小时前",
+    "published_iso": "2026-04-10T18:57:26+00:00",
     "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n4",
+    "lead": false
   },
   {
     "headline": "Tankers urged not to pay toll to Iran for use of strait",
@@ -23,8 +64,49 @@
     "url": "https://www.bbc.com/news/articles/c3dl0gdvvveo?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-04-10T18:45:33+00:00",
+    "id": "n5",
+    "lead": false
+  },
+  {
+    "headline": "Soaring pump prices drive US inflation to highest level in almost two years",
+    "deck": "A surge in prices at the pump due to the Iran war has pushed the inflation rate to 3.3%.",
+    "cnTitle": "伊朗战争推升美国通胀至近两年高点",
+    "cnDeck": "受伊朗战争持续升级的深远影响，全球原油市场供应面临严重不确定性，直接导致国际油价大幅飙升。这一重大的地缘政治事件迅速传导至美国国内，使得消费者在加油站面临汽油价格（pump prices）的显著上涨。根据最新发布的经济数据，受能源价格飙升的强劲推动，美国整体通货膨胀率已攀升至3.3%。这一数字不仅超出了市场普遍预期，更是标志着",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cde56g80xp5o?at_medium=RSS&at_campaign=rss",
+    "time": "15小时前",
+    "published_iso": "2026-04-10T16:20:58+00:00",
     "is_new": true,
-    "id": "n2",
+    "id": "n6",
+    "lead": false
+  },
+  {
+    "headline": "How many ships are crossing the Strait of Hormuz?",
+    "deck": "Only a few vessels have crossed the strait since the US-Iran ceasefire deal, according to BBC Verify analysis.",
+    "cnTitle": "美伊停火后霍尔木兹海峡船只通行骤减",
+    "cnDeck": "根据BBC Verify的最新分析报告显示，自美国与伊朗之间达成一项停火协议以来，通过具有全球战略意义的霍尔木兹海峡的船只数量显著减少，目前只有寥寥数艘船只继续通行。这一出人意料的发现立即引发了国际社会、能源市场观察家以及地缘政治分析人士的广泛关注和深度思考，因为其暗示着中东地区复杂的安全局势可能并未如预期般因停火",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss",
+    "time": "15小时前",
+    "published_iso": "2026-04-10T16:08:19+00:00",
+    "is_new": true,
+    "id": "n7",
+    "lead": false
+  },
+  {
+    "headline": "Meta pulls Facebook ads recruiting for social media addiction lawsuits",
+    "deck": "The Facebook owner recently lost a landmark social media addiction trial in California",
+    "cnTitle": "Meta撤下招募社交成瘾诉讼广告",
+    "cnDeck": "社交媒体巨头Meta平台公司（Facebook的母公司）近日采取了一项引人注目的行动，撤下了旨在为社交媒体成瘾相关诉讼招募原告的广告。此举是在该公司最近于加利福尼亚州的一项里程碑式的社交媒体成瘾审判中败诉之后作出的，标志着Meta在应对日益增长的法律挑战和公众对社交媒体对用户心理健康影响的担忧方面，可能正在调整其法律策略和公共关系立场。这一事件",
+    "cat": "tech",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/czjw0zgz9zyo?at_medium=RSS&at_campaign=rss",
+    "time": "16小时前",
+    "published_iso": "2026-04-10T15:44:12+00:00",
+    "is_new": true,
+    "id": "n8",
     "lead": false
   },
   {
@@ -37,8 +119,21 @@
     "url": "https://www.bbc.com/news/articles/c3w37ggp011o?at_medium=RSS&at_campaign=rss",
     "time": "12小时前",
     "published_iso": "2026-04-10T15:12:57+00:00",
+    "id": "n9",
+    "lead": false
+  },
+  {
+    "headline": "Will UK petrol and diesel prices start going down?",
+    "deck": "UK petrol prices have risen because of the US-Israel war with Iran but the ceasefire could see prices drop.",
+    "cnTitle": "中东冲突影响英国油价走向",
+    "cnDeck": "英国汽油和柴油价格的近期走势受到中东地区地缘政治局势的显著影响。根据分析，此前，由于美国、以色列与伊朗之间发生的冲突，全球原油市场出现剧烈波动，导致原油价格一路攀升。中东地区是全球重要的石油生产和运输枢纽，任何在该区域发生的军事冲突或紧张局势，都可能直接威胁到石油的生产、运输线路以及供应链的稳定性。特别是涉及伊朗的冲突，由于其掌控着霍尔木兹海峡这一关键石油运输咽喉，市场对原油供应中断的担忧加剧，从而推动国际原油价格，如布伦特原油和西德克萨斯中质原油（WTI），大幅上涨。英国作为主要的石油进口国，其国内汽油和柴油的零售价格与国际原油价格紧密挂钩。国际原油价格的上涨，直接传导至英国消费者，导致加油站的燃油价格持续走高，给英国民众的日常生活和企业运营带来了额外的成本压力。这种价格上涨不仅影响了私家车主，也增加了物流和运输企业的运营开支，进而可能推高整体通胀水平，对英国经济构成潜在的负面影响。然而，最新的发展表明，如果中东地区能够实现停火，特别是美国、以色列与伊朗之间的紧张局势得到有效缓解，那么国际原油市场将有望恢复平静，从而对英国的燃油价格产生积极影响。停火协议的达成通常意味着地缘政治风险溢价的消除或显著降低，市场对石油供应中断的担忧会随之减轻。在风险降低的情况下，投机性资金可能会从原油市场撤出，或者原油期货价格中的风险溢价部分将消失，导致国际原油价格回落。此外，如果冲突得以平息，受影响地区的石油生产和出口活动有望恢复正常，进一步稳定全球石油供应。对于英国而言，国际原油价格的下降将直接降低炼油厂的成本，并最终传导至零售终端，使得汽油和柴油的价格开始回落。这对英国经济来说是一个积极信号，有助于缓解通胀压力，降低消费者支出和企业成本，从而提振消费者信心和经济活动。然而，燃油价格的走势并非仅仅取决于地缘政治因素。全球经济增长前景、美元汇率、欧佩克（OPEC+）的产量政策以及季节性需求变化等多种因素，也会共同作用于国际原油价格。因此，尽管中东停火能够提供一个重要的下行压力，但英国汽油和柴油价格是否以及何时开始持续下跌，仍",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+    "time": "21小时前",
+    "published_iso": "2026-04-10T10:42:48+00:00",
     "is_new": true,
-    "id": "n3",
+    "id": "n10",
     "lead": false
   },
   {
@@ -51,8 +146,7 @@
     "url": "https://www.bbc.com/news/articles/ckgr67kgvdko?at_medium=RSS&at_campaign=rss",
     "time": "20小时前",
     "published_iso": "2026-04-10T06:41:40+00:00",
-    "is_new": true,
-    "id": "n4",
+    "id": "n11",
     "lead": false
   },
   {
@@ -65,7 +159,7 @@
     "url": "https://www.bbc.com/news/articles/cgld65x396go?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-04-10T02:32:27+00:00",
-    "id": "n5",
+    "id": "n12",
     "lead": false
   },
   {
@@ -78,7 +172,7 @@
     "url": "https://www.bbc.com/news/articles/c39rkpe8mj2o?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-04-09T23:04:32+00:00",
-    "id": "n6",
+    "id": "n13",
     "lead": false
   },
   {
@@ -91,7 +185,7 @@
     "url": "https://www.bbc.com/news/articles/cp3l4yk5rlgo?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-04-09T23:01:47+00:00",
-    "id": "n7",
+    "id": "n14",
     "lead": false
   },
   {
@@ -104,7 +198,35 @@
     "url": "https://www.bbc.com/news/articles/c80mxrdvkpjo?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-04-09T22:03:15+00:00",
-    "id": "n8",
+    "id": "n15",
+    "lead": false
+  },
+  {
+    "headline": "OpenAI pauses UK data centre deal over energy costs and regulation",
+    "deck": "The project was part of a package of tech investment promising the UK could become an AI superpower.",
+    "cnTitle": "OpenAI暂停英国数据中心协议",
+    "cnDeck": "OpenAI，这家全球领先的人工智能研究公司，据报道已暂停了其在英国开发大型数据中心的计划。这一决定对英国来说是一个挫折，此前英国政府一直积极推动自身成为全球人工智能创新中心，并努力吸引大量科技投资。知情人士透露，OpenAI做出此决定的主要原因是担忧运营大型数据中心所需的高昂能源成本以及英国不断变化的监管环境。该数据中心项目是英国政府为实现其成为“人工智能超级大国”宏伟愿景所设想的关键技术投资之一。这项重大基础设施建设的暂停，引发了人们对英国作为主要人工智能公司扩张运营足迹目的地的吸引力提出了疑问。数据中心，特别是支持OpenAI等公司开发高级人工智能模型的数据中心，消耗巨大电量。随着人工智能应用对计算能力需求的不断增长，能源消耗问题日益受到关注，这直接影响运营成本。英国的能源市场，可能受到全球能源价格和国内政策影响，或许为OpenAI的长期投资战略带来了不利的经济环境。此外，包括英国在内的许多司法管辖区，针对人工智能和数据基础设施的监管环境仍复杂且不确定。像OpenAI这样的公司需要稳定且可预测的监管框架才能进行大规模的长期投资。围绕未来数据治理、AI伦理法规及潜在数据主权要求的不确定性，可能增加了风险和复杂性，这些因素可能已纳入OpenAI暂停项目的考量。这一事态发展突显了科技巨头在构建支持AI快速发展所需基础设施方面面临的挑战，并强调了技术进步、经济可行性和监管清晰度之间的关键相互作用。对英国而言，此协议的暂停可能促使其重新评估吸引和留住主要AI投资的策略，或导致讨论如何为大型科技项目降低能源成本并提供更明确的AI监管方向。这也可能影响其他科技公司在该地区的投资决策，预示英国需提供具竞争力的激励措施和清晰的政策指导，以在全球AI竞争中保持领先地位。",
+    "cat": "tech",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/clyd032ej70o?at_medium=RSS&at_campaign=rss",
+    "time": "1天前",
+    "published_iso": "2026-04-09T20:36:41+00:00",
+    "is_new": true,
+    "id": "n16",
+    "lead": false
+  },
+  {
+    "headline": "Petrol and diesel prices rise again as concerns grow over ceasefire",
+    "deck": "Motoring groups have warned drivers not to expect a significant drop in costs soon.",
+    "cnTitle": "停火担忧推升汽柴油价格",
+    "cnDeck": "全球汽柴油价格近期再度呈现上涨态势，此次涨价潮的背后，是市场对某一重要地区停火协议前景的担忧日益加剧。有消息指出，尽管各方为促成停火付出了努力，但谈判进展缓慢，甚至出现僵局，使得投资者和分析人士对冲突可能持续升级或无法有效缓解的风险评估上调。这种地缘政治紧张局势的升温，直接影响了全球原油供应的稳定性预期。当地区冲突加剧或前景不明朗时，市场普遍预计原油生产和运输可能面临中断风险，从而导致原油价格上涨。汽柴油价格作为原油价格的直接反映，随即应声而涨。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cq6j0rnvlzeo?at_medium=RSS&at_campaign=rss",
+    "time": "1天前",
+    "published_iso": "2026-04-09T20:07:08+00:00",
+    "is_new": true,
+    "id": "n17",
     "lead": false
   },
   {
@@ -117,7 +239,21 @@
     "url": "https://www.bbc.com/news/videos/cj609y6nnxzo?at_medium=RSS&at_campaign=rss",
     "time": "15小时前",
     "published_iso": "2026-04-09T17:22:14+00:00",
-    "id": "n9",
+    "id": "n18",
+    "lead": false
+  },
+  {
+    "headline": "Amazon to end support for older Kindles, prompting user outcry",
+    "deck": "The move means owners of Kindles released before 2013 will be unable to download new e-books.",
+    "cnTitle": "亚马逊停止部分Kindle支持引不满",
+    "cnDeck": "亚马逊公司近日宣布，将停止对部分旧款Kindle电子阅读器的支持，此举立即引发了大量用户的强烈不满和抗议。根据亚马逊的声明，这一政策调整将影响所有在2013年之前发布的老旧Kindle型号的用户。具体而言，这些设备的用户将不再能够直接从亚马逊的在线商店下载新的电子书内容。尽管用户仍然可以通过将电子书文件传输到设备上（例如通过USB连接或Send to Kindle功能）来阅读现有或新获取的内容，但直接从设备端购买和下载新书的功能将被禁用，这无疑大大降低了这些设备的使用便利性和完整体验。",
+    "cat": "tech",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c98k91yy4z4o?at_medium=RSS&at_campaign=rss",
+    "time": "1天前",
+    "published_iso": "2026-04-09T13:12:45+00:00",
+    "is_new": true,
+    "id": "n19",
     "lead": false
   },
   {
@@ -130,7 +266,7 @@
     "url": "https://www.bbc.com/news/articles/c0q98w57k25o?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-04-09T08:34:04+00:00",
-    "id": "n10",
+    "id": "n20",
     "lead": false
   },
   {
@@ -143,20 +279,7 @@
     "url": "https://www.bbc.com/news/articles/czjwp1vjn9lo?at_medium=RSS&at_campaign=rss",
     "time": "23小时前",
     "published_iso": "2026-04-09T08:23:11+00:00",
-    "id": "n11",
-    "lead": false
-  },
-  {
-    "headline": "Oil prices rise as traders eye fragile US-Iran ceasefire",
-    "deck": "The cost of crude plunged on Wednesday after a deal was announced that includes the opening of the Strait of Hormuz.",
-    "cnTitle": "海峡协议促油价大跌",
-    "cnDeck": "全球原油市场在周三经历了一次剧烈波动，原油价格大幅下跌。此前，市场交易员曾密切关注美国与伊朗之间可能存在的脆弱停火协议，这种紧张且不确定的地缘政治局势一度可能引发市场对原油供应中断的担忧，从而在特定时段对油价形成支撑或导致其上涨。然而，这种市场情绪在周三被一项重大协议的宣布所彻底逆转。据报道，一项关键协议已经达成，其中一个核心条款",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cq6j0rnvlzeo?at_medium=RSS&at_campaign=rss",
-    "time": "刚刚",
-    "published_iso": "2026-04-09T03:33:31+00:00",
-    "id": "n12",
+    "id": "n21",
     "lead": false
   }
 ]
