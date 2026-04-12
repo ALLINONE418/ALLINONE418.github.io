@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-12T03:33:29.280575+00:00",
-  "updated_display": "Apr 12, 2026 03:33 UTC",
+  "updated_at": "2026-04-12T13:17:51.488652+00:00",
+  "updated_display": "Apr 12, 2026 13:17 UTC",
   "sections": [
     {
       "title": "Equities 股票",
@@ -147,8 +147,8 @@
           "key": "gold",
           "name": "Gold",
           "sub": "XAU/USD",
-          "price": "4,761.90",
-          "chg": "-0.57%",
+          "price": "4,787.40",
+          "chg": "-0.04%",
           "up": false,
           "chg_6m": "N/A",
           "up_6m": true,
@@ -157,14 +157,14 @@
           "chg_3y": "N/A",
           "up_3y": true,
           "range52": "3,125.00 – 5,586.20",
-          "raw_price": 4761.89990234375
+          "raw_price": 4787.39990234375
         },
         {
           "key": "silver",
           "name": "Silver",
           "sub": "XAG/USD",
-          "price": "76.3240",
-          "chg": "+0.49%",
+          "price": "76.4800",
+          "chg": "+0.70%",
           "up": true,
           "chg_6m": "N/A",
           "up_6m": true,
@@ -173,7 +173,7 @@
           "chg_3y": "N/A",
           "up_3y": true,
           "range52": "31.6850 – 121.30",
-          "raw_price": 76.3239974975586
+          "raw_price": 76.4800033569336
         },
         {
           "key": "wti",
@@ -211,8 +211,8 @@
           "key": "copper",
           "name": "Copper",
           "sub": "LME",
-          "price": "5.8705",
-          "chg": "+1.64%",
+          "price": "5.8860",
+          "chg": "+1.90%",
           "up": true,
           "chg_6m": "N/A",
           "up_6m": true,
@@ -221,7 +221,7 @@
           "chg_3y": "N/A",
           "up_3y": true,
           "range52": "4.3235 – 6.5080",
-          "raw_price": 5.870500087738037
+          "raw_price": 5.886000156402588
         },
         {
           "key": "natgas",
@@ -248,8 +248,8 @@
           "key": "btc",
           "name": "Bitcoin",
           "sub": "BTC/USD",
-          "price": "$71,748",
-          "chg": "-1.75%",
+          "price": "$71,057",
+          "chg": "-2.24%",
           "up": false,
           "chg_6m": "N/A",
           "up_6m": true,
@@ -258,14 +258,14 @@
           "chg_3y": "N/A",
           "up_3y": true,
           "range52": "N/A",
-          "raw_price": 71748
+          "raw_price": 71057
         },
         {
           "key": "eth",
           "name": "Ethereum",
           "sub": "ETH/USD",
-          "price": "$2,222",
-          "chg": "-1.18%",
+          "price": "$2,195",
+          "chg": "-1.90%",
           "up": false,
           "chg_6m": "N/A",
           "up_6m": true,
@@ -274,14 +274,14 @@
           "chg_3y": "N/A",
           "up_3y": true,
           "range52": "N/A",
-          "raw_price": 2221.61
+          "raw_price": 2195.27
         },
         {
           "key": "sol",
           "name": "Solana",
           "sub": "SOL/USD",
-          "price": "$82.58",
-          "chg": "-2.70%",
+          "price": "$82.06",
+          "chg": "-2.46%",
           "up": false,
           "chg_6m": "N/A",
           "up_6m": true,
@@ -290,14 +290,14 @@
           "chg_3y": "N/A",
           "up_3y": true,
           "range52": "N/A",
-          "raw_price": 82.58
+          "raw_price": 82.06
         },
         {
           "key": "bnb",
           "name": "BNB",
           "sub": "BNB/USD",
-          "price": "$596.36",
-          "chg": "-1.86%",
+          "price": "$592.36",
+          "chg": "-2.04%",
           "up": false,
           "chg_6m": "N/A",
           "up_6m": true,
@@ -306,14 +306,14 @@
           "chg_3y": "N/A",
           "up_3y": true,
           "range52": "N/A",
-          "raw_price": 596.36
+          "raw_price": 592.36
         },
         {
           "key": "xrp",
           "name": "XRP",
           "sub": "XRP/USD",
           "price": "$1.33",
-          "chg": "-1.80%",
+          "chg": "-1.02%",
           "up": false,
           "chg_6m": "N/A",
           "up_6m": true,
@@ -381,8 +381,8 @@
           "key": "dxy",
           "name": "DXY",
           "sub": "Dollar Index",
-          "price": "98.650",
-          "chg": "-0.22%",
+          "price": "98.698",
+          "chg": "-0.17%",
           "up": false,
           "chg_6m": "N/A",
           "up_6m": true,
@@ -391,7 +391,7 @@
           "chg_3y": "N/A",
           "up_3y": true,
           "range52": "95.550 – 101.980",
-          "raw_price": 98.6500015258789
+          "raw_price": 98.698
         },
         {
           "key": "usdcny",
