@@ -1,5 +1,75 @@
 [
   {
+    "headline": "Hungarians vote on whether to end 16 years of Orbán rule and elect rival",
+    "deck": "Most polls favour Péter Magyar, who fronts a grassroots party, and early figures suggest a big turnout of voters.",
+    "cnTitle": "匈牙利大选投票，奥尔班政权或终结",
+    "cnDeck": "匈牙利全国选民正在就结束总理维克多·奥尔班（Viktor Orbán）长达16年的执政以及选举其主要竞争对手一事进行投票。此次选举被视为对奥尔班领导的青民盟（Fidesz）政府的一次关键性全民公决，其结果将深刻影响匈牙利未来的政治走向、与欧盟的关系以及国内民主制度的健康状况。维克多·奥尔班自2010年上任以来，通过推行民族主义、保守主义政策，强化政府权力，并经常与欧盟在法治、移民和媒体自由等问题上产生摩擦，使其在欧洲政坛中成为一位颇具争议但影响力深远的领导人。他的长期执政使得匈牙利在欧盟内部扮演着独特的角色，经常挑战欧盟的主流共识和政策。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cdxdepjrv95o?at_medium=RSS&at_campaign=rss",
+    "time": "刚刚",
+    "published_iso": "2026-04-12T07:44:27+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "'We need real peace': Easter truce fails to lift grim mood in war-torn Ukraine",
+    "deck": "Easter festivities are muted in Kharkiv as Ukrainians expect fighting to flare up again after a weekend truce.",
+    "cnTitle": "乌克兰停火未能消弭战区紧张情绪",
+    "cnDeck": "乌克兰东部城市哈尔科夫，在战火持续肆虐的背景下，今年的复活节庆祝活动显得异常沉寂。尽管经历了一个周末的临时停火，当地居民的低落情绪并未因此得到任何缓解，反而普遍预期在停火结束后，战事将再度升级。这座城市，作为乌克兰重要的工业和文化中心，自俄罗斯全面入侵乌克兰以来，一直遭受着猛烈的炮击和空袭，是冲突中最前线的区域之一。在这样的严峻现实面前，即使是象征着希望与重生的复活节，也无法冲淡笼罩在居民心头的悲观与不安。许多乌克兰民众表示，他们所渴望的并非短暂的喘息，而是“真正的和平”。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cj0vn30574no?at_medium=RSS&at_campaign=rss",
+    "time": "3小时前",
+    "published_iso": "2026-04-12T04:20:37+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
+    "headline": "Faisal Islam: Why the government is relaxed about Chinese car imports",
+    "deck": "The UK government believes the rise of China's car industry could be good for UK consumers and industry.",
+    "cnTitle": "英国政府对中国汽车进口持开放态度",
+    "cnDeck": "英国政府认为中国汽车产业的崛起对英国消费者和工业都有利。这一立场与一些西方国家日益加剧的保护主义情绪形成对比，后者担忧中国电动汽车的涌入可能对本土产业造成冲击。英国政府的乐观态度基于多重考量。首先，从消费者角度看，中国汽车，尤其是电动汽车，以其价格竞争力、技术先进性和多样化选择，将为英国消费者带来显著益处。市场竞争的加剧有望促使汽车价格下降，提高购车的可负担性，并加速电动汽车在英国的普及，从而助力英国实现其气候目标和净零排放承诺。其次，对于英国本土汽车工业而言，虽然短期内可能面临更大的竞争压力，但长期来看，这种竞争被视为一种刺激和激励。它将迫使英国汽车制造商加速创新，提升效率，并投资于新技术和生产流程，以保持其市场竞争力。此外，英国政府可能还看到了吸引中国汽车制造商在英国进行投资的潜力。随着中国品牌寻求拓展国际市场，英国作为重要的汽车市场和制造基地，有机会吸引中国企业设立研发中心、生产工厂或电池超级工厂，从而创造就业机会，带动当地经济增长，并融入全球电动汽车供应链。这种合作不仅能带来资本和技术，还能促进知识交流和技能提升。政府采取这种开放策略，也反映了其在复杂的全球贸易格局中寻求平衡的努力，旨在避免贸易摩擦，维护与主要贸易伙伴的关系，并确保英国消费者和产业能够从全球化带来的机遇中获益。这种务实的态度可能旨在最大化经济利益，并促进英国在未来移动出行领域的转型和发展。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cnv82v3n6yqo?at_medium=RSS&at_campaign=rss",
+    "time": "8小时前",
+    "published_iso": "2026-04-11T23:12:58+00:00",
+    "is_new": true,
+    "id": "n3",
+    "lead": false
+  },
+  {
+    "headline": "Germany's far-right AfD adopts 'radical' manifesto ahead of key polls",
+    "deck": "The far-right party is riding high in the opinion polls in the eastern state of Saxony-Anhalt.",
+    "cnTitle": "德国选择党激进纲领引关注",
+    "cnDeck": "德国极右翼政党“德国选择党”（AfD）在即将到来的关键选举之前通过了一份被形容为“激进”的竞选纲领，这一举动引起了广泛关注。该党目前在德国东部萨克森-安哈尔特州的民意调查中表现强劲，支持率持续走高，反映出其在特定地区，尤其是在德国东部地区日益增长的政治影响力。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cwy3wwgyd6do?at_medium=RSS&at_campaign=rss",
+    "time": "13小时前",
+    "published_iso": "2026-04-11T18:55:40+00:00",
+    "is_new": true,
+    "id": "n4",
+    "lead": false
+  },
+  {
+    "headline": "Nearly 400 sentenced in Nigeria for links to militant Islamists",
+    "deck": "Judges handed down sentences ranging from five years to life imprisonment following mass trials.",
+    "cnTitle": "尼日利亚近400名伊斯兰武装分子被判刑",
+    "cnDeck": "近日，尼日利亚司法部门在全国范围内进行的大规模审判中，对近400名被认定与激进伊斯兰分子有联系的嫌疑人做出了判决。法官们根据各被告的犯罪情节和参与程度，判处了从五年有期徒刑到终身监禁不等的刑罚。此次大规模审判和宣判行动，是尼日利亚政府长期以来打击境内伊斯兰极端主义叛乱活动的重要组成部分，旨在通过司法途径对那些涉嫌恐怖主义及相关罪行的人员进行问责。尼日利亚长期以来一直饱受极端组织，特别是博科圣地及其分支“伊斯兰国西非省”（ISWAP）等激进伊斯兰武装分子暴力活动困扰。这些武装分子在该国东北部地区频繁发动袭击，造成数万人死亡，数百万人流离失所，严重破坏了当地的社会经济发展和人道主义局势。此次近400人的大规模判刑，凸显了尼日利亚政府在应对恐怖主义威胁方面的决心和持续努力。通过司法程序对大量嫌疑人进行审判，不仅旨在伸张正义，惩罚犯罪分子，更希望能够震慑潜在的极端分子，切断其招募和行动的链条，从而为受影响地区带来长期的和平与稳定。判决结果从五年有期徒刑到终身监禁的广泛跨度，表明司法系统对案件进行了细致评估，区分了不同程度的犯罪行为，例如直接参与战斗、提供后勤支持、招募新成员或散布极端思想等。这反映出对犯罪严重性和个人责任的差异化认定。然而，大规模审判通常也伴随着对公正审判程序和人权保障的关注。国际人权组织和观察家们可能会对审判的透明度、被告是否获得充分的法律援助以及证据的收集和采信方式等问题进行审查。确保这些司法程序符合国际标准，对于维护尼日利亚的法治信誉至关重要。此次判决结果无疑将对尼日利亚的内部安全局势产生深远影响。它传递了一个明确的信息，即该国不会容忍与激进组织有任何形式的联系，并将采取坚决措施予以打击。从地区角度来看，尼日利亚的稳定对整个西非和萨赫勒地区都具有关键意义。其反恐努力的进展，无论是军事行动还是司法行动，都将影响周边国家对抗类似威胁的态势。这次大规模判决不仅是对过去犯罪行为的清算，也是尼日利亚为构建一个更安全、更稳定的未来所做努力的一部分，其最终效果将取决于后续的执行、社区和解以及根本性问题的解决。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cvge1kdmpzwo?at_medium=RSS&at_campaign=rss",
+    "time": "17小时前",
+    "published_iso": "2026-04-11T14:41:31+00:00",
+    "is_new": true,
+    "id": "n5",
+    "lead": false
+  },
+  {
     "headline": "Vibe check from inside one of AI industry's main events: 'Claude mania'",
     "deck": "At the HumanX conference in San Francisco this week, Anthropic's momentum was on everyone's lips.",
     "cnTitle": "AI峰会聚焦Anthropic Claude热潮",
@@ -9,8 +79,22 @@
     "url": "https://www.cnbc.com/2026/04/11/vibe-check-from-ai-industry-humanx-anthropic-is-talk-of-the-town.html",
     "time": "7小时前",
     "published_iso": "2026-04-11T12:00:01+00:00",
-    "id": "n1",
-    "lead": true
+    "id": "n6",
+    "lead": false
+  },
+  {
+    "headline": "Djibouti's president wins unprecedented sixth term with 97.8% of vote",
+    "deck": "Ismail Omar Guelleh, 78, has extended his already 27-year rule in a poll boycotted by the main opposition candidates.",
+    "cnTitle": "吉布提总统古莱赫成功连任第六届",
+    "cnDeck": "吉布提总统伊斯梅尔·奥马尔·古莱赫（Ismail Omar Guelleh），现年78岁，在最近的总统选举中以97.8%的压倒性票数成功连任，开启了他史无前例的第六个任期。此次胜利巩固了他自1999年上任以来长达27年的统治。此次选举结果并不出乎外界预料，因为主要反对党派普遍抵制了此次投票",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cgj0wg423n6o?at_medium=RSS&at_campaign=rss",
+    "time": "22小时前",
+    "published_iso": "2026-04-11T09:42:39+00:00",
+    "is_new": true,
+    "id": "n7",
+    "lead": false
   },
   {
     "headline": "Concerns after satellite provider restricts Iran images following US pressure",
@@ -22,7 +106,7 @@
     "url": "https://www.bbc.com/news/articles/c5y721yqe6ro?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-04-11T05:40:51+00:00",
-    "id": "n2",
+    "id": "n8",
     "lead": false
   },
   {
@@ -35,7 +119,7 @@
     "url": "https://www.bbc.com/news/articles/c20qg3g9554o?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-04-11T03:13:10+00:00",
-    "id": "n3",
+    "id": "n9",
     "lead": false
   },
   {
@@ -48,7 +132,7 @@
     "url": "https://www.bbc.com/news/articles/c0q9527y41lo?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-04-11T00:17:18+00:00",
-    "id": "n4",
+    "id": "n10",
     "lead": false
   },
   {
@@ -61,7 +145,7 @@
     "url": "https://www.bbc.com/news/articles/cn9qzl12537o?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-04-10T23:46:49+00:00",
-    "id": "n5",
+    "id": "n11",
     "lead": false
   },
   {
@@ -74,7 +158,7 @@
     "url": "https://www.bbc.com/news/articles/cr51z5p17myo?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-04-10T20:07:07+00:00",
-    "id": "n6",
+    "id": "n12",
     "lead": false
   },
   {
@@ -87,7 +171,7 @@
     "url": "https://www.cnbc.com/2026/04/10/oil-price-wti-brent-saudi-pipeline-attack-middle-east-war.html",
     "time": "12小时前",
     "published_iso": "2026-04-10T18:57:26+00:00",
-    "id": "n7",
+    "id": "n13",
     "lead": false
   },
   {
@@ -100,7 +184,7 @@
     "url": "https://www.bbc.com/news/articles/c3dl0gdvvveo?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-04-10T18:45:33+00:00",
-    "id": "n8",
+    "id": "n14",
     "lead": false
   },
   {
@@ -113,7 +197,7 @@
     "url": "https://www.bbc.com/news/articles/cde56g80xp5o?at_medium=RSS&at_campaign=rss",
     "time": "15小时前",
     "published_iso": "2026-04-10T16:20:58+00:00",
-    "id": "n9",
+    "id": "n15",
     "lead": false
   },
   {
@@ -126,7 +210,7 @@
     "url": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss",
     "time": "15小时前",
     "published_iso": "2026-04-10T16:08:19+00:00",
-    "id": "n10",
+    "id": "n16",
     "lead": false
   },
   {
@@ -139,7 +223,21 @@
     "url": "https://www.bbc.com/news/articles/czjw0zgz9zyo?at_medium=RSS&at_campaign=rss",
     "time": "16小时前",
     "published_iso": "2026-04-10T15:44:12+00:00",
-    "id": "n11",
+    "id": "n17",
+    "lead": false
+  },
+  {
+    "headline": "EU fingerprint and photo travel rules come into force",
+    "deck": "The EU's much-delayed Entry/Exit System will change the way UK passengers travel to 29 countries.",
+    "cnTitle": "欧盟入境新规生效 影响英旅客出行",
+    "cnDeck": "欧盟备受关注的入境/出境系统（Entry/Exit System, EES）已正式启动，这一新规将彻底改变包括英国旅客在内的非欧盟公民前往29个欧盟成员国及适用申根规则国家的方式。EES是一个全自动化的IT系统，旨在取代目前人工在护照上盖章的传统边境检查模式。其核心功能是对所有来自非欧盟国家的短期停留旅客进行电子化管理。根据新规定，所有持非欧盟国家护照的旅客",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c39rkpe8mj2o?at_medium=RSS&at_campaign=rss",
+    "time": "1天前",
+    "published_iso": "2026-04-10T15:29:23+00:00",
+    "is_new": true,
+    "id": "n18",
     "lead": false
   },
   {
@@ -152,7 +250,7 @@
     "url": "https://www.bbc.com/news/articles/c3w37ggp011o?at_medium=RSS&at_campaign=rss",
     "time": "12小时前",
     "published_iso": "2026-04-10T15:12:57+00:00",
-    "id": "n12",
+    "id": "n19",
     "lead": false
   },
   {
@@ -165,20 +263,7 @@
     "url": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
     "time": "21小时前",
     "published_iso": "2026-04-10T10:42:48+00:00",
-    "id": "n13",
-    "lead": false
-  },
-  {
-    "headline": "This coat cost $248 in illegal tariffs. Will he ever get the money back?",
-    "deck": "Importers are in line for tariff refunds. But whether everyone who paid the for the tariffs will get money back is a trickier question.",
-    "cnTitle": "贸易关税退款难题待解",
-    "cnDeck": "这则新闻探讨了进口商在期待关税退款时所面临的复杂问题，揭示了“非法关税”退还机制的重重挑战。背景通常涉及某些国家（例如美国对来自中国的商品）征收的“301条款”关税，这些关税在法律层面受到挑战，或被世界贸易组织（WTO）裁定为违反国际贸易规则。例如，美国在过去几年对价值数千亿美元的中国商品征收了额外关税，旨在解决其认为不公平的贸易行为。然而，这些关税的合法性一直备受争议，许多企业和行业组织通过法律途径寻求补救。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/ckgr67kgvdko?at_medium=RSS&at_campaign=rss",
-    "time": "20小时前",
-    "published_iso": "2026-04-10T06:41:40+00:00",
-    "id": "n14",
+    "id": "n20",
     "lead": false
   }
 ]
