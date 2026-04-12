@@ -9,7 +9,6 @@
     "url": "https://www.cnbc.com/2026/04/11/vibe-check-from-ai-industry-humanx-anthropic-is-talk-of-the-town.html",
     "time": "7小时前",
     "published_iso": "2026-04-11T12:00:01+00:00",
-    "is_new": true,
     "id": "n1",
     "lead": true
   },
@@ -180,84 +179,6 @@
     "time": "20小时前",
     "published_iso": "2026-04-10T06:41:40+00:00",
     "id": "n14",
-    "lead": false
-  },
-  {
-    "headline": "White House staff told not to place bets on prediction markets",
-    "deck": "The platforms have grown in popularity, with some users making bets on global events.",
-    "cnTitle": "白宫禁止员工参与预测市场下注",
-    "cnDeck": "白宫近日发布明确指令，禁止其工作人员在任何预测市场上进行下注活动。此项政策的核心在于加强白宫内部的道德标准，防范潜在的利益冲突，并维护政府操作的公平性与透明度。预测市场作为一种日益流行的在线平台，其运作机制是允许用户通过买卖合约来对未来事件的结果进行投注。这些事件的范围极其广泛，涵盖了从政治选举结果、重大政策决定、经济数据发布、全球地缘政治冲突的走向，到特定法案的立法前景等诸多领域。近年来，随着数字技术和互联网平台的普及，预测市场在全球范围内的用户基数显著增长，吸引了大量个人对各种未来事件进行预测性投注。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cgld65x396go?at_medium=RSS&at_campaign=rss",
-    "time": "1小时前",
-    "published_iso": "2026-04-10T02:32:27+00:00",
-    "id": "n15",
-    "lead": false
-  },
-  {
-    "headline": "EU fingerprint and photo travel rules come into force",
-    "deck": "The EU's much-delayed Entry/Exit System will change the way UK passengers travel to 29 countries.",
-    "cnTitle": "欧盟启用新入境系统影响英旅客",
-    "cnDeck": "欧盟备受关注的入境/出境系统（EES）已正式启动，这一新规将显著改变英国乘客前往29个欧盟及申根区国家的旅行方式。EES是一个全自动化的IT系统，旨在取代目前手动在护照上盖章的做法，用于记录非欧盟公民（包括英国公民）的入境、出境和拒绝入境信息。该系统的核心目的是强化欧盟外部边境安全，打击有组织犯罪和恐怖主义，并有效识别逾期逗留者。根据新规，所有免签进入申根区的非欧盟旅客（包括英国公民）在首次入境时，需要在边境进行生物识别数据采集，包括指纹和面部照片。这些数据将与旅行证件信息、入境和出境日期一并存储在系统中，有效期为三年。此举意味着英国旅客在每次进入欧盟时，将不再获得护照盖章，而是通过EES系统进行电子记录和追踪。该系统原本计划更早实施，但由于技术准备、操作协调以及成员国基础设施升级等方面的复杂挑战而多次推迟。英国脱欧后，英国公民失去了在欧盟境内自由流动的权利，现在被视为“第三国公民”。因此，他们将受到EES系统的全面约束，这标志着英国与欧盟之间人员流动管理迈入了新阶段。对于英国旅客而言，这意味着在边境检查时可能需要预留更多时间，尤其是在系统运行初期。尽管欧盟方面表示EES系统长期将有助于加速边境检查流程，但初期可能出现排队时间延长的情况。这一系统的实施对英国与欧盟之间的关系具有象征性意义，进一步巩固了英国作为非欧盟成员国的地位，并对两国公民的跨境旅行体验产生了深远影响。受影响的国家包括26个申根区成员国，以及保加利亚、罗马尼亚和塞浦路斯等。欧盟强调，EES是其智能化边境管理系统的重要组成部分，未来还将与欧盟旅行信息与授权系统（ETIAS）协同运作，对旅客进行更全面的预筛查。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c39rkpe8mj2o?at_medium=RSS&at_campaign=rss",
-    "time": "4小时前",
-    "published_iso": "2026-04-09T23:04:32+00:00",
-    "id": "n16",
-    "lead": false
-  },
-  {
-    "headline": "Ceasefire or no ceasefire, the Middle East's reshuffling is not yet done",
-    "deck": "Both sides have reason to end the war but share no common ground.",
-    "cnTitle": "停火与否仍将重塑格局",
-    "cnDeck": "中东地区正经历一场深刻而持续的地缘政治重塑，其复杂性远超短期冲突的停火与否。当前的核心冲突，例如围绕加沙地带的军事行动，已造成严重的人道主义危机和巨大破坏。冲突双方，例如以色列与哈马斯，都有充分理由寻求停火。对以色列而言，战争成本高昂，国际社会压力与日俱增，人质的命运牵动人心，长期安全保障需重新审视。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cp3l4yk5rlgo?at_medium=RSS&at_campaign=rss",
-    "time": "9小时前",
-    "published_iso": "2026-04-09T23:01:47+00:00",
-    "id": "n17",
-    "lead": false
-  },
-  {
-    "headline": "Hot in the city: Energy crisis tests Singapore's air-con addiction",
-    "deck": "The rise in energy prices has hit Asia particularly hard as many nations are heavily reliant on Gulf oil.",
-    "cnTitle": "能源价格上涨冲击亚洲经济",
-    "cnDeck": "当前，全球能源市场正经历显著的价格上涨，这一趋势对全球经济，特别是亚洲地区，构成了严峻挑战。新闻指出，能源价格的飙升尤其对亚洲造成了沉重打击，其主要原因是亚洲众多国家对海湾地区的石油供应存在高度依赖性。这种地缘经济格局使得亚洲在面对全球能源市场波动时显得尤为脆弱。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c80mxrdvkpjo?at_medium=RSS&at_campaign=rss",
-    "time": "5小时前",
-    "published_iso": "2026-04-09T22:03:15+00:00",
-    "id": "n18",
-    "lead": false
-  },
-  {
-    "headline": "OpenAI pauses UK data centre deal over energy costs and regulation",
-    "deck": "The project was part of a package of tech investment promising the UK could become an AI superpower.",
-    "cnTitle": "OpenAI暂停英国数据中心协议",
-    "cnDeck": "OpenAI，这家全球领先的人工智能研究公司，据报道已暂停了其在英国开发大型数据中心的计划。这一决定对英国来说是一个挫折，此前英国政府一直积极推动自身成为全球人工智能创新中心，并努力吸引大量科技投资。知情人士透露，OpenAI做出此决定的主要原因是担忧运营大型数据中心所需的高昂能源成本以及英国不断变化的监管环境。该数据中心项目是英国政府为实现其成为“人工智能超级大国”宏伟愿景所设想的关键技术投资之一。这项重大基础设施建设的暂停，引发了人们对英国作为主要人工智能公司扩张运营足迹目的地的吸引力提出了疑问。数据中心，特别是支持OpenAI等公司开发高级人工智能模型的数据中心，消耗巨大电量。随着人工智能应用对计算能力需求的不断增长，能源消耗问题日益受到关注，这直接影响运营成本。英国的能源市场，可能受到全球能源价格和国内政策影响，或许为OpenAI的长期投资战略带来了不利的经济环境。此外，包括英国在内的许多司法管辖区，针对人工智能和数据基础设施的监管环境仍复杂且不确定。像OpenAI这样的公司需要稳定且可预测的监管框架才能进行大规模的长期投资。围绕未来数据治理、AI伦理法规及潜在数据主权要求的不确定性，可能增加了风险和复杂性，这些因素可能已纳入OpenAI暂停项目的考量。这一事态发展突显了科技巨头在构建支持AI快速发展所需基础设施方面面临的挑战，并强调了技术进步、经济可行性和监管清晰度之间的关键相互作用。对英国而言，此协议的暂停可能促使其重新评估吸引和留住主要AI投资的策略，或导致讨论如何为大型科技项目降低能源成本并提供更明确的AI监管方向。这也可能影响其他科技公司在该地区的投资决策，预示英国需提供具竞争力的激励措施和清晰的政策指导，以在全球AI竞争中保持领先地位。",
-    "cat": "tech",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/clyd032ej70o?at_medium=RSS&at_campaign=rss",
-    "time": "1天前",
-    "published_iso": "2026-04-09T20:36:41+00:00",
-    "id": "n19",
-    "lead": false
-  },
-  {
-    "headline": "Petrol and diesel prices rise again as concerns grow over ceasefire",
-    "deck": "Motoring groups have warned drivers not to expect a significant drop in costs soon.",
-    "cnTitle": "停火担忧推升汽柴油价格",
-    "cnDeck": "全球汽柴油价格近期再度呈现上涨态势，此次涨价潮的背后，是市场对某一重要地区停火协议前景的担忧日益加剧。有消息指出，尽管各方为促成停火付出了努力，但谈判进展缓慢，甚至出现僵局，使得投资者和分析人士对冲突可能持续升级或无法有效缓解的风险评估上调。这种地缘政治紧张局势的升温，直接影响了全球原油供应的稳定性预期。当地区冲突加剧或前景不明朗时，市场普遍预计原油生产和运输可能面临中断风险，从而导致原油价格上涨。汽柴油价格作为原油价格的直接反映，随即应声而涨。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cq6j0rnvlzeo?at_medium=RSS&at_campaign=rss",
-    "time": "1天前",
-    "published_iso": "2026-04-09T20:07:08+00:00",
-    "id": "n20",
     "lead": false
   }
 ]
