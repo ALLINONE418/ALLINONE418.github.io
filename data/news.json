@@ -1,5 +1,19 @@
 [
   {
+    "headline": "Oil back above $100 as US to blockade Iranian ports after peace talks fail",
+    "deck": "The failure of negotiations at the weekend has raised concerns that the global energy crisis will deepen.",
+    "cnTitle": "美伊和谈失败美国封锁伊朗 油价重上百元",
+    "cnDeck": "本周末美伊和平谈判宣告破裂，引发全球对能源危机加深的深切担忧。据悉，此次谈判旨在缓解美国与伊朗之间的紧张关系，但双方未能在核心问题上达成一致。谈判失败后，美国立即采取强硬措施，宣布将对伊朗所有港口实施全面海上封锁。此举旨在切断伊朗原油出口，剥夺其主要经济来源，从而对德黑兰政权施加最大程度的经济压力。然而，国际",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cn781z4lgg4o?at_medium=RSS&at_campaign=rss",
+    "time": "1小时前",
+    "published_iso": "2026-04-13T03:06:49+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
     "headline": "Hungarians vote on whether to end 16 years of Orbán rule and elect rival",
     "deck": "Most polls favour Péter Magyar, who fronts a grassroots party, and early figures suggest a big turnout of voters.",
     "cnTitle": "匈牙利大选投票，奥尔班政权或终结",
@@ -9,8 +23,22 @@
     "url": "https://www.bbc.com/news/articles/cdxdepjrv95o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-12T07:44:27+00:00",
-    "id": "n1",
-    "lead": true
+    "id": "n2",
+    "lead": false
+  },
+  {
+    "headline": "British Steel 'needs nationalising by the summer'",
+    "deck": "Labour MP Nic Dakin says it is \"the best outcome\" for British Steel as ownership talks continue.",
+    "cnTitle": "英钢铁应夏季前国有化",
+    "cnDeck": "英国工党议员尼克·达金（Nic Dakin）近日公开呼吁，强调英国钢铁公司（British Steel）“需要在夏季之前实现国有化”，并将其描述为当前该公司面临困境下“最好的结果”。达金的此番言论正值英国钢铁公司的所有权谈判持续进行之际，这突显了工党对该公司未来走向的深切关注，并明确表达了其对解决方案的偏好。英国钢铁公司作为英国工业的重要组成",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cddq5zqvvejo?at_medium=RSS&at_campaign=rss",
+    "time": "21小时前",
+    "published_iso": "2026-04-12T06:25:11+00:00",
+    "is_new": true,
+    "id": "n3",
+    "lead": false
   },
   {
     "headline": "'We need real peace': Easter truce fails to lift grim mood in war-torn Ukraine",
@@ -22,7 +50,7 @@
     "url": "https://www.bbc.com/news/articles/cj0vn30574no?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-04-12T04:20:37+00:00",
-    "id": "n2",
+    "id": "n4",
     "lead": false
   },
   {
@@ -35,7 +63,7 @@
     "url": "https://www.bbc.com/news/articles/cnv82v3n6yqo?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-04-11T23:12:58+00:00",
-    "id": "n3",
+    "id": "n5",
     "lead": false
   },
   {
@@ -48,7 +76,7 @@
     "url": "https://www.bbc.com/news/articles/cwy3wwgyd6do?at_medium=RSS&at_campaign=rss",
     "time": "13小时前",
     "published_iso": "2026-04-11T18:55:40+00:00",
-    "id": "n4",
+    "id": "n6",
     "lead": false
   },
   {
@@ -61,7 +89,7 @@
     "url": "https://www.bbc.com/news/articles/cvge1kdmpzwo?at_medium=RSS&at_campaign=rss",
     "time": "17小时前",
     "published_iso": "2026-04-11T14:41:31+00:00",
-    "id": "n5",
+    "id": "n7",
     "lead": false
   },
   {
@@ -74,7 +102,7 @@
     "url": "https://www.cnbc.com/2026/04/11/vibe-check-from-ai-industry-humanx-anthropic-is-talk-of-the-town.html",
     "time": "7小时前",
     "published_iso": "2026-04-11T12:00:01+00:00",
-    "id": "n6",
+    "id": "n8",
     "lead": false
   },
   {
@@ -87,7 +115,21 @@
     "url": "https://www.bbc.com/news/articles/cgj0wg423n6o?at_medium=RSS&at_campaign=rss",
     "time": "22小时前",
     "published_iso": "2026-04-11T09:42:39+00:00",
-    "id": "n7",
+    "id": "n9",
+    "lead": false
+  },
+  {
+    "headline": "EU airline industry warns of fuel shortages if Strait of Hormuz stays closed",
+    "deck": "Airports Council International (ACI) Europe said its members had \"increasing concerns\" about the availability of jet fuel.",
+    "cnTitle": "欧盟航空业警告霍尔木兹海峡燃油风险",
+    "cnDeck": "欧盟机场理事会国际（Airports Council International, ACI）欧洲分会近日发布警示，表示其成员对航空燃油的供应状况表达了“日益增长的担忧”。这一核心担忧主要源于霍尔木兹海峡可能被关闭的潜在风险。霍尔木兹海峡是连接波斯湾与阿曼湾的唯一海上通道，其地理位置和战略意义极其重要，被普遍视为全球最重要的石油运输咽喉。据估计，全球约有三分之一的海运石油以及大量的液化天然气通过此海峡运输，每日原油通过量通常超过2000万桶，对全球能源市场的稳定供应具有不可替代的关键作用。一旦霍尔木兹海峡遭遇关闭或运输中断，无论是出于地缘政治冲突、军事对抗，还是其他不可预测的区域紧张局势，都将立即对全球能源供应链造成毁灭性打击。对于欧洲航空业而言，这意味着喷气燃料的供应将面临严重挑战。欧盟各国对中东地区的原油和成品油，包括航空燃油，存在高度依赖性。海峡的任何中断都将导致燃料运输路线受阻，供应量锐减，并迅速推高国际油价和航空燃油价格。ACI欧洲分会代表了在46个欧洲国家运营的500多个机场，其发出的警告信号不容忽视。航空燃油供应的短缺将直接导致航空公司运营成本大幅增加，甚至可能因缺乏燃料而被迫削减航班班次、取消航线，进而影响航空货运和客运服务。这不仅会给航空公司的财务状况带来巨大压力，还会对欧洲乃至全球的旅游业、贸易往来以及整体经济活动产生广泛而深远的负面影响。消费者将面临更高的票价、更少的选择和潜在的旅行延误。此事件还可能引发全球范围内的连锁反应，包括加剧通货膨胀压力、动摇投资者信心、扰乱国际贸易格局等。鉴于霍尔木兹海峡在全球能源安全中的关键作用，ACI欧洲分会的警告凸显了地缘政治风险对实体经济和关键基础设施运营的直接威胁。国际社会和相关政府部门可能需要紧急评估并制定应对策略，包括考虑多元化能源供应渠道、建立战略燃料储备，以及通过外交途径缓解地区紧张局势，以避免潜在的全球性经济危机和人道主义影响。这次警告是对全球供应链脆弱性和能源安全重要性的一次深刻提醒，强调了维护关键海上通道畅通无阻的必要性。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c3w37ggp011o?at_medium=RSS&at_campaign=rss",
+    "time": "1天前",
+    "published_iso": "2026-04-11T09:21:28+00:00",
+    "is_new": true,
+    "id": "n10",
     "lead": false
   },
   {
@@ -100,72 +142,7 @@
     "url": "https://www.bbc.com/news/articles/c5y721yqe6ro?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-04-11T05:40:51+00:00",
-    "id": "n8",
-    "lead": false
-  },
-  {
-    "headline": "Frontrunner for California governor denies sexual assault allegations",
-    "deck": "The congressman is a leading Democratic candidate who is now facing calls to drop out of the race.",
-    "cnTitle": "加州州长热门人选否认性侵指控",
-    "cnDeck": "一位角逐加州州长的民主党领先候选人、现任国会议员近日面临严重的性侵指控，但他本人坚决否认这些指控。据悉，指控最早由一名不愿透露姓名的女性通过媒体曝光，随后有更多细节浮出水面，引发了广泛关注。指控内容涉及数年前发生的事件，具体细节包括对受害者的不当接触和强迫行为。这名国会议员迅速发表声明，称这些指控“毫无根据”、“完全是政治攻击”，旨在破坏他在即将到来的加州州长选举中的竞选前景。他强调，自己将全力配合任何调查，并坚信真相最终会水落石出。然而，尽管该候选人矢口否认，这些指控已在政治圈和社会各界引起轩然大波。部分党内人士和女性权益组织已公开呼吁他退出竞选，认为此类指控，无论真伪，都可能损害民主党的形象和胜选机会。一位资深民主党策略师表示：“在这种高度敏感的时刻，任何涉及个人行为不端的指控都可能成为对手攻击的靶子，对竞选团队造成不可逆转的损害。”一些民主党同僚也表达了担忧，敦促其严肃对待此事，并尽快给出一个令人信服的解释。目前，这位国会议员的竞选团队正面临巨大压力，其民意支持率也可能因此受到影响。分析人士指出，加州州长选举历来竞争激烈，任何负面新闻都可能对选情产生决定性影响。尽管该候选人在初选中表现强劲，被普遍视为领跑者，但性侵指控的出现无疑为他的竞选之路蒙上了一层阴影。共和党方面则趁机对民主党施压，要求其对候选人进行更严格的审查。法律专家表示，此类指控通常会引发一系列调查，可能包括内部调查、新闻媒体调查，甚至执法部门的介入，具体取决于指控的严重性和证据的可靠性。该国会议员的法律团队已表示将采取一切必要措施维护其声誉，并可能对发布不实信息者提起诉讼。无论最终调查结果如何，这场风波已成为加州州长竞选中的一个关键节点，可能重塑未来的政治格局。此次事件不仅考验了该候选人的政治智慧和危机处理能力，也反映出社会对政治人物道德操守日益严格的审视态度。许多选民表示，他们将密切关注事态发展，并根据最终的事实判断来决定自己的投票意向。这使得此次选举的结果充满了更多不确定性。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c20qg3g9554o?at_medium=RSS&at_campaign=rss",
-    "time": "10小时前",
-    "published_iso": "2026-04-11T03:13:10+00:00",
-    "id": "n9",
-    "lead": false
-  },
-  {
-    "headline": "'Every drop of water counts': Fear for the future of Argentina's glaciers",
-    "deck": "A controversial law to ease protections for the glaciers has passed, opening the doors for mining.",
-    "cnTitle": "阿根廷冰川保护放宽引发采矿争议",
-    "cnDeck": "阿根廷近日通过一项备受争议的法律，旨在放宽对该国冰川的保护措施，此举为矿业活动打开大门，引发了国内外广泛关注和担忧。这项新法律的通过，导致环保组织、科学家以及当地社区的强烈反对，他们警告称，这一政策可能对阿根廷宝贵的淡水资源造成不可逆转的破坏。冰川在阿根廷的生态系统中扮演着至关重要的角色，它们是多条河流的源头，为农业、饮用水和生态系统提供生命之水。该国拥有巨大的冰川面积，是南美洲最重要的淡水储备之一。一直以来，阿根廷拥有一部相对严格的冰川保护法，旨在防止采矿和其他开发活动对冰川及其周边环境造成污染和破坏。然而，新通过的法律对现有的保护框架进行了修订，允许在某些此前被禁止的冰川周边区域进行矿产勘探和开采活动。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cj947487wzyo?at_medium=RSS&at_campaign=rss",
-    "time": "1天前",
-    "published_iso": "2026-04-11T02:02:56+00:00",
-    "id": "n10",
-    "lead": false
-  },
-  {
-    "headline": "Final push for votes as challenger to Hungary's Orbán scents victory",
-    "deck": "As Péter Magyar's opposition movement leads in the polls, tens of thousands of anti-Orbán supporters fill Heroes' Square in Budapest.",
-    "cnTitle": "马扎尔民调领先，冲击匈牙利大选",
-    "cnDeck": "匈牙利政治格局正面临重大转变，挑战者彼得·马扎尔（Péter Magyar）领导的反对派运动在最新民意调查中表现强劲，有望在即将举行的选举中对总理维克多·欧尔班（Viktor Orbán）长期执政的政府构成严峻冲击。在欧尔班政府面临内外多重压力之际，马扎尔的崛起被视为匈牙利近十余年来最重要的政治力量。正值关键的投票冲刺阶段，数以万计反对欧尔班的总理的支持者们，蜂拥至布达佩斯市中心的英雄广场（Heroes' Square）举行大规模集会，展现出强大的民众动员能力和对变革的渴望。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c0q9527y41lo?at_medium=RSS&at_campaign=rss",
-    "time": "7小时前",
-    "published_iso": "2026-04-11T00:17:18+00:00",
     "id": "n11",
-    "lead": false
-  },
-  {
-    "headline": "Lyse Doucet: Historic US-Iran talks must bridge deep distrust",
-    "deck": "Face-to-face talks would mark the highest-level engagement between Iran and the US since the 1979 Islamic Revolution.",
-    "cnTitle": "美伊最高级别会谈破除不信任",
-    "cnDeck": "BBC记者Lyse Doucet评论指出，美伊之间可能进行的面对面会谈，如果实现，将是自1979年伊斯兰革命以来美国和伊朗之间最高级别的接触。Doucet强调，此次历史性的对话必须努力弥合两国间根深蒂固的不信任。自1979年伊朗伊斯兰革命爆发，导致美国驻伊朗大使馆人质危机以及两国断绝外交关系以来，美国和伊朗的关系一直处于高度紧张和敌对状态。数十年间，两国在核问题、地区安全、人权以及恐怖主义等多个领域存在严重分歧，并在中东地区通过代理人战争进行对抗，加剧了彼此间的敌意和不信任。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cn9qzl12537o?at_medium=RSS&at_campaign=rss",
-    "time": "8小时前",
-    "published_iso": "2026-04-10T23:46:49+00:00",
-    "id": "n12",
-    "lead": false
-  },
-  {
-    "headline": "Gunmen kill at least four people at Afghanistan picnic spot",
-    "deck": "Officials say attackers opened fire near the village of Deh Mehri in Herat.",
-    "cnTitle": "阿富汗枪手袭击致四人死亡",
-    "cnDeck": "阿富汗西部赫拉特省发生一起严重安全事件。据当地官员透露，一伙武装分子在代赫迈赫里村（Deh Mehri）附近的一处野餐地点开火，造成至少四人死亡。这起袭击事件再次凸显了阿富汗面临的严峻安全挑战，并引发了对该国平民安全的广泛担忧。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cr51z5p17myo?at_medium=RSS&at_campaign=rss",
-    "time": "7小时前",
-    "published_iso": "2026-04-10T20:07:07+00:00",
-    "id": "n13",
     "lead": false
   }
 ]
