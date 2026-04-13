@@ -9,7 +9,6 @@
     "url": "https://www.bbc.com/news/articles/cn781z4lgg4o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-04-13T03:06:49+00:00",
-    "is_new": true,
     "id": "n1",
     "lead": true
   },
@@ -36,7 +35,6 @@
     "url": "https://www.bbc.com/news/articles/cddq5zqvvejo?at_medium=RSS&at_campaign=rss",
     "time": "21小时前",
     "published_iso": "2026-04-12T06:25:11+00:00",
-    "is_new": true,
     "id": "n3",
     "lead": false
   },
@@ -128,21 +126,7 @@
     "url": "https://www.bbc.com/news/articles/c3w37ggp011o?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-04-11T09:21:28+00:00",
-    "is_new": true,
     "id": "n10",
-    "lead": false
-  },
-  {
-    "headline": "Concerns after satellite provider restricts Iran images following US pressure",
-    "deck": "Planet Labs says it is restricting coverage of Iran and parts of the Middle East indefinitely.",
-    "cnTitle": "美施压卫星公司限制伊朗影像引关注",
-    "cnDeck": "全球领先的地球成像和数据分析公司Planet Labs近日宣布，将无限期限制对伊朗及中东部分地区的卫星影像覆盖。这一决定是在“美国施压”之后做出的，立即引发了国际社会对信息自由、新闻透明度以及地缘政治影响的广泛担忧。Planet Labs是一家总部位于美国的私营公司，以其庞大的微型卫星群和每日地球全景扫描能力而闻名。其提供的超高分辨率卫星图像被广泛应用于环境监测、农业分析、城市规划、灾害响应，以及至关重要的新闻调查、冲突监测和人权监督等领域。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c5y721yqe6ro?at_medium=RSS&at_campaign=rss",
-    "time": "8小时前",
-    "published_iso": "2026-04-11T05:40:51+00:00",
-    "id": "n11",
     "lead": false
   }
 ]
