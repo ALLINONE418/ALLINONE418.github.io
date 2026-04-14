@@ -1,5 +1,33 @@
 [
   {
+    "headline": "UK faces biggest hit to growth from Iran war of major economies, IMF says",
+    "deck": "The financial body cuts its growth forecast for the UK and warns the war threatens to throw the global economy \"off course\".",
+    "cnTitle": "伊朗战争将严重冲击英国经济",
+    "cnDeck": "国际货币基金组织（IMF）近日发出严厉警告，指出在全球主要经济体中，英国将因伊朗战争面临最大的经济增长冲击。该金融机构不仅大幅下调了对英国的经济增长预测，并警示这场潜在的战争冲突可能导致全球经济“偏离轨道”，使其现有复苏进程面临严峻挑战。IMF在报告中详细阐述了英国的脆弱性。英国经济对全球贸易和能源市场高度依赖，一旦伊朗战争爆发，全球油价将可能飙升",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c3v670qwz97o?at_medium=RSS&at_campaign=rss",
+    "time": "刚刚",
+    "published_iso": "2026-04-14T14:14:53+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "Hamas rejects Gaza disarmament plan, Palestinian official says",
+    "deck": "The official tells the BBC that the armed group will not move forward with talks until Israel fully complies with its commitments.",
+    "cnTitle": "哈马斯拒绝解除加沙地带武装协议",
+    "cnDeck": "一位巴勒斯坦官员向英国广播公司（BBC）透露，巴勒斯坦伊斯兰抵抗运动（哈马斯）已明确拒绝了任何关于加沙地带解除武装的计划。该官员强调，哈马斯武装组织在以色列完全遵守其承诺之前，不会推进任何进一步的停火或和平谈判。哈马斯的这一立场无疑给旨在结束加沙冲突、实现地区稳定的国际调解努力蒙上了一层阴影。以色列方面一直坚持，任何结束加沙冲突的协议都必须包括哈马斯的解除武装，并确保其不再对以色列构成威胁。以色列总理本雅明·内塔尼亚胡及其内阁成员曾多次表示，彻底摧毁哈马斯的军事和治理能力是以色列军事行动的首要目标。然而，哈马斯则认为，解除武装等同于投降，并可能使其在与以色列的未来谈判中失去筹码，也无法有效保护加沙地带的巴勒斯坦民众。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cn4vvxxg8lgo?at_medium=RSS&at_campaign=rss",
+    "time": "刚刚",
+    "published_iso": "2026-04-14T14:01:05+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
     "headline": "Oil falls as IEA predicts ‘demand destruction will spread’ and hopes for fresh Iran talks grow",
     "deck": "U.S. Vice President JD Vance said Monday that the next steps in U.S.-Iran peace efforts now depend on Tehran.",
     "cnTitle": "国际油价下跌，美伊和谈受关注",
@@ -9,9 +37,8 @@
     "url": "https://www.cnbc.com/2026/04/14/oil-wti-brent-as-markets-hormuz-blockade-vance-trump.html",
     "time": "刚刚",
     "published_iso": "2026-04-14T08:05:26+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n3",
+    "lead": false
   },
   {
     "headline": "European markets rise on hopes that Iran peace talks can resume",
@@ -23,8 +50,7 @@
     "url": "https://www.cnbc.com/2026/04/14/european-markets-stoxx-600-ftse-dax-iran-latest-oil-prices.html",
     "time": "刚刚",
     "published_iso": "2026-04-14T07:51:29+00:00",
-    "is_new": true,
-    "id": "n2",
+    "id": "n4",
     "lead": false
   },
   {
@@ -37,8 +63,7 @@
     "url": "https://www.cnbc.com/2026/04/13/stock-markets-today-live-updates.html",
     "time": "刚刚",
     "published_iso": "2026-04-14T07:47:23+00:00",
-    "is_new": true,
-    "id": "n3",
+    "id": "n5",
     "lead": false
   },
   {
@@ -51,8 +76,7 @@
     "url": "https://www.cnbc.com/2026/04/14/novo-nordisk-openai-ai-drug-discovery-healthcare-nvo.html",
     "time": "1小时前",
     "published_iso": "2026-04-14T07:11:18+00:00",
-    "is_new": true,
-    "id": "n4",
+    "id": "n6",
     "lead": false
   },
   {
@@ -65,8 +89,7 @@
     "url": "https://www.bbc.com/news/articles/cjr9qrnp821o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-04-14T06:57:52+00:00",
-    "is_new": true,
-    "id": "n5",
+    "id": "n7",
     "lead": false
   },
   {
@@ -79,8 +102,7 @@
     "url": "https://www.bbc.com/news/articles/cn788ymy5gno?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-04-14T05:19:43+00:00",
-    "is_new": true,
-    "id": "n6",
+    "id": "n8",
     "lead": false
   },
   {
@@ -93,8 +115,7 @@
     "url": "https://www.cnbc.com/2026/04/14/china-trade-data-march-exports-imports-march.html",
     "time": "3小时前",
     "published_iso": "2026-04-14T05:15:50+00:00",
-    "is_new": true,
-    "id": "n7",
+    "id": "n9",
     "lead": false
   },
   {
@@ -107,7 +128,7 @@
     "url": "https://www.bbc.com/news/articles/cq597n1pg6lo?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-04-14T01:05:54+00:00",
-    "id": "n8",
+    "id": "n10",
     "lead": false
   },
   {
@@ -120,8 +141,7 @@
     "url": "https://www.cnbc.com/2026/04/13/trump-jesus-truth-social-pope-leo.html",
     "time": "8小时前",
     "published_iso": "2026-04-14T00:21:50+00:00",
-    "is_new": true,
-    "id": "n9",
+    "id": "n11",
     "lead": false
   },
   {
@@ -134,8 +154,7 @@
     "url": "https://www.cnbc.com/2026/04/13/trump-vance-iran-hormuz-strait-blockade.html",
     "time": "8小时前",
     "published_iso": "2026-04-13T23:46:34+00:00",
-    "is_new": true,
-    "id": "n10",
+    "id": "n12",
     "lead": false
   },
   {
@@ -148,8 +167,7 @@
     "url": "https://www.bbc.com/news/articles/c20q4nv89yzo?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-04-13T23:35:56+00:00",
-    "is_new": true,
-    "id": "n11",
+    "id": "n13",
     "lead": false
   },
   {
@@ -162,8 +180,7 @@
     "url": "https://www.bbc.com/news/articles/cr51l794mlyo?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-04-13T23:26:46+00:00",
-    "is_new": true,
-    "id": "n12",
+    "id": "n14",
     "lead": false
   },
   {
@@ -176,8 +193,7 @@
     "url": "https://www.cnbc.com/2026/04/13/ai-smart-glasses-china-rokid-virtual-screen-meta-ray-ban-display.html",
     "time": "9小时前",
     "published_iso": "2026-04-13T23:00:01+00:00",
-    "is_new": true,
-    "id": "n13",
+    "id": "n15",
     "lead": false
   },
   {
@@ -190,8 +206,7 @@
     "url": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss",
     "time": "15小时前",
     "published_iso": "2026-04-13T16:37:57+00:00",
-    "is_new": true,
-    "id": "n14",
+    "id": "n16",
     "lead": false
   },
   {
@@ -204,7 +219,7 @@
     "url": "https://www.bbc.com/news/articles/cn08ep6d5ndo?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-04-13T16:25:08+00:00",
-    "id": "n15",
+    "id": "n17",
     "lead": false
   },
   {
@@ -217,7 +232,7 @@
     "url": "https://www.bbc.com/news/articles/c5yv6xr6me3o?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-04-13T16:07:13+00:00",
-    "id": "n16",
+    "id": "n18",
     "lead": false
   },
   {
@@ -230,8 +245,7 @@
     "url": "https://www.bbc.com/news/articles/cx2dg5g1le7o?at_medium=RSS&at_campaign=rss",
     "time": "17小时前",
     "published_iso": "2026-04-13T15:10:38+00:00",
-    "is_new": true,
-    "id": "n17",
+    "id": "n19",
     "lead": false
   },
   {
@@ -244,8 +258,7 @@
     "url": "https://www.bbc.com/news/articles/c87w5ld0p80o?at_medium=RSS&at_campaign=rss",
     "time": "17小时前",
     "published_iso": "2026-04-13T14:57:37+00:00",
-    "is_new": true,
-    "id": "n18",
+    "id": "n20",
     "lead": false
   },
   {
@@ -258,8 +271,7 @@
     "url": "https://www.bbc.com/news/articles/cn897e8280do?at_medium=RSS&at_campaign=rss",
     "time": "19小时前",
     "published_iso": "2026-04-13T12:56:34+00:00",
-    "is_new": true,
-    "id": "n19",
+    "id": "n21",
     "lead": false
   },
   {
@@ -272,8 +284,7 @@
     "url": "https://www.bbc.com/news/articles/cj94y9r0p10o?at_medium=RSS&at_campaign=rss",
     "time": "20小时前",
     "published_iso": "2026-04-13T12:19:13+00:00",
-    "is_new": true,
-    "id": "n20",
+    "id": "n22",
     "lead": false
   },
   {
@@ -286,8 +297,7 @@
     "url": "https://www.bbc.com/news/articles/c937jkvp3w8o?at_medium=RSS&at_campaign=rss",
     "time": "21小时前",
     "published_iso": "2026-04-13T11:18:33+00:00",
-    "is_new": true,
-    "id": "n21",
+    "id": "n23",
     "lead": false
   },
   {
@@ -300,7 +310,7 @@
     "url": "https://www.bbc.com/news/articles/cn781z4lgg4o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-04-13T03:06:49+00:00",
-    "id": "n22",
+    "id": "n24",
     "lead": false
   }
 ]
