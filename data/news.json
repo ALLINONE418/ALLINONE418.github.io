@@ -1,5 +1,33 @@
 [
   {
+    "headline": "Man faces attempted murder charges in attack on home of OpenAI's Sam Altman",
+    "deck": "The Texas man, who also faces federal felony charges, allegedly had documents advocating for violence against AI executives.",
+    "cnTitle": "奥特曼住宅遇袭，嫌犯被控谋杀未遂",
+    "cnDeck": "一名来自德克萨斯州的男子正面临一系列严峻的法律指控，其中包括谋杀未遂罪，这些指控与他涉嫌袭击OpenAI首席执行官萨姆·奥特曼（Sam Altman）的住宅有关。除了谋杀未遂罪名，该男子还面临多项联邦重罪指控，这表明此案的性质及其潜在影响已超越地方管辖范围，上升到联邦层面。据执法部门披露，嫌疑人被捕时持有文件，这些文件明确主张对人工智能（AI）行业的领导者和高管采取暴力行动。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cq597n1pg6lo?at_medium=RSS&at_campaign=rss",
+    "time": "2小时前",
+    "published_iso": "2026-04-14T01:05:54+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "US home buyers 'frozen' as sales slump over Iran war fears",
+    "deck": "The number of homes sold in the US hit a nine-month low, with economists warning of the slowdown could worsen.",
+    "cnTitle": "美国楼市销售低迷因伊朗战争担忧",
+    "cnDeck": "美国房地产市场正经历显著的销售下滑，最新数据显示，美国房屋销售数量已跌至近九个月来的最低点。经济学家普遍警告称，这一放缓趋势可能进一步恶化，对整体经济前景构成潜在威胁。此次销售低迷的一个主要驱动因素是市场对中东地区地缘政治紧张局势加剧的担忧，尤其是伊朗战争的潜在爆发，这使得购房者信心受到严重打击。购房者因地缘政治不确定性而选择观望，担心潜在的冲突将引发油价飙升、通货膨胀加剧以及全球经济衰退的风险。这种避险情绪导致许多潜在买家推迟了购房计划，使得原本就已经面临挑战的美国楼市雪上加霜。利率高企、住房可负担性下降以及库存紧张等问题，长期以来一直是压制美国房地产市场活力的因素。而现在，随着伊朗战争爆发的可能性成为市场关注的焦点，购房者的“冻结”状态愈发明显。分析人士指出，中东地区的任何军事冲突都可能迅速传导至全球经济，首先表现为能源价格的剧烈波动，进而推高物价水平，迫使各国央行可能采取更紧缩的货币政策以遏制通胀，这将进一步推高抵押贷款利率，使购房成本更高。此外，地缘政治风险的上升往往伴随着资本市场的震荡，消费者和投资者对未来收入和财富前景的不确定性增加，从而抑制大宗消费，如购房。当前的美国住房市场不仅面临需求疲软的困境，还受到供应短缺的制约。尽管销售量大幅下滑，但由于现有房主不愿在当前高利率环境下出售房屋并置换新房，导致市场上的可用房屋数量依然有限。这种供需两端的失衡，加剧了市场的复杂性。经济学家警告，如果地缘政治紧张局势未能缓解，或进一步升级，美国房地产市场将难以摆脱目前的低迷状态，甚至可能导致房价出现显著调整，从而对家庭财富和整体经济增长造成负面影响。政府和政策制定者正密切关注这一趋势，以评估其对未来经济政策的潜在影响。此次销售数据无疑给美国经济复苏的路径增添了更多不确定性。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cn08ep6d5ndo?at_medium=RSS&at_campaign=rss",
+    "time": "11小时前",
+    "published_iso": "2026-04-13T16:25:08+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
     "headline": "What is a naval blockade and how would it work in Strait of Hormuz?",
     "deck": "Donald Trump says that the US is blockading the Strait of Hormuz. What does this mean in practice?",
     "cnTitle": "特朗普称美国将封锁霍尔木兹海峡",
@@ -9,9 +37,8 @@
     "url": "https://www.bbc.com/news/articles/c5yv6xr6me3o?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-04-13T16:07:13+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n3",
+    "lead": false
   },
   {
     "headline": "Oil back above $100 as US to blockade Iranian ports after peace talks fail",
@@ -23,7 +50,7 @@
     "url": "https://www.bbc.com/news/articles/cn781z4lgg4o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-04-13T03:06:49+00:00",
-    "id": "n2",
+    "id": "n4",
     "lead": false
   },
   {
@@ -36,7 +63,7 @@
     "url": "https://www.bbc.com/news/articles/cdxdepjrv95o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-12T07:44:27+00:00",
-    "id": "n3",
+    "id": "n5",
     "lead": false
   },
   {
@@ -49,7 +76,7 @@
     "url": "https://www.bbc.com/news/articles/cddq5zqvvejo?at_medium=RSS&at_campaign=rss",
     "time": "21小时前",
     "published_iso": "2026-04-12T06:25:11+00:00",
-    "id": "n4",
+    "id": "n6",
     "lead": false
   },
   {
@@ -62,20 +89,7 @@
     "url": "https://www.bbc.com/news/articles/cj0vn30574no?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-04-12T04:20:37+00:00",
-    "id": "n5",
-    "lead": false
-  },
-  {
-    "headline": "Faisal Islam: Why the government is relaxed about Chinese car imports",
-    "deck": "The UK government believes the rise of China's car industry could be good for UK consumers and industry.",
-    "cnTitle": "英国政府对中国汽车进口持开放态度",
-    "cnDeck": "英国政府认为中国汽车产业的崛起对英国消费者和工业都有利。这一立场与一些西方国家日益加剧的保护主义情绪形成对比，后者担忧中国电动汽车的涌入可能对本土产业造成冲击。英国政府的乐观态度基于多重考量。首先，从消费者角度看，中国汽车，尤其是电动汽车，以其价格竞争力、技术先进性和多样化选择，将为英国消费者带来显著益处。市场竞争的加剧有望促使汽车价格下降，提高购车的可负担性，并加速电动汽车在英国的普及，从而助力英国实现其气候目标和净零排放承诺。其次，对于英国本土汽车工业而言，虽然短期内可能面临更大的竞争压力，但长期来看，这种竞争被视为一种刺激和激励。它将迫使英国汽车制造商加速创新，提升效率，并投资于新技术和生产流程，以保持其市场竞争力。此外，英国政府可能还看到了吸引中国汽车制造商在英国进行投资的潜力。随着中国品牌寻求拓展国际市场，英国作为重要的汽车市场和制造基地，有机会吸引中国企业设立研发中心、生产工厂或电池超级工厂，从而创造就业机会，带动当地经济增长，并融入全球电动汽车供应链。这种合作不仅能带来资本和技术，还能促进知识交流和技能提升。政府采取这种开放策略，也反映了其在复杂的全球贸易格局中寻求平衡的努力，旨在避免贸易摩擦，维护与主要贸易伙伴的关系，并确保英国消费者和产业能够从全球化带来的机遇中获益。这种务实的态度可能旨在最大化经济利益，并促进英国在未来移动出行领域的转型和发展。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cnv82v3n6yqo?at_medium=RSS&at_campaign=rss",
-    "time": "8小时前",
-    "published_iso": "2026-04-11T23:12:58+00:00",
-    "id": "n6",
+    "id": "n7",
     "lead": false
   }
 ]
