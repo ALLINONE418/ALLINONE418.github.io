@@ -1,5 +1,33 @@
 [
   {
+    "headline": "Booking.com customers warned of 'reservation hijacking' after hack",
+    "deck": "The travel platform said it had changed Pins to protect customers but would not say how many were affected.",
+    "cnTitle": "缤客平台遭黑客攻击 用户预订被劫持",
+    "cnDeck": "全球知名在线旅行预订平台Booking.com近日向其客户发出警告，称其客户面临被称为“预订劫持”的网络诈骗风险，此前平台遭受了黑客攻击。Booking.com表示，已采取保护客户的措施，包括更改了客户的预订识别码（Pins），但拒绝透露有多少客户受到了此次事件的影响。这种“预订劫持”通常是指网络犯罪分子通过各种手段获取了客户的酒店预订详细信息，然后冒充酒店工作人员",
+    "cat": "tech",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cly00jnnxypo?at_medium=RSS&at_campaign=rss",
+    "time": "2小时前",
+    "published_iso": "2026-04-15T12:05:58+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "Starbucks launches beta app in ChatGPT to fuel new drink discovery",
+    "deck": "Starbucks is trying to find ways to entice U.S. customers back to its cafes.",
+    "cnTitle": "星巴克联手ChatGPT推出新品发现应用",
+    "cnDeck": "星巴克（Starbucks）正在积极探索新的策略，以吸引美国消费者重返其咖啡门店，并增强其市场竞争力。作为这一战略的重要组成部分，这家全球知名的咖啡连锁巨头宣布推出一款集成到OpenAI旗下ChatGPT平台中的测试版应用程序。此举旨在利用先进的人工智能技术，彻底改变顾客发现新饮品的方式，并显著提升整体的门店消费体验。",
+    "cat": "finance",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/04/15/starbucks-launches-beta-app-in-chatgpt-to-fuel-new-drink-discovery.html",
+    "time": "2小时前",
+    "published_iso": "2026-04-15T12:00:05+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
     "headline": "Magyar meets Hungarian president as Trump says next PM 'a good man'",
     "deck": "The man who ended Viktor Orbán's 16 years of continuous rule, Péter Magyar, is calling for a speedy transfer of power.",
     "cnTitle": "匈牙利政坛震动 马扎尔会晤总统",
@@ -9,9 +37,8 @@
     "url": "https://www.bbc.com/news/articles/cx2ddd0xyl5o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-15T08:05:57+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n3",
+    "lead": false
   },
   {
     "headline": "250 missing after migrant boat sinks in Indian Ocean",
@@ -23,8 +50,7 @@
     "url": "https://www.bbc.com/news/articles/cz6778j78vlo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-15T07:52:40+00:00",
-    "is_new": true,
-    "id": "n2",
+    "id": "n4",
     "lead": false
   },
   {
@@ -37,8 +63,7 @@
     "url": "https://www.bbc.com/news/videos/c86eevyg121o?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-04-15T03:09:28+00:00",
-    "is_new": true,
-    "id": "n3",
+    "id": "n5",
     "lead": false
   },
   {
@@ -51,7 +76,7 @@
     "url": "https://www.bbc.com/news/articles/c20ddnz4w5lo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-15T02:58:25+00:00",
-    "id": "n4",
+    "id": "n6",
     "lead": false
   },
   {
@@ -64,8 +89,7 @@
     "url": "https://www.bbc.com/news/articles/cp8ddydl18vo?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-04-14T20:42:48+00:00",
-    "is_new": true,
-    "id": "n5",
+    "id": "n7",
     "lead": false
   },
   {
@@ -78,8 +102,7 @@
     "url": "https://www.bbc.com/news/articles/c78rr9r4e5po?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-04-14T20:30:57+00:00",
-    "is_new": true,
-    "id": "n6",
+    "id": "n8",
     "lead": false
   },
   {
@@ -92,8 +115,7 @@
     "url": "https://www.bbc.com/news/articles/clyjjr7kzj2o?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-04-14T20:25:49+00:00",
-    "is_new": true,
-    "id": "n7",
+    "id": "n9",
     "lead": false
   },
   {
@@ -106,7 +128,7 @@
     "url": "https://www.bbc.com/news/articles/c4g66p2q075o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-14T19:47:53+00:00",
-    "id": "n8",
+    "id": "n10",
     "lead": false
   },
   {
@@ -119,8 +141,7 @@
     "url": "https://www.bbc.com/news/articles/c393w38lv3mo?at_medium=RSS&at_campaign=rss",
     "time": "13小时前",
     "published_iso": "2026-04-14T18:57:51+00:00",
-    "is_new": true,
-    "id": "n9",
+    "id": "n11",
     "lead": false
   },
   {
@@ -133,7 +154,7 @@
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcG9USGVhelBNRzFyS01pMlhLSVZqc2pRcy00MUpuTzAzaHhaWk51TkdkUkFvZ2x3cG5BbDVIVXN4Z01HalJwRkJ3ZVBvMDlpZFliYnl4bElCRWtIVVJmMDd5clNjNHN4RV9xcVFfNkRWTzVnY0Y0QXdzdi1CM2JpZVFGUnBxQmxOUVhyaUdyUFlUT3JsTGtqcG91cUJQOHh0N1FOaG1Wb3ZZdE85NGNERzNUOA?oc=5",
     "time": "2小时前",
     "published_iso": "2026-04-14T18:01:47+00:00",
-    "id": "n10",
+    "id": "n12",
     "lead": false
   },
   {
@@ -146,7 +167,7 @@
     "url": "https://www.bbc.com/news/articles/c3v670qwz97o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-14T14:14:53+00:00",
-    "id": "n11",
+    "id": "n13",
     "lead": false
   },
   {
@@ -159,7 +180,7 @@
     "url": "https://www.bbc.com/news/articles/cn4vvxxg8lgo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-14T14:01:05+00:00",
-    "id": "n12",
+    "id": "n14",
     "lead": false
   },
   {
@@ -172,7 +193,7 @@
     "url": "https://www.cnbc.com/2026/04/14/oil-wti-brent-as-markets-hormuz-blockade-vance-trump.html",
     "time": "刚刚",
     "published_iso": "2026-04-14T08:05:26+00:00",
-    "id": "n13",
+    "id": "n15",
     "lead": false
   },
   {
@@ -185,7 +206,7 @@
     "url": "https://www.cnbc.com/2026/04/14/european-markets-stoxx-600-ftse-dax-iran-latest-oil-prices.html",
     "time": "刚刚",
     "published_iso": "2026-04-14T07:51:29+00:00",
-    "id": "n14",
+    "id": "n16",
     "lead": false
   },
   {
@@ -198,7 +219,7 @@
     "url": "https://www.cnbc.com/2026/04/13/stock-markets-today-live-updates.html",
     "time": "刚刚",
     "published_iso": "2026-04-14T07:47:23+00:00",
-    "id": "n15",
+    "id": "n17",
     "lead": false
   },
   {
@@ -211,7 +232,7 @@
     "url": "https://www.cnbc.com/2026/04/14/novo-nordisk-openai-ai-drug-discovery-healthcare-nvo.html",
     "time": "1小时前",
     "published_iso": "2026-04-14T07:11:18+00:00",
-    "id": "n16",
+    "id": "n18",
     "lead": false
   },
   {
@@ -224,7 +245,7 @@
     "url": "https://www.bbc.com/news/articles/cjr9qrnp821o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-04-14T06:57:52+00:00",
-    "id": "n17",
+    "id": "n19",
     "lead": false
   },
   {
@@ -237,7 +258,7 @@
     "url": "https://www.bbc.com/news/articles/cn788ymy5gno?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-04-14T05:19:43+00:00",
-    "id": "n18",
+    "id": "n20",
     "lead": false
   },
   {
@@ -250,7 +271,7 @@
     "url": "https://www.cnbc.com/2026/04/14/china-trade-data-march-exports-imports-march.html",
     "time": "3小时前",
     "published_iso": "2026-04-14T05:15:50+00:00",
-    "id": "n19",
+    "id": "n21",
     "lead": false
   },
   {
@@ -263,7 +284,7 @@
     "url": "https://www.bbc.com/news/articles/cq597n1pg6lo?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-04-14T01:05:54+00:00",
-    "id": "n20",
+    "id": "n22",
     "lead": false
   },
   {
@@ -276,7 +297,7 @@
     "url": "https://www.cnbc.com/2026/04/13/trump-jesus-truth-social-pope-leo.html",
     "time": "8小时前",
     "published_iso": "2026-04-14T00:21:50+00:00",
-    "id": "n21",
+    "id": "n23",
     "lead": false
   },
   {
@@ -289,7 +310,7 @@
     "url": "https://www.cnbc.com/2026/04/13/trump-vance-iran-hormuz-strait-blockade.html",
     "time": "8小时前",
     "published_iso": "2026-04-13T23:46:34+00:00",
-    "id": "n22",
+    "id": "n24",
     "lead": false
   },
   {
@@ -302,7 +323,7 @@
     "url": "https://www.bbc.com/news/articles/c20q4nv89yzo?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-04-13T23:35:56+00:00",
-    "id": "n23",
+    "id": "n25",
     "lead": false
   },
   {
@@ -315,7 +336,7 @@
     "url": "https://www.bbc.com/news/articles/cr51l794mlyo?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-04-13T23:26:46+00:00",
-    "id": "n24",
+    "id": "n26",
     "lead": false
   },
   {
@@ -328,7 +349,7 @@
     "url": "https://www.cnbc.com/2026/04/13/ai-smart-glasses-china-rokid-virtual-screen-meta-ray-ban-display.html",
     "time": "9小时前",
     "published_iso": "2026-04-13T23:00:01+00:00",
-    "id": "n25",
+    "id": "n27",
     "lead": false
   },
   {
@@ -341,7 +362,7 @@
     "url": "https://www.cnbc.com/2026/04/11/bond-market-private-credit-crisis-fixed-income-etfs.html",
     "time": "23小时前",
     "published_iso": "2026-04-13T21:02:22+00:00",
-    "id": "n26",
+    "id": "n28",
     "lead": false
   },
   {
@@ -354,8 +375,7 @@
     "url": "https://www.cnbc.com/2026/04/13/goldman-shares-fall-on-imperfect-quarterly-results-heres-our-advice-on-the-stock-from-here.html",
     "time": "1天前",
     "published_iso": "2026-04-13T18:19:36+00:00",
-    "is_new": true,
-    "id": "n27",
+    "id": "n29",
     "lead": false
   },
   {
@@ -368,7 +388,7 @@
     "url": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss",
     "time": "15小时前",
     "published_iso": "2026-04-13T16:37:57+00:00",
-    "id": "n28",
+    "id": "n30",
     "lead": false
   },
   {
@@ -381,7 +401,7 @@
     "url": "https://www.bbc.com/news/articles/cn08ep6d5ndo?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-04-13T16:25:08+00:00",
-    "id": "n29",
+    "id": "n31",
     "lead": false
   },
   {
@@ -394,7 +414,7 @@
     "url": "https://www.bbc.com/news/articles/c5yv6xr6me3o?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-04-13T16:07:13+00:00",
-    "id": "n30",
+    "id": "n32",
     "lead": false
   },
   {
@@ -407,7 +427,7 @@
     "url": "https://www.bbc.com/news/articles/cx2dg5g1le7o?at_medium=RSS&at_campaign=rss",
     "time": "17小时前",
     "published_iso": "2026-04-13T15:10:38+00:00",
-    "id": "n31",
+    "id": "n33",
     "lead": false
   },
   {
@@ -420,46 +440,7 @@
     "url": "https://www.bbc.com/news/articles/c87w5ld0p80o?at_medium=RSS&at_campaign=rss",
     "time": "17小时前",
     "published_iso": "2026-04-13T14:57:37+00:00",
-    "id": "n32",
-    "lead": false
-  },
-  {
-    "headline": "EasyJet passengers describe EU border 'nightmare'",
-    "deck": "Airlines warn of further disruption due to the introduction of a new EU digital border control system.",
-    "cnTitle": "欧盟数字边境系统引航空业警告",
-    "cnDeck": "易捷航空（EasyJet）的乘客近日纷纷报告称，他们在欧盟边境遭遇了“噩梦”般的经历。这些负面描述主要指向了欧盟即将或已经引入的一项新的数字化边境管制系统。根据相关报道，这项系统旨在加强欧盟外部边境的安全，通过数字化手段记录非欧盟公民的入境和出境信息，包括生物识别数据。然而，各航空公司，包括易捷航空在内，已经就该系统的引入可能带来的进一步混乱发出了严正警告。航空公司普遍担忧，新的数字化系统在实际操作中可能导致乘客办理入境手续的时间大幅延长。这不仅会造成机场出现大规模排队现象，还会影响航班的准点率，甚至可能导致部分",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cn897e8280do?at_medium=RSS&at_campaign=rss",
-    "time": "19小时前",
-    "published_iso": "2026-04-13T12:56:34+00:00",
-    "id": "n33",
-    "lead": false
-  },
-  {
-    "headline": "Roblox defends expanded age‑checks after parents raise concerns over errors",
-    "deck": "With 144m daily users, the gaming company is extending its tech to introduce two age‑specific accounts.",
-    "cnTitle": "Roblox回应家长质疑年龄验证系统",
-    "cnDeck": "Roblox作为全球领先的在线游戏和创作平台，日活跃用户数量高达1.44亿，其近期推出的、旨在加强用户年龄验证的扩展技术，引发了广泛关注和争议。该公司正在推进其技术，计划引入两种特定年龄段的用户账户，以期为不同年龄层的玩家构建更加安全、适宜的数字环境。然而，这项新举措在实施过程中，遭遇了部分家长和用户提出的强烈质疑，核心问题集中在年龄验证系统的准确性及其在实际操作中出现的错误",
-    "cat": "tech",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cj94y9r0p10o?at_medium=RSS&at_campaign=rss",
-    "time": "20小时前",
-    "published_iso": "2026-04-13T12:19:13+00:00",
     "id": "n34",
-    "lead": false
-  },
-  {
-    "headline": "UK could adopt EU single market rules under new legislation",
-    "deck": "The move has raised questions over parliamentary scrutiny of future rules to deliver planned EU deals.",
-    "cnTitle": "英国或采纳欧盟单一市场规则",
-    "cnDeck": "英国可能通过新立法采纳欧盟单一市场规则，这一举动标志着英国脱欧后与欧盟关系的一个潜在重大转变。此前，英国一直致力于脱离欧盟监管框架，以实现“夺回控制权”的目标。然而，采纳欧盟单一市场规则，即使是部分采纳，也意味着在某些领域或为达成特定贸易协议，英国可能采取更接近欧盟监管体系的立场。此举对英国的主权和经济未来具有深远影响。采纳欧盟单一市场规则有助于减少监管壁垒和贸易摩擦，从而促进与欧盟的贸易，这对于英国经济，特别是那些高度依赖与欧盟贸易的行业来说，可能是一个积极因素。但与此同时，它也引发了关于英国立法自主权程度的问题。批评者可能会认为，这代表着英国逐步重新融入欧盟监管体系，从而削弱了脱欧所承诺的完全立法独立性。这可能在英国国内引发激烈的政治辩论，尤其是来自支持“硬脱欧”的政治派别的反对。新闻还指出，“此举引发了对未来欧盟协议相关规则的议会审查问题的担忧”。这指向了英国民主问责制中的一个关键问题。如果新立法允许采纳欧盟单一市场规则，尤其是在“计划中的欧盟协议”背景下，英国议会在审查、辩论和批准这些规则方面的作用将受到关注。议会审查是民主治理的基本组成部分，旨在确保立法和国际协议得到民选代表的充分辩论和批准。担忧在于，这一过程可能绕过或限制全面的议会监督，导致在缺乏足够民主投入的情况下做出决策。这种担忧在英国尤其突出，考虑到脱欧过程中曾出现过允许部长在未经充分议会辩论的情况下修改法律的“亨利八世权力”的争议。这一潜在的立法变革可能由多种因素驱动，包括希望缓解与欧盟的贸易摩擦、满足特定部门需求或履行正在进行中的未来协议谈判中所作的承诺。例如，在北爱尔兰问题上，《议定书》已经要求一定程度与欧盟规则保持一致。将这种做法扩展到更广泛的英国经济，即使是选择性的，也将是重大的政策转变。这项发展预示着英国与其最大贸易伙伴关系的潜在重新校准，无疑将成为国内政治辩论和国际关注的焦点。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c937jkvp3w8o?at_medium=RSS&at_campaign=rss",
-    "time": "21小时前",
-    "published_iso": "2026-04-13T11:18:33+00:00",
-    "id": "n35",
     "lead": false
   }
 ]
