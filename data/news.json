@@ -9,7 +9,6 @@
     "url": "https://www.bbc.com/news/articles/c4gxjpekk19o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-04-16T07:08:52+00:00",
-    "is_new": true,
     "id": "n1",
     "lead": true
   },
@@ -36,7 +35,6 @@
     "url": "https://www.bbc.com/news/articles/clyddyp19yyo?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-04-15T22:56:29+00:00",
-    "is_new": true,
     "id": "n3",
     "lead": false
   },
@@ -76,7 +74,6 @@
     "url": "https://www.bbc.com/news/articles/cdxdd0z2w11o?at_medium=RSS&at_campaign=rss",
     "time": "17小时前",
     "published_iso": "2026-04-15T15:15:13+00:00",
-    "is_new": true,
     "id": "n6",
     "lead": false
   },
@@ -247,32 +244,6 @@
     "time": "2小时前",
     "published_iso": "2026-04-14T18:01:47+00:00",
     "id": "n19",
-    "lead": false
-  },
-  {
-    "headline": "UK faces biggest hit to growth from Iran war of major economies, IMF says",
-    "deck": "The financial body cuts its growth forecast for the UK and warns the war threatens to throw the global economy \"off course\".",
-    "cnTitle": "伊朗战争将严重冲击英国经济",
-    "cnDeck": "国际货币基金组织（IMF）近日发出严厉警告，指出在全球主要经济体中，英国将因伊朗战争面临最大的经济增长冲击。该金融机构不仅大幅下调了对英国的经济增长预测，并警示这场潜在的战争冲突可能导致全球经济“偏离轨道”，使其现有复苏进程面临严峻挑战。IMF在报告中详细阐述了英国的脆弱性。英国经济对全球贸易和能源市场高度依赖，一旦伊朗战争爆发，全球油价将可能飙升",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c3v670qwz97o?at_medium=RSS&at_campaign=rss",
-    "time": "刚刚",
-    "published_iso": "2026-04-14T14:14:53+00:00",
-    "id": "n20",
-    "lead": false
-  },
-  {
-    "headline": "Hamas rejects Gaza disarmament plan, Palestinian official says",
-    "deck": "The official tells the BBC that the armed group will not move forward with talks until Israel fully complies with its commitments.",
-    "cnTitle": "哈马斯拒绝解除加沙地带武装协议",
-    "cnDeck": "一位巴勒斯坦官员向英国广播公司（BBC）透露，巴勒斯坦伊斯兰抵抗运动（哈马斯）已明确拒绝了任何关于加沙地带解除武装的计划。该官员强调，哈马斯武装组织在以色列完全遵守其承诺之前，不会推进任何进一步的停火或和平谈判。哈马斯的这一立场无疑给旨在结束加沙冲突、实现地区稳定的国际调解努力蒙上了一层阴影。以色列方面一直坚持，任何结束加沙冲突的协议都必须包括哈马斯的解除武装，并确保其不再对以色列构成威胁。以色列总理本雅明·内塔尼亚胡及其内阁成员曾多次表示，彻底摧毁哈马斯的军事和治理能力是以色列军事行动的首要目标。然而，哈马斯则认为，解除武装等同于投降，并可能使其在与以色列的未来谈判中失去筹码，也无法有效保护加沙地带的巴勒斯坦民众。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cn4vvxxg8lgo?at_medium=RSS&at_campaign=rss",
-    "time": "刚刚",
-    "published_iso": "2026-04-14T14:01:05+00:00",
-    "id": "n21",
     "lead": false
   }
 ]
