@@ -1,5 +1,33 @@
 [
   {
+    "headline": "Oil prices plunge as Iran says Strait of Hormuz 'open' during ceasefire",
+    "deck": "Brent crude sinks by a tenth after Iran says the key waterway is open for commercial ships for the rest of the ceasefire.",
+    "cnTitle": "霍尔木兹海峡开放，布伦特原油大跌",
+    "cnDeck": "国际原油市场在周三经历了剧烈波动，基准的布伦特原油期货价格急剧下跌了近十分之一，跌幅达到约10%。这一显著的市场反应，紧随伊朗方面发表的一项重要声明之后。伊朗表示，连接波斯湾和阿曼湾的战略要道——霍尔木兹海峡，在当前的停火期间将对所有商业船只保持开放。这一消息迅速缓解了全球市场对原油供应可能",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/ckg045z73z1o?at_medium=RSS&at_campaign=rss",
+    "time": "1小时前",
+    "published_iso": "2026-04-17T18:32:21+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "Finance ministers and top bankers raise serious concerns about Mythos AI model",
+    "deck": "Experts say Mythos potentially has an unprecedented ability to identify and exploit cyber-security weaknesses.",
+    "cnTitle": "财长行长担忧AI模型网络安全风险",
+    "cnDeck": "全球多国财政部长和顶级银行家们日前对名为“Mythos”的人工智能模型表达了严重关切。据专家指出，Mythos模型潜在地拥有前所未有的能力，能够识别并利用网络安全漏洞，这在全球金融系统稳定性和完整性方面引发了广泛担忧。这些高级别金融官员和银行领导人齐聚一堂，共同探讨了人工智能技术飞速发展可能带来的新风险，尤其是像Mythos这样具有强大网络攻击潜力的AI模型对关键金融基础设施构成的威胁。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c2ev24yx4rmo?at_medium=RSS&at_campaign=rss",
+    "time": "9小时前",
+    "published_iso": "2026-04-17T10:22:46+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
     "headline": "Trump's Lebanon ceasefire takes Israel by surprise",
     "deck": "Few Israelis see this truce as a way out of the conflict with Hezbollah, the BBC's Lucy Williamson writes.",
     "cnTitle": "特朗普促成黎巴嫩停火令以色列意外",
@@ -9,8 +37,8 @@
     "url": "https://www.bbc.com/news/articles/cje4pn575jgo?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-04-16T22:55:59+00:00",
-    "id": "n1",
-    "lead": true
+    "id": "n3",
+    "lead": false
   },
   {
     "headline": "Netflix co-founder Reed Hastings to step down as chairman",
@@ -22,7 +50,7 @@
     "url": "https://www.bbc.com/news/articles/cvglzn9e82eo?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-04-16T21:59:56+00:00",
-    "id": "n2",
+    "id": "n4",
     "lead": false
   },
   {
@@ -35,7 +63,7 @@
     "url": "https://www.bbc.com/news/articles/czjw2kz0l22o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-16T19:19:07+00:00",
-    "id": "n3",
+    "id": "n5",
     "lead": false
   },
   {
@@ -48,7 +76,7 @@
     "url": "https://www.bbc.com/news/articles/c5y97jjnqzyo?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-04-16T17:05:32+00:00",
-    "id": "n4",
+    "id": "n6",
     "lead": false
   },
   {
@@ -61,7 +89,7 @@
     "url": "https://www.bbc.com/news/articles/crl11ynjyn1o?at_medium=RSS&at_campaign=rss",
     "time": "23小时前",
     "published_iso": "2026-04-16T09:20:36+00:00",
-    "id": "n5",
+    "id": "n7",
     "lead": false
   },
   {
@@ -74,7 +102,7 @@
     "url": "https://www.bbc.com/news/articles/c4gxjpekk19o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-04-16T07:08:52+00:00",
-    "id": "n6",
+    "id": "n8",
     "lead": false
   },
   {
@@ -87,7 +115,7 @@
     "url": "https://www.bbc.com/news/articles/c5yxev9v4nyo?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-04-16T04:27:49+00:00",
-    "id": "n7",
+    "id": "n9",
     "lead": false
   },
   {
@@ -100,7 +128,7 @@
     "url": "https://www.bbc.com/news/articles/cj40pdw79z9o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-04-16T03:45:29+00:00",
-    "id": "n8",
+    "id": "n10",
     "lead": false
   },
   {
@@ -113,7 +141,7 @@
     "url": "https://www.bbc.com/news/articles/c98mrepzgj7o?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-04-16T01:58:56+00:00",
-    "id": "n9",
+    "id": "n11",
     "lead": false
   },
   {
@@ -126,45 +154,20 @@
     "url": "https://www.bbc.com/news/articles/clyddyp19yyo?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-04-15T22:56:29+00:00",
-    "id": "n10",
-    "lead": false
-  },
-  {
-    "headline": "US war on Iran was a 'mistake', says Reeves",
-    "deck": "The chancellor's criticism follows a report that the conflict will hit the UK harder than other big economies.",
-    "cnTitle": "美伊战争打击英国经济",
-    "cnDeck": "英国影子财政大臣（或财政大臣，具体取决于新闻发布时间）里夫斯（Reeves）近日公开表示，美国对伊朗采取的行动，即她所称的“美国对伊朗的战争”，是一个“错误”。她的这一批评是基于一份最新报告的发现，该报告详细阐述并预测，这场地缘政治冲突将对英国经济造成比其他主要经济体更为严重的冲击。里夫斯的言论不仅是对过去地缘政治决策的直接评价，也突显了她",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cr5110n2l3mo?at_medium=RSS&at_campaign=rss",
-    "time": "刚刚",
-    "published_iso": "2026-04-15T18:58:18+00:00",
-    "id": "n11",
-    "lead": false
-  },
-  {
-    "headline": "Trump threatens to fire Fed chair Powell if he doesn't leave in May",
-    "deck": "Donald Trump's threat marks the latest escalation in his ongoing spat with Jerome Powell.",
-    "cnTitle": "特朗普威胁解雇美联储主席鲍威尔",
-    "cnDeck": "前美国总统、共和党主要总统候选人唐纳德·特朗普再次将矛头指向现任美联储主席杰罗姆·鲍威尔，威胁称如果鲍威尔不在今年5月前辞职，他将在自己再次当选总统后将其解雇。这一表态标志着特朗普与鲍威尔之间长期不和的最新升级。自2018年特朗普提名鲍威尔担任美联储主席以来，两人关系多次出现紧张。在特朗普担任总统期间，他曾多次公开批评鲍威尔及其领导下的美联储的货币政策，尤其是对加息政策表达强烈不满，认为高利率损害了美国经济增长。特朗普曾多次呼吁美联储降息，甚至在任期内探讨过解除鲍威尔职务的可能性，但最终未能实现，因为美联储主席的任期具有独立性，通常不会因政治压力而被轻易撤换。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c9qddrdd8w2o?at_medium=RSS&at_campaign=rss",
-    "time": "1小时前",
-    "published_iso": "2026-04-15T18:29:50+00:00",
     "id": "n12",
     "lead": false
   },
   {
-    "headline": "Snapchat owner cuts 1,000 jobs as says AI will reduce repetitive work",
-    "deck": "The Snapchat owner is laying off around 16% of staff and withdrawn hundreds of open job roles.",
-    "cnTitle": "Snapchat母公司裁员千人称AI将减重复工作",
-    "cnDeck": "Snapchat母公司Snap Inc.宣布进行大规模裁员，将削减大约16%的员工，涉及约1,000个职位，并撤回了数百个空缺招聘岗位。此举正值科技行业普遍面临经济压力和战略调整之际，Snap Inc.此番裁员意在通过精简运营，以应对日益激烈的市场竞争。公司方面明确表示，裁员的主要原因之一是人工智能（AI）技术的快速发展和应用将大幅减少",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cdxdd0z2w11o?at_medium=RSS&at_campaign=rss",
-    "time": "17小时前",
-    "published_iso": "2026-04-15T15:15:13+00:00",
+    "headline": "Google-Linked Data Centers Selling Record $5.7 Billion Junk Bond - Bloomberg.com",
+    "deck": "Google-Linked Data Centers Selling Record $5.7 Billion Junk Bond&nbsp;&nbsp;Bloomberg.com",
+    "cnTitle": "谷歌关联数据中心发行57亿美元垃圾债",
+    "cnDeck": "谷歌关联的数据中心正在出售创纪录的57亿美元垃圾债券，这标志着一个重要的全球金融市场动态和科技巨头融资策略的体现。此举由与科技巨头谷歌有联系的数据中心实体发起，旨在通过高收益债券市场筹集巨额资金。垃圾债券，又称高收益债券，通常由信用评级较低的公司发行，以提供高于投资级债券的收益率来吸引投资者，以弥补其较高的信用风险。57亿美元的发行规模被描述为“创纪录”，这表明了市场对数据中心基础设施建设的旺盛需求，以及投资者对该领域增长前景的信心，尽管其伴随着更高的风险。数据中心是现代数字经济的基石，支撑着云计算、人工智能、流媒体和各种在线服务。随着全球对数据处理和存储需求的爆炸式增长，数据中心的建设和扩展需要巨大的资本投入。谷歌作为全球领先的科技公司之一，其关联的数据中心业务扩张速度惊人，需要大量的资金支持。通过发行垃圾债券，这些实体能够在传统银行贷款或股权融资之外，开辟一条新的融资渠道，利用资本市场满足其快速增长的资金需求。这次债券发行事件凸显了几个关键趋势：首先，它反映了科技巨头及其生态系统在应对庞大资本支出时的多样化融资策略。即使是与财务实力雄厚的谷歌相关的实体，也可能寻求通过发行高收益债券来优化其资本结构，或为特定的、可能具有更高风险回报特征的项目融资。其次，57亿美元的“创纪录”规模，表明了高收益债券市场对数据中心行业的强劲胃口。投资者愿意承担更高的风险，以换取与数据中心快速扩张相关的潜在高回报。这可能预示着数据中心行业未来在高收益债券市场进行更多融资活动的趋势。第三，这一事件也可能对全球金融市场产生影响。如此大规模的垃圾债券发行，可以测试市场对风险资产的承受能力，并可能影响其他高收益债券的定价。它也反映了在当前利率环境下，投资者对收益率的追求，即使这意味着承担更高的信用风险。分析人士指出，尽管垃圾债券具有更高的风险，但与谷歌的关联可能会为这些数据中心实体提供一定的信用背书，从而降低投资者的担忧。然而，投资者仍需仔细评估这些数据中心的具体财务状况和运营前景，以判断57亿美元投资的合理性。此举也可能促使其他科技公司和数据中心运营商重新审视其融资策略，以利用当前的市场条件。总之，这笔创纪录的垃圾债券发行不仅是谷歌关联数据中心的一次重大融资举动，也是观察全球金融市场动态、科技基础设施投资趋势以及企业融资策略演变的一个重要窗口。",
+    "cat": "finance",
+    "source": "Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORnF0YWFJV3hJd0pwQ19fZW15aG40bnNpOE1abFVBYjYzTXlmbWtWdzZmSDhjRWliNGZYb1ZQS04yNUhBbmN6M25wbE9sZDFqZGo0VmFzMlc3dVFlZXpWNnFxbl9OUk9vczZkcWFmZUEwSVNubWFFQU84Z245c21mYVF4cUNhSG95TlVhQWVIejRlVlZlMWk0UzhOZmU1LWlYX3dwQnV1cFpPTjFHTjkyTWM3bS03UWRTYWtoTXlHRDlLVTNvQjR3NjdNc0NIUUU?oc=5",
+    "time": "1天前",
+    "published_iso": "2026-04-15T20:32:32+00:00",
+    "is_new": true,
     "id": "n13",
     "lead": false
   }
