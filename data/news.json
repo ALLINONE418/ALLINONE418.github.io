@@ -154,57 +154,5 @@
     "published_iso": "2026-04-17T23:16:33+00:00",
     "id": "n12",
     "lead": false
-  },
-  {
-    "headline": "Tinder and Zoom offer 'proof of humanity' eye-scans to combat AI",
-    "deck": "The tech aims to identify people's irises and stop the rise of fake accounts and malicious scams.",
-    "cnTitle": "Tinder和Zoom推眼部扫描对抗AI",
-    "cnDeck": "随着人工智能（AI）技术的飞速发展，数字平台面临着前所未有的挑战，尤其是在识别真实人类用户和打击由AI驱动的虚假账户及恶意诈骗方面。为了应对这一日益严峻的威胁，知名约会应用Tinder和视频会议巨头Zoom正在探索并计划推出一项创新性的“人类证明”技术，该技术主要通过对用户进行眼部扫描来验证其身份。这项尖端技术的核心目标是识别和认证用户的虹膜模式。虹膜是人眼内部的彩色环状结构，其纹理模式极其复杂且独一无二，被认为是目前最可靠的生物识别特征之一。通过捕捉和分析这些独特的虹膜数据，Tinder和Zoom旨在建立一个更加安全、可信的用户验证系统。这一举措旨在有效遏制AI生成内容、深度伪造（deepfakes）以及自动化机器人（bots）在平台上泛滥，这些AI工具被广泛用于创建虚假个人资料、进行欺诈性互动甚至传播虚假信息，严重损害了平台的用户体验和安全性。对于Tinder而言，作为全球领先的在线约会平台，虚假账户和冒充行为一直是其面临的巨大挑战。诈骗者利用AI技术创建逼真的虚假个人资料，诱骗用户进行金钱交易、个人信息泄露，甚至进行情感诈骗。通过引入虹膜扫描验证，Tinder希望能够大幅提高用户身份的真实性，减少平台上的欺诈行为，为用户提供一个更安全、更值得信赖的社交环境。用户在注册或进行特定操作时，可能需要通过摄像头进行眼部扫描，系统将比对虹膜数据以确认其为真实人类，而非AI程序或通过技术手段伪装的实体。同样，Zoom作为全球疫情期间迅速崛起的视频会议服务提供商，其平台也面临着滥用和安全问题。虚假账户可能被用于进行网络钓鱼、骚扰会议参与者、甚至渗透企业内部会议获取敏感信息。通过集成眼部扫描验证，Zoom可以确保参与会议的用户是经过真实身份验证的人类，从而提升会议的安全性、保护用户隐私和企业数据。例如，在进行高度敏感的会议或账户登录时，可能会要求用户完成虹膜验证，以防止未经授权的AI程序或恶意行为者入侵。这项技术的推出反映了科技行业对AI滥用问题日益增长的担忧以及积极寻求解决方案的决心。随着AI技术的普及和门槛降低，生成高度逼真的人脸、声音和文本变得越来越容易，这使得传统的身份验证方法（如密码、短信验证码）面临严峻考验。生物识别技术，尤其是虹膜识别，因其高精度和唯一性而备受关注。然而，引入此类技术也伴随着对用户隐私和数据安全的讨论。Tinder和Zoom将需要确保用户数据的加密存储和严格保护，同时平衡便利性与安全性，以赢得用户的信任和支持。这一趋势预示着未来数字平台可能会普遍采用更先进的生物识别技术来对抗AI带来的挑战，确保线上互动环境的真实性和安全性。",
-    "cat": "tech",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cp9vppem4evo?at_medium=RSS&at_campaign=rss",
-    "time": "8小时前",
-    "published_iso": "2026-04-17T19:05:43+00:00",
-    "id": "n13",
-    "lead": false
-  },
-  {
-    "headline": "Oil prices plunge as Iran says Strait of Hormuz 'open' during ceasefire",
-    "deck": "Brent crude sinks by a tenth after Iran says the key waterway is open for commercial ships for the rest of the ceasefire.",
-    "cnTitle": "霍尔木兹海峡开放，布伦特原油大跌",
-    "cnDeck": "国际原油市场在周三经历了剧烈波动，基准的布伦特原油期货价格急剧下跌了近十分之一，跌幅达到约10%。这一显著的市场反应，紧随伊朗方面发表的一项重要声明之后。伊朗表示，连接波斯湾和阿曼湾的战略要道——霍尔木兹海峡，在当前的停火期间将对所有商业船只保持开放。这一消息迅速缓解了全球市场对原油供应可能",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/ckg045z73z1o?at_medium=RSS&at_campaign=rss",
-    "time": "1小时前",
-    "published_iso": "2026-04-17T18:32:21+00:00",
-    "id": "n14",
-    "lead": false
-  },
-  {
-    "headline": "AI minister Kendall says she doesn't use AI at work",
-    "deck": "The Science, Innovation and Technology Secretary this week unveiled a £500m fund to boost British AI firms.",
-    "cnTitle": "英国AI大臣宣布5亿英镑AI基金",
-    "cnDeck": "英国科学、创新和技术大臣肯德尔（Kendall）本周正式宣布，启动一项总额高达5亿英镑的专项基金，旨在全面扶持和加速英国本土人工智能（AI）企业的发展。这项雄心勃勃的投资计划，清晰地勾勒出英国政府在全球AI技术竞赛中占据领先地位的决心，并致力于将英国打造成为国际公认的AI创新高地。肯德尔大臣在对外公布该基金的详细内容时特别强调，英国在AI领域不仅拥有深厚的科研基础和世界顶尖的人才储备，更具备将前沿创新转化为实际经济效益的巨大潜力。她指出，通过这项战略性投入，政府将为英国的AI初创企业提供关键的资金支持和发展资源，帮助它们加速核心技术研发、拓展国内外市场份额、吸引更多的私人风险投资，并最终将突破性的AI创新转化为可持续的经济增长和高质量的就业机会。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cd0rmzjd720o?at_medium=RSS&at_campaign=rss",
-    "time": "14小时前",
-    "published_iso": "2026-04-17T17:08:16+00:00",
-    "id": "n15",
-    "lead": false
-  },
-  {
-    "headline": "Ceasefire with Israel brings respite to Lebanon, but obstacles to peace remain",
-    "deck": "The halt to weeks of fighting is being celebrated in Lebanon, but it will be difficult to ensure it lasts.",
-    "cnTitle": "以黎停火带来喘息 和平之路仍漫长",
-    "cnDeck": "最近几周，以色列与黎巴嫩边境地区的冲突持续升级，造成了严重的人道主义危机和物质破坏。经过数周的激烈战斗，双方终于达成停火协议，为饱受战火蹂躏的黎巴嫩带来了暂时的喘息。在黎巴嫩，民众对停火协议的达成普遍表示欢迎和庆贺。首都贝鲁特以及南部边境受影响的城镇居民纷纷走上街头，庆祝这一期待已久的平静时刻。许多因冲突而流离失所的家庭也得以返回家园，开始评估损失并试图重建生活。停火的到来无疑为当地居民提供了一个喘息的机会，让他们得以暂时摆脱炮火的威胁，重拾一丝久违的正常生活。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/crm10w4ynj1o?at_medium=RSS&at_campaign=rss",
-    "time": "17小时前",
-    "published_iso": "2026-04-17T14:31:51+00:00",
-    "id": "n16",
-    "lead": false
   }
 ]
