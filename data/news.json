@@ -9,7 +9,6 @@
     "url": "https://www.bbc.com/news/articles/cy91r7ww3weo?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-04-19T05:12:40+00:00",
-    "is_new": true,
     "id": "n1",
     "lead": true
   },
@@ -23,7 +22,6 @@
     "url": "https://www.bbc.com/news/articles/cvg4mrm2vm0o?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-04-19T03:14:45+00:00",
-    "is_new": true,
     "id": "n2",
     "lead": false
   },
@@ -37,7 +35,6 @@
     "url": "https://www.bbc.com/news/articles/cp86r29l45go?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-04-18T21:27:56+00:00",
-    "is_new": true,
     "id": "n3",
     "lead": false
   },
@@ -64,7 +61,6 @@
     "url": "https://www.bbc.com/news/articles/c4g40npz37lo?at_medium=RSS&at_campaign=rss",
     "time": "13小时前",
     "published_iso": "2026-04-18T18:21:19+00:00",
-    "is_new": true,
     "id": "n5",
     "lead": false
   },
@@ -91,7 +87,6 @@
     "url": "https://www.bbc.com/news/videos/cly90z9g5q3o?at_medium=RSS&at_campaign=rss",
     "time": "20小时前",
     "published_iso": "2026-04-18T11:47:11+00:00",
-    "is_new": true,
     "id": "n7",
     "lead": false
   },
@@ -105,7 +100,6 @@
     "url": "https://www.bbc.com/news/articles/cp84rye3lg8o?at_medium=RSS&at_campaign=rss",
     "time": "22小时前",
     "published_iso": "2026-04-18T09:18:16+00:00",
-    "is_new": true,
     "id": "n8",
     "lead": false
   },
@@ -211,71 +205,6 @@
     "time": "17小时前",
     "published_iso": "2026-04-17T14:31:51+00:00",
     "id": "n16",
-    "lead": false
-  },
-  {
-    "headline": "What is Claude Mythos and what risks does it pose?",
-    "deck": "The company's claim the AI tool can outperform humans at some hacking and cyber-security tasks has sparked fears in the financial world.",
-    "cnTitle": "Claude Mythos AI引发金融界网络安全担忧",
-    "cnDeck": "一家人工智能公司近日宣称，其名为“Claude Mythos”的AI工具在某些黑客攻击和网络安全任务中能够超越人类，这一声明在全球金融界引发了广泛的担忧。该公司声称，Claude Mythos不仅能够以前所未有的速度和精度识别复杂的系统漏洞，还能自动化生成并执行高效率的攻击脚本，甚至在进行渗透测试时展现出超越人类专家的表现。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/crk1py1jgzko?at_medium=RSS&at_campaign=rss",
-    "time": "18小时前",
-    "published_iso": "2026-04-17T13:41:01+00:00",
-    "id": "n17",
-    "lead": false
-  },
-  {
-    "headline": "Palestinians hand over suspect in 1982 attack on Jewish restaurant in Paris",
-    "deck": "Hicham Harb is suspected of directing the attack in the Rue des Rosiers and acting as one of the gunmen who shot at diners.",
-    "cnTitle": "巴勒斯坦移交巴黎恐袭嫌犯",
-    "cnDeck": "巴勒斯坦当局已向法国移交一名涉嫌参与1982年巴黎犹太餐厅恐怖袭击的关键嫌犯——希查姆·哈尔布（Hicham Harb）。哈尔布被怀疑是当年发生在巴黎圣罗齐尔街（Rue des Rosiers）的约·戈登伯格（Jo Goldenberg）餐厅袭击事件的策划者之一，并且是开枪射击食客的枪手之一。这起发生在1982年8月9日的恐怖袭击是法国历史上最臭名昭著的事件之一。当天，数名武装分子向位于巴黎犹太区中心的约·戈登伯格餐厅投掷手榴弹，并使用冲锋枪向店内外的顾客扫射。袭击导致6人死亡，其中包括两名美国人、两名法国人、一名希腊人和一名以色列人，另有22人受伤。这起事件在当时引起了国际社会的极大震惊和愤慨。法国司法部门长期以来一直致力于追捕这起袭击的责任人。多年来，调查人员将袭击主要归咎于巴勒斯坦激进组织阿布·尼达尔组织（Abu Nidal Organization，简称ANO）。ANO是一个从法塔赫（Fatah）中分裂出来的极端派别，被多个国家列为恐怖组织。法国于上世纪80年代末和90年代初针对数名嫌疑人发出了国际逮捕令，但进展缓慢。希查姆·哈尔布是法国调查人员锁定的主要嫌犯之一。除了哈尔布，其他被指控涉案的嫌疑人还包括马哈茂德·哈德尔·阿贝德（Mahmoud Khader Abed，又名“哈贾吉”Hajaj）、尼扎尔·陶菲克·穆萨·哈马达（Nizar Tawfiq Mussa Hamada，又名“伊萨”Issa）和苏海尔·穆罕默德·哈桑·纳达（Souhair Mouhamed Hassan Nada，又名“阿明”Amin）。这些嫌疑人据信在袭击后逃往中东地区，使得法国的引渡努力面临巨大障碍。此次巴勒斯坦当局移交哈尔布，标志着这起长达数十年的案件取得了重大突破。此前，法国已通过国际刑警组织（Interpol）红色通缉令等方式在全球范围内寻求抓捕这些嫌疑人。移交过程的具体细节尚未完全披露，但这一举动无疑是国际合作打击恐怖主义、伸张正义的重要体现。对于受害者及其家属而言，此次移交带来了迟来的正义曙光。法国司法部长和外交部对此事件表示欢迎，并重申法国将不遗余力地追捕所有恐怖袭击的实施者和幕后主使，无论时间长短。哈尔布被移交后，预计将在法国面临审判，这对于揭示1982年袭击的完整真相及其背后的国际网络至关重要。此案的最新进展也再次提醒国际社会，恐怖主义的威胁依然存在，而跨境合作是应对这一全球性挑战的关键。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cj94pkyr9mpo?at_medium=RSS&at_campaign=rss",
-    "time": "19小时前",
-    "published_iso": "2026-04-17T12:42:06+00:00",
-    "id": "n18",
-    "lead": false
-  },
-  {
-    "headline": "UK petrol and diesel prices fall after weeks of rises",
-    "deck": "Drivers have seen weeks of increases as the US-Israeli war with Iran pushed up wholesale oil prices.",
-    "cnTitle": "美以伊冲突致全球油价波动",
-    "cnDeck": "近期，中东地区的地缘政治紧张局势显著升级，特别是在美国、以色列与伊朗之间的军事和外交对抗持续发酵。这一复杂且高度敏感的冲突，其潜在的蔓延风险对全球原油市场产生了深远影响。此前数周，受制于中东地区供应中断的担忧以及主要航运线路可能受到干扰的预期，国际原油批发价格经历了一轮显著上涨。例如，布伦特原油和西德克萨斯中质原油（WTI）期货价格均在短期内飙升，一度接近或突破重要阻力位。分析人士普遍认为，这种价格上涨主要源于投资者对供应风险溢价的重估，而非简单的供需基本面变化。当前，虽然中东局势依旧复杂，但市场对短期内供应遭遇大规模中断的担忧有所缓解，或者说，市场已经部分消化了现有的地缘政治风险。在此背景下，全球原油批发价格近期出现回落，从而带动了英国汽油和柴油零售价格在连续数周上涨后开始下降。对于英国消费者而言，汽油和柴油价格的下跌无疑是一个利好消息，有助于缓解生活成本压力。然而，这一下跌并不意味着地缘政治风险的彻底消除，而是市场在不断评估和重新定价风险。国际能源署（IEA）和石油输出国组织及其盟友（OPEC+）等机构持续关注中东局势对全球能源市场的影响，并密切监测原油生产、出口以及全球库存水平的变化。若冲突进一步升级，或涉及关键产油区和运输通道，原油价格仍有再次飙升的可能。反之，若外交努力取得进展，或冲突降级，则油价可能进一步回落。原油价格的波动对全球经济具有广泛影响，它不仅直接影响交通运输和工业生产成本，还会通过通胀渠道影响央行的货币政策决策。许多国家央行在评估是否调整利率时，都会将能源价格作为重要的考量因素。因此，中东地缘政治的任何风吹草动，都将持续牵动全球能源市场的神经和宏观经济的走向。投资者和政策制定者需保持高度警惕，以应对可能出现的能源市场不确定性。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cx2w17pq7v0o?at_medium=RSS&at_campaign=rss",
-    "time": "20小时前",
-    "published_iso": "2026-04-17T11:42:41+00:00",
-    "id": "n19",
-    "lead": false
-  },
-  {
-    "headline": "If a violent downturn strikes the market, new ETF strategies may be vulnerable. Here's why",
-    "deck": "Innovation in the exchange-traded fund industry could come at a cost to investors during extreme volatility.",
-    "cnTitle": "新型ETF策略面临市场下行风险",
-    "cnDeck": "新型交易型开放式指数基金（ETF）策略的兴起，伴随着金融市场创新浪潮，为投资者提供了更为多元化和复杂的投资工具。然而，行业专家和分析人士近期发出警告，指出在面对未来可能出现的市场剧烈下行或极端波动时，这些创新型ETF策略可能暴露出其脆弱性，进而给投资者带来意想不到的损失。近年来，ETF市场持续扩张，产品类型日益丰富，从传统的追踪宽基指数的ETF，发展到专注于特定主题（如人工智能、清洁能源等）、运用杠杆或反向机制、甚至包含复杂衍生品策略的主动管理型ETF。这些新产品旨在提供更精细化的投资机会或对冲工具。然而，它们的复杂性也意味着更高的潜在风险。在市场平静或趋势性上涨的环境中，这些创新型ETF策略可能表现良好，吸引大量资金流入。但一旦市场遭遇“暴力式”下跌或极端波动，其底层机制和运作方式可能面临严峻考验。例如，杠杆ETF和反向ETF通过每日重新平衡来达到其目标倍数或反向回报，但在持续的单边下跌或剧烈震荡市场中，它们的复合回报可能与投资者预期产生显著偏差，甚至出现“损耗”效应，即即使市场反弹，投资者也难以完全弥补损失。此外，一些创新型ETF可能投资于流动性较低的市场或资产，或者其策略依赖于复杂的量化模型和衍生品。在市场承压时，这些资产的买卖价差可能急剧扩大，导致基金难以以公平价格进行交易，从而影响其净值表现和追踪准确性。套利机制，即确保ETF价格与净值保持一致的关键机制，也可能在极端压力下失效或效率降低，导致ETF出现大幅溢价或折价，进一步损害投资者利益。行业内普遍担忧，许多新型ETF策略在历史上的牛市环境中未经充分测试，其在真实熊市或“黑天鹅”事件中的表现仍是未知数。一些产品可能存在透明度不足的问题，投资者对其内部运作和风险敞口缺乏清晰理解。当市场恐慌情绪蔓延时，缺乏流动性和透明度的创新型ETF可能会加剧市场波动，引发抛售潮，形成恶性循环。因此，投资者在配置这些创新型ETF时，需要对其潜在风险有清醒的认识，包括但不限于：复杂策略的不可预测性、流动性风险、跟踪误差风险、以及在极端市场条件下的放大损失效应。金融监管机构也可能需要密切关注这类产品的研发和发行，评估其对金融系统稳定性的潜在影响，并确保投资者能够充分了解其所面临的风险。这份警示提醒市场参与者，创新固然能带来机遇，但在追求高收益的同时，也不应忽视潜在的巨大风险。",
-    "cat": "finance",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/04/17/violent-downturns-could-test-new-etf-strategies-warns-mfs-investment.html",
-    "time": "1天前",
-    "published_iso": "2026-04-17T11:00:01+00:00",
-    "id": "n20",
-    "lead": false
-  },
-  {
-    "headline": "Finance ministers and top bankers raise serious concerns about Mythos AI model",
-    "deck": "Experts say Mythos potentially has an unprecedented ability to identify and exploit cyber-security weaknesses.",
-    "cnTitle": "财长行长担忧AI模型网络安全风险",
-    "cnDeck": "全球多国财政部长和顶级银行家们日前对名为“Mythos”的人工智能模型表达了严重关切。据专家指出，Mythos模型潜在地拥有前所未有的能力，能够识别并利用网络安全漏洞，这在全球金融系统稳定性和完整性方面引发了广泛担忧。这些高级别金融官员和银行领导人齐聚一堂，共同探讨了人工智能技术飞速发展可能带来的新风险，尤其是像Mythos这样具有强大网络攻击潜力的AI模型对关键金融基础设施构成的威胁。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c2ev24yx4rmo?at_medium=RSS&at_campaign=rss",
-    "time": "9小时前",
-    "published_iso": "2026-04-17T10:22:46+00:00",
-    "id": "n21",
     "lead": false
   }
 ]
