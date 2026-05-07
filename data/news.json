@@ -13,6 +13,20 @@
     "lead": true
   },
   {
+    "headline": "$19bn order boosts Belfast Airbus factory",
+    "deck": "Malaysian airline Air Asia places an order for 120 Airbus A220s, the wings of which are made in Belfast.",
+    "cnTitle": "空客获马来西亚航空190亿美元大单",
+    "cnDeck": "马来西亚航空公司亚洲航空（Air Asia）宣布与欧洲航空巨头空中客车公司（Airbus）达成一项重大交易，确认订购120架空客A220飞机。根据行业标准估算，这笔订单的总价值高达190亿美元。此次大宗采购对空中客车公司及其全球供应链具有深远意义，特别是对位于北爱尔兰贝尔法斯特（Belfast）的空中客车工厂而言，该工厂是A220飞机机翼的关键制造基地。这笔巨额订单将为贝尔法斯特工厂带来显著的生产提振和就业保障。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c7597dnele2o?at_medium=RSS&at_campaign=rss",
+    "time": "14小时前",
+    "published_iso": "2026-05-07T06:05:25+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
     "headline": "SoftBank shares surge over 16% as Japan tech-fueled rally lifts Nikkei 225 to record highs",
     "deck": "The benchmark Nikkei 225 surged over 5% to a record high as Japan reopened after extended Golden Week holidays.",
     "cnTitle": "软银领涨日经指数创历史新高",
@@ -22,7 +36,7 @@
     "url": "https://www.cnbc.com/2026/05/07/japan-softbank-tech-shares-nikkei-to-record-high.html",
     "time": "1小时前",
     "published_iso": "2026-05-07T03:25:42+00:00",
-    "id": "n2",
+    "id": "n3",
     "lead": false
   },
   {
@@ -35,7 +49,7 @@
     "url": "https://www.bbc.com/news/articles/cx214rnlpn7o?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-05-06T23:52:48+00:00",
-    "id": "n3",
+    "id": "n4",
     "lead": false
   },
   {
@@ -48,7 +62,7 @@
     "url": "https://www.bbc.com/news/articles/c0k257g8jk5o?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-05-06T23:06:17+00:00",
-    "id": "n4",
+    "id": "n5",
     "lead": false
   },
   {
@@ -61,7 +75,7 @@
     "url": "https://www.bbc.com/news/articles/cx21k21vnmgo?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-05-06T23:02:06+00:00",
-    "id": "n5",
+    "id": "n6",
     "lead": false
   },
   {
@@ -74,7 +88,7 @@
     "url": "https://www.bbc.com/news/articles/c9wepldnl7po?at_medium=RSS&at_campaign=rss",
     "time": "16小时前",
     "published_iso": "2026-05-06T16:35:39+00:00",
-    "id": "n6",
+    "id": "n7",
     "lead": false
   },
   {
@@ -87,7 +101,7 @@
     "url": "https://www.cnbc.com/2026/05/06/wegovy-glp1-weight-loss-novo-nordisk-earnings-stock-nvo-ozempic.html",
     "time": "17小时前",
     "published_iso": "2026-05-06T15:59:41+00:00",
-    "id": "n7",
+    "id": "n8",
     "lead": false
   },
   {
@@ -100,7 +114,7 @@
     "url": "https://www.bbc.com/news/articles/cyv24v3mpdmo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-06T14:40:13+00:00",
-    "id": "n8",
+    "id": "n9",
     "lead": false
   },
   {
@@ -113,7 +127,7 @@
     "url": "https://www.cnbc.com/2026/05/05/amd-q1-2026-earnings-report.html",
     "time": "19小时前",
     "published_iso": "2026-05-06T14:11:37+00:00",
-    "id": "n9",
+    "id": "n10",
     "lead": false
   },
   {
@@ -126,7 +140,7 @@
     "url": "https://www.bbc.com/news/articles/c9d35v126vyo?at_medium=RSS&at_campaign=rss",
     "time": "21小时前",
     "published_iso": "2026-05-06T11:59:44+00:00",
-    "id": "n10",
+    "id": "n11",
     "lead": false
   },
   {
@@ -139,7 +153,7 @@
     "url": "https://www.bbc.com/news/articles/cjrp8e0rjpeo?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-05-06T08:43:47+00:00",
-    "id": "n11",
+    "id": "n12",
     "lead": false
   },
   {
@@ -152,7 +166,7 @@
     "url": "https://www.bbc.com/news/articles/cn7pg8ymgezo?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-05-06T07:10:16+00:00",
-    "id": "n12",
+    "id": "n13",
     "lead": false
   },
   {
@@ -165,7 +179,7 @@
     "url": "https://www.bbc.com/news/articles/c893xj41zwdo?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-05-06T04:53:31+00:00",
-    "id": "n13",
+    "id": "n14",
     "lead": false
   },
   {
@@ -178,7 +192,7 @@
     "url": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-05-06T03:05:16+00:00",
-    "id": "n14",
+    "id": "n15",
     "lead": false
   },
   {
@@ -191,7 +205,7 @@
     "url": "https://www.bbc.com/news/articles/c0j2nydnzy7o?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-05-06T00:15:14+00:00",
-    "id": "n15",
+    "id": "n16",
     "lead": false
   },
   {
@@ -204,46 +218,7 @@
     "url": "https://www.bbc.com/news/articles/cgjp2we2j8go?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-05-05T20:16:24+00:00",
-    "id": "n16",
-    "lead": false
-  },
-  {
-    "headline": "DuPont is ripping higher after an impressive beat and raise — here's our next move",
-    "deck": "Shares jumped over 9% Tuesday as the market rewards DuPont for its better-than-expected results.",
-    "cnTitle": "杜邦股价大涨9% 因业绩超预期",
-    "cnDeck": "杜邦公司（DuPont）的股价在周二交易中实现大幅上涨，涨幅超过9%，这主要归因于该公司近期公布的季度业绩表现超出市场普遍预期，并上调了其全年业绩展望。这一积极的市场反应显示出投资者对杜邦公司未来增长前景的信心增强。根据市场分析师的报告，杜邦此次的“超预期表现”（beat）体现在其核心业务部门的营收和调整后每股收益均高于此前华尔街分析师的共识预测。尽管新闻原文未提供具体的财务数据，但此类“超预期”通常意味着公司在营收、利润率、现金流或特定产品销量等方面取得了显著进展。例如，公司可能报告了特定高增长业务领域的强劲表现，或通过有效的成本控制措施提升了盈利能力。此外，“上调展望”（raise）意味着管理层基于当前的运营态势和市场环境，对未来的财务表现持有更为乐观的预期，并因此提高了对全年营收、调整后每股收益或自由现金流等关键指标的预测。这种上调通常会向市场传递出公司基本面稳健、增长势头良好的强烈信号。杜邦作为一家全球知名的多元化化学品和特种材料公司，其业绩表现往往被视为宏观经济健康状况，特别是工业和制造业领域景气度的风向标之一。此次业绩的强劲表现及其股价的积极反应，可能也反映出全球工业需求正在企稳回升，或者杜邦自身在产品创新、市场份额拓展方面取得了突破。市场通常会奖励那些能够持续超出预期并提供积极指引的公司，因为这预示着更高的投资回报和更低的不确定性。杜邦股价的飙升，不仅为持有其股票的投资者带来了丰厚回报，也可能对整个化学品和材料行业的板块情绪产生积极影响，提振投资者对该领域其他公司的信心。分析师普遍认为，杜邦在当前具有挑战性的全球经济环境中实现如此亮眼的业绩，彰显了其强大的运营韧性和战略执行力。投资者将密切关注杜邦管理层在接下来的财报电话会议中对宏观经济前景、细分市场趋势以及公司未来战略的进一步阐释。此次股价的跳涨，无疑为杜邦在资本市场赢得了一个积极的开局，并为其在未来几个季度的表现奠定了坚实基础。",
-    "cat": "finance",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/05/05/dupont-is-ripping-higher-after-an-impressive-beat-heres-our-next-move.html",
-    "time": "22小时前",
-    "published_iso": "2026-05-05T17:32:30+00:00",
     "id": "n17",
-    "lead": false
-  },
-  {
-    "headline": "UK long-term borrowing costs reach 28-year high",
-    "deck": "There have been extra jitters in UK government debt markets ahead of Thursday's local and national elections.",
-    "cnTitle": "英国长期借贷成本创28年新高",
-    "cnDeck": "英国长期借贷成本近期飙升至28年来的最高水平，这一动态引发了市场对英国经济和财政状况的广泛担忧。在周四即将举行的英国地方和全国大选之前，英国政府债券市场出现了额外的紧张情绪，投资者对未来政策方向和财政可持续性抱有不确定性。长期借贷成本的显著上升通常反映了投资者对政府偿债能力的担忧，或者预期通胀将持续高企，导致货币政策紧缩。此次达到28年高点，意味着英国政府在未来发行长期债券时将不得不支付更高的利息，这将直接增加政府的借贷成本，进一步挤压公共财政空间。这可能导致政府在公共服务、基础设施建设等方面的支出面临更大压力，或需要在未来考虑增税措施以平衡预算。当前市场之所以出现“额外紧张情绪”（extra jitters），很大程度上与即将",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c936qn69016o?at_medium=RSS&at_campaign=rss",
-    "time": "11小时前",
-    "published_iso": "2026-05-05T16:30:23+00:00",
-    "id": "n18",
-    "lead": false
-  },
-  {
-    "headline": "Nissan to close UK line and cut 900 European jobs",
-    "deck": "Nissan says it is considering working with a third party to fully utilise its Sunderland plant.",
-    "cnTitle": "Nissan关闭英国生产线裁员900人",
-    "cnDeck": "Nissan宣布将关闭其在英国的一条生产线并裁减900个欧洲职位。该公司表示，正在考虑与第三方合作，以充分利用其位于英国桑德兰的工厂。桑德兰工厂是Nissan在欧洲最大的生产基地之一，承担着多款车型，包括Leaf电动车、Qashqai和Juke的生产任务。此次生产线关闭和裁员是Nissan正在进行的全球业务重组计划的一部分，旨在应对当前汽车市场的挑战，包括向电动汽车转型的巨大投入、供应链问题以及全球经济放缓。该公司此前已宣布了“Nissan NEXT”转型计划，旨在优化产能、提高盈利能力并专注于核心市场。此次在欧洲范围内的裁员将影响到包括英国在内的多个欧洲国家的员工，涉及生产、研发和行政等多个部门。Nissan强调，将与受影响的员工进行协商，并提供必要的支持和补偿方案。这一决定反映了全球汽车行业面临的结构性调整压力，许多大型制造商都在重新评估其全球生产足迹和劳动力结构，以适应电动化、自动化和共享出行的新趋势。分析人士指出，尽管电动汽车需求不断增长，但向电动化转型的成本高昂，加上原材料价格波动和市场竞争加剧，使得传统汽车制造商面临巨大压力，需要通过削减成本和优化效率来保持竞争力。此次Nissan的举动可能引发对欧洲汽车制造业就业前景的担忧，并促使相关政府和工会寻求对策，以支持受影响的地区和员工。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cdep9g8dp36o?at_medium=RSS&at_campaign=rss",
-    "time": "1天前",
-    "published_iso": "2026-05-05T15:39:32+00:00",
-    "id": "n19",
     "lead": false
   }
 ]
