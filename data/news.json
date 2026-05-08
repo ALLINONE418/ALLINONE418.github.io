@@ -1,5 +1,103 @@
 [
   {
+    "headline": "Two Islamic-State linked Australian women charged with crimes against humanity",
+    "deck": "A third woman who also returned to Australia from Syria was charged with joining a terrorist organisation.",
+    "cnTitle": "澳大利亚两IS相关女性被控反人类罪",
+    "cnDeck": "澳大利亚当局近日宣布，已对两名与极端组织“伊斯兰国”(Islamic State，简称IS)有关联的澳大利亚女性提出“反人类罪”指控，这标志着澳大利亚在处理从叙利亚冲突地区返回的公民问题上迈出了重要一步。根据报道，这两名女性被指控的罪行性质极其严重，涉及对平民的系统性攻击或广泛侵害，这通常包括谋杀、灭绝、奴役、驱逐、监禁、酷刑、性暴力、迫害以及其他不人道行为，这些都是国际法下最为严重的罪行。与此同时，第三名同样从叙利亚返回澳大利亚的女性也面临指控，其罪名是“加入恐怖组织”。这表明澳大利亚司法系统正在积极追究那些曾参与或支持恐怖活动的公民的法律责任。这些女性的回归一直给澳大利亚政府带来严峻的挑战，如何在维护国家安全的同时，兼顾人道主义关切和国际法律义务，是许多国家面临的共同难题。“伊斯兰国”作为一个恐怖组织，曾一度在中东地区占据大量领土，并以其残暴统治和极端意识形态闻名于世。数千名来自世界各地的外国人，包括一些澳大利亚公民，曾前往叙利亚和伊拉克加入该组织或在其控制区生活。随着“伊斯兰国”的军事溃败和其“哈里发国”的瓦解，大量外国战斗人员及其家属被困在叙利亚东北部的难民营中，或被库尔德武装拘押。澳大利亚政府对此类返回人员的态度一直非常谨慎。一方面，有国家安全部门担心这些个体可能已被激进化，回国后构成恐怖主义威胁；另一方面，也有人权组织呼吁关注这些女性及其子女的人道状况，尤其是一些儿童是在战区出生或被迫与父母一同前往的。对这些女性提出指控，尤其是“反人类罪”这一高度严重的罪名，反映出澳大利亚政府决心通过法律手段，追究那些被认为犯下严重国际罪行的公民。“反人类罪”的指控需要联邦检察官提供确凿证据，证明被告在“伊斯兰国”的框架下，参与或知晓了针对平民的广泛或系统性攻击。这类案件通常复杂且耗时，因为证据往往需要从冲突地区收集，并符合澳大利亚的法律标准。而“加入恐怖组织”的指控，则可能侧重于证明被告主动且明知地成为一个被政府列为恐怖组织的成员。这些指控的提出，不仅向那些可能仍在海外或计划回国的“伊斯兰国”关联人员发出了明确信号，也向国际社会展示了澳大利亚在打击恐怖主义和追究国际罪行方面的决心。此案的结果将可能在澳大利亚乃至全球范围内，为如何处理类似情况树立先例。它也再次凸显了极端主义意识形态对个人和社会的深远影响，以及国际社会在应对恐怖主义威胁方面的持续努力。此事件无疑将在澳大利亚国内引发广泛关注和讨论，涉及到国家安全、法律公正、公民权利以及反恐策略等多个层面。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cdrpx8pl36vo?at_medium=RSS&at_campaign=rss",
+    "time": "刚刚",
+    "published_iso": "2026-05-08T04:02:53+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "Oil prices rise after US and Iran exchange fire in Hormuz strait",
+    "deck": "The flare-up further endangers the US-Iran ceasefire, which Trump extended indefinitely on 21 April.",
+    "cnTitle": "美伊霍尔木兹海峡交火推升油价",
+    "cnDeck": "美国和伊朗军队在战略要地霍尔木兹海峡发生了交火，这一事件立即在全球原油市场引起剧烈震荡，国际油价应声上涨。根据初步报告，此次交火发生在海峡的敏感水域，涉及双方的舰艇。虽然具体细节仍在核实中，但此次对抗迅速升级了地区紧张局势，加剧了市场对中东石油供应稳定的担忧。霍尔木兹海峡是全球最重要的石油运输要道之一，全球约五分之一的原油和液化天然气通过此地运输，任何在该地区的军事冲突都可能对全球能源供应产生灾难性影响。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c86dp85g59xo?at_medium=RSS&at_campaign=rss",
+    "time": "1小时前",
+    "published_iso": "2026-05-08T02:23:03+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
+    "headline": "Instagram privacy tech is turned off today- what does this mean for your DMs?",
+    "deck": "The platform said it would remove end-to-end encrypted messages, a major U‑turn by parent company Meta.",
+    "cnTitle": "Meta旗下Instagram取消加密消息",
+    "cnDeck": "Instagram今日宣布将关闭其平台上的端到端加密消息功能，此举标志着其母公司Meta政策上的一次重大U型转弯。这一决定意味着用户在Instagram上发送的私信（DMs）将不再享受端到端加密保护。此前，端到端加密技术被广泛认为是保障用户通信隐私的黄金标准，它确保只有发送方和接收方能够阅读消息内容，即使是服务提供商也无法访问。Meta此前一直致力于在其旗下各平台推广端到端加密，包括WhatsApp已全面采用，并逐步在Messenger和Instagram中引入，以增强用户对其数据安全的信心。因此，此次突然移除Instagram私信的端到端加密功能，无疑对公司的隐私承诺构成了挑战，并引发了用户对个人数据安全的担忧。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/clypzxl3lvqo?at_medium=RSS&at_campaign=rss",
+    "time": "2小时前",
+    "published_iso": "2026-05-08T01:31:55+00:00",
+    "is_new": true,
+    "id": "n3",
+    "lead": false
+  },
+  {
+    "headline": "Trump gives EU ultimatum deadline to approve trade deal with US",
+    "deck": "Trump's deadline to the European Union came as a trade court ruled his global tariff policy violated US law.",
+    "cnTitle": "特朗普要求欧盟限期批准贸易协议",
+    "cnDeck": "美国前总统唐纳德·特朗普向欧盟发出了最后通牒，要求其在特定期限内批准与美国的贸易协议。这一要求正值美国一贸易法院裁定特朗普政府此前推行的全球关税政策违反了美国法律。此举不仅再次凸显了特朗普在全球贸易和国际关系中的强硬立场，也为未来的跨大西洋经济关系蒙上了一层不确定性。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cp3pyk4nw3lo?at_medium=RSS&at_campaign=rss",
+    "time": "5小时前",
+    "published_iso": "2026-05-07T23:11:35+00:00",
+    "is_new": true,
+    "id": "n4",
+    "lead": false
+  },
+  {
+    "headline": "How sunburn inspired a new way to store energy",
+    "deck": "Molecules that can capture heat could be a useful technology to decarbonise heating.",
+    "cnTitle": "晒伤启发新型分子储能技术",
+    "cnDeck": "近期，科学家们在研究皮肤晒伤过程中发现的分子机制时，获得灵感，开发出一种全新的储能方式。这项创新技术的核心在于利用特殊的分子来捕获和储存热能。据悉，这种分子能够在受到能量（例如阳光或废热）激发时发生可逆的化学结构变化，从而将热能以化学键的形式储存起来，并在需要时通过逆反应释放热能。与传统的热能储存方法相比，这种基于分子结构变化的储能方式具有能量密度高、储存时间长、热能损失小等显著优势。研究人员指出，晒伤现象中，皮肤细胞应对紫外线损伤的复杂生物化学过程，为他们设计和优化这些储热分子提供了宝贵的线索和仿生学原理。通过模拟自然界中高效的能量转换与储存机制，科学家们成功合成了能在室温下稳定储存热能，并在特定触发条件下高效释放热能的化合物。这项技术的潜在应用范围极其广泛，特别是在实现供暖系统脱碳方面，展现出巨大的前景。目前，全球各国都在积极寻求摆脱对化石燃料的依赖，以应对气候变化和实现碳中和目标。传统的供暖方式，无论是燃气锅炉还是电加热，都存在效率不高或碳排放量大的问题。而这种新型分子储热技术，有望成为解决这一挑战的关键。它能够将太阳能、工业废热等间歇性或低品位热能高效捕获并储存起来，然后在建筑物供暖、热水供应甚至工业生产需要时，按需释放出来，从而显著降低对传统能源的需求和碳排放。专家预测，如果该技术能成功实现商业化应用，将对全球能源结构产生深远影响，加速全球供暖系统的清洁化进程，为构建可持续发展的低碳社会提供重要的技术支撑。未来的研究将聚焦于提高这些分子的循环寿命、降低制造成本以及大规模集成应用，以期尽快将这项颠覆性技术推向市场。",
+    "cat": "tech",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c62l9gnx775o?at_medium=RSS&at_campaign=rss",
+    "time": "5小时前",
+    "published_iso": "2026-05-07T23:03:04+00:00",
+    "is_new": true,
+    "id": "n5",
+    "lead": false
+  },
+  {
+    "headline": "Ryan Cohen's mysterious bank letter backing GameStop's eBay bid reveals a big issue with deal",
+    "deck": "The combined company would need to maintain an investment-grade credit profile, GameStop's mysterious financing letter said.",
+    "cnTitle": "GameStop收购eBay面临融资难题",
+    "cnDeck": "据一份备受关注的银行融资信函披露，由Ryan Cohen领导的GameStop公司在考虑竞购电商巨头eBay的交易中，面临一项重大的财务挑战。这份此前被描述为“神秘”的信函，详细阐述了潜在合并交易的关键融资条件之一，即合并后的实体必须维持“投资级信用评级”。这一要求被认为是GameStop完成对eBay收购交易的一大障碍。Ryan Cohen作为GameStop的董事长，自上任以来一直致力于推动公司转型，从传统的实体游戏零售商向数字和电子商务领域迈进。此次传闻中对eBay的竞购，被视为其实现这一战略目标的重要一步，旨在通过整合eBay成熟的在线市场和技术基础设施，显著提升GameStop在数字经济中的竞争力。",
+    "cat": "tech",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/05/07/ryan-cohens-mysterious-bank-letter-backing-his-ebay-bid-reveals-a-big-issue.html",
+    "time": "11小时前",
+    "published_iso": "2026-05-07T16:55:23+00:00",
+    "is_new": true,
+    "id": "n6",
+    "lead": false
+  },
+  {
+    "headline": "Meta brings High Court challenge over Ofcom fees",
+    "deck": "Meta said Ofcom's calculations were \"disproportionate\"; the regulator said it would defend its position.",
+    "cnTitle": "Meta因监管费用起诉英国通信管理局",
+    "cnDeck": "Meta这家全球科技巨头已就英国通信管理局（Ofcom）征收的费用提起了高等法院诉讼。Meta明确表示，Ofcom的这些费用计算方式“不成比例”，这表明其对监管机构征收费用的基础和规模存在根本性分歧。Ofcom在回应Meta的法律行动时则坚称，将坚决在法庭上捍卫其立场，这预示着这家全球最大的科技公司之一与一个关键国家监管机构之间可能会展开一场旷日持久的",
+    "cat": "tech",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cj0pqpgvvn2o?at_medium=RSS&at_campaign=rss",
+    "time": "11小时前",
+    "published_iso": "2026-05-07T16:30:55+00:00",
+    "is_new": true,
+    "id": "n7",
+    "lead": false
+  },
+  {
     "headline": "Shell latest oil giant to see profits surge due to Iran war impact",
     "deck": "The energy giant's profits jump by nearly a quarter as it benefits from the recent volatility in the oil price",
     "cnTitle": "伊朗冲突推动壳牌利润激增",
@@ -9,8 +107,8 @@
     "url": "https://www.bbc.com/news/articles/ce3p0x54drwo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-07T09:04:24+00:00",
-    "id": "n1",
-    "lead": true
+    "id": "n8",
+    "lead": false
   },
   {
     "headline": "$19bn order boosts Belfast Airbus factory",
@@ -22,8 +120,7 @@
     "url": "https://www.bbc.com/news/articles/c7597dnele2o?at_medium=RSS&at_campaign=rss",
     "time": "14小时前",
     "published_iso": "2026-05-07T06:05:25+00:00",
-    "is_new": true,
-    "id": "n2",
+    "id": "n9",
     "lead": false
   },
   {
@@ -36,7 +133,7 @@
     "url": "https://www.cnbc.com/2026/05/07/japan-softbank-tech-shares-nikkei-to-record-high.html",
     "time": "1小时前",
     "published_iso": "2026-05-07T03:25:42+00:00",
-    "id": "n3",
+    "id": "n10",
     "lead": false
   },
   {
@@ -49,7 +146,7 @@
     "url": "https://www.bbc.com/news/articles/cx214rnlpn7o?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-05-06T23:52:48+00:00",
-    "id": "n4",
+    "id": "n11",
     "lead": false
   },
   {
@@ -62,7 +159,7 @@
     "url": "https://www.bbc.com/news/articles/c0k257g8jk5o?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-05-06T23:06:17+00:00",
-    "id": "n5",
+    "id": "n12",
     "lead": false
   },
   {
@@ -75,7 +172,21 @@
     "url": "https://www.bbc.com/news/articles/cx21k21vnmgo?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-05-06T23:02:06+00:00",
-    "id": "n6",
+    "id": "n13",
+    "lead": false
+  },
+  {
+    "headline": "AMD's Su explains what's behind massive forecast change as stock roars 19% on earnings",
+    "deck": "CEO Lisa Su highlighted the growing demand for central processing units, doubling her long-term forecast after strong first-quarter earnings.",
+    "cnTitle": "AMD苏姿丰上调预测，股价暴涨19%",
+    "cnDeck": "Advanced Micro Devices (AMD) 首席执行官丽莎·苏（Lisa Su）在公司发布了强劲的第一季度财报后，对其长期业务前景做出了显著上调，此举立即引发了市场热烈反响，AMD股价在当日交易中飙升了19%。苏姿丰博士特别强调了市场对中央处理器（CPU）日益增长的需求是公司未来增长的关键驱动力，并在此基础上将其长期预测翻了一番，这一表态极大地提",
+    "cat": "finance",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/05/06/amd-lisa-su-stock-forecast-earnings.html",
+    "time": "1天前",
+    "published_iso": "2026-05-06T20:01:17+00:00",
+    "is_new": true,
+    "id": "n14",
     "lead": false
   },
   {
@@ -88,7 +199,7 @@
     "url": "https://www.bbc.com/news/articles/c9wepldnl7po?at_medium=RSS&at_campaign=rss",
     "time": "16小时前",
     "published_iso": "2026-05-06T16:35:39+00:00",
-    "id": "n7",
+    "id": "n15",
     "lead": false
   },
   {
@@ -101,7 +212,7 @@
     "url": "https://www.cnbc.com/2026/05/06/wegovy-glp1-weight-loss-novo-nordisk-earnings-stock-nvo-ozempic.html",
     "time": "17小时前",
     "published_iso": "2026-05-06T15:59:41+00:00",
-    "id": "n8",
+    "id": "n16",
     "lead": false
   },
   {
@@ -114,7 +225,7 @@
     "url": "https://www.bbc.com/news/articles/cyv24v3mpdmo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-06T14:40:13+00:00",
-    "id": "n9",
+    "id": "n17",
     "lead": false
   },
   {
@@ -127,7 +238,7 @@
     "url": "https://www.cnbc.com/2026/05/05/amd-q1-2026-earnings-report.html",
     "time": "19小时前",
     "published_iso": "2026-05-06T14:11:37+00:00",
-    "id": "n10",
+    "id": "n18",
     "lead": false
   },
   {
@@ -140,7 +251,7 @@
     "url": "https://www.bbc.com/news/articles/c9d35v126vyo?at_medium=RSS&at_campaign=rss",
     "time": "21小时前",
     "published_iso": "2026-05-06T11:59:44+00:00",
-    "id": "n11",
+    "id": "n19",
     "lead": false
   },
   {
@@ -153,7 +264,7 @@
     "url": "https://www.bbc.com/news/articles/cjrp8e0rjpeo?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-05-06T08:43:47+00:00",
-    "id": "n12",
+    "id": "n20",
     "lead": false
   },
   {
@@ -166,7 +277,7 @@
     "url": "https://www.bbc.com/news/articles/cn7pg8ymgezo?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-05-06T07:10:16+00:00",
-    "id": "n13",
+    "id": "n21",
     "lead": false
   },
   {
@@ -179,46 +290,7 @@
     "url": "https://www.bbc.com/news/articles/c893xj41zwdo?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-05-06T04:53:31+00:00",
-    "id": "n14",
-    "lead": false
-  },
-  {
-    "headline": "Oil prices ease as US pauses Project Freedom to seek deal with Iran",
-    "deck": "President Donald Trump raised hopes of an agreement between the US and Iran after days of escalation.",
-    "cnTitle": "特朗普寻求伊朗协议油价回落",
-    "cnDeck": "美国总统唐纳德·特朗普的最新表态在全球引发了广泛关注，其暗示华盛顿正寻求与伊朗达成协议，从而在两国此前紧张局势升级数日后，为中东地区带来一丝缓解的希望。此前，美国与伊朗之间的关系一直处于高度紧张状态，地缘政治风险不断攀升。特朗普总统透露，美国已暂停代号为“自由计划”（Project Freedom）的行动，这一举动被普遍解读为美国政府旨在为外交对话创造空间，并可能预示着对伊朗政策的重大转变。受此消息影响，国际原油价格应声回落，显示出市场对中东地区紧张局势可能缓和的积极反应。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss",
-    "time": "6小时前",
-    "published_iso": "2026-05-06T03:05:16+00:00",
-    "id": "n15",
-    "lead": false
-  },
-  {
-    "headline": "Apple to pay up to $95 to some US iPhone buyers over AI lawsuit",
-    "deck": "Claims from last year said the tech firm’s advertising of Apple Intelligence fooled iPhone buyers.",
-    "cnTitle": "苹果因AI广告被诉将赔偿iPhone用户",
-    "cnDeck": "苹果公司近日宣布，将向部分美国iPhone购买者支付最高达95美元的赔偿金，以和解一项集体诉讼。这项诉讼的核心指控是，苹果在去年的“Apple Intelligence”人工智能功能宣传中，误导了部分iPhone消费者。根据诉讼文件，原告方声称苹果公司对其全新AI功能——“Apple Intelligence”的广告宣传存在虚假或误导性描述，使其产品看起来比实际更强大、更普及或更先进。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c0j2nydnzy7o?at_medium=RSS&at_campaign=rss",
-    "time": "1天前",
-    "published_iso": "2026-05-06T00:15:14+00:00",
-    "id": "n16",
-    "lead": false
-  },
-  {
-    "headline": "US to safety test new AI models from Google, Microsoft, xAI",
-    "deck": "New agreements between the companies and the Commerce department build on Biden-era pacts.",
-    "cnTitle": "美国将安全测试谷歌微软XAI新AI模型",
-    "cnDeck": "美国商务部宣布与多家领先的科技巨头达成新协议，将对Google、Microsoft以及xAI等公司开发的新一代人工智能模型进行安全测试。这一举措是美国政府在总统拜登执政期间所建立的一系列协议的延续和深化。根据这些新协议，美国商务部下属的国家标准与技术研究院（NIST）及其新成立的美国人工智能安全研究所（U.S. AI Safety Institute）将负责对这些尖端AI模型进行严格的评估和测试。此举旨在识别和缓解AI模型可能带来的潜在风险，包括数据隐私泄露、算法偏见、信息误导、网络安全漏洞以及更广泛的国家安全威胁。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cgjp2we2j8go?at_medium=RSS&at_campaign=rss",
-    "time": "1天前",
-    "published_iso": "2026-05-05T20:16:24+00:00",
-    "id": "n17",
+    "id": "n22",
     "lead": false
   }
 ]
