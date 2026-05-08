@@ -1,5 +1,33 @@
 [
   {
+    "headline": "US jobs data beats expectations for second month in a row",
+    "deck": "The solid figures came despite rising gas prices and economic uncertainty sparked by the Iran war.",
+    "cnTitle": "美国就业数据连续超预期",
+    "cnDeck": "美国劳工部最新发布的就业报告显示，美国劳动力市场表现强劲，新增非农就业人数连续第二个月超出市场预期。这份报告指出，新增就业岗位数量大幅超出分析师普遍预测，表明美国企业仍在积极招聘，失业率维持在历史低位附近，平均时薪也录得稳健增长。这进一步巩固了市场对美国经济韧性的信心，与此前市场担忧经济可能放缓的悲观情绪形成鲜明对比。此次强劲的就业数据是在汽油",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cx21664lp32o?at_medium=RSS&at_campaign=rss",
+    "time": "刚刚",
+    "published_iso": "2026-05-08T14:27:38+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "US jet fuel could be used in Europe to ease possible shortages",
+    "deck": "An international air body suggests wider acceptance of US-grade jet fuel could help to head off any supply problems.",
+    "cnTitle": "国际机构建议美燃油助欧洲缓解短缺",
+    "cnDeck": "国际航空机构近日提出一项重要建议，旨在有效缓解欧洲地区未来可能出现的航空燃料供应短缺问题。该机构指出，若欧洲能更广泛地接受和使用美国规格的航空燃油，将显著帮助应对潜在的供应难题。此举明确反映出全球航空业对能源供应链稳定性的高度关注。当前，全球航空燃料市场面临多重不确定性。地缘政治紧张局势，特别是东欧冲突，持续冲击全球能源市场，导致原油及精炼",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cp8pk2m4nlxo?at_medium=RSS&at_campaign=rss",
+    "time": "3小时前",
+    "published_iso": "2026-05-08T10:56:52+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
     "headline": "The companies making billions from the Iran war",
     "deck": "Through surging profits or soaring share prices, the war has been a boon for some firms.",
     "cnTitle": "伊朗战争催生军工企业巨额利润",
@@ -9,9 +37,8 @@
     "url": "https://www.bbc.com/news/articles/ce8pyyz5e0ro?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-08T08:13:07+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n3",
+    "lead": false
   },
   {
     "headline": "Two Islamic-State linked Australian women charged with crimes against humanity",
@@ -23,7 +50,7 @@
     "url": "https://www.bbc.com/news/articles/cdrpx8pl36vo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-08T04:02:53+00:00",
-    "id": "n2",
+    "id": "n4",
     "lead": false
   },
   {
@@ -36,7 +63,7 @@
     "url": "https://www.bbc.com/news/articles/c86dp85g59xo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-08T02:23:03+00:00",
-    "id": "n3",
+    "id": "n5",
     "lead": false
   },
   {
@@ -49,7 +76,7 @@
     "url": "https://www.bbc.com/news/articles/clypzxl3lvqo?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-08T01:31:55+00:00",
-    "id": "n4",
+    "id": "n6",
     "lead": false
   },
   {
@@ -62,7 +89,7 @@
     "url": "https://www.bbc.com/news/articles/cp3pyk4nw3lo?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-05-07T23:11:35+00:00",
-    "id": "n5",
+    "id": "n7",
     "lead": false
   },
   {
@@ -75,7 +102,7 @@
     "url": "https://www.bbc.com/news/articles/c62l9gnx775o?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-05-07T23:03:04+00:00",
-    "id": "n6",
+    "id": "n8",
     "lead": false
   },
   {
@@ -88,8 +115,7 @@
     "url": "https://www.bbc.com/news/articles/c4g93v8jqnyo?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-05-07T22:15:51+00:00",
-    "is_new": true,
-    "id": "n7",
+    "id": "n9",
     "lead": false
   },
   {
@@ -102,8 +128,7 @@
     "url": "https://www.bbc.com/news/articles/cwy2d0v3p2po?at_medium=RSS&at_campaign=rss",
     "time": "14小时前",
     "published_iso": "2026-05-07T18:13:11+00:00",
-    "is_new": true,
-    "id": "n8",
+    "id": "n10",
     "lead": false
   },
   {
@@ -116,7 +141,7 @@
     "url": "https://www.cnbc.com/2026/05/07/ryan-cohens-mysterious-bank-letter-backing-his-ebay-bid-reveals-a-big-issue.html",
     "time": "11小时前",
     "published_iso": "2026-05-07T16:55:23+00:00",
-    "id": "n9",
+    "id": "n11",
     "lead": false
   },
   {
@@ -129,7 +154,7 @@
     "url": "https://www.bbc.com/news/articles/cj0pqpgvvn2o?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-05-07T16:30:55+00:00",
-    "id": "n10",
+    "id": "n12",
     "lead": false
   },
   {
@@ -142,8 +167,7 @@
     "url": "https://www.cnbc.com/2026/05/07/mcdonalds-mcd-q1-2026-earnings.html",
     "time": "18小时前",
     "published_iso": "2026-05-07T14:26:07+00:00",
-    "is_new": true,
-    "id": "n11",
+    "id": "n13",
     "lead": false
   },
   {
@@ -156,7 +180,7 @@
     "url": "https://www.bbc.com/news/articles/ce3p0x54drwo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-07T09:04:24+00:00",
-    "id": "n12",
+    "id": "n14",
     "lead": false
   },
   {
@@ -169,8 +193,7 @@
     "url": "https://www.bbc.com/news/videos/c0l21992z75o?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-05-07T07:54:50+00:00",
-    "is_new": true,
-    "id": "n13",
+    "id": "n15",
     "lead": false
   },
   {
@@ -183,7 +206,7 @@
     "url": "https://www.bbc.com/news/articles/c7597dnele2o?at_medium=RSS&at_campaign=rss",
     "time": "14小时前",
     "published_iso": "2026-05-07T06:05:25+00:00",
-    "id": "n14",
+    "id": "n16",
     "lead": false
   },
   {
@@ -196,7 +219,7 @@
     "url": "https://www.cnbc.com/2026/05/07/japan-softbank-tech-shares-nikkei-to-record-high.html",
     "time": "1小时前",
     "published_iso": "2026-05-07T03:25:42+00:00",
-    "id": "n15",
+    "id": "n17",
     "lead": false
   },
   {
@@ -209,7 +232,7 @@
     "url": "https://www.bbc.com/news/articles/cx214rnlpn7o?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-05-06T23:52:48+00:00",
-    "id": "n16",
+    "id": "n18",
     "lead": false
   },
   {
@@ -222,7 +245,7 @@
     "url": "https://www.bbc.com/news/articles/c0k257g8jk5o?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-05-06T23:06:17+00:00",
-    "id": "n17",
+    "id": "n19",
     "lead": false
   },
   {
@@ -235,7 +258,7 @@
     "url": "https://www.bbc.com/news/articles/cx21k21vnmgo?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-05-06T23:02:06+00:00",
-    "id": "n18",
+    "id": "n20",
     "lead": false
   },
   {
@@ -248,7 +271,7 @@
     "url": "https://www.cnbc.com/2026/05/06/amd-lisa-su-stock-forecast-earnings.html",
     "time": "1天前",
     "published_iso": "2026-05-06T20:01:17+00:00",
-    "id": "n19",
+    "id": "n21",
     "lead": false
   },
   {
@@ -261,7 +284,7 @@
     "url": "https://www.bbc.com/news/articles/c9wepldnl7po?at_medium=RSS&at_campaign=rss",
     "time": "16小时前",
     "published_iso": "2026-05-06T16:35:39+00:00",
-    "id": "n20",
+    "id": "n22",
     "lead": false
   },
   {
@@ -274,7 +297,7 @@
     "url": "https://www.cnbc.com/2026/05/06/wegovy-glp1-weight-loss-novo-nordisk-earnings-stock-nvo-ozempic.html",
     "time": "17小时前",
     "published_iso": "2026-05-06T15:59:41+00:00",
-    "id": "n21",
+    "id": "n23",
     "lead": false
   },
   {
@@ -287,46 +310,7 @@
     "url": "https://www.bbc.com/news/articles/cyv24v3mpdmo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-06T14:40:13+00:00",
-    "id": "n22",
-    "lead": false
-  },
-  {
-    "headline": "AMD's stock soars 16% as data center growth pushes revenue and guidance past estimates",
-    "deck": "AMD's earnings report lands as investors rush into the stock on optimism that the AI boom is just getting started.",
-    "cnTitle": "AMD股价飙升16%，营收超预期",
-    "cnDeck": "美国芯片巨头AMD（超微半导体）近日公布了其最新财报，该报告显示公司业绩表现强劲，特别是数据中心业务的显著增长，推动其营收和业绩指引均超出市场普遍预期。受此利好消息提振，AMD的股价在盘后交易和随后的市场交易中大幅飙升，涨幅一度高达16%，显示出投资者对该公司未来发展前景的强烈信心。财报数据显示，AMD的数据中心业务在过去一个季度中表现尤为突出，成为公司整体增长的主要驱动力。这一增长主要得益于对人工智能（AI）计算能力需求的不断攀升，以及AMD在该领域推出的高性能计算产品。公司管理层在财报电话会议中强调，随着全球范围内AI基础设施建设的加速，AMD的MI300系列AI加速器等产品正获得越来越多的关注和订单，这预示着其在快速增长的AI芯片市场中占据了有利位置。分析师普遍认为，AMD此次超预期的财报表现，进一步印证了AI技术对半导体行业带来的巨大变革和机遇。投资者纷纷涌入AMD股票，正是基于对AI繁荣才刚刚开始的乐观预期。市场普遍认为，AMD在CPU和GPU领域的深厚技术积累，以及其不断扩大的AI产品线，使其能够更好地抓住这一历史性机遇。相较于主要竞争对手，AMD在AI领域的追赶速度和创新能力得到了市场的认可。此外，AMD提供的前瞻性业绩指引也超出华尔街分析师的预测，这表明公司对未来几个季度的业务增长充满信心。管理层预计，随着企业和云服务提供商对AI芯片的需求持续旺盛，AMD的数据中心业务将继续保持强劲增长势头。这种积极的展望为投资者提供了明确的增长信号，进一步",
-    "cat": "finance",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/05/05/amd-q1-2026-earnings-report.html",
-    "time": "19小时前",
-    "published_iso": "2026-05-06T14:11:37+00:00",
-    "id": "n23",
-    "lead": false
-  },
-  {
-    "headline": "Robot wars - what an operation in Ukraine tells us about the battlefield of the near future",
-    "deck": "After Ukraine's President Zelensky said territory had been captured using just robots and drones, what is the future of unmanned warfare?",
-    "cnTitle": "乌克兰机器人作战揭示未来战场",
-    "cnDeck": "乌克兰总统泽连斯基近日发表声明，指出乌克兰军队已成功利用机器人和无人机夺取了部分领土，这标志着现代战争的一个重要转折点，并引发了对未来战场形态的广泛讨论。这一消息强调了无人作战在冲突中的日益核心作用，预示着一个由先进技术驱动的“机器人战争”时代的到来。在乌克兰冲突中，无人机和机器人技术已经得到了前所未有的应用。从侦察监视到精确打击，再到物资运输和排雷作业，各种无人系统正在改变传统的军事行动模式。泽连斯基总统的言论尤其引人注目，因为它暗示了这些系统不仅作为辅助工具，甚至能够独立完成过去需要大量人力才能执行的复杂地面攻势，从而实现“纯粹由机器人和无人机”主导的领土夺取。这种发展带来了多重影响。首先，它极大地降低了前线作战人员的生命风险，这是无人作战最直接且最具吸引力的优势之一。通过派遣机器人和无人机执行高危任务，军队可以有效减少士兵伤亡，提高公众对军事行动的支持度。其次，无人系统通常具备更高的精度和更长的续航能力，可以在复杂或危险的环境中长时间运行，执行人工难以完成的任务。例如，小型侦察无人机可以深入敌后进行情报收集，而武装无人机则可以对特定目标进行外科手术式打击，最大限度地减少附带损伤。然而，“机器人战争”的兴起也伴随着一系列复杂的挑战和伦理困境。技术上的挑战包括如何确保这些系统的自主性、抗干扰能力和网络安全，以防止其被敌方劫持或干扰。此外，高度依赖机器可能导致人类在战场上的决策权被削弱，甚至引发关于“杀人机器人”的伦理辩论——即机器是否应被赋予决定生死的权利。国际社会尚未就完全自主武器系统（LAWS）的开发和使用达成普遍共识，其潜在的法律和道德后果需要紧急关注。乌克兰冲突实际上已成为全球范围内检验和发展无人作战技术的前沿试验场。西方国家及其他军事实力的支持，使得乌克兰军队能够迅速整合和部署各类商用及军用无人平台。这些平台不仅包括空中无人机（如土耳其的Bayraktar TB2、美国提供的Switchblade等），还可能包括地面无人车辆（UGVs），用于侦察、运输甚至直接交战。这些实战经验正在为军事研究人员和国防工业提供宝贵的反馈，加速了新一代无人作战系统的迭代和创新。从战略层面看，机器人和无人机的广泛应用正在重塑军事学说和战术。传统的大规模地面部队部署和集中火力打击模式可能会逐渐被更加分散、灵活和技术驱动的作战方式所取代。未来战争可能更多地围绕信息优势、网络中心战和无人系统之间的协同作战展开。各国军队都在密切关注乌克兰的经验，并重新评估自身的军事现代化进程，以适应这种变革。此外，这些技术",
-    "cat": "tech",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c9d35v126vyo?at_medium=RSS&at_campaign=rss",
-    "time": "21小时前",
-    "published_iso": "2026-05-06T11:59:44+00:00",
     "id": "n24",
-    "lead": false
-  },
-  {
-    "headline": "Next to hike prices by up to 8% outside Europe due to Iran war costs",
-    "deck": "No extra price rises are slated for the UK, which saw better than expected sales in the first quarter.",
-    "cnTitle": "Next因伊朗战事非欧区商品涨价8%",
-    "cnDeck": "英国知名时尚零售巨头Next近日宣布，由于与伊朗战争相关的运营成本显著增加，公司计划对其在欧洲以外地区的商品价格进行上调，涨幅最高将达到8%。这一举措直接反映了当前复杂且紧张的全球地缘政治局势对国际供应链和商业运营产生的深远影响。Next指出，“伊朗战争成本”主要是指中东地区日益升级的冲突所导致的海运费用飙升、保险成本激增以及能源价格波动等一系列连锁",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cjrp8e0rjpeo?at_medium=RSS&at_campaign=rss",
-    "time": "1天前",
-    "published_iso": "2026-05-06T08:43:47+00:00",
-    "id": "n25",
     "lead": false
   }
 ]
