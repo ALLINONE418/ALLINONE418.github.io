@@ -1,5 +1,19 @@
 [
   {
+    "headline": "Oil prices jump after Trump dismisses Iran proposal to end war",
+    "deck": "The Strait of Hormuz waterway remains effectively shut, severely disrupting global energy shipments.",
+    "cnTitle": "特朗普拒伊朗提案 全球油价应声跳涨",
+    "cnDeck": "美国前总统唐纳德·特朗普明确拒绝了伊朗提出的旨在结束地区冲突的提议，这一举动在全球能源市场引发剧烈震荡，导致国际油价大幅上涨。与此同时，具有全球战略意义的霍尔木兹海峡继续处于事实上关闭状态，严重扰乱了全球能源运输。特朗普的这一表态，被外界解读为对缓解中东地区紧张局势努力的沉重打击。虽然新闻原文未详细说明伊朗提案的具体内容，但通常此类提案会涉及停火、撤军、解除制裁或区域安全保障等关键议题。特朗普的直接否决，无疑加剧了市场对地缘政治风险的担忧，他的决定可能源于其对伊朗立场的强硬态度，认为伊朗的提案不足以解决核心问题，或者不符合美国的战略利益，特别是考虑到他此前对伊朗核协议的立场以及对伊朗地区影响力的遏制政策。霍尔木兹海峡作为连接波斯湾与印度洋的唯一海上通道，承载着全球约五分之一的石油贸易量以及大量液化天然气运输。该海峡的任何形式的“事实上关闭”都意味着全球能源供应的巨大威胁，这可能表现为军事封锁、航运受限、频繁发生袭击事件导致保险费飙升、航运公司选择避开该区域，或者仅仅是极高的安全风险使得正常贸易无法进行。无论具体形式如何，其结果都是大量原油和天然气无法顺利通过，直接导致市场对供应短缺的恐慌性预期。受此消息影响，国际原油期货价格应声跳涨，布伦特原油和WTI（西德克萨斯中质原油）价格均出现显著上涨，涨幅可能达到数个百分点甚至更高，具体涨幅通常取决于市场对冲突升级的预期程度。油价的飙升将直接传导至全球经济，推高各国企业的生产成本和消费者的能源支出，进而加剧通货膨胀压力。对于依赖能源进口的国家，高油价将损害其贸易平衡，并可能引发经济增长放缓的担忧。地缘政治方面，特朗普的强硬立场可能导致美伊关系进一步恶化，使得本已紧张的中东局势面临更大的不确定性。冲突的持续和霍尔木兹海峡的受阻，不仅影响全球能源供应，还可能引发区域内其他参与者的连锁反应，增加军事冲突和地区动荡的风险。投资者对未来走势的不确定性感到担忧，可能将资金转向黄金等避险资产，同时股市可能面临回调压力。国际社会可能会呼吁各方保持克制，通过外交途径解决分歧，以避免对全球经济造成更广泛的冲击。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/ckgp4ev4yg4o?at_medium=RSS&at_campaign=rss",
+    "time": "3小时前",
+    "published_iso": "2026-05-11T01:12:30+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
     "headline": "Putin says he thinks Ukraine conflict 'coming to an end'",
     "deck": "The Russian leader sees potential for Ukraine negotiations, but condemns the West's backing for President Zelensky.",
     "cnTitle": "乌克兰冲突“接近尾声”",
@@ -9,8 +23,8 @@
     "url": "https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-05-10T00:46:07+00:00",
-    "id": "n1",
-    "lead": true
+    "id": "n2",
+    "lead": false
   },
   {
     "headline": "Why Canada is seeing its biggest military recruitment surge in 30 years",
@@ -22,7 +36,7 @@
     "url": "https://www.bbc.com/news/articles/crrpd1pvgkzo?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-05-09T23:00:55+00:00",
-    "id": "n2",
+    "id": "n3",
     "lead": false
   },
   {
@@ -35,7 +49,7 @@
     "url": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-05-09T21:23:14+00:00",
-    "id": "n3",
+    "id": "n4",
     "lead": false
   },
   {
@@ -48,7 +62,7 @@
     "url": "https://www.bbc.com/news/articles/c9364r4r902o?at_medium=RSS&at_campaign=rss",
     "time": "14小时前",
     "published_iso": "2026-05-09T18:00:46+00:00",
-    "id": "n4",
+    "id": "n5",
     "lead": false
   },
   {
@@ -61,7 +75,7 @@
     "url": "https://www.bbc.com/news/articles/cj9pem481rwo?at_medium=RSS&at_campaign=rss",
     "time": "15小时前",
     "published_iso": "2026-05-09T17:25:53+00:00",
-    "id": "n5",
+    "id": "n6",
     "lead": false
   },
   {
@@ -74,7 +88,7 @@
     "url": "https://www.bbc.com/news/articles/cwy2e4z4npro?at_medium=RSS&at_campaign=rss",
     "time": "18小时前",
     "published_iso": "2026-05-09T14:36:21+00:00",
-    "id": "n6",
+    "id": "n7",
     "lead": false
   },
   {
@@ -87,7 +101,7 @@
     "url": "https://www.bbc.com/news/articles/c4g42j15p7qo?at_medium=RSS&at_campaign=rss",
     "time": "18小时前",
     "published_iso": "2026-05-09T14:03:11+00:00",
-    "id": "n7",
+    "id": "n8",
     "lead": false
   },
   {
@@ -100,33 +114,7 @@
     "url": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-09T06:13:30+00:00",
-    "id": "n8",
-    "lead": false
-  },
-  {
-    "headline": "International cyber attack disrupts swathe of universities and schools",
-    "deck": "A hacking group breached the academic software Canvas, used by thousands of schools and universities across the globe.",
-    "cnTitle": "国际网络攻击影响全球大学和学校",
-    "cnDeck": "一个黑客组织近期成功入侵了广受欢迎的学术软件Canvas。该软件由Instructure公司开发，是全球范围内数千所学校和大学广泛使用的学习管理系统（LMS）。Canvas平台为学生、教师和行政人员提供了一个集中的在线环境，用于课程管理、作业提交、成绩记录、在线讨论以及教学内容共享。此次国际性的网络攻击意味着数百万用户的数据安全面临威胁，可能对全球的教育机构造成深远影响。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/ce3pq0136eqo?at_medium=RSS&at_campaign=rss",
-    "time": "7小时前",
-    "published_iso": "2026-05-09T01:17:55+00:00",
     "id": "n9",
-    "lead": false
-  },
-  {
-    "headline": "Hungary's new PM to be sworn in during 'regime change' party",
-    "deck": "Nearly a month ago Péter Magyar steered his Tisza party to a landslide victory, sweeping away 16 years of rule by Viktor Orbán.",
-    "cnTitle": "匈牙利新总理将宣誓就职",
-    "cnDeck": "匈牙利即将迎来新一届政府的宣誓就职仪式，此次权力交接被描述为一场“政权更迭”的盛会。大约一个月前，由彼得·马扎尔（Péter Magyar）领导的蒂萨党（Tisza party）在全国大选中取得了压倒性胜利，终结了维克多·欧尔班（Viktor Orbán）长达16年的统治。这一事件标志着匈牙利政治格局的重大转变，此前欧尔班及其青民盟（Fidesz party）长期主导匈牙利政坛，其执政风格常被批评为民族主义、保守主义，并因在法治、移民和民主标准等问题上与欧盟机构多次产生冲突而备受国际社会关注。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/ce3pqvvzgnko?at_medium=RSS&at_campaign=rss",
-    "time": "7小时前",
-    "published_iso": "2026-05-09T00:46:16+00:00",
-    "id": "n10",
     "lead": false
   }
 ]
