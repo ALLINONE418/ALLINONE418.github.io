@@ -1,5 +1,33 @@
 [
   {
+    "headline": "Google races to put Gemini at the center of Android before Apple’s AI reboot",
+    "deck": "Google is using its latest Android rollout to position Gemini as the AI layer across phones, Chrome, laptops and cars.",
+    "cnTitle": "谷歌加速Gemini AI融入安卓，抢占先机",
+    "cnDeck": "谷歌正利用其最新的安卓系统更新，深度整合其先进的Gemini人工智能模型，旨在使其成为在手机、Chrome浏览器、笔记本电脑和汽车等多个平台上的核心AI层。此举旨在全面提升用户体验，并通过先进的生成式AI能力重塑整个安卓生态系统。Gemini是谷歌自主开发的最先进、最强大的多模态AI模型，具备理解并生成文本、代码，甚至处理图像和音频等多种数据格式的能力。谷歌的目标是让Gemini成为安卓用户日常交互的中心，从而提供更智能的辅助、更个性化的服务以及更高效的信息处理能力。例如，用户将能够通过Gemini在系统层面直接进行复杂的查询、内容创作、信息摘要、日程管理，甚至优化设备性能，从而实现更流畅、更智能的设备操作体验。",
+    "cat": "finance",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/05/12/google-races-put-gemini-at-center-of-android-before-apples-ai-reboot.html",
+    "time": "1小时前",
+    "published_iso": "2026-05-12T19:22:28+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "Elon Musk said control of OpenAI should go to his children, Sam Altman tells jury",
+    "deck": "Sam Altman said Elon Musk tried many times for total control of OpenAI, which he's now suing.",
+    "cnTitle": "Altman：马斯克曾欲全面掌控OpenAI",
+    "cnDeck": "OpenAI首席执行官萨姆·奥特曼（Sam Altman）近日在向陪审团作证时透露，埃隆·马斯克（Elon Musk）曾多次试图全面掌控人工智能公司OpenAI，这家公司目前正面临马斯克的法律诉讼。奥特曼的证词揭示了OpenAI早期发展阶段的内部权力斗争，以及马斯克在公司方向和控制权上的强烈意图。据奥特曼所述，马斯克不仅寻求",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/czj2k2exdzlo?at_medium=RSS&at_campaign=rss",
+    "time": "1小时前",
+    "published_iso": "2026-05-12T18:51:56+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
     "headline": "UK borrowing costs jump as uncertainty over PM's future continues",
     "deck": "The possibility of a change of leadership in the UK has unsettled some investors and sent bond yields higher.",
     "cnTitle": "英国政局不稳推高借贷成本",
@@ -9,9 +37,22 @@
     "url": "https://www.bbc.com/news/articles/cqjpqy19npxo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-12T14:49:54+00:00",
+    "id": "n3",
+    "lead": false
+  },
+  {
+    "headline": "eBay rejects $55.5bn offer from GameStop",
+    "deck": "The online auction giant said it doubted how the video game retailer would finance its offer.",
+    "cnTitle": "eBay拒绝GameStop 555亿美元报价",
+    "cnDeck": "全球知名的在线拍卖巨头eBay于近日正式拒绝了视频游戏零售商GameStop提出的一项价值高达555亿美元的收购要约。eBay方面明确表示，其对GameStop如何能够为如此大规模的交易提供资金来源持严重怀疑态度，这是导致其拒绝该要约的核心原因。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/ckgp5ll3jd4o?at_medium=RSS&at_campaign=rss",
+    "time": "6小时前",
+    "published_iso": "2026-05-12T14:07:18+00:00",
     "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n4",
+    "lead": false
   },
   {
     "headline": "US inflation jumps to 3.8% as energy costs surge from Iran war",
@@ -23,8 +64,7 @@
     "url": "https://www.bbc.com/news/articles/c202pgxx89lo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-12T14:06:08+00:00",
-    "is_new": true,
-    "id": "n2",
+    "id": "n5",
     "lead": false
   },
   {
@@ -37,7 +77,7 @@
     "url": "https://www.cnbc.com/2026/05/11/stock-market-today-live-updates.html",
     "time": "刚刚",
     "published_iso": "2026-05-12T09:24:15+00:00",
-    "id": "n3",
+    "id": "n6",
     "lead": false
   },
   {
@@ -50,7 +90,7 @@
     "url": "https://www.bbc.com/news/articles/c78k405j8pdo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-12T07:46:47+00:00",
-    "id": "n4",
+    "id": "n7",
     "lead": false
   },
   {
@@ -63,7 +103,7 @@
     "url": "https://www.bbc.com/news/articles/c5yx757w048o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-12T07:38:59+00:00",
-    "id": "n5",
+    "id": "n8",
     "lead": false
   },
   {
@@ -76,7 +116,7 @@
     "url": "https://www.bbc.com/news/articles/c202xrd9gn7o?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-12T07:31:14+00:00",
-    "id": "n6",
+    "id": "n9",
     "lead": false
   },
   {
@@ -89,7 +129,7 @@
     "url": "https://www.bbc.com/news/articles/cn8p1zrr9nxo?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-05-12T04:37:03+00:00",
-    "id": "n7",
+    "id": "n10",
     "lead": false
   },
   {
@@ -102,7 +142,7 @@
     "url": "https://www.bbc.com/news/articles/c202ngg45x8o?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-05-12T04:11:42+00:00",
-    "id": "n8",
+    "id": "n11",
     "lead": false
   },
   {
@@ -115,7 +155,7 @@
     "url": "https://www.bbc.com/news/articles/cwy2rnyg50zo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-12T03:40:29+00:00",
-    "id": "n9",
+    "id": "n12",
     "lead": false
   },
   {
@@ -128,7 +168,7 @@
     "url": "https://www.cnbc.com/2026/05/12/oil-prices-today-brent-wti-trump-iran-war-hormuz.html",
     "time": "1小时前",
     "published_iso": "2026-05-12T02:57:52+00:00",
-    "id": "n10",
+    "id": "n13",
     "lead": false
   },
   {
@@ -141,7 +181,7 @@
     "url": "https://www.cnbc.com/2026/05/12/trump-xi-china-summit-taiwan-arms-sale-jimmy-lai-.html",
     "time": "2小时前",
     "published_iso": "2026-05-12T01:37:46+00:00",
-    "id": "n11",
+    "id": "n14",
     "lead": false
   },
   {
@@ -154,7 +194,7 @@
     "url": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-05-12T00:59:12+00:00",
-    "id": "n12",
+    "id": "n15",
     "lead": false
   },
   {
@@ -167,7 +207,7 @@
     "url": "https://www.bbc.com/news/articles/cx21669452lo?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-05-11T23:56:11+00:00",
-    "id": "n13",
+    "id": "n16",
     "lead": false
   },
   {
@@ -180,7 +220,7 @@
     "url": "https://www.bbc.com/news/articles/ceqprgen1nyo?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-05-11T23:20:53+00:00",
-    "id": "n14",
+    "id": "n17",
     "lead": false
   },
   {
@@ -193,7 +233,7 @@
     "url": "https://www.cnbc.com/2026/05/11/supreme-court-alabama-republicans.html",
     "time": "5小时前",
     "published_iso": "2026-05-11T23:18:55+00:00",
-    "id": "n15",
+    "id": "n18",
     "lead": false
   },
   {
@@ -206,7 +246,7 @@
     "url": "https://www.bbc.com/news/articles/c9369q3g7w7o?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-05-11T21:44:20+00:00",
-    "id": "n16",
+    "id": "n19",
     "lead": false
   },
   {
@@ -219,7 +259,7 @@
     "url": "https://www.bbc.com/news/articles/c202wp2rl09o?at_medium=RSS&at_campaign=rss",
     "time": "13小时前",
     "published_iso": "2026-05-11T19:37:17+00:00",
-    "id": "n17",
+    "id": "n20",
     "lead": false
   },
   {
@@ -232,7 +272,7 @@
     "url": "https://www.cnbc.com/2026/05/11/google-thwarts-effort-hacker-group-use-ai-mass-exploitation-event.html",
     "time": "2小时前",
     "published_iso": "2026-05-11T18:11:04+00:00",
-    "id": "n18",
+    "id": "n21",
     "lead": false
   },
   {
@@ -245,7 +285,7 @@
     "url": "https://www.cnbc.com/2026/05/11/multiple-firms-have-1000-price-target-on-micron.html",
     "time": "2小时前",
     "published_iso": "2026-05-11T18:03:24+00:00",
-    "id": "n19",
+    "id": "n22",
     "lead": false
   },
   {
@@ -258,7 +298,7 @@
     "url": "https://www.cnbc.com/2026/05/11/series-of-court-decisions-weaken-democrats-odds-of-winning-the-house.html",
     "time": "11小时前",
     "published_iso": "2026-05-11T17:28:38+00:00",
-    "id": "n20",
+    "id": "n23",
     "lead": false
   },
   {
@@ -271,7 +311,7 @@
     "url": "https://www.bbc.com/news/articles/cr5p85v446ro?at_medium=RSS&at_campaign=rss",
     "time": "12小时前",
     "published_iso": "2026-05-11T16:30:04+00:00",
-    "id": "n21",
+    "id": "n24",
     "lead": false
   },
   {
@@ -284,7 +324,7 @@
     "url": "https://www.bbc.com/news/articles/cn0pgl0vk0qo?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-11T13:15:30+00:00",
-    "id": "n22",
+    "id": "n25",
     "lead": false
   },
   {
@@ -297,7 +337,7 @@
     "url": "https://www.bbc.com/news/articles/c1j257w87neo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-11T10:16:50+00:00",
-    "id": "n23",
+    "id": "n26",
     "lead": false
   },
   {
@@ -310,7 +350,7 @@
     "url": "https://www.bbc.com/news/articles/c8xwg0gdrpzo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-11T10:13:05+00:00",
-    "id": "n24",
+    "id": "n27",
     "lead": false
   },
   {
@@ -323,7 +363,7 @@
     "url": "https://www.bbc.com/news/articles/cqlp21q4yq4o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-11T09:28:53+00:00",
-    "id": "n25",
+    "id": "n28",
     "lead": false
   },
   {
@@ -336,7 +376,7 @@
     "url": "https://www.bbc.com/news/articles/c3rz75rgn8zo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-11T09:26:33+00:00",
-    "id": "n26",
+    "id": "n29",
     "lead": false
   },
   {
@@ -349,7 +389,7 @@
     "url": "https://www.bbc.com/news/articles/c8r8e2ne1v6o?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-05-11T07:13:41+00:00",
-    "id": "n27",
+    "id": "n30",
     "lead": false
   },
   {
@@ -362,7 +402,7 @@
     "url": "https://www.cnbc.com/2026/05/10/saudi-aramco-q1-profit-jumps-26percent-as-key-pipeline-reaches-capacity.html",
     "time": "4小时前",
     "published_iso": "2026-05-11T05:47:13+00:00",
-    "id": "n28",
+    "id": "n31",
     "lead": false
   },
   {
@@ -375,7 +415,7 @@
     "url": "https://www.bbc.com/news/articles/ce9pvp210zdo?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-05-11T02:48:53+00:00",
-    "id": "n29",
+    "id": "n32",
     "lead": false
   },
   {
@@ -388,7 +428,7 @@
     "url": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-05-11T01:55:13+00:00",
-    "id": "n30",
+    "id": "n33",
     "lead": false
   },
   {
@@ -401,7 +441,7 @@
     "url": "https://www.bbc.com/news/articles/ckgp4ev4yg4o?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-05-11T01:12:30+00:00",
-    "id": "n31",
+    "id": "n34",
     "lead": false
   },
   {
@@ -414,7 +454,7 @@
     "url": "https://www.bbc.com/news/articles/cr71d8vyjv0o?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-05-10T23:34:59+00:00",
-    "id": "n32",
+    "id": "n35",
     "lead": false
   },
   {
@@ -427,7 +467,7 @@
     "url": "https://www.bbc.com/news/articles/c1m2ee3jxvro?at_medium=RSS&at_campaign=rss",
     "time": "13小时前",
     "published_iso": "2026-05-10T21:01:17+00:00",
-    "id": "n33",
+    "id": "n36",
     "lead": false
   }
 ]
