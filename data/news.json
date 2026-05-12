@@ -1,5 +1,75 @@
 [
   {
+    "headline": "China should stop hoarding food and fertiliser, says former World Bank chief",
+    "deck": "David Malpass also said that Beijing's claim to be a developing nation is no longer credible.",
+    "cnTitle": "前世行长批中国囤积及地位",
+    "cnDeck": "前世界银行行长大卫·马尔帕斯（David Malpass）近日发表引人关注的言论，明确指出中国应当停止囤积粮食和化肥，并对北京长期以来声称自己是发展中国家的说法提出了质疑，认为这一主张已不再可信。马尔帕斯作为国际金融和发展领域的资深权威，其表态迅速引发了国际社会的广泛讨论。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cwy2rnyg50zo?at_medium=RSS&at_campaign=rss",
+    "time": "刚刚",
+    "published_iso": "2026-05-12T03:40:29+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "Oil prices extend gains as Trump comments diminish hopes for a U.S.-Iran peace deal",
+    "deck": "Oil prices rose Tuesday amid concerns over a prolonged Middle East conflict after President Trump's comments that the ceasefire with Iran is on \"life support\"",
+    "cnTitle": "油价因特朗普言论飙升",
+    "cnDeck": "国际原油价格周二显著上涨，此前美国前总统唐纳德·特朗普发表言论，称与伊朗达成的停火协议正处于“生命维持”状态。特朗普的此番表态被市场迅速解读为削弱了美国与伊朗之间可能达成和平协议的希望，从而加剧了对中东地区冲突长期化的担忧。此前，部分投资者曾寄希望于美伊关系可能出现缓和，以减少该地区的原油供应风险，并为全球经济带来更稳定的预期",
+    "cat": "finance",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/05/12/oil-prices-today-brent-wti-trump-iran-war-hormuz.html",
+    "time": "1小时前",
+    "published_iso": "2026-05-12T02:57:52+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
+    "headline": "Trump puts Taiwan arms sales, Hong Kong jailed activist Lai on agenda ahead of meeting with Xi",
+    "deck": "Trump said Monday that U.S. arms sales to Taiwan and the imprisonment of Hong Kong media tycoon Jimmy Lai would be among the issues at the summit in Beijing.",
+    "cnTitle": "特朗普称会习将提台军售黎智英案",
+    "cnDeck": "前美国总统唐纳德·特朗普于本周一发表声明，表示他计划在即将举行的北京峰会上，向中方领导人提出两个关键且高度敏感的议题。首先是美国对台湾的武器销售问题。特朗普指出，此议题将作为他与中方领导人会晤时的重要讨论点。美国对台军售是美中关系中一个长期存在的棘手问题，中国政府一贯将台湾视为其核心利益，坚决反对任何形式的官方往来和军事联系，认为美国对台军售严重干涉中国内政，损害中国主权。而美国则根据《台湾关系法》向台湾提供自卫能力，以期维护台海地区的和平与稳定。特朗普此举无疑将再次将这一敏感的地区安全议题置于中美高层对话的核心，预示着未来两国在台湾问题上的立场冲突仍将持续。其次，特朗普表示还将提及香港传媒大亨黎智英的被囚事件。黎智英是香港《苹果日报》的创始人，因违反香港国安法而被捕并被判刑，此案在全球范围内引发了对香港新闻自由、法治精神以及“一国两制”原则实施前景的广泛关注。西方国家普遍对黎智英案表示谴责，认为其审判过程和结果侵蚀了香港的自治和自由。特朗普将此案提上议程，凸显了美国对香港人权状况的持续关切，并可能将其作为在人权和民主价值观方面向中国施压的筹码。此次北京峰会的具体安排和参与人员细节尚未完全公开，但作为一位具有全球影响力的政治人物，特朗普的言论常被视为对未来美国外交政策走向的重要信号。他选择在会晤前公开这些敏感议题，既是对国内选民的表态，也旨在为即将到来的高层对话设定基调和议程，预示着此次会谈将充满挑战，并围绕这些核心争议点展开艰难的外交博弈。",
+    "cat": "politics",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/05/12/trump-xi-china-summit-taiwan-arms-sale-jimmy-lai-.html",
+    "time": "2小时前",
+    "published_iso": "2026-05-12T01:37:46+00:00",
+    "is_new": true,
+    "id": "n3",
+    "lead": false
+  },
+  {
+    "headline": "Supreme Court clears way for Alabama Republicans to pursue new voting map",
+    "deck": "The U.S. Supreme Court cleared the way on Monday for Alabama Republicans to pursue a congressional voting map more favorable to their party ahead of November's midterm elections, the latest fallout from the court's seismic voting rights ruling.",
+    "cnTitle": "美国最高法院批准阿拉巴马州重划选区",
+    "cnDeck": "美国最高法院于周一做出一项关键裁决，为阿拉巴马州共和党人在即将到来的11月中期选举之前，争取一份更有利于其政党的国会选区划分方案铺平了道路。这项裁决是最高法院近期就投票权和选区划分问题一系列“地震性”裁决的最新进展和影响。具体而言，该决定将允许阿拉巴马州共和党主导的立法机构继续推进其提出的选区重划地图，该地图被设计用于调整国会选区边界，以最大化共和党在州内的选举优势。此举预计将帮助共和党在阿拉巴马州的国会众议院选举中赢得更多席位。",
+    "cat": "finance",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/05/11/supreme-court-alabama-republicans.html",
+    "time": "5小时前",
+    "published_iso": "2026-05-11T23:18:55+00:00",
+    "is_new": true,
+    "id": "n4",
+    "lead": false
+  },
+  {
+    "headline": "South African president says he will not step down after impeachment call",
+    "deck": "President Cyril Ramaphosa said he would not resign on Monday evening after days of speculation.",
+    "cnTitle": "南非总统拉马福萨拒绝因弹劾辞职",
+    "cnDeck": "南非总统西里尔·拉马福萨（Cyril Ramaphosa）周一晚间在经历数日关于其可能辞职的猜测后，明确表示他不会主动辞去总统职务。这一声明是在针对他的弹劾呼吁日益增多，以及政治压力持续加剧的背景下作出的，标志着南非政治局势进入一个高度紧张的阶段。针对拉马福萨总统的弹劾呼吁核心源于所谓的“法拉法拉（Phala Phala）农场事件”。该事件涉及2020年，在总统位于林波波省的私人农场内发现大量未申报的美元现金被盗。围绕这些现金的来源、总统未能及时向南非储备银行（South African Reserve Bank）等相关部门报告这笔交易，以及随后发生的盗窃案及其处理方式，引发了南非国内对其行为是否符合国家法律和宪法规定的广泛质疑。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c9369q3g7w7o?at_medium=RSS&at_campaign=rss",
+    "time": "6小时前",
+    "published_iso": "2026-05-11T21:44:20+00:00",
+    "is_new": true,
+    "id": "n5",
+    "lead": false
+  },
+  {
     "headline": "Google says it likely thwarted effort by hacker group to use AI for 'mass exploitation event'",
     "deck": "Hackers are rapidly adopting AI to find previously unknown software flaws even without the help of Anthropic's powerful Mythos model.",
     "cnTitle": "谷歌挫败AI黑客大规模攻击",
@@ -9,9 +79,8 @@
     "url": "https://www.cnbc.com/2026/05/11/google-thwarts-effort-hacker-group-use-ai-mass-exploitation-event.html",
     "time": "2小时前",
     "published_iso": "2026-05-11T18:11:04+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n6",
+    "lead": false
   },
   {
     "headline": "Biggest Micron bulls on Wall Street say they're even more confident now. Here's why",
@@ -23,8 +92,35 @@
     "url": "https://www.cnbc.com/2026/05/11/multiple-firms-have-1000-price-target-on-micron.html",
     "time": "2小时前",
     "published_iso": "2026-05-11T18:03:24+00:00",
+    "id": "n7",
+    "lead": false
+  },
+  {
+    "headline": "Series of court decisions weaken Democrats' odds of winning the House",
+    "deck": "A U.S. Supreme Court decision and ruling from the Virginia Supreme Court have altered the redistricting outlook, hurting the chance that House control will flip.",
+    "cnTitle": "美法院裁决削弱民主党众议院胜算",
+    "cnDeck": "美国最高法院和弗吉尼亚州最高法院近期作出的一系列裁决，显著改变了美国国会众议院选区的重新划分前景，从而削弱了民主党在即将到来的选举中夺回众议院控制权的可能性。这些法院判决对全国范围内的选区重划产生了深远影响，尤其是在关键摇摆州弗吉尼亚。选区重划是美国每十年一次人口普查后，根据人口变化调整各州国会众议院和州立法机构选区边界的过程。这一过程通常由各州立法机构或独立委员会负责，其结果直接影响未来十年内各选区的政治版图和选举结果。两党都试图通过巧妙地划分选区（俗称“杰利蝾螈”）来最大化自身优势，削弱对手实力。具体而言，美国最高法院的某项裁决可能涉及到推翻或维持此前对某些州重划地图的挑战，而弗吉尼亚州最高法院的裁决则直接影响了该州众议院选区的划分方式。弗吉尼亚州作为一个重要的政治战场，其选区划分结果对众议院的整体力量平衡具有关键作用。民主党此前寄希望于通过有利的选区重划，能在多个州获得更多“安全席位”，从而在全国范围内积累优势，最终在中期选举或总统选举年中翻转众议院的多数党地位。然而，这些法院的裁决似乎打乱了民主党的这一战略布局。判决结果可能导致在一些原本可能重新划分以利于民主党的地区，维持对共和党更有利的现有地图，或者以不利于民主党的方式重新划分。分析人士指出，法院在选区划分问题上的介入，往往是基于对宪法平等保护条款或投票权法案的解释，但其政治后果却是显而易见的。对于民主党而言，这意味着他们必须在更具挑战性的选区地图下展开竞选，需要投入更多的资源和精力才能争取到席位。这不仅增加了他们在个别选区获胜的难度，也使得他们实现整体目标——即在众议院中赢得多数席位——的道路变得更加崎岖。共和党方面则可能因此受益，这些判决为他们巩固或扩大在某些地区的选区优势提供了机会。未来几个选举周期内，这些法院裁决对美国政治格局的影响将持续显现，国会众议院的党派构成将直接影响立法议程和政策走向，例如在财政预算、社会政策及对外关系等重大议题上的决策能力。因此，这些看似技术性的法院裁决，实则具有重大的政治意义，直接关乎美国两党政治力量的消长，并可能影响未来数年的国家治理方向。",
+    "cat": "politics",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/05/11/series-of-court-decisions-weaken-democrats-odds-of-winning-the-house.html",
+    "time": "11小时前",
+    "published_iso": "2026-05-11T17:28:38+00:00",
     "is_new": true,
-    "id": "n2",
+    "id": "n8",
+    "lead": false
+  },
+  {
+    "headline": "Dozens of Nigerian fishermen feared dead after Chad air strikes on Boko Haram",
+    "deck": "A fishermen's leader tells the BBC that 40 people are feared dead  - either in the strikes or drowning as they tried to flee.",
+    "cnTitle": "乍得空袭博科圣地致数十渔民丧生",
+    "cnDeck": "乍得对博科圣地武装分子实施的空袭行动，据信已导致数十名尼日利亚渔民丧生，加剧了乍得湖地区本已紧张的人道主义危机和安全局势。据英国广播公司（BBC）援引一位渔民领袖的说法，初步估计约有40人不幸遇难，这些遇难者或直接死于空袭，或在试图逃离冲突区域时不幸溺亡。这一悲剧性事件再次凸显了在该地区打击恐怖主义行动中，平民面临的巨大风险。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cr5p85v446ro?at_medium=RSS&at_campaign=rss",
+    "time": "12小时前",
+    "published_iso": "2026-05-11T16:30:04+00:00",
+    "is_new": true,
+    "id": "n9",
     "lead": false
   },
   {
@@ -37,7 +133,7 @@
     "url": "https://www.bbc.com/news/articles/cn0pgl0vk0qo?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-11T13:15:30+00:00",
-    "id": "n3",
+    "id": "n10",
     "lead": false
   },
   {
@@ -50,7 +146,7 @@
     "url": "https://www.bbc.com/news/articles/c1j257w87neo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-11T10:16:50+00:00",
-    "id": "n4",
+    "id": "n11",
     "lead": false
   },
   {
@@ -63,7 +159,7 @@
     "url": "https://www.bbc.com/news/articles/c8xwg0gdrpzo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-11T10:13:05+00:00",
-    "id": "n5",
+    "id": "n12",
     "lead": false
   },
   {
@@ -76,7 +172,7 @@
     "url": "https://www.bbc.com/news/articles/cqlp21q4yq4o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-11T09:28:53+00:00",
-    "id": "n6",
+    "id": "n13",
     "lead": false
   },
   {
@@ -89,7 +185,7 @@
     "url": "https://www.bbc.com/news/articles/c3rz75rgn8zo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-11T09:26:33+00:00",
-    "id": "n7",
+    "id": "n14",
     "lead": false
   },
   {
@@ -102,7 +198,7 @@
     "url": "https://www.bbc.com/news/articles/c8r8e2ne1v6o?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-05-11T07:13:41+00:00",
-    "id": "n8",
+    "id": "n15",
     "lead": false
   },
   {
@@ -115,7 +211,7 @@
     "url": "https://www.cnbc.com/2026/05/10/saudi-aramco-q1-profit-jumps-26percent-as-key-pipeline-reaches-capacity.html",
     "time": "4小时前",
     "published_iso": "2026-05-11T05:47:13+00:00",
-    "id": "n9",
+    "id": "n16",
     "lead": false
   },
   {
@@ -128,7 +224,7 @@
     "url": "https://www.bbc.com/news/articles/ce9pvp210zdo?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-05-11T02:48:53+00:00",
-    "id": "n10",
+    "id": "n17",
     "lead": false
   },
   {
@@ -141,7 +237,7 @@
     "url": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-05-11T01:55:13+00:00",
-    "id": "n11",
+    "id": "n18",
     "lead": false
   },
   {
@@ -154,7 +250,7 @@
     "url": "https://www.bbc.com/news/articles/ckgp4ev4yg4o?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-05-11T01:12:30+00:00",
-    "id": "n12",
+    "id": "n19",
     "lead": false
   },
   {
@@ -167,7 +263,7 @@
     "url": "https://www.bbc.com/news/articles/cr71d8vyjv0o?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-05-10T23:34:59+00:00",
-    "id": "n13",
+    "id": "n20",
     "lead": false
   },
   {
@@ -180,46 +276,7 @@
     "url": "https://www.bbc.com/news/articles/c1m2ee3jxvro?at_medium=RSS&at_campaign=rss",
     "time": "13小时前",
     "published_iso": "2026-05-10T21:01:17+00:00",
-    "id": "n14",
-    "lead": false
-  },
-  {
-    "headline": "Putin says he thinks Ukraine conflict 'coming to an end'",
-    "deck": "The Russian leader sees potential for Ukraine negotiations, but condemns the West's backing for President Zelensky.",
-    "cnTitle": "乌克兰冲突“接近尾声”",
-    "cnDeck": "俄罗斯总统弗拉基米尔·普京近日就乌克兰冲突发表了重要言论，他表示认为这场持续已久的冲突“正在走向结束”。普京的此番表态在全球范围内引发了广泛关注和猜测，尤其是在俄乌冲突已进入第三个年头，对国际地缘政治格局和全球安全局势造成深远影响的背景下。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_medium=RSS&at_campaign=rss",
-    "time": "8小时前",
-    "published_iso": "2026-05-10T00:46:07+00:00",
-    "id": "n15",
-    "lead": false
-  },
-  {
-    "headline": "Why Canada is seeing its biggest military recruitment surge in 30 years",
-    "deck": "The country has seen its biggest military recruitment surge in 30 years, a major turnaround after years of falling behind on defence capabilities.",
-    "cnTitle": "加拿大军队招募人数达30年新高",
-    "cnDeck": "加拿大国防部近期宣布，该国军队的招募人数已达到过去三十年来的最高水平，这一显著增长标志着在长期面临国防能力落后困境后的一次重大转折。在过去几年中，加拿大武装部队一直努力应对招募目标未达标以及现役人员流失的挑战，导致关键军事岗位出现数千个空缺。此次招募热潮的出现，无疑为加拿大军方注入了新的活力，并为其弥补人员短缺、提升整体作战实力提供了宝贵机遇。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/crrpd1pvgkzo?at_medium=RSS&at_campaign=rss",
-    "time": "9小时前",
-    "published_iso": "2026-05-09T23:00:55+00:00",
-    "id": "n16",
-    "lead": false
-  },
-  {
-    "headline": "Lebanon says Israeli strikes killed 39",
-    "deck": "Israel and Hezbollah have continued to trade fire despite a ceasefire deal being announced last month.",
-    "cnTitle": "黎巴嫩称以色列空袭致39人遇难",
-    "cnDeck": "据黎巴嫩方面消息，以色列对黎巴嫩境内目标发动的空袭已导致39人死亡。尽管上个月曾宣布达成停火协议，但以色列与黎巴嫩真主党武装之间的交火活动仍在持续，未能有效停止。这一冲突升级的消息引发了国际社会对中东地区局势进一步恶化的深切担忧。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss",
-    "time": "11小时前",
-    "published_iso": "2026-05-09T21:23:14+00:00",
-    "id": "n17",
+    "id": "n21",
     "lead": false
   }
 ]
