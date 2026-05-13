@@ -1,5 +1,89 @@
 [
   {
+    "headline": "Smart glasses are 'an invasion of privacy' - Meta's are selling better than ever",
+    "deck": "The biggest tech firms are set to sell millions of smart glasses despite growing privacy concerns.",
+    "cnTitle": "Meta智能眼镜热销引隐私担忧",
+    "cnDeck": "全球领先的科技巨头，包括Meta在内，正积极推动智能眼镜市场的发展，并预计未来将售出数百万副此类设备。尽管智能眼镜被视为个人计算领域的下一个重要前沿，能够提供增强现实（AR）体验、便捷的拍摄和通信功能，但围绕其可能侵犯隐私的担忧却日益加剧。具体而言，Meta公司（前身为Facebook）旗下的智能眼镜产品销量表现尤为出色，甚至达到“比以往任何时候都卖得更好”的水平，这预示着消费者对这类可穿戴技术的兴趣和接受度正逐步提升。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cj37z8357e5o?at_medium=RSS&at_campaign=rss",
+    "time": "4小时前",
+    "published_iso": "2026-05-13T05:01:07+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "A decade on, Trump returns to a stronger and more assertive China",
+    "deck": "Beijing is arguably the most powerful competitor the US has confronted in its history, one analyst says.",
+    "cnTitle": "特朗普再遇强硬中国挑战",
+    "cnDeck": "唐纳德·特朗普在十年后重新进入美国政治视野，他所面对的中国已非往日可比。据最新分析指出，过去十年间，中国在经济、军事和科技领域实现了显著发展，其国际地位和影响力大幅提升，展现出更加强大和自信的姿态。一位分析师明确指出，\"北京可以说是美国历史上所面对的最强大的竞争对手。\"这一论断不仅凸显了当前中美关系的复杂性和重要性，也预示着未来两国竞争的深度和广度",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cm2py6l78dxo?at_medium=RSS&at_campaign=rss",
+    "time": "11小时前",
+    "published_iso": "2026-05-12T22:07:51+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
+    "headline": "Auto-state lawmakers seek to keep certain Chinese vehicles out of U.S. as Trump heads to Beijing",
+    "deck": "Michigan lawmakers introduced a bipartisan bill to ban Chinese-connected vehicles and technology from the U.S. market over security concerns.",
+    "cnTitle": "美密歇根州议员提议禁止中国智能汽车",
+    "cnDeck": "美国密歇根州的立法者提出了一项两党法案，旨在禁止与中国相关的车辆及技术进入美国市场，其核心理由是国家安全担忧。这一举动凸显了华盛顿方面对中国在关键技术领域日益增长的影响力，特别是在汽车行业，所持的警惕态度。随着现代汽车日益智能化、互联化，它们能够收集并传输大量数据，包括地理位置信息、驾驶习惯乃至车内对话等敏感信息。美国官员和立法者普遍担忧，如果这些车辆及其搭载的技术由与中国政府或军队有联系的企业提供，可能会构成潜在的数据安全风险，甚至可能被用于情报收集或关键基础设施的破坏。",
+    "cat": "finance",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/05/12/trump-congress-china-evs-byd.html",
+    "time": "13小时前",
+    "published_iso": "2026-05-12T20:26:46+00:00",
+    "is_new": true,
+    "id": "n3",
+    "lead": false
+  },
+  {
+    "headline": "This metal just set a new record, boosted by AI data center demand. Citi says it’s time to 'chase the move higher'",
+    "deck": "Citigroup sees copper rising to $15,000 per metric ton, or approximately 7% above the metal's Tuesday close.",
+    "cnTitle": "AI需求推升铜价创新高 花旗预测大涨",
+    "cnDeck": "伦敦金属交易所（LME）的铜价近期创下了历史新高，突破了每吨11,000美元的关键心理关口，显示出市场对这种工业金属的强劲需求。这一显著的上涨趋势主要归因于全球范围内对人工智能（AI）技术快速发展所带来的结构性需求激增。随着全球AI数据中心的建设进入快车道，对电力传输、散热系统及各类电子元件的需求也随之大幅增加。铜凭借其卓越的",
+    "cat": "finance",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/05/12/this-metal-just-set-a-new-record-boosted-by-ai-data-center-demand.html",
+    "time": "13小时前",
+    "published_iso": "2026-05-12T20:18:10+00:00",
+    "is_new": true,
+    "id": "n4",
+    "lead": false
+  },
+  {
+    "headline": "Lebanon says two paramedics among 13 killed in Israeli strikes",
+    "deck": "Lebanon's health ministry says the paramedics were carrying out a rescue mission in Nabatieh in response to an earlier attack that killed one person.",
+    "cnTitle": "以色列空袭致13人死亡",
+    "cnDeck": "黎巴嫩卫生部日前发表声明，强烈谴责以色列对其南部地区的空袭行动，并确认这些袭击已造成包括两名医护人员在内的共13人死亡。根据黎巴嫩卫生部的报告，这两名遇难的医护人员当时正在纳巴提耶（Nabatieh）地区执行一项紧急救援任务。他们赶往现场是为了响应早些时候发生的一次袭击，那次袭击已造成一人死亡。然而，在执行这项人道主义职责",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cx21j3xl72zo?at_medium=RSS&at_campaign=rss",
+    "time": "13小时前",
+    "published_iso": "2026-05-12T20:00:05+00:00",
+    "is_new": true,
+    "id": "n5",
+    "lead": false
+  },
+  {
+    "headline": "Tech Life",
+    "deck": "Crumbling roads and other hazards - can AI make our streets safer?",
+    "cnTitle": "AI技术能否提升道路安全",
+    "cnDeck": "全球道路基础设施面临着路面破损、坑洼不平、标线模糊以及各种交通危险等严峻挑战，这些问题严重威胁着道路使用者的安全。据统计，每年因交通事故造成的死亡人数庞大，其中相当一部分可归因于不良路况和人为驾驶失误。在这样的背景下，人工智能（AI）技术被视为提升街道安全水平、减少事故发生率的关键解决方案。AI在道路安全领域的应用潜力广泛而深远。首先，在道路维护方面，AI驱动的",
+    "cat": "tech",
+    "source": "BBC",
+    "url": "https://www.bbc.co.uk/sounds/play/w3ct8jxv?at_medium=RSS&at_campaign=rss",
+    "time": "13小时前",
+    "published_iso": "2026-05-12T19:45:00+00:00",
+    "is_new": true,
+    "id": "n6",
+    "lead": false
+  },
+  {
     "headline": "Google races to put Gemini at the center of Android before Apple’s AI reboot",
     "deck": "Google is using its latest Android rollout to position Gemini as the AI layer across phones, Chrome, laptops and cars.",
     "cnTitle": "谷歌加速Gemini AI融入安卓，抢占先机",
@@ -9,8 +93,8 @@
     "url": "https://www.cnbc.com/2026/05/12/google-races-put-gemini-at-center-of-android-before-apples-ai-reboot.html",
     "time": "1小时前",
     "published_iso": "2026-05-12T19:22:28+00:00",
-    "id": "n1",
-    "lead": true
+    "id": "n7",
+    "lead": false
   },
   {
     "headline": "Elon Musk said control of OpenAI should go to his children, Sam Altman tells jury",
@@ -22,7 +106,21 @@
     "url": "https://www.bbc.com/news/articles/czj2k2exdzlo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-12T18:51:56+00:00",
-    "id": "n2",
+    "id": "n8",
+    "lead": false
+  },
+  {
+    "headline": "Uganda's president sworn in for record seventh term",
+    "deck": "Yoweri Museveni, 81, won disputed elections in January to extend his 40-year rule.",
+    "cnTitle": "乌干达总统穆塞韦尼第七次就职",
+    "cnDeck": "乌干达现任总统约韦里·穆塞韦尼（Yoweri Museveni），现年81岁，已于近期正式宣誓就职，开启了他创纪录的第七个总统任期。此举进一步延长了他长达40年的统治，使其成为非洲大陆在位时间最长的领导人之一。穆塞韦尼于今年1月举行的总统大选中再次获胜，但此次选举结果引发了广泛争议和质疑。国际观察员、反对党以及部分人权组织对选举的公正性、透明度以及是否存在恐吓和舞弊行为表达了严重关切。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cqxp23272j3o?at_medium=RSS&at_campaign=rss",
+    "time": "18小时前",
+    "published_iso": "2026-05-12T14:58:18+00:00",
+    "is_new": true,
+    "id": "n9",
     "lead": false
   },
   {
@@ -35,7 +133,7 @@
     "url": "https://www.bbc.com/news/articles/cqjpqy19npxo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-12T14:49:54+00:00",
-    "id": "n3",
+    "id": "n10",
     "lead": false
   },
   {
@@ -48,7 +146,7 @@
     "url": "https://www.bbc.com/news/articles/ckgp5ll3jd4o?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-05-12T14:07:18+00:00",
-    "id": "n4",
+    "id": "n11",
     "lead": false
   },
   {
@@ -61,7 +159,21 @@
     "url": "https://www.bbc.com/news/articles/c202pgxx89lo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-12T14:06:08+00:00",
-    "id": "n5",
+    "id": "n12",
+    "lead": false
+  },
+  {
+    "headline": "Canvas hack: Company pays criminals to delete students' stolen data",
+    "deck": "The company behind Canvas says it has \"reached an agreement\" with the hackers who disrupted thousands of colleges and universities.",
+    "cnTitle": "Canvas支付赎金删除学生被盗数据",
+    "cnDeck": "Canvas学习管理系统背后的公司Instructure近期宣布，已与此前攻击其系统的黑客“达成协议”，并向犯罪分子支付了款项，旨在删除被盗的学生数据。此次网络攻击对全球“数千所”学院和大学造成了严重干扰，引发了广泛关注和担忧。",
+    "cat": "tech",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cdepzg83x87o?at_medium=RSS&at_campaign=rss",
+    "time": "23小时前",
+    "published_iso": "2026-05-12T10:31:23+00:00",
+    "is_new": true,
+    "id": "n13",
     "lead": false
   },
   {
@@ -74,8 +186,7 @@
     "url": "https://www.bbc.com/news/articles/c072dvv1rmro?at_medium=RSS&at_campaign=rss",
     "time": "18小时前",
     "published_iso": "2026-05-12T10:01:54+00:00",
-    "is_new": true,
-    "id": "n6",
+    "id": "n14",
     "lead": false
   },
   {
@@ -88,7 +199,7 @@
     "url": "https://www.cnbc.com/2026/05/11/stock-market-today-live-updates.html",
     "time": "刚刚",
     "published_iso": "2026-05-12T09:24:15+00:00",
-    "id": "n7",
+    "id": "n15",
     "lead": false
   },
   {
@@ -101,7 +212,7 @@
     "url": "https://www.bbc.com/news/articles/c78k405j8pdo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-12T07:46:47+00:00",
-    "id": "n8",
+    "id": "n16",
     "lead": false
   },
   {
@@ -114,7 +225,7 @@
     "url": "https://www.bbc.com/news/articles/c5yx757w048o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-12T07:38:59+00:00",
-    "id": "n9",
+    "id": "n17",
     "lead": false
   },
   {
@@ -127,7 +238,7 @@
     "url": "https://www.bbc.com/news/articles/c202xrd9gn7o?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-12T07:31:14+00:00",
-    "id": "n10",
+    "id": "n18",
     "lead": false
   },
   {
@@ -140,7 +251,7 @@
     "url": "https://www.bbc.com/news/articles/cn8p1zrr9nxo?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-05-12T04:37:03+00:00",
-    "id": "n11",
+    "id": "n19",
     "lead": false
   },
   {
@@ -153,7 +264,7 @@
     "url": "https://www.bbc.com/news/articles/c202ngg45x8o?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-05-12T04:11:42+00:00",
-    "id": "n12",
+    "id": "n20",
     "lead": false
   },
   {
@@ -166,7 +277,7 @@
     "url": "https://www.bbc.com/news/articles/cwy2rnyg50zo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-12T03:40:29+00:00",
-    "id": "n13",
+    "id": "n21",
     "lead": false
   },
   {
@@ -179,7 +290,7 @@
     "url": "https://www.cnbc.com/2026/05/12/oil-prices-today-brent-wti-trump-iran-war-hormuz.html",
     "time": "1小时前",
     "published_iso": "2026-05-12T02:57:52+00:00",
-    "id": "n14",
+    "id": "n22",
     "lead": false
   },
   {
@@ -192,7 +303,7 @@
     "url": "https://www.cnbc.com/2026/05/12/trump-xi-china-summit-taiwan-arms-sale-jimmy-lai-.html",
     "time": "2小时前",
     "published_iso": "2026-05-12T01:37:46+00:00",
-    "id": "n15",
+    "id": "n23",
     "lead": false
   },
   {
@@ -205,7 +316,7 @@
     "url": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-05-12T00:59:12+00:00",
-    "id": "n16",
+    "id": "n24",
     "lead": false
   },
   {
@@ -218,7 +329,7 @@
     "url": "https://www.bbc.com/news/articles/cx21669452lo?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-05-11T23:56:11+00:00",
-    "id": "n17",
+    "id": "n25",
     "lead": false
   },
   {
@@ -231,7 +342,7 @@
     "url": "https://www.bbc.com/news/articles/ceqprgen1nyo?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-05-11T23:20:53+00:00",
-    "id": "n18",
+    "id": "n26",
     "lead": false
   },
   {
@@ -244,7 +355,7 @@
     "url": "https://www.cnbc.com/2026/05/11/supreme-court-alabama-republicans.html",
     "time": "5小时前",
     "published_iso": "2026-05-11T23:18:55+00:00",
-    "id": "n19",
+    "id": "n27",
     "lead": false
   },
   {
@@ -257,7 +368,7 @@
     "url": "https://www.bbc.com/news/articles/c9369q3g7w7o?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-05-11T21:44:20+00:00",
-    "id": "n20",
+    "id": "n28",
     "lead": false
   },
   {
@@ -270,7 +381,7 @@
     "url": "https://www.bbc.com/news/articles/c202wp2rl09o?at_medium=RSS&at_campaign=rss",
     "time": "13小时前",
     "published_iso": "2026-05-11T19:37:17+00:00",
-    "id": "n21",
+    "id": "n29",
     "lead": false
   },
   {
@@ -283,7 +394,7 @@
     "url": "https://www.cnbc.com/2026/05/11/google-thwarts-effort-hacker-group-use-ai-mass-exploitation-event.html",
     "time": "2小时前",
     "published_iso": "2026-05-11T18:11:04+00:00",
-    "id": "n22",
+    "id": "n30",
     "lead": false
   },
   {
@@ -296,7 +407,7 @@
     "url": "https://www.cnbc.com/2026/05/11/multiple-firms-have-1000-price-target-on-micron.html",
     "time": "2小时前",
     "published_iso": "2026-05-11T18:03:24+00:00",
-    "id": "n23",
+    "id": "n31",
     "lead": false
   },
   {
@@ -309,7 +420,21 @@
     "url": "https://www.cnbc.com/2026/05/11/series-of-court-decisions-weaken-democrats-odds-of-winning-the-house.html",
     "time": "11小时前",
     "published_iso": "2026-05-11T17:28:38+00:00",
-    "id": "n24",
+    "id": "n32",
+    "lead": false
+  },
+  {
+    "headline": "Oil price predicted to remain above $100 for rest of year",
+    "deck": "Investment bank JP Morgan expects oil to remain in the \"low $100s\" even if the Strait of Hormuz were to reopen next month.",
+    "cnTitle": "摩根大通预测油价全年维持百美元以上",
+    "cnDeck": "摩根大通，全球领先的投资银行之一，日前发布一份备受市场关注的分析报告，预测全球原油价格在今年剩余时间内将持续维持在“低一百美元区间”。这一预测传递出强烈信号，表明该机构认为原油市场面临的结构性支撑因素将强劲地推动价格保持在高位，即便一些关键的地缘政治风险事件得到缓解。报告特别指出，即使连接波斯湾和阿曼湾、全球最繁忙的石油运输咽喉——霍尔木兹海峡，在下个月重新开放并恢复正常的航运流量，原油价格也预计不会大幅回落。霍尔木兹海峡在全球石油供应链中扮演着不可替代的角色，每天有数百万桶原油通过该海峡运往世界各地。历史上，任何关于该海峡航运中断的担忧，无论是地缘政治冲突、军事演习还是安全威胁，都曾迅速引发原油价格飙升，因为市场普遍预期这将直接影响全球原油供应。因此，摩根大通在考虑到这一重要供应风险可能消弭的情况下，仍维持其看涨预测，凸显了其对当前全球原油市场基本面有着不同寻常的解读。分析人士认为，摩根大通的这一前瞻性判断可能基于多重因素。首先，全球原油需求侧的韧性超出预期。尽管面临全球经济增速放缓的风险，但主要经济体的工业活动和交通运输需求依然保持相对稳定，尤其是在亚洲新兴市场。其次，全球原油供应端的增长受到多重限制。石油输出国组织及其盟友（OPEC+）的减产协议仍在生效，部分成员国可能未能达到其增产目标。同时，对新油田的长期投资不足、现有油田的老化以及地缘政治紧张局势对部分产油国的生产能力造成了持续影响。此外，西方国家对俄罗斯石油的制裁以及对伊朗石油出口的限制，也持续影响着全球原油的有效供应。摩根大通的这一预测对全球经济和金融市场具有深远影响。对于消费者而言，高企的能源价格意味着更高的燃料费和取暖成本，可能进一步侵蚀家庭购买力，加剧通胀压力。对于企业，尤其是高度依赖能源的制造业、运输业和航空业，运营成本将显著增加，可能压缩利润空间，并最终转嫁给消费者。对于各国央行而言，持续的高油价将使其在应对通胀和维持经济增长之间面临更为艰难的权衡。高油价可能使得通胀难以在短期内回落到目标水平，从而迫使央行在货币政策上保持更长时间的紧缩姿态，甚至考虑进一步加息，这无疑会增加全球经济陷入衰退的风险。在金融市场方面，原油价格",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/ckgp4ev4yg4o?at_medium=RSS&at_campaign=rss",
+    "time": "1天前",
+    "published_iso": "2026-05-11T16:57:15+00:00",
+    "is_new": true,
+    "id": "n33",
     "lead": false
   },
   {
@@ -322,7 +447,7 @@
     "url": "https://www.bbc.com/news/articles/cr5p85v446ro?at_medium=RSS&at_campaign=rss",
     "time": "12小时前",
     "published_iso": "2026-05-11T16:30:04+00:00",
-    "id": "n25",
+    "id": "n34",
     "lead": false
   },
   {
@@ -335,7 +460,7 @@
     "url": "https://www.bbc.com/news/articles/cn0pgl0vk0qo?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-11T13:15:30+00:00",
-    "id": "n26",
+    "id": "n35",
     "lead": false
   },
   {
@@ -348,7 +473,7 @@
     "url": "https://www.bbc.com/news/articles/c1j257w87neo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-11T10:16:50+00:00",
-    "id": "n27",
+    "id": "n36",
     "lead": false
   },
   {
@@ -361,59 +486,7 @@
     "url": "https://www.bbc.com/news/articles/c8xwg0gdrpzo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-11T10:13:05+00:00",
-    "id": "n28",
-    "lead": false
-  },
-  {
-    "headline": "Philippine VP Sara Duterte impeached for a second time",
-    "deck": "If convicted in a Senate trial, which is uncertain, she will be disqualified from running for president.",
-    "cnTitle": "菲律宾副总统杜特尔特二度遭弹劾",
-    "cnDeck": "菲律宾政坛近日因副总统萨拉·杜特尔特（Sara Duterte）第二次面临弹劾动议而掀起轩然大波，这一事件迅速成为该国乃至国际社会关注的焦点，预示着菲律宾政治格局可能迎来重大调整。萨拉·杜特尔特是前总统罗德里戈·杜特尔特（Rodrigo Duterte）的女儿，她在菲律宾政坛拥有举足轻重的地位，此前曾担任达沃市市长，并以其果断和强硬的政治风格赢得了广泛支持，尤其在菲律宾南部地区。此次针对她的弹劾动议，无疑对其未来的政治抱负，特别是竞选总统的计划，构成了严峻挑战。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cqlp21q4yq4o?at_medium=RSS&at_campaign=rss",
-    "time": "1小时前",
-    "published_iso": "2026-05-11T09:28:53+00:00",
-    "id": "n29",
-    "lead": false
-  },
-  {
-    "headline": "Trump's China visit set to test fragile truce",
-    "deck": "The first US presidential visit to China in almost 10 years will test a fragile tariff truce.",
-    "cnTitle": "特朗普访华将考验贸易休战",
-    "cnDeck": "美国总统特朗普即将对中国进行访问，这将是近十年来首次有美国总统访华。此次访问被广泛视为对当前中美之间“脆弱的关税休战”的一次重大考验。在过去几年中，美国和中国这两个全球最大的经济体在贸易、技术和地缘政治等多个领域持续存在摩擦，特别是关税问题一度引发全面的贸易战。双方此前曾达成一系列协议，旨在缓解贸易紧张局势，暂停加征新的关税，并试图解决长期存在的贸易逆差和市场准入等结构性问题。然而，这些协议往往被描述为临时性的，其执行情况和持续性一直备受质疑，因此被称之为“脆弱的休战”。此次访问的焦点将集中在如何巩固并推进这一休战，避免贸易关系再次恶化。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c3rz75rgn8zo?at_medium=RSS&at_campaign=rss",
-    "time": "1小时前",
-    "published_iso": "2026-05-11T09:26:33+00:00",
-    "id": "n30",
-    "lead": false
-  },
-  {
-    "headline": "Modi urges Indians to work from home and limit foreign travel as Iran war continues",
-    "deck": "He said the austerity measures would reduce India's fuel use and help save foreign exchange.",
-    "cnTitle": "莫迪呼吁印度国民因伊朗战争节约能源",
-    "cnDeck": "印度总理纳伦德拉·莫迪近期向全国人民发出呼吁，敦促国民在伊朗战争持续之际，采取一系列节俭措施，以应对可能出现的经济挑战。莫迪总理特别强调，鉴于中东地区局势因伊朗战争而持续紧张，国际原油价格波动加剧，这直接对印度这样一个高度依赖原油进口的国家构成巨大压力。为了缓解这种压力，他建议印度民众尽可能实行远程办公（work from home），并限制不必要的",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c8r8e2ne1v6o?at_medium=RSS&at_campaign=rss",
-    "time": "3小时前",
-    "published_iso": "2026-05-11T07:13:41+00:00",
-    "id": "n31",
-    "lead": false
-  },
-  {
-    "headline": "Saudi Aramco first-quarter profit jumps 26% as key pipeline reaches capacity amid Iran war",
-    "deck": "Aramco says its East-West pipeline has helped to mitigate the energy shock caused by the Iran war.",
-    "cnTitle": "沙特阿美利润大增26% 应对伊朗危机",
-    "cnDeck": "沙特阿拉伯国家石油公司（Saudi Aramco）近日宣布，其第一季度利润实现显著增长，同比飙升26%。这一令人瞩目的业绩发生在公司的关键基础设施——东-西（East-West）输油管道达到最大输送能力之际，并且正值全球能源市场因“伊朗战争”而面临巨大冲击的敏感时期。Aramco方面公开表示，其东-西输油管道在有效缓解由“伊朗战争”所引发的全球能源供应紧张和",
-    "cat": "finance",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/05/10/saudi-aramco-q1-profit-jumps-26percent-as-key-pipeline-reaches-capacity.html",
-    "time": "4小时前",
-    "published_iso": "2026-05-11T05:47:13+00:00",
-    "id": "n32",
+    "id": "n37",
     "lead": false
   }
 ]
