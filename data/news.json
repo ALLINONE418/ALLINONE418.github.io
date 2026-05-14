@@ -1,5 +1,47 @@
 [
   {
+    "headline": "Americans still feel pessimistic about the economy. When will it get better?",
+    "deck": "U.S. consumer sentiment has been on a downward trend since the Covid pandemic. Inflation, wars and Trump's tariffs are to blame, economists say.",
+    "cnTitle": "美国消费者经济信心持续低迷",
+    "cnDeck": "美国消费者对经济的悲观情绪持续存在，反映出民众对当前经济状况和未来前景的深切担忧。自新冠疫情爆发以来，美国消费者信心指数一直处于下降趋势，未能有效反弹，这与经济学家们指出的多重复杂因素密切相关。消费者信心指数是衡量家庭对经济未来展望的关键指标，其持续低迷通常预示着消费支出可能放缓，进而对整体经济增长构成压力。尽管美国劳动力市场表现出一定的韧性，失业率维持在历史低位，但普通民众的实际感受却与宏观数据存在明显偏差，这正是当前经济困境的写照。经济学家们普遍认为，导致消费者悲观情绪的主要原因包括通货膨胀、地缘政治冲突以及前总统特朗普时期实施的关税政策。首先是持续高企的通货膨胀。在过去几年中，美国经历了数十年来最严重的通胀，尽管近期通胀率有所回落，但累计效应已显著侵蚀了消费者的购买力。食品、汽油和住房等基本生活成本的上涨，使得许多家庭的预算捉襟见肘，可支配收入减少。民众普遍感受到生活成本压力巨大，对未来物价走势感到不安，从而影响了他们的消费意愿和投资信心。这种持续的物价上涨压力，使得许多家庭即便收入有所增长，也难以感受到财富的实际提升。其次，全球范围内的战争冲突，特别是俄罗斯-乌克兰战争以及中东地区日益紧张的局势，对全球经济稳定性和供应链造成了严重冲击。这些冲突不仅推高了能源和大宗商品价格，加剧了通货膨胀压力，也增加了地缘政治的不确定性。例如，乌克兰战争导致全球粮食和能源供应紧张，直接影响了各国，包括美国在内的物价水平。中东冲突则可能进一步扰乱全球原油市场，使得燃料价格再次飙升，进而传导至商品和服务价格。这种宏观层面的不稳定性，使得消费者对未来经济环境充满忧虑，担忧经济衰退或进一步的外部冲击。再者，前总统特朗普时期实施的一系列关税政策，特别是对中国商品加征的关税，也对美国经济产生了长期影响。这些关税旨在保护国内产业，但在实际操作中，往往导致进口商品成本上升，最终由消费者承担，进一步推高了物价。同时，贸易战带来的不确定性也使得企业投资决策更加谨慎，可能阻碍经济增长和就业创造。经济学家指出，这些贸易壁垒不仅未能完全达到预期效果，反而扭曲了全球供应链，增加了企业运营成本，间接加剧了美国市场的通胀压力和经济波动性。综合来看，这些因素相互交织，共同塑造了当前美国消费者持续低迷的经济信心。尽管政府和美联储已采取多项措施来应对通胀，并试图稳定经济，但消费者信心的恢复需要更长时间，也需要看到通胀的持续有效缓解、地缘政治风险的降低以及贸易政策的稳定。在这些问题未能得到根本性改善之前，美国民众对经济前景的悲观情绪可能难以迅速消散。",
+    "cat": "economy",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/05/14/consumer-confidence-us-economy-inflation-iran-war-trade.html",
+    "time": "刚刚",
+    "published_iso": "2026-05-14T14:41:17+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "Honda makes its first annual loss in 70 years",
+    "deck": "The firm will now pivot away from scrapping its target for all of its vehicles to be electric by 2040.",
+    "cnTitle": "本田七十年首亏，坚持2040全面电动化目标",
+    "cnDeck": "日本汽车制造商本田公司近日宣布，录得其过去七十年来的首次年度亏损，这一历史性业绩标志着公司运营面临前所未有的挑战。此前，本田一直被视为全球汽车行业的典范，其工程技术与盈利能力备受赞誉。此次巨额亏损的披露，无疑对本田的财务健康和未来发展前景投下了一层阴影，也反映出当前全球汽车市场，特别是向电动化转型过程中所面临的巨大压力。造成本田此次年度亏损的原因是多方面的。全球经济下行、供应链中断、原材料成本飙升，以及半导体芯片的持续短缺，都对本田的生产和销售造成了严重冲击。此外，为了在全球电动汽车（EV）浪潮中保持竞争力，本田在电动化技术研发、电池生产以及全新电动车型平台搭建方面投入了巨额资金。这些高昂的研发和转型成本，在短期内尚未能转化为可观的销售回报，进一步加剧了公司的财务负担。激烈的市场竞争也导致传统燃油车利润空间被压缩，而新兴电动车市场的价格战则让利润增长变得更加困难。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c794lj90jqpo?at_medium=RSS&at_campaign=rss",
+    "time": "1小时前",
+    "published_iso": "2026-05-14T13:25:07+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
+    "headline": "Faisal Islam: Six things we now know about the UK economy in charts",
+    "deck": "The UK economy is showing resilience – it’s worth diving into the data in more detail to understand why.",
+    "cnTitle": "英国经济显韧性，数据分析揭示原因",
+    "cnDeck": "BBC经济编辑费萨尔·伊斯兰（Faisal Islam）近日发表深入分析文章，通过详细的图表数据，探讨了英国经济展现出韧性的六个关键方面。伊斯兰指出，尽管在过去一年中英国面临着高通胀、能源价格飙升以及全球经济增长放缓等多重挑战，但其经济表现出乎许多经济学家的悲观预期，并未陷入长期或严重的衰退，反而显现出积极的适应和恢复能力。他的分析旨在揭示支撑这种韧性的深层原因，为理解当前及未来英国经济走势提供依据。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/clyprjddgj3o?at_medium=RSS&at_campaign=rss",
+    "time": "2小时前",
+    "published_iso": "2026-05-14T13:08:42+00:00",
+    "is_new": true,
+    "id": "n3",
+    "lead": false
+  },
+  {
     "headline": "UK economy sees surprise growth in March despite Iran war",
     "deck": "The economy grew by 0.3% in the month, official figures show, confounding  analysts' forecasts of a small contraction.",
     "cnTitle": "英国经济3月意外增长",
@@ -9,9 +51,8 @@
     "url": "https://www.bbc.com/news/articles/cx213n20njzo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-14T09:10:39+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n4",
+    "lead": false
   },
   {
     "headline": "Cuba has run out of diesel and oil, energy minister says",
@@ -23,8 +64,7 @@
     "url": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-14T09:06:23+00:00",
-    "is_new": true,
-    "id": "n2",
+    "id": "n5",
     "lead": false
   },
   {
@@ -37,8 +77,7 @@
     "url": "https://www.bbc.com/news/articles/cq5p8yygq94o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-14T08:46:58+00:00",
-    "is_new": true,
-    "id": "n3",
+    "id": "n6",
     "lead": false
   },
   {
@@ -51,8 +90,7 @@
     "url": "https://www.bbc.com/news/videos/c707xn4ew3po?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-14T07:13:24+00:00",
-    "is_new": true,
-    "id": "n4",
+    "id": "n7",
     "lead": false
   },
   {
@@ -65,8 +103,7 @@
     "url": "https://www.bbc.com/news/articles/c7v9ld262n4o?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-05-14T05:10:45+00:00",
-    "is_new": true,
-    "id": "n5",
+    "id": "n8",
     "lead": false
   },
   {
@@ -79,8 +116,7 @@
     "url": "https://www.bbc.com/news/articles/cy42dgj0x32o?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-05-14T05:09:04+00:00",
-    "is_new": true,
-    "id": "n6",
+    "id": "n9",
     "lead": false
   },
   {
@@ -93,7 +129,7 @@
     "url": "https://www.cnbc.com/2026/05/14/trump-xi-beijing-summit-trade-taiwan-ai-iran-rare-earths-tariffs.html",
     "time": "刚刚",
     "published_iso": "2026-05-14T04:17:27+00:00",
-    "id": "n7",
+    "id": "n10",
     "lead": false
   },
   {
@@ -106,8 +142,7 @@
     "url": "https://www.cnbc.com/2026/05/13/cerebras-prices-ipo-above-expected-range-wall-street-expects-ai-flood.html",
     "time": "8小时前",
     "published_iso": "2026-05-14T00:39:53+00:00",
-    "is_new": true,
-    "id": "n8",
+    "id": "n11",
     "lead": false
   },
   {
@@ -120,7 +155,7 @@
     "url": "https://www.cnbc.com/2026/05/13/kevin-warsh-wins-senate-confirmation-as-the-next-federal-reserve-chair.html",
     "time": "5小时前",
     "published_iso": "2026-05-13T23:21:35+00:00",
-    "id": "n9",
+    "id": "n12",
     "lead": false
   },
   {
@@ -133,7 +168,7 @@
     "url": "https://www.bbc.com/news/articles/clyprnelzxzo?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-05-13T23:03:15+00:00",
-    "id": "n10",
+    "id": "n13",
     "lead": false
   },
   {
@@ -146,7 +181,7 @@
     "url": "https://www.bbc.com/news/articles/ce8p71p4nezo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-13T20:15:33+00:00",
-    "id": "n11",
+    "id": "n14",
     "lead": false
   },
   {
@@ -159,7 +194,7 @@
     "url": "https://www.bbc.com/news/articles/c1k2zekj8y9o?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-05-13T17:22:49+00:00",
-    "id": "n12",
+    "id": "n15",
     "lead": false
   },
   {
@@ -172,7 +207,7 @@
     "url": "https://www.cnbc.com/2026/05/13/trump-construction-iran-war-trucking-construction-gas-tax-holiday.html",
     "time": "11小时前",
     "published_iso": "2026-05-13T17:14:52+00:00",
-    "id": "n13",
+    "id": "n16",
     "lead": false
   },
   {
@@ -185,7 +220,7 @@
     "url": "https://www.bbc.com/news/articles/c1w28qw1e0xo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-05-13T17:00:12+00:00",
-    "id": "n14",
+    "id": "n17",
     "lead": false
   },
   {
@@ -198,8 +233,7 @@
     "url": "https://www.bbc.com/news/articles/cnvp730yd52o?at_medium=RSS&at_campaign=rss",
     "time": "17小时前",
     "published_iso": "2026-05-13T15:35:15+00:00",
-    "is_new": true,
-    "id": "n15",
+    "id": "n18",
     "lead": false
   },
   {
@@ -212,7 +246,7 @@
     "url": "https://www.cnbc.com/2026/05/13/anduril-valuation-defense-tech-funding-boom.html",
     "time": "刚刚",
     "published_iso": "2026-05-13T15:25:31+00:00",
-    "id": "n16",
+    "id": "n19",
     "lead": false
   },
   {
@@ -225,7 +259,7 @@
     "url": "https://www.bbc.com/news/articles/ce3pj85depzo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-13T14:51:30+00:00",
-    "id": "n17",
+    "id": "n20",
     "lead": false
   },
   {
@@ -238,7 +272,7 @@
     "url": "https://www.bbc.com/news/articles/cwy2011dl4xo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-13T14:40:20+00:00",
-    "id": "n18",
+    "id": "n21",
     "lead": false
   },
   {
@@ -251,7 +285,7 @@
     "url": "https://www.bbc.com/news/articles/c99lmyr1dnxo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-13T14:00:58+00:00",
-    "id": "n19",
+    "id": "n22",
     "lead": false
   },
   {
@@ -264,8 +298,7 @@
     "url": "https://www.bbc.com/news/articles/clypr378l2wo?at_medium=RSS&at_campaign=rss",
     "time": "19小时前",
     "published_iso": "2026-05-13T13:46:15+00:00",
-    "is_new": true,
-    "id": "n20",
+    "id": "n23",
     "lead": false
   },
   {
@@ -278,8 +311,7 @@
     "url": "https://www.bbc.com/news/articles/cedpv17gqqzo?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-05-13T08:24:28+00:00",
-    "is_new": true,
-    "id": "n21",
+    "id": "n24",
     "lead": false
   },
   {
@@ -292,8 +324,7 @@
     "url": "https://www.bbc.com/news/articles/c5yx757w048o?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-05-13T07:10:29+00:00",
-    "is_new": true,
-    "id": "n22",
+    "id": "n25",
     "lead": false
   },
   {
@@ -306,7 +337,7 @@
     "url": "https://www.bbc.com/news/articles/cj37z8357e5o?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-05-13T05:01:07+00:00",
-    "id": "n23",
+    "id": "n26",
     "lead": false
   },
   {
@@ -319,7 +350,7 @@
     "url": "https://www.bbc.com/news/articles/cm2py6l78dxo?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-05-12T22:07:51+00:00",
-    "id": "n24",
+    "id": "n27",
     "lead": false
   },
   {
@@ -332,7 +363,7 @@
     "url": "https://www.cnbc.com/2026/05/12/trump-congress-china-evs-byd.html",
     "time": "13小时前",
     "published_iso": "2026-05-12T20:26:46+00:00",
-    "id": "n25",
+    "id": "n28",
     "lead": false
   },
   {
@@ -345,7 +376,7 @@
     "url": "https://www.cnbc.com/2026/05/12/this-metal-just-set-a-new-record-boosted-by-ai-data-center-demand.html",
     "time": "13小时前",
     "published_iso": "2026-05-12T20:18:10+00:00",
-    "id": "n26",
+    "id": "n29",
     "lead": false
   },
   {
@@ -358,7 +389,7 @@
     "url": "https://www.bbc.com/news/articles/cx21j3xl72zo?at_medium=RSS&at_campaign=rss",
     "time": "13小时前",
     "published_iso": "2026-05-12T20:00:05+00:00",
-    "id": "n27",
+    "id": "n30",
     "lead": false
   },
   {
@@ -371,7 +402,7 @@
     "url": "https://www.bbc.co.uk/sounds/play/w3ct8jxv?at_medium=RSS&at_campaign=rss",
     "time": "13小时前",
     "published_iso": "2026-05-12T19:45:00+00:00",
-    "id": "n28",
+    "id": "n31",
     "lead": false
   },
   {
@@ -384,7 +415,7 @@
     "url": "https://www.cnbc.com/2026/05/12/google-races-put-gemini-at-center-of-android-before-apples-ai-reboot.html",
     "time": "1小时前",
     "published_iso": "2026-05-12T19:22:28+00:00",
-    "id": "n29",
+    "id": "n32",
     "lead": false
   },
   {
@@ -397,7 +428,7 @@
     "url": "https://www.bbc.com/news/articles/czj2k2exdzlo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-12T18:51:56+00:00",
-    "id": "n30",
+    "id": "n33",
     "lead": false
   },
   {
@@ -410,85 +441,7 @@
     "url": "https://www.bbc.com/news/articles/c4g48kj40lwo?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-05-12T16:19:24+00:00",
-    "id": "n31",
-    "lead": false
-  },
-  {
-    "headline": "Uganda's president sworn in for record seventh term",
-    "deck": "Yoweri Museveni, 81, won disputed elections in January to extend his 40-year rule.",
-    "cnTitle": "乌干达总统穆塞韦尼第七次就职",
-    "cnDeck": "乌干达现任总统约韦里·穆塞韦尼（Yoweri Museveni），现年81岁，已于近期正式宣誓就职，开启了他创纪录的第七个总统任期。此举进一步延长了他长达40年的统治，使其成为非洲大陆在位时间最长的领导人之一。穆塞韦尼于今年1月举行的总统大选中再次获胜，但此次选举结果引发了广泛争议和质疑。国际观察员、反对党以及部分人权组织对选举的公正性、透明度以及是否存在恐吓和舞弊行为表达了严重关切。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cqxp23272j3o?at_medium=RSS&at_campaign=rss",
-    "time": "18小时前",
-    "published_iso": "2026-05-12T14:58:18+00:00",
-    "id": "n32",
-    "lead": false
-  },
-  {
-    "headline": "UK borrowing costs jump as uncertainty over PM's future continues",
-    "deck": "The possibility of a change of leadership in the UK has unsettled some investors and sent bond yields higher.",
-    "cnTitle": "英国政局不稳推高借贷成本",
-    "cnDeck": "近期，英国政坛持续动荡，围绕首相未来去向的不确定性不断加剧，对全球金融市场造成显著冲击，导致英国政府的借贷成本急剧攀升。这一情势引发了国际投资者的高度关注，并促使英国国债收益率大幅上扬。市场分析人士普遍指出，无论是首相地位面临挑战、即将举行的领导权争夺，还是关于其去留问题的持续悬而未决，都使得全球投资者对英国未来的经济政策方向和财政",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cqjpqy19npxo?at_medium=RSS&at_campaign=rss",
-    "time": "刚刚",
-    "published_iso": "2026-05-12T14:49:54+00:00",
-    "id": "n33",
-    "lead": false
-  },
-  {
-    "headline": "eBay rejects $55.5bn offer from GameStop",
-    "deck": "The online auction giant said it doubted how the video game retailer would finance its offer.",
-    "cnTitle": "eBay拒绝GameStop 555亿美元报价",
-    "cnDeck": "全球知名的在线拍卖巨头eBay于近日正式拒绝了视频游戏零售商GameStop提出的一项价值高达555亿美元的收购要约。eBay方面明确表示，其对GameStop如何能够为如此大规模的交易提供资金来源持严重怀疑态度，这是导致其拒绝该要约的核心原因。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/ckgp5ll3jd4o?at_medium=RSS&at_campaign=rss",
-    "time": "6小时前",
-    "published_iso": "2026-05-12T14:07:18+00:00",
     "id": "n34",
-    "lead": false
-  },
-  {
-    "headline": "US inflation jumps to 3.8% as energy costs surge from Iran war",
-    "deck": "The key measure of US inflation rises its highest level since May 2023 as consumers feel the impact of the Iran war.",
-    "cnTitle": "伊朗战争推高美国通胀至3.8%",
-    "cnDeck": "美国最新的通货膨胀数据显示，关键通胀指标已跃升至3.8%，创下自2023年5月以来的最高水平。这一显著增长主要归因于能源成本的急剧飙升，而能源价格上涨的背后，则是持续升级的伊朗战争所带来的深远影响。消费者正直接感受到这场地缘政治冲突对日常开支的冲击，生活成本压力进一步增大。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c202pgxx89lo?at_medium=RSS&at_campaign=rss",
-    "time": "1小时前",
-    "published_iso": "2026-05-12T14:06:08+00:00",
-    "id": "n35",
-    "lead": false
-  },
-  {
-    "headline": "Canvas hack: Company pays criminals to delete students' stolen data",
-    "deck": "The company behind Canvas says it has \"reached an agreement\" with the hackers who disrupted thousands of colleges and universities.",
-    "cnTitle": "Canvas支付赎金删除学生被盗数据",
-    "cnDeck": "Canvas学习管理系统背后的公司Instructure近期宣布，已与此前攻击其系统的黑客“达成协议”，并向犯罪分子支付了款项，旨在删除被盗的学生数据。此次网络攻击对全球“数千所”学院和大学造成了严重干扰，引发了广泛关注和担忧。",
-    "cat": "tech",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cdepzg83x87o?at_medium=RSS&at_campaign=rss",
-    "time": "23小时前",
-    "published_iso": "2026-05-12T10:31:23+00:00",
-    "id": "n36",
-    "lead": false
-  },
-  {
-    "headline": "Texas accuses Netflix of spying on users, including children",
-    "deck": "The lawsuit comes amid increased scrutiny over platform features like auto-play that deliver endless content to users.",
-    "cnTitle": "得州起诉网飞侵犯用户隐私",
-    "cnDeck": "美国得克萨斯州（简称得州）已正式对流媒体巨头Netflix提起诉讼，指控该公司涉嫌“监视”其用户，其中包括未成年儿童。这项诉讼引发了广泛关注，特别是在当前各界对大型科技平台数据隐私政策及其对用户，尤其是儿童用户潜在影响日益严格审视的背景下。得州方面声称，Netflix通过其平台特性，例如自动播放功能（auto-play），可能在未经用户明确同意的情况下，收集并分析了大量用户行为数据。这种数据收集方式，根据指控，可能超出了服务提供商的合理需求，并构成了对用户隐私权的侵犯。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c072dvv1rmro?at_medium=RSS&at_campaign=rss",
-    "time": "18小时前",
-    "published_iso": "2026-05-12T10:01:54+00:00",
-    "id": "n37",
     "lead": false
   }
 ]
