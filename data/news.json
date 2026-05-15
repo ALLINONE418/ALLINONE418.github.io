@@ -1,5 +1,33 @@
 [
   {
+    "headline": "Trump brought top CEOs to Beijing but few big deals emerge",
+    "deck": "There were plenty of choreographed ceremonies but no sweeping trade breakthrough as Trump met Xi in Beijing.",
+    "cnTitle": "特朗普访华贸易成果有限",
+    "cnDeck": "美国前总统唐纳德·特朗普携一众美国顶级企业首席执行官（CEO）对中国北京进行了备受瞩目的国事访问，期间与中国国家主席习近平举行了会晤。此次访问，作为两国元首间的重要外交活动，承载了外界对中美贸易关系取得实质性突破的巨大期望。特朗普总统此行旨在寻求解决长期存在的中美贸易逆差问题，推动中国进一步开放市场，并就知识产权保护等核心经济议题达成具体协议。随行的大批美国企业高管也显示出美方希望在访问期间能够促成一系列重大商业交易和投资协议的强烈意愿，以期为美国企业在中国市场创造更多机遇。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss",
+    "time": "3小时前",
+    "published_iso": "2026-05-15T01:37:31+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "Why Modi wants Indians to buy less gold and take fewer foreign holidays",
+    "deck": "Modi has urged Indians to save dollars as war and oil shocks strain the rupee and economy further this year.",
+    "cnTitle": "莫迪呼吁国民减少黄金和境外消费",
+    "cnDeck": "印度总理纳伦德拉·莫迪近期向全国民众发出呼吁，敦促印度人减少购买黄金并减少境外旅游，以此作为应对当前经济挑战的一项重要举措。莫迪总理明确指出，印度需要努力节约美元，以应对今年可能因战争和石油冲击而进一步加剧的卢比贬值和经济负担。此番表态是在全球地缘政治紧张局势加剧、国际原油价格波动以及由此对印度卢比和整体经济造成巨大压力的",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c775v7dlndyo?at_medium=RSS&at_campaign=rss",
+    "time": "4小时前",
+    "published_iso": "2026-05-14T23:49:30+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
     "headline": "Americans still feel pessimistic about the economy. When will it get better?",
     "deck": "U.S. consumer sentiment has been on a downward trend since the Covid pandemic. Inflation, wars and Trump's tariffs are to blame, economists say.",
     "cnTitle": "美国消费者经济信心持续低迷",
@@ -9,8 +37,8 @@
     "url": "https://www.cnbc.com/2026/05/14/consumer-confidence-us-economy-inflation-iran-war-trade.html",
     "time": "刚刚",
     "published_iso": "2026-05-14T14:41:17+00:00",
-    "id": "n1",
-    "lead": true
+    "id": "n3",
+    "lead": false
   },
   {
     "headline": "Honda makes its first annual loss in 70 years",
@@ -22,7 +50,7 @@
     "url": "https://www.bbc.com/news/articles/c794lj90jqpo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-14T13:25:07+00:00",
-    "id": "n2",
+    "id": "n4",
     "lead": false
   },
   {
@@ -35,7 +63,7 @@
     "url": "https://www.bbc.com/news/articles/clyprjddgj3o?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-14T13:08:42+00:00",
-    "id": "n3",
+    "id": "n5",
     "lead": false
   },
   {
@@ -48,8 +76,7 @@
     "url": "https://www.bbc.com/news/articles/cdxpypg9dgeo?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-05-14T13:02:13+00:00",
-    "is_new": true,
-    "id": "n4",
+    "id": "n6",
     "lead": false
   },
   {
@@ -62,7 +89,7 @@
     "url": "https://www.bbc.com/news/articles/cx213n20njzo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-14T09:10:39+00:00",
-    "id": "n5",
+    "id": "n7",
     "lead": false
   },
   {
@@ -75,7 +102,7 @@
     "url": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-14T09:06:23+00:00",
-    "id": "n6",
+    "id": "n8",
     "lead": false
   },
   {
@@ -88,7 +115,7 @@
     "url": "https://www.bbc.com/news/articles/cq5p8yygq94o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-14T08:46:58+00:00",
-    "id": "n7",
+    "id": "n9",
     "lead": false
   },
   {
@@ -101,7 +128,7 @@
     "url": "https://www.bbc.com/news/videos/c707xn4ew3po?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-14T07:13:24+00:00",
-    "id": "n8",
+    "id": "n10",
     "lead": false
   },
   {
@@ -114,7 +141,7 @@
     "url": "https://www.bbc.com/news/articles/c7v9ld262n4o?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-05-14T05:10:45+00:00",
-    "id": "n9",
+    "id": "n11",
     "lead": false
   },
   {
@@ -127,7 +154,7 @@
     "url": "https://www.bbc.com/news/articles/cy42dgj0x32o?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-05-14T05:09:04+00:00",
-    "id": "n10",
+    "id": "n12",
     "lead": false
   },
   {
@@ -140,7 +167,7 @@
     "url": "https://www.cnbc.com/2026/05/14/trump-xi-beijing-summit-trade-taiwan-ai-iran-rare-earths-tariffs.html",
     "time": "刚刚",
     "published_iso": "2026-05-14T04:17:27+00:00",
-    "id": "n11",
+    "id": "n13",
     "lead": false
   },
   {
@@ -153,7 +180,7 @@
     "url": "https://www.cnbc.com/2026/05/13/cerebras-prices-ipo-above-expected-range-wall-street-expects-ai-flood.html",
     "time": "8小时前",
     "published_iso": "2026-05-14T00:39:53+00:00",
-    "id": "n12",
+    "id": "n14",
     "lead": false
   },
   {
@@ -166,7 +193,7 @@
     "url": "https://www.cnbc.com/2026/05/13/kevin-warsh-wins-senate-confirmation-as-the-next-federal-reserve-chair.html",
     "time": "5小时前",
     "published_iso": "2026-05-13T23:21:35+00:00",
-    "id": "n13",
+    "id": "n15",
     "lead": false
   },
   {
@@ -179,7 +206,7 @@
     "url": "https://www.bbc.com/news/articles/clyprnelzxzo?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-05-13T23:03:15+00:00",
-    "id": "n14",
+    "id": "n16",
     "lead": false
   },
   {
@@ -192,7 +219,7 @@
     "url": "https://www.bbc.com/news/articles/ce8p71p4nezo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-13T20:15:33+00:00",
-    "id": "n15",
+    "id": "n17",
     "lead": false
   },
   {
@@ -205,7 +232,7 @@
     "url": "https://www.bbc.com/news/articles/c1k2zekj8y9o?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-05-13T17:22:49+00:00",
-    "id": "n16",
+    "id": "n18",
     "lead": false
   },
   {
@@ -218,7 +245,7 @@
     "url": "https://www.cnbc.com/2026/05/13/trump-construction-iran-war-trucking-construction-gas-tax-holiday.html",
     "time": "11小时前",
     "published_iso": "2026-05-13T17:14:52+00:00",
-    "id": "n17",
+    "id": "n19",
     "lead": false
   },
   {
@@ -231,7 +258,7 @@
     "url": "https://www.bbc.com/news/articles/c1w28qw1e0xo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-05-13T17:00:12+00:00",
-    "id": "n18",
+    "id": "n20",
     "lead": false
   },
   {
@@ -244,7 +271,7 @@
     "url": "https://www.bbc.com/news/articles/cnvp730yd52o?at_medium=RSS&at_campaign=rss",
     "time": "17小时前",
     "published_iso": "2026-05-13T15:35:15+00:00",
-    "id": "n19",
+    "id": "n21",
     "lead": false
   },
   {
@@ -257,7 +284,7 @@
     "url": "https://www.cnbc.com/2026/05/13/anduril-valuation-defense-tech-funding-boom.html",
     "time": "刚刚",
     "published_iso": "2026-05-13T15:25:31+00:00",
-    "id": "n20",
+    "id": "n22",
     "lead": false
   },
   {
@@ -270,7 +297,7 @@
     "url": "https://www.bbc.com/news/articles/ce3pj85depzo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-13T14:51:30+00:00",
-    "id": "n21",
+    "id": "n23",
     "lead": false
   },
   {
@@ -283,7 +310,7 @@
     "url": "https://www.bbc.com/news/articles/cwy2011dl4xo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-13T14:40:20+00:00",
-    "id": "n22",
+    "id": "n24",
     "lead": false
   },
   {
@@ -296,7 +323,7 @@
     "url": "https://www.bbc.com/news/articles/c99lmyr1dnxo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-13T14:00:58+00:00",
-    "id": "n23",
+    "id": "n25",
     "lead": false
   },
   {
@@ -309,7 +336,7 @@
     "url": "https://www.bbc.com/news/articles/clypr378l2wo?at_medium=RSS&at_campaign=rss",
     "time": "19小时前",
     "published_iso": "2026-05-13T13:46:15+00:00",
-    "id": "n24",
+    "id": "n26",
     "lead": false
   },
   {
@@ -322,7 +349,7 @@
     "url": "https://www.bbc.com/news/articles/cedpv17gqqzo?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-05-13T08:24:28+00:00",
-    "id": "n25",
+    "id": "n27",
     "lead": false
   },
   {
@@ -335,7 +362,7 @@
     "url": "https://www.bbc.com/news/articles/c5yx757w048o?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-05-13T07:10:29+00:00",
-    "id": "n26",
+    "id": "n28",
     "lead": false
   },
   {
@@ -348,32 +375,6 @@
     "url": "https://www.bbc.com/news/articles/cj37z8357e5o?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-05-13T05:01:07+00:00",
-    "id": "n27",
-    "lead": false
-  },
-  {
-    "headline": "A decade on, Trump returns to a stronger and more assertive China",
-    "deck": "Beijing is arguably the most powerful competitor the US has confronted in its history, one analyst says.",
-    "cnTitle": "特朗普再遇强硬中国挑战",
-    "cnDeck": "唐纳德·特朗普在十年后重新进入美国政治视野，他所面对的中国已非往日可比。据最新分析指出，过去十年间，中国在经济、军事和科技领域实现了显著发展，其国际地位和影响力大幅提升，展现出更加强大和自信的姿态。一位分析师明确指出，\"北京可以说是美国历史上所面对的最强大的竞争对手。\"这一论断不仅凸显了当前中美关系的复杂性和重要性，也预示着未来两国竞争的深度和广度",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cm2py6l78dxo?at_medium=RSS&at_campaign=rss",
-    "time": "11小时前",
-    "published_iso": "2026-05-12T22:07:51+00:00",
-    "id": "n28",
-    "lead": false
-  },
-  {
-    "headline": "Auto-state lawmakers seek to keep certain Chinese vehicles out of U.S. as Trump heads to Beijing",
-    "deck": "Michigan lawmakers introduced a bipartisan bill to ban Chinese-connected vehicles and technology from the U.S. market over security concerns.",
-    "cnTitle": "美密歇根州议员提议禁止中国智能汽车",
-    "cnDeck": "美国密歇根州的立法者提出了一项两党法案，旨在禁止与中国相关的车辆及技术进入美国市场，其核心理由是国家安全担忧。这一举动凸显了华盛顿方面对中国在关键技术领域日益增长的影响力，特别是在汽车行业，所持的警惕态度。随着现代汽车日益智能化、互联化，它们能够收集并传输大量数据，包括地理位置信息、驾驶习惯乃至车内对话等敏感信息。美国官员和立法者普遍担忧，如果这些车辆及其搭载的技术由与中国政府或军队有联系的企业提供，可能会构成潜在的数据安全风险，甚至可能被用于情报收集或关键基础设施的破坏。",
-    "cat": "finance",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/05/12/trump-congress-china-evs-byd.html",
-    "time": "13小时前",
-    "published_iso": "2026-05-12T20:26:46+00:00",
     "id": "n29",
     "lead": false
   }
