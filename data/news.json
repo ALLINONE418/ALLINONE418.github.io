@@ -1,5 +1,19 @@
 [
   {
+    "headline": "India Tightens Silver Import Rules Amid Measures to Defend Rupee - Bloomberg.com",
+    "deck": "India Tightens Silver Import Rules Amid Measures to Defend Rupee&nbsp;&nbsp;Bloomberg.com",
+    "cnTitle": "印度收紧白银进口以捍卫卢比",
+    "cnDeck": "根据彭博社（Bloomberg.com）的报道，印度正采取措施收紧白银进口规则，此举是其更广泛战略的一部分，旨在捍卫持续承压的印度卢比（INR）汇率，并稳定宏观经济指标。这一政策调整预计将对印度的贸易平衡、国内白银市场以及全球白银价格产生显著影响。印度是全球最大的白银消费国之一，其白银需求主要来源于珠宝制造、工业应用以及投资目的。由于国内产量有限，印度严重依赖进口来满足其庞大的白银需求。此次收紧进口规则，通常意味着政府将通过提高进口关税、实施配额限制、引入更严格的许可证制度，或要求进口商通过特定国有机构进行采购等方式，来减少白银的流入。此类措施的直接目标是降低对美元等外汇的需求，从而减轻卢比的贬值压力。近年来，卢比兑美元汇率一直面临下行压力，这主要受到全球美元走强、国际原油价格波动、地缘政治紧张局势以及外国机构投资者（FIIs）从印度股市撤资等多重因素的影响。卢比的持续贬值会使得印度进口商品成本上升，进而加剧国内通货膨胀，并增加企业和政府的外债偿还负担。此外，它还可能对印度的国际收支平衡造成压力，尤其是经常账户赤字问题。印度政府和储备银行（RBI）一直在密切关注卢比的走势，并采取了一系列措施来管理汇率波动，包括干预外汇市场、调整利率政策以及实施资本流动管理。此次收紧白银进口规则，正是印度当局综合性策略中的一个关键环节，旨在通过管理非",
+    "cat": "finance",
+    "source": "Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYlNUNzhEQ3JpclNOMmZuRUMwN0w0bVVEVGNISTZuSXpSMHVvLUJpa2lkdnVCSUhaN2ZLRHdqX0VZQ3ZYTHcybWtSUWxGQklpOXlyX0JWWVJqeWQ2V0VYcmtMMm5fTEU1Ql9ETWhDeDFISjRqM0w5Z18xbkFDVi1vNzlKWE5KdzRRWVFMSXItTTZ6WGVLTXJUUlZvbVhPTHNEVVgwRGV2TXFtTWNVZ3ZnRkhOZmVaUQ?oc=5",
+    "time": "5小时前",
+    "published_iso": "2026-05-16T14:53:40+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
     "headline": "Senior IS leader killed by US and Nigerian forces",
     "deck": "US President Donald Trump said the joint operation eliminated \"the most active terrorist in the world\", Abu-Bilal al-Minuki.",
     "cnTitle": "美尼联军击毙IS高级头目",
@@ -9,8 +23,8 @@
     "url": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-16T08:18:52+00:00",
-    "id": "n1",
-    "lead": true
+    "id": "n2",
+    "lead": false
   },
   {
     "headline": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
@@ -22,7 +36,7 @@
     "url": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-16T03:30:57+00:00",
-    "id": "n2",
+    "id": "n3",
     "lead": false
   },
   {
@@ -35,7 +49,7 @@
     "url": "https://www.bbc.com/news/articles/c1w2gnd9xp2o?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-05-16T01:37:27+00:00",
-    "id": "n3",
+    "id": "n4",
     "lead": false
   },
   {
@@ -48,7 +62,7 @@
     "url": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss",
     "time": "8小时前",
     "published_iso": "2026-05-15T23:59:07+00:00",
-    "id": "n4",
+    "id": "n5",
     "lead": false
   },
   {
@@ -61,7 +75,7 @@
     "url": "https://www.bbc.com/news/articles/clyp1lnp4ygo?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-05-15T23:05:19+00:00",
-    "id": "n5",
+    "id": "n6",
     "lead": false
   },
   {
@@ -74,7 +88,7 @@
     "url": "https://www.bbc.com/news/articles/cgjpyqjj8y4o?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-05-15T23:04:33+00:00",
-    "id": "n6",
+    "id": "n7",
     "lead": false
   },
   {
@@ -87,7 +101,7 @@
     "url": "https://www.bbc.com/news/articles/cgkpnnen5dzo?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-05-15T21:17:05+00:00",
-    "id": "n7",
+    "id": "n8",
     "lead": false
   },
   {
@@ -100,7 +114,7 @@
     "url": "https://www.cnbc.com/2026/05/14/stock-market-today-live-updates.html",
     "time": "12小时前",
     "published_iso": "2026-05-15T20:36:37+00:00",
-    "id": "n8",
+    "id": "n9",
     "lead": false
   },
   {
@@ -113,7 +127,7 @@
     "url": "https://www.cnbc.com/2026/05/15/trump-palantir-stock-truth-social.html",
     "time": "12小时前",
     "published_iso": "2026-05-15T20:28:29+00:00",
-    "id": "n9",
+    "id": "n10",
     "lead": false
   },
   {
@@ -126,7 +140,7 @@
     "url": "https://www.cnbc.com/2026/05/15/nvidia-cerebras-stock-price-ipo.html",
     "time": "12小时前",
     "published_iso": "2026-05-15T20:05:55+00:00",
-    "id": "n10",
+    "id": "n11",
     "lead": false
   },
   {
@@ -139,7 +153,7 @@
     "url": "https://www.bbc.com/news/articles/cx21jjwz1k1o?at_medium=RSS&at_campaign=rss",
     "time": "12小时前",
     "published_iso": "2026-05-15T19:38:38+00:00",
-    "id": "n11",
+    "id": "n12",
     "lead": false
   },
   {
@@ -152,7 +166,7 @@
     "url": "https://www.cnbc.com/2026/05/15/trump-stock-trade-tech-oge.html",
     "time": "8小时前",
     "published_iso": "2026-05-15T19:34:05+00:00",
-    "id": "n12",
+    "id": "n13",
     "lead": false
   },
   {
@@ -165,7 +179,7 @@
     "url": "https://www.bbc.com/news/articles/clyp9652v18o?at_medium=RSS&at_campaign=rss",
     "time": "19小时前",
     "published_iso": "2026-05-15T12:57:30+00:00",
-    "id": "n13",
+    "id": "n14",
     "lead": false
   },
   {
@@ -178,7 +192,7 @@
     "url": "https://www.bbc.com/news/articles/c5y049w8nqwo?at_medium=RSS&at_campaign=rss",
     "time": "19小时前",
     "published_iso": "2026-05-15T12:53:57+00:00",
-    "id": "n14",
+    "id": "n15",
     "lead": false
   },
   {
@@ -191,7 +205,7 @@
     "url": "https://www.bbc.com/news/articles/crrpj0ejxp8o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-15T09:17:59+00:00",
-    "id": "n15",
+    "id": "n16",
     "lead": false
   },
   {
@@ -204,7 +218,7 @@
     "url": "https://www.bbc.com/news/articles/czr2pl5lj84o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-15T09:01:31+00:00",
-    "id": "n16",
+    "id": "n17",
     "lead": false
   },
   {
@@ -217,7 +231,7 @@
     "url": "https://www.bbc.com/news/articles/cze2wpk7y76o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-15T08:27:42+00:00",
-    "id": "n17",
+    "id": "n18",
     "lead": false
   },
   {
@@ -230,7 +244,7 @@
     "url": "https://www.cnbc.com/2026/05/15/trump-wraps-up-two-day-china-trip-invites-xi-for-a-september-visit.html",
     "time": "13小时前",
     "published_iso": "2026-05-15T06:46:57+00:00",
-    "id": "n18",
+    "id": "n19",
     "lead": false
   },
   {
@@ -243,7 +257,7 @@
     "url": "https://www.bbc.com/news/articles/c4g82p5ygp8o?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-05-15T06:41:19+00:00",
-    "id": "n19",
+    "id": "n20",
     "lead": false
   },
   {
@@ -256,7 +270,7 @@
     "url": "https://www.bbc.com/news/articles/cg7pj8p5mv4o?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-05-15T05:03:31+00:00",
-    "id": "n20",
+    "id": "n21",
     "lead": false
   },
   {
@@ -269,7 +283,7 @@
     "url": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-05-15T01:37:31+00:00",
-    "id": "n21",
+    "id": "n22",
     "lead": false
   },
   {
@@ -282,7 +296,7 @@
     "url": "https://www.bbc.com/news/articles/c775v7dlndyo?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-05-14T23:49:30+00:00",
-    "id": "n22",
+    "id": "n23",
     "lead": false
   },
   {
@@ -295,7 +309,7 @@
     "url": "https://www.bbc.com/news/articles/clypr8p2lewo?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-05-14T23:01:20+00:00",
-    "id": "n23",
+    "id": "n24",
     "lead": false
   },
   {
@@ -308,7 +322,7 @@
     "url": "https://www.bbc.com/news/articles/cx21x27d4jdo?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-05-14T22:46:28+00:00",
-    "id": "n24",
+    "id": "n25",
     "lead": false
   },
   {
@@ -321,34 +335,7 @@
     "url": "https://www.bbc.com/news/articles/c2l2j1lxdk5o?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-05-14T21:09:02+00:00",
-    "id": "n25",
-    "lead": false
-  },
-  {
-    "headline": "Crypto Billionaire Ehrsam Joins Risky Bet on Venezuela Revival - Bloomberg.com",
-    "deck": "Crypto Billionaire Ehrsam Joins Risky Bet on Venezuela Revival&nbsp;&nbsp;Bloomberg.com",
-    "cnTitle": "币圈亿万富翁Ehrsam押注委内瑞拉复苏",
-    "cnDeck": "币圈亿万富翁弗雷德·埃尔萨姆（Fred Ehrsam），作为知名加密货币交易平台Coinbase的联合创始人，近期据报道加入了对委内瑞拉经济复苏的一项“高风险押注”。此举在全球金融市场和地缘政治分析界引发了广泛关注和讨论。埃尔萨姆的这项投资决策，被解读为他个人对这个长期遭受经济困境和政治动荡的国家未来潜力的一种大胆认可，尽管其中伴随着极高的不确定性。委内瑞拉曾是南美洲最富裕的国家之一，拥有全球最大的已探明石油储量，但近年来深陷严重的经济危机，经历了恶性通货膨胀、GDP大幅萎缩、人道主义危机以及大规模人口外流。美国及其盟友对委内瑞拉政府实施的严厉制裁，进一步加剧了其经济困境。在这种背景下，一位著名的加密货币投资者选择此时进行大笔投资，无疑是一个引人注目的信号。据知情人士透露，埃尔萨姆的投资可能涉及多个领域，旨在捕捉委内瑞拉在未来可能出现的结构性改革和经济开放带来的机遇。这可能包括对该国基础设施、特定产业（如能源或农业）的直接投资，或者通过支持当地新兴技术和加密货币相关项目，以期在经济转型中占据先机。鉴于埃尔萨姆在加密货币领域的深厚背景，他可能尤其关注区块链技术在解决委内瑞拉金融系统困境、促进跨境交易或甚至为公民提供替代性金融服务方面的潜力。委内瑞拉政府过去曾尝试推出自己的加密货币“Petro”，这表明该国对数字货币并不陌生，尽管“Petro”的实施并不成功。然而，这项“高风险押注”也面临诸多挑战。委内瑞拉的政治局势仍然复杂且不稳定，权力斗争、腐败问题以及与国际社会的关系都可能随时影响投资环境。美国对委内瑞拉的制裁依然存在，虽然近期在石油出口方面有所松动，但全面解除制裁仍遥遥无期，这给外国投资带来了额外的法律和运营风险。此外，该国基础设施的严重老化、人才流失以及制度性障碍，都将是任何旨在推动经济复苏的投资项目必须克服的巨大难题。分析人士指出，埃尔萨姆此举可能反映了一种“逆向投资”的理念，即在市场普遍悲观、资产价格低迷时寻找潜在的巨大价值。如果委内瑞拉能够成功实现政治和经济转型，那么早期投资者可能会获得惊人的回报。然而，也有批评者认为，在缺乏明确改革路线图和稳定政治环境的情况下，此类投资更像是投机行为，而非基于坚实基本面的决策。此次新闻事件不仅是关于一个亿万富翁的个人投资选择，更引发了对委内瑞拉未来走向、加密货币在新兴市场中的作用以及高风险投资策略有效性的深层思考。市场将密切关注埃尔萨姆这项“赌注”的后续发展，看它能否为这个饱受磨难的国家带来新的希望，抑或只是又一次冒险的尝试。",
-    "cat": "finance",
-    "source": "Bloomberg",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOG5RV3lORV9RSnV5N3BxUGUtNVZlM3ZpMHZXRjc5TVFMYWd0SURSano3aHFWMzBUUUctSHRDd1RSYl91Tnc1dF82WXc1eDhUdEhFbjFZUWtyRmM1blpEaFpxWjBtSU83VmZUVDVJSXhtRHVPRm5KdTJnWV95X1M1OU9GMzB0Vk9rQzBITk9XYkJ0ZnBxN1pucW5BckF1VHp6d1RuUUtiUktKN1k5WGVKcGNQM1lPYm5sX1prSHRwc3ozZDVFMWJCa0ZlQWYtUQ?oc=5",
-    "time": "1天前",
-    "published_iso": "2026-05-14T18:54:51+00:00",
-    "is_new": true,
     "id": "n26",
-    "lead": false
-  },
-  {
-    "headline": "Americans still feel pessimistic about the economy. When will it get better?",
-    "deck": "U.S. consumer sentiment has been on a downward trend since the Covid pandemic. Inflation, wars and Trump's tariffs are to blame, economists say.",
-    "cnTitle": "美国消费者经济信心持续低迷",
-    "cnDeck": "美国消费者对经济的悲观情绪持续存在，反映出民众对当前经济状况和未来前景的深切担忧。自新冠疫情爆发以来，美国消费者信心指数一直处于下降趋势，未能有效反弹，这与经济学家们指出的多重复杂因素密切相关。消费者信心指数是衡量家庭对经济未来展望的关键指标，其持续低迷通常预示着消费支出可能放缓，进而对整体经济增长构成压力。尽管美国劳动力市场表现出一定的韧性，失业率维持在历史低位，但普通民众的实际感受却与宏观数据存在明显偏差，这正是当前经济困境的写照。经济学家们普遍认为，导致消费者悲观情绪的主要原因包括通货膨胀、地缘政治冲突以及前总统特朗普时期实施的关税政策。首先是持续高企的通货膨胀。在过去几年中，美国经历了数十年来最严重的通胀，尽管近期通胀率有所回落，但累计效应已显著侵蚀了消费者的购买力。食品、汽油和住房等基本生活成本的上涨，使得许多家庭的预算捉襟见肘，可支配收入减少。民众普遍感受到生活成本压力巨大，对未来物价走势感到不安，从而影响了他们的消费意愿和投资信心。这种持续的物价上涨压力，使得许多家庭即便收入有所增长，也难以感受到财富的实际提升。其次，全球范围内的战争冲突，特别是俄罗斯-乌克兰战争以及中东地区日益紧张的局势，对全球经济稳定性和供应链造成了严重冲击。这些冲突不仅推高了能源和大宗商品价格，加剧了通货膨胀压力，也增加了地缘政治的不确定性。例如，乌克兰战争导致全球粮食和能源供应紧张，直接影响了各国，包括美国在内的物价水平。中东冲突则可能进一步扰乱全球原油市场，使得燃料价格再次飙升，进而传导至商品和服务价格。这种宏观层面的不稳定性，使得消费者对未来经济环境充满忧虑，担忧经济衰退或进一步的外部冲击。再者，前总统特朗普时期实施的一系列关税政策，特别是对中国商品加征的关税，也对美国经济产生了长期影响。这些关税旨在保护国内产业，但在实际操作中，往往导致进口商品成本上升，最终由消费者承担，进一步推高了物价。同时，贸易战带来的不确定性也使得企业投资决策更加谨慎，可能阻碍经济增长和就业创造。经济学家指出，这些贸易壁垒不仅未能完全达到预期效果，反而扭曲了全球供应链，增加了企业运营成本，间接加剧了美国市场的通胀压力和经济波动性。综合来看，这些因素相互交织，共同塑造了当前美国消费者持续低迷的经济信心。尽管政府和美联储已采取多项措施来应对通胀，并试图稳定经济，但消费者信心的恢复需要更长时间，也需要看到通胀的持续有效缓解、地缘政治风险的降低以及贸易政策的稳定。在这些问题未能得到根本性改善之前，美国民众对经济前景的悲观情绪可能难以迅速消散。",
-    "cat": "economy",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/05/14/consumer-confidence-us-economy-inflation-iran-war-trade.html",
-    "time": "刚刚",
-    "published_iso": "2026-05-14T14:41:17+00:00",
-    "id": "n27",
     "lead": false
   }
 ]
