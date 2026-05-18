@@ -1,5 +1,47 @@
 [
   {
+    "headline": "Trump says he's postponing 'scheduled attack of Iran tomorrow' at Middle East leaders' request",
+    "deck": "The U.S. and Iran are in a stalemate centered on the Strait of Hormuz, the global oil pathway whose closure due to the war has caused an energy supply shock.",
+    "cnTitle": "特朗普应请求推迟袭击伊朗计划",
+    "cnDeck": "美国前总统唐纳德·特朗普近日公开表示，他已应中东地区多国领导人的请求，决定推迟原定于次日对伊朗采取的军事打击行动。这一突如其来的声明迅速在全球范围内引发了广泛关注，凸显了美伊关系之间持续存在的紧张局势以及潜在冲突升级的风险。特朗普的言论虽然没有提供关于此次“预定袭击”的具体细节，但其提及的“袭击”和“推迟”字眼，无疑暗示了美国与伊朗",
+    "cat": "finance",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/05/18/trump-iran-attack-saudi-uae-qatar-deal.html",
+    "time": "刚刚",
+    "published_iso": "2026-05-18T20:06:47+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "Elon Musk just lost another lawsuit. Will he keep fighting?",
+    "deck": "Musk's loss against OpenAI is the latest in a string of courtroom defeats.",
+    "cnTitle": "马斯克起诉OpenAI再败诉",
+    "cnDeck": "特斯拉首席执行官埃隆·马斯克最近在与人工智能公司OpenAI的法律纠纷中再次遭遇挫折，这标志着他在法庭上的一系列失败中的最新一起。马斯克在今年3月对OpenAI及其首席执行官萨姆·奥尔特曼和总裁格雷格·布罗克曼提起了诉讼。他声称OpenAI，这家他于2015年共同创立的非营利组织，已经背离了其最初的使命，即开发造福全人类的开放式通用人工智能（AGI），而不是追求利润。马斯克在其诉讼中指出，OpenAI转变为一个营利性实体，并与微软建立了紧密合作关系，使其商业利益优先于其创立时的开放、非营利原则。他特别关注OpenAI的先进模型，如GPT-4，认为这些模型应该以开放源代码的形式提供给公众，而不是被商业化。马斯克的诉讼要求法院强制OpenAI回归其最初的非营利章程，并防止其从人工智能技术中谋取不当利益。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cqlpz4w6v13o?at_medium=RSS&at_campaign=rss",
+    "time": "刚刚",
+    "published_iso": "2026-05-18T19:24:05+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
+    "headline": "Musk loses OpenAI court battle after jury finds he waited too long to sue",
+    "deck": "Jurors spent weeks hearing about Musk's claim that Altman had \"stolen a charity.\"",
+    "cnTitle": "马斯克诉OpenAI案败诉",
+    "cnDeck": "科技界知名企业家埃隆·马斯克（Elon Musk）起诉人工智能公司OpenAI的案件近日遭遇挫折，陪审团裁定马斯克败诉。此案的核心是马斯克指控OpenAI首席执行官萨姆·奥特曼（Sam Altman）“窃取了一家慈善机构”，认为OpenAI已经偏离了其最初作为非营利组织成立的使命。陪审团经过数周的听证后做出裁决，但并非基于马斯克对OpenAI使命偏离的实质性主张，而是认定马斯克起诉的时间过晚，已经超过了法定的诉讼时效。马斯克在2015年与萨姆·奥特曼及其他联合创始人共同创立了OpenAI，其初衷是作为一家非营利研究机构，旨在开发和推广友好型人工智能，以确保通用人工智能（AGI）能够造福全人类，而不是受限于追求利润的企业或国家。然而，马斯克在2018年离开了OpenAI的董事会，此后OpenAI在奥特曼的领导下逐渐转向了“有限盈利”模式，并与微软（Microsoft）建立了紧密的合作关系，获得了巨额投资。特别是在2022年底发布ChatGPT之后，OpenAI的商业化进程加速，并迅速成为全球领先的人工智能公司。马斯克一直对此表示强烈不满，他认为OpenAI的这一转变背叛了其非营利性质的创始章程，使得公司在追求商业利益的同时，可能未能充分履行其对公共利益的承诺。他的诉讼旨在强制OpenAI回归其最初的非营利使命，或者至少阻止其利用其原有的非营利资产为商业目的服务。在庭审过程中，马斯克的律师团队详细阐述了OpenAI从最初的非营利架构如何演变为如今的商业实体，并试图证明这一转变违背了创始人的意图和公司的核心价值观。陪审团听取了双方的陈述，包括关于OpenAI内部运作、董事会决策以及其与微软等外部实体合作细节的证词。然而，陪审团最终的裁决集中在程序性问题上，而非案件的是非曲直。法院认为，马斯克作为OpenAI的早期创始人之一，对于公司方向的转变应有充分的了解，并且在这一转变发生后的数年内未能及时采取法律行动。根据相关法律规定，如果当事人知道或理应知道某一侵权行为或合同违约行为发生，必须在特定期限内提起诉讼，否则将丧失诉讼权利。陪审团的这一决定意味着，即使马斯克对OpenAI偏离使命的指控在某种程度上是成立的，他也因为未在法定期限内采取行动而失去了通过法律途径纠正这一局面的机会。此案的裁决对人工智能行业产生了深远影响，尤其是在关于AI伦理、公司治理结构以及如何在追求技术创新与履行社会责任之间取得平衡的讨论中。它再次凸显了非营利组织在发展过程中面临的挑战，以及创始人在公司转型过程中可能遇到的法律和道德困境。尽管马斯克的诉讼未能成功，但他对OpenAI的批判性立场以及他提出的“窃取慈善机构”的指控，无疑将继续引发公众对AI公司运营模式和其长期社会影响的广泛关注和辩论。",
+    "cat": "tech",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cewpyv79pw1o?at_medium=RSS&at_campaign=rss",
+    "time": "1小时前",
+    "published_iso": "2026-05-18T19:18:58+00:00",
+    "is_new": true,
+    "id": "n3",
+    "lead": false
+  },
+  {
     "headline": "UK growth forecast upgraded by IMF but risks remain",
     "deck": "Growth has been upgraded from 0.8% to 1% for 2026 in the influential body's latest forecast.",
     "cnTitle": "IMF看好英国经济前景但存风险",
@@ -9,9 +51,8 @@
     "url": "https://www.bbc.com/news/articles/cm2p72mmddyo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-05-18T13:04:20+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n4",
+    "lead": false
   },
   {
     "headline": "Oil jumps as Trump warns 'Clock is Ticking' for Iran, fanning fears of escalation in conflict",
@@ -23,7 +64,7 @@
     "url": "https://www.cnbc.com/2026/05/18/oil-today-brent-wti-iran-trump-hormuz-iea-supply-crude-.html",
     "time": "刚刚",
     "published_iso": "2026-05-18T10:23:34+00:00",
-    "id": "n2",
+    "id": "n5",
     "lead": false
   },
   {
@@ -36,7 +77,7 @@
     "url": "https://www.bbc.com/news/articles/c142vz80553o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-18T10:00:47+00:00",
-    "id": "n3",
+    "id": "n6",
     "lead": false
   },
   {
@@ -49,7 +90,7 @@
     "url": "https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-18T09:58:35+00:00",
-    "id": "n4",
+    "id": "n7",
     "lead": false
   },
   {
@@ -62,7 +103,7 @@
     "url": "https://www.bbc.com/news/articles/cm2p0n44drvo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-18T09:40:27+00:00",
-    "id": "n5",
+    "id": "n8",
     "lead": false
   },
   {
@@ -75,7 +116,7 @@
     "url": "https://www.bbc.com/news/articles/c2023l60370o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-18T09:33:53+00:00",
-    "id": "n6",
+    "id": "n9",
     "lead": false
   },
   {
@@ -88,7 +129,7 @@
     "url": "https://www.bbc.com/news/articles/c7591gq10qko?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-05-18T03:08:13+00:00",
-    "id": "n7",
+    "id": "n10",
     "lead": false
   },
   {
@@ -101,7 +142,7 @@
     "url": "https://www.bbc.com/news/articles/czx2ne2ryppo?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-18T02:23:24+00:00",
-    "id": "n8",
+    "id": "n11",
     "lead": false
   },
   {
@@ -114,7 +155,7 @@
     "url": "https://www.bbc.com/news/articles/cg7p5nr307mo?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-05-17T23:54:57+00:00",
-    "id": "n9",
+    "id": "n12",
     "lead": false
   },
   {
@@ -127,7 +168,7 @@
     "url": "https://www.bbc.com/news/articles/cn8p392nl7yo?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-05-17T23:02:56+00:00",
-    "id": "n10",
+    "id": "n13",
     "lead": false
   },
   {
@@ -140,7 +181,7 @@
     "url": "https://www.bbc.com/news/articles/cwy27pkj1l1o?at_medium=RSS&at_campaign=rss",
     "time": "14小时前",
     "published_iso": "2026-05-17T20:53:45+00:00",
-    "id": "n11",
+    "id": "n14",
     "lead": false
   },
   {
@@ -153,7 +194,7 @@
     "url": "https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-17T07:21:03+00:00",
-    "id": "n12",
+    "id": "n15",
     "lead": false
   },
   {
@@ -166,7 +207,7 @@
     "url": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-17T07:08:26+00:00",
-    "id": "n13",
+    "id": "n16",
     "lead": false
   },
   {
@@ -179,7 +220,7 @@
     "url": "https://www.bbc.com/news/articles/cx21d4pxq23o?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-05-17T03:23:08+00:00",
-    "id": "n14",
+    "id": "n17",
     "lead": false
   },
   {
@@ -192,33 +233,7 @@
     "url": "https://www.bbc.com/news/articles/c1j2zwe9g5no?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-05-16T23:10:19+00:00",
-    "id": "n15",
-    "lead": false
-  },
-  {
-    "headline": "Taiwan insists it is independent after Trump warning",
-    "deck": "Fresh from his summit in Beijing, the US president warned against a formal declaration of independence by the island.",
-    "cnTitle": "台湾重申独立，回应特朗普警告",
-    "cnDeck": "在唐纳德·特朗普总统警告台湾不要正式宣布独立之后，台湾方面坚称其已是一个独立的政治实体，拥有自己的主权地位。这一事件凸显了台海地区长期以来复杂而敏感的地缘政治紧张局势。美国总统特朗普是在他刚结束北京峰会后发表这一警告的。他与中国国家主席的会晤通常会涉及双方在贸易、安全以及地区稳定等议题上的广泛讨论，其中台湾问题无疑是中美关系中最具争议和潜在冲突的焦点之一。特朗普总统的警告被解读为美国在维系其“一个中国政策”框架下的立场，即承认中华人民共和国是中国的唯一合法政府，但同时美国也通过《台湾关系法》维持与台湾的非官方关系，并承诺协助台湾维持自卫能力。美国长期以来对台湾的独立采取战略模糊政策，即不明确表示如果中国武力攻台美国将如何回应，但通常会劝阻台湾进行任何可能被北京视为挑衅的正式独立举动。这种模糊政策旨在避免任何一方采取可能破坏地区稳定的单方面行动。然而，台湾方面对此类警告的反应一贯坚决。台湾的民选政府及其领导人通常会重申，中华民国（台湾的官方名称）是一个主权独立的国家，拥有自己的宪法、民主制度、军队以及独立的对外关系。他们认为，台湾人民有权决定自己的未来，且中华人民共和国从未实际统治过台湾。台湾强调其是一个成熟的民主社会，与中国的共产主义体制截然不同。台湾认为，所谓的“现状”本身就是一种事实上的独立状态，因此不需要“宣布独立”。此次特朗普的言论，尽管可能是为了安抚北京或避免地区紧张升级，却也可能在台湾内部引发对美国立场不确定性的担忧。台湾方面担忧，在美国优先政策下，美国可能会在战略上牺牲台湾的利益。同时，北京方面一直将台湾视为其“核心利益”之一，并声称保留以武力统一台湾的选项，尽管其主要诉求是和平统一。任何台湾走向“法理独立”的举动都会被北京视为越过“红线”，可能导致台海局势的严重升级。国际社会普遍关注台海地区的和平与稳定，因为这一区域是全球经济供应链的关键组成部分，特别是半导体产业。任何潜在的冲突都将对全球经济产生灾难性影响。特朗普总统的警告和台湾的回应，再次将这一敏感议题推向聚光灯下，促使各方重新审视各自在台海问题上的战略与立场，以期在复杂的权力平衡中寻求稳定。此次事件提醒国际社会，台湾地位问题仍然是影响全球地缘政治格局的重要变量。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cx2132w81jqo?at_medium=RSS&at_campaign=rss",
-    "time": "15小时前",
-    "published_iso": "2026-05-16T17:01:53+00:00",
-    "id": "n16",
-    "lead": false
-  },
-  {
-    "headline": "For better or worse, investors are living through Trump’s stock market. Here's why",
-    "deck": "President Donald Trump has been considered the ultimate stock market president, overseeing an expansion to record highs as well as major declines.",
-    "cnTitle": "特朗普任期股市沉浮",
-    "cnDeck": "美国前总统唐纳德·特朗普在其任期内，被普遍认为是塑造股市的“终极股市总统”。他的领导见证了美国股市的显著扩张，屡创新高，同时也经历了剧烈的波动和大幅下跌。特朗普总统上任伊始，市场普遍对其提出的减税、放松监管以及加大基础设施建设的承诺抱有积极预期。2017年通过的《减税与就业法案》对企业盈利产生了显著提振作用，促使多家公司宣布股票回购计划，从而推动了股价上涨。在此期间，道琼斯工业平均指数、标准普尔500指数和纳斯达克综合指数均创下历史新高。投资者对特朗普政府的商业友好型政策反应积极，认为这些政策将促进经济增长和企业利润。然而，特朗普政府也推行了一系列保护主义贸易政策，特别是与中国及其他主要贸易伙伴之间的关税战，这些举措在全球范围内引发了贸易紧张局势，导致市场不确定性急剧增加，并多次引发股市的剧烈回调。投资者对贸易冲突可能对全球供应链和企业盈利产生负面影响表示担忧，使得市场情绪一度承压。此外，在地缘政治方面，特朗普政府在中东、朝鲜半岛等地区采取的政策，也间接影响了全球风险偏好，进而对股市造成了间歇性影响。到了他任期的后期，特别是2020年初，全球爆发的新冠疫情对美国经济和金融市场造成了前所未有的冲击。疫情初期，由于经济活动停滞、供应链中断和消费者信心骤降，美国股市经历了自大萧条以来最快的熊市，三大股指在短时间内暴跌。然而，随后美国政府和美联储推出了大规模的财政刺激计划（如《CARES法案》）和前所未有的货币宽松政策，向市场注入大量流动性，有效地支撑了经济和股市，使其从低谷中迅速反弹，并再次创下历史新高。总体而言，特朗普总统的四年任期内，美国股市的表现可谓跌宕起伏，既有由政策利好和经济复苏驱动的强劲上涨，也有因贸易摩擦、地缘政治风险和全球疫情冲击而引发的显著下跌。对投资者而言，这四年是充满机遇与挑战的时期，深刻体现了政治决策与宏观经济事件对金融市场产生的复杂而深远的影响。",
-    "cat": "finance",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/05/16/for-better-or-worse-investors-are-living-through-trumps-stock-market-heres-why.html",
-    "time": "21小时前",
-    "published_iso": "2026-05-16T17:00:41+00:00",
-    "id": "n17",
+    "id": "n18",
     "lead": false
   }
 ]
