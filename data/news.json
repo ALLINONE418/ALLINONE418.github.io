@@ -1,5 +1,75 @@
 [
   {
+    "headline": "Ebola may be spreading faster than first thought, WHO doctor warns",
+    "deck": "Hundreds of cases are suspected in central Africa but experts fear the actual number may be much higher.",
+    "cnTitle": "世卫警告埃博拉疫情或快速蔓延",
+    "cnDeck": "世界卫生组织（WHO）的一位医生发出严厉警告，指出中非地区的埃博拉病毒传播速度可能比最初预期的更快。这一表态表明，当前疫情的实际情况可能远比现有报告更为严峻，引发了国际社会对潜在公共卫生危机的深切担忧。目前，中非地区已报告数百例疑似埃博拉病例。然而，该医生及其他多位专家一致认为，鉴于疫情监测的复杂性和地域限制，实际感染人数可能远高于官方",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/ceqp11gn1l8o?at_medium=RSS&at_campaign=rss",
+    "time": "刚刚",
+    "published_iso": "2026-05-19T10:15:46+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "The AI economy is rewriting the American Dream — and blue-collar workers are poised to win",
+    "deck": "AI-driven hiring slowdowns are hitting some entry-level jobs for college graduates as companies like Ford and AT&amp;T ramp up recruiting for skilled trade workers.",
+    "cnTitle": "AI驱动就业市场变革，蓝领工人需求大增",
+    "cnDeck": "人工智能（AI）驱动的经济发展正在深刻重塑美国的就业格局，并可能颠覆传统的“美国梦”路径，使得蓝领工人有望成为这场变革中的主要受益者。当前，由AI技术引发的招聘放缓现象，正日益冲击着大学毕业生的部分入门级工作岗位。与此同时，包括福特（Ford）和美国电话电报公司（AT&T）在内的多家行业巨头，正积极加大对熟练技术工人的招聘力度，这标志着劳动力市场需求的一次重要转向。AI的快速发展，特别是生成式AI和自动化工具的广泛应用，正在以前所未有的速度改变各行各业的工作模式。许多过去由初级白领员工承担的重复性、数据处理、行政支持和内容生成等任务，如今可以被AI系统更高效地完成。这导致企业对这类“白领”入门级职位的需求减少，使得大学毕业生在寻求第一份工作时面临更加激烈的竞争和更严峻的挑战。传统上，大学学位被视为进入中产阶级、实现职业抱负的关键一步，但AI的崛起正在迫使人们重新思考这一路径的有效性。与此形成鲜明对比的是，对需要特定专业技能、实践经验和现场解决问题能力的熟练技术工人（俗称蓝领工人）的需求却呈现出显著增长的态势。这些工作通常涉及物理操作、设备维护、安装调试、精密制造、建筑施工以及其他需要人际互动和复杂判断力的领域，例如电工、焊工、机械师、管道工、IT基础设施技术员、重型设备操作员等。AI虽然可以在一定程度上辅助这些工作，但尚无法完全替代其核心职能。相反，AI有时能通过提供预测性维护数据、优化工作流程或自动化辅助任务，反而增强了熟练技术工人的效率和能力，进一步提升了他们在现代经济中的价值。福特和AT&T等公司转向招聘熟练技术工人，正是这一宏观趋势的缩影。这些企业认识到，在日益自动化的工业和基础设施建设中，拥有实际操作技能的员工不可或缺。这种招聘策略的变化反映出企业对劳动力技能构成的新需求，以及对人才投资方向的重新定位。这种结构性转变对美国社会和经济产生了深远影响。它可能导致蓝领工人的薪资水平和职业地位相对提升，而部分白领工作的就业前景则面临不确定性。长远来看，这或将促使美国的教育和职业培训体系进行调整，更加重视职业技术教育和技能培训，以确保劳动力市场能够适应AI时代的新需求。同时，政策制定者也面临着如何支持受AI影响的群体，促进劳动力技能升级转型的挑战。总而言之，AI经济正在重新定义职业成功的标准，预示着一个更加重视实践技能和多元化职业道路的未来。",
+    "cat": "economy",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/05/19/ai-hiring-slowdown-skilled-trade-workers.html",
+    "time": "1小时前",
+    "published_iso": "2026-05-19T09:00:01+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
+    "headline": "UK unemployment rate unexpectedly rises",
+    "deck": "The number of UK job vacancies also fell to its lowest level in five years as the initial impact of the Iran war on businesses starts to be seen.",
+    "cnTitle": "英国失业率意外上升 伊朗战争影响显现",
+    "cnDeck": "英国国家统计局（ONS）最新发布的数据显示，英国的失业率意外上升，这一增长立即引发了市场对英国经济健康状况的担忧。与此同时，英国的职位空缺数量也跌至了五年来的最低水平，进一步印证了劳动力市场的疲软。分析人士普遍认为，这些关键经济数据反映出伊朗战争对英国企业造成的初步影响正在显现。失业率的上升通常被视为经济放缓的早期且重要的信号，它可能导致消费者信心",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/czx2plkvg45o?at_medium=RSS&at_campaign=rss",
+    "time": "2小时前",
+    "published_iso": "2026-05-19T08:17:52+00:00",
+    "is_new": true,
+    "id": "n3",
+    "lead": false
+  },
+  {
+    "headline": "Standard Chartered to cut thousands of roles as AI use increases",
+    "deck": "The UK-headquartered banking giant aims to move some of the effected workers to other roles in the business.",
+    "cnTitle": "渣打银行AI应用致数千人被裁",
+    "cnDeck": "渣打银行，这家总部位于英国的全球性银行巨头，计划削减数千个工作岗位。此项裁员决定的主要驱动因素是银行内部人工智能（AI）技术应用的日益增加。渣打银行的目标是通过自动化和数字化转型，显著提升运营效率，降低成本，并优化其在全球范围内的业务结构。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/crep3v8vzglo?at_medium=RSS&at_campaign=rss",
+    "time": "7小时前",
+    "published_iso": "2026-05-19T02:50:55+00:00",
+    "is_new": true,
+    "id": "n4",
+    "lead": false
+  },
+  {
+    "headline": "What really holds China and Russia together",
+    "deck": "The relationship endures despite a power imbalance, with both sides recognising that it is too important to fail.",
+    "cnTitle": "中俄关系持续发展的重要性",
+    "cnDeck": "“中俄关系经受住了权力不平衡的考验，双方都认识到其重要性不容失败。”这句新闻内容简洁地揭示了当前全球地缘政治格局中一个至关重要的双边关系的核心特质。中俄两国在国际舞台上扮演着举足轻重的角色，尽管两国在经济体量、军事现代化程度以及全球影响力等多个维度存在明显的“权力不平衡”，但其战略伙伴关系不仅没有因此瓦解，反而展现出惊人的韧性与持续性。具体而言，这种权力不平衡主要体现在经济层面。中国经济总量已跃居世界第二，是全球最大的贸易国和制造业中心，其科技创新能力也在迅速崛起。相比之下，俄罗斯经济规模相对较小，主要依赖能源出口，并在西方制裁下承受压力。然而，在军事和安全领域，俄罗斯依然是强大的核大国，拥有先进的军事技术，并在全球战略平衡中占据一席之地。这种互补性使得两国在各自的优势领域形成支撑，而非竞争。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c4g8kpkjkl0o?at_medium=RSS&at_campaign=rss",
+    "time": "11小时前",
+    "published_iso": "2026-05-18T23:06:55+00:00",
+    "is_new": true,
+    "id": "n5",
+    "lead": false
+  },
+  {
     "headline": "Robo-top: The machines that could make your next t-shirt",
     "deck": "Most clothes are made in Asia, but new machines could bring some of that work back to the West.",
     "cnTitle": "机器人技术革新或重塑服装制造业",
@@ -9,9 +79,36 @@
     "url": "https://www.bbc.com/news/articles/c0q2gkj97eko?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-05-18T23:04:14+00:00",
+    "id": "n6",
+    "lead": false
+  },
+  {
+    "headline": "Trump says he called off new Iran attack at request of Gulf states",
+    "deck": "The US president says he is holding off on an attack planned for Tuesday as \"serious negotiations are now taking place\".",
+    "cnTitle": "特朗普暂停对伊朗军事行动",
+    "cnDeck": "美国总统唐纳德·特朗普（Donald Trump）周二表示，他已决定取消原计划对伊朗实施的军事打击行动。特朗普透露，这一关键决定是在接到海湾地区国家请求后做出的，并且他进一步指出，目前“正在进行严肃的谈判”，这是促使他暂停军事干预的主要原因。此举发生在美国与伊朗之间持续升级的紧张局势背景下。此前，伊朗革命卫队击落了一架美国RQ-4“全球鹰”无人侦察机，引发了华盛顿和德黑兰之间的直接军事对抗威胁。特朗普政府曾多次对伊朗实施严厉经济制裁，并警告如果伊朗继续采取破坏地区稳定的行动，将面临严重后果。海湾地区的盟友，包括沙特阿拉伯和阿拉伯联合酋长国，对潜在的美伊军事冲突可能造成的地区不稳定和经济冲击深感担忧。这些国家担心，任何军事行动都可能导致石油供应中断，引发能源市场剧烈波动，并可能将冲突蔓延至整个中东地区，威胁到它们自身的国家安全和经济繁荣。特朗普没有详细说明这些“严肃的谈判”的具体细节，包括参与方、谈判地点或议题，但他的表态暗示了通过外交途径寻求解决方案的可能性。国际社会普遍呼吁美伊双方保持克制，避免采取任何可能加剧地区紧张局势的行动，并通过对话解决分歧。分析人士认为，特朗普政府的这一决定可能反映出其在军事行动前对潜在区域后果的审慎评估，以及为外交解决途径留出空间的意愿。然而，美伊关系的核心矛盾和互不信任感依然存在，未来的地区局势走向仍充满不确定性。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss",
+    "time": "12小时前",
+    "published_iso": "2026-05-18T22:30:58+00:00",
     "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n7",
+    "lead": false
+  },
+  {
+    "headline": "Selling children to survive: Afghan fathers forced to make impossible choices",
+    "deck": "In Afghanistan today, a staggering three in four people cannot meet their basic needs.",
+    "cnTitle": "阿富汗民生崩溃，父亲被迫卖子求生",
+    "cnDeck": "阿富汗正面临一场史无前例的人道主义危机，据估计，高达四分之三的人口——即惊人的75%——无法满足其最基本的生存需求。这种严峻的局势迫使家庭，尤其是父亲们，不得不面对无法想象的选择，其中包括做出令人心碎的决定：出售自己的孩子，只为给其他家人提供食物或住所。这种极度绝望凸显了国家所陷入的深刻经济崩溃和普遍贫困。在经历了数十年的冲突、政治不稳定以及一系列自然灾害之后，加上2021年8月塔利班重新掌权后国际援助的突然撤离和资产冻结，阿富汗的经济已陷入自由落体式下滑。正规银行系统基本处于瘫痪状态，汇款大幅减少，就业机会稀缺。严重依赖人道主义援助的普通阿富汗人民，如今在恶性通货膨胀、粮食不安全和基本服务匮乏的背景下，为日常生存而挣扎。联合国及各国际援助组织多次就不断升级的危机发出警告，称其为全球最严重的人道主义灾难之一。报告显示，数百万儿童严重营养不良，由于医疗系统崩溃，可预防疾病普遍流行。特别是妇女和女童面临不成比例的痛苦，她们受教育和工作的权利受到严格限制，进一步加剧了家庭贫困。作为传统意义上的家庭支柱，父亲们在目睹家人挨饿时承受着巨大的心理和情感负担。出售孩子——通常是年幼的女儿——以换取早婚或劳动，是他们为偿还债务、购买食物或支付其他家庭成员医疗费用的最后手段。这种做法，虽然在文化上受到谴责，却已成为极端经济困境和缺乏任何社会安全网的悲剧性症状。它造成了一种毁灭性的贫困、创伤和侵犯人权循环，将对后代产生深远影响。国际社会面临着一个复杂挑战，即如何在不使现有事实政府合法化的情况下提供援助，同时防止社会彻底崩溃和大规模饥荒。尽管人道主义机构持续努力，但危机的规模远远超过现有资源。若无国际社会援助的显著增加、持续的经济复苏以及更稳定的政治环境，阿富汗的人道主义灾难预计将进一步恶化，迫使更多家庭做出这样不可能且骇人听闻的选择。阿富汗家庭的困境凸显了全球迫切需要采取全面应对措施，以防止更多生命逝去，并保护基本的人类尊严。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c0q25dwj807o?at_medium=RSS&at_campaign=rss",
+    "time": "13小时前",
+    "published_iso": "2026-05-18T21:09:07+00:00",
+    "is_new": true,
+    "id": "n8",
+    "lead": false
   },
   {
     "headline": "Trump says he's postponing 'scheduled attack of Iran tomorrow' at Middle East leaders' request",
@@ -23,7 +120,7 @@
     "url": "https://www.cnbc.com/2026/05/18/trump-iran-attack-saudi-uae-qatar-deal.html",
     "time": "刚刚",
     "published_iso": "2026-05-18T20:06:47+00:00",
-    "id": "n2",
+    "id": "n9",
     "lead": false
   },
   {
@@ -36,7 +133,7 @@
     "url": "https://www.bbc.com/news/articles/cqlpz4w6v13o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-18T19:24:05+00:00",
-    "id": "n3",
+    "id": "n10",
     "lead": false
   },
   {
@@ -49,7 +146,21 @@
     "url": "https://www.bbc.com/news/articles/cewpyv79pw1o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-18T19:18:58+00:00",
-    "id": "n4",
+    "id": "n11",
+    "lead": false
+  },
+  {
+    "headline": "PlayStation Plus to raise monthly subscription fee",
+    "deck": "The video game firm says the increase is due to \"ongoing market conditions\".",
+    "cnTitle": "PlayStation Plus会员费将上调",
+    "cnDeck": "索尼互动娱乐（Sony Interactive Entertainment, SIE）近日正式宣布，其广受欢迎的PlayStation Plus订阅服务将进行全球范围内的会员费用上调。公司在一份官方声明中指出，此次价格调整是为应对“持续的市场状况”（ongoing market conditions），并确保能够持续为PlayStation Plus会员提供高质量的游戏内容、卓越服务以及不断增长的价值。这一决定反映了当前全球经济环境下，运营成本上升、通货膨胀压力以及对服务和内容持续投入的需求。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c1e24z2q7xqo?at_medium=RSS&at_campaign=rss",
+    "time": "15小时前",
+    "published_iso": "2026-05-18T18:58:33+00:00",
+    "is_new": true,
+    "id": "n12",
     "lead": false
   },
   {
@@ -62,8 +173,7 @@
     "url": "https://www.bbc.com/news/articles/ce8pqd54qneo?at_medium=RSS&at_campaign=rss",
     "time": "13小时前",
     "published_iso": "2026-05-18T15:16:00+00:00",
-    "is_new": true,
-    "id": "n5",
+    "id": "n13",
     "lead": false
   },
   {
@@ -76,7 +186,7 @@
     "url": "https://www.bbc.com/news/articles/cm2p72mmddyo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-05-18T13:04:20+00:00",
-    "id": "n6",
+    "id": "n14",
     "lead": false
   },
   {
@@ -89,7 +199,7 @@
     "url": "https://www.cnbc.com/2026/05/18/oil-today-brent-wti-iran-trump-hormuz-iea-supply-crude-.html",
     "time": "刚刚",
     "published_iso": "2026-05-18T10:23:34+00:00",
-    "id": "n7",
+    "id": "n15",
     "lead": false
   },
   {
@@ -102,7 +212,7 @@
     "url": "https://www.bbc.com/news/articles/c142vz80553o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-18T10:00:47+00:00",
-    "id": "n8",
+    "id": "n16",
     "lead": false
   },
   {
@@ -115,7 +225,7 @@
     "url": "https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-18T09:58:35+00:00",
-    "id": "n9",
+    "id": "n17",
     "lead": false
   },
   {
@@ -128,7 +238,7 @@
     "url": "https://www.bbc.com/news/articles/cm2p0n44drvo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-18T09:40:27+00:00",
-    "id": "n10",
+    "id": "n18",
     "lead": false
   },
   {
@@ -141,7 +251,7 @@
     "url": "https://www.bbc.com/news/articles/c2023l60370o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-18T09:33:53+00:00",
-    "id": "n11",
+    "id": "n19",
     "lead": false
   },
   {
@@ -154,7 +264,7 @@
     "url": "https://www.bbc.com/news/articles/c7591gq10qko?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-05-18T03:08:13+00:00",
-    "id": "n12",
+    "id": "n20",
     "lead": false
   },
   {
@@ -167,7 +277,7 @@
     "url": "https://www.bbc.com/news/articles/czx2ne2ryppo?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-18T02:23:24+00:00",
-    "id": "n13",
+    "id": "n21",
     "lead": false
   },
   {
@@ -180,7 +290,7 @@
     "url": "https://www.bbc.com/news/articles/cg7p5nr307mo?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-05-17T23:54:57+00:00",
-    "id": "n14",
+    "id": "n22",
     "lead": false
   },
   {
@@ -193,7 +303,7 @@
     "url": "https://www.bbc.com/news/articles/cn8p392nl7yo?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-05-17T23:02:56+00:00",
-    "id": "n15",
+    "id": "n23",
     "lead": false
   },
   {
@@ -206,33 +316,7 @@
     "url": "https://www.bbc.com/news/articles/cwy27pkj1l1o?at_medium=RSS&at_campaign=rss",
     "time": "14小时前",
     "published_iso": "2026-05-17T20:53:45+00:00",
-    "id": "n16",
-    "lead": false
-  },
-  {
-    "headline": "Large-scale Ukrainian drone attack kills three in Moscow region, says Russia",
-    "deck": "In Ukraine, local officials report eight injured in overnight Russian drone strikes and shelling.",
-    "cnTitle": "莫斯科遭乌无人机袭击致三人死亡",
-    "cnDeck": "俄罗斯方面报告称，一起大规模的乌克兰无人机袭击导致莫斯科地区三人死亡。据俄方消息，此次夜间袭击发生在莫斯科州境内，目标指向当地设施，造成了平民伤亡。此次事件是乌克兰试图将战火引向俄罗斯腹地，特别是首都莫斯科周边地区策略的最新升级。此前，莫斯科地区已多次遭遇无人机袭击，但造成如此严重的人员死亡相对罕见，这无疑将进一步加剧俄乌冲突的",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss",
-    "time": "1小时前",
-    "published_iso": "2026-05-17T07:21:03+00:00",
-    "id": "n17",
-    "lead": false
-  },
-  {
-    "headline": "WHO declares Ebola outbreak in DR Congo a global health emergency",
-    "deck": "The agency added that the outbreak, with around 246 cases and 80 deaths, does not meet the criteria of pandemic emergency.",
-    "cnTitle": "世卫组织宣布刚果埃博拉为全球紧急状态",
-    "cnDeck": "世界卫生组织（WHO）周三宣布，刚果民主共和国（DR Congo）的埃博拉疫情已构成国际关注的突发公共卫生事件（PHEIC），即通常所称的全球卫生紧急状态。此次疫情，目前已报告约246例病例和80例死亡，主要集中在北基伍省和伊图里省。尽管如此，该机构同时指出，本次疫情的严重程度尚未达到“大流行病紧急状态”的标准。世界卫生组织总干事谭德塞博士在日内瓦举行的新闻发布会上宣布了这一决定，他强调此举旨在避免疫情进一步扩散，并动员全球资源支持刚果民主共和国及其周边国家的应对工作。谭德塞博士指出，疫情爆发近一年来，尽管当地卫生部门和国际伙伴做出了巨大努力，但疫情形势依然严峻，特别是在戈马市发现一例确诊病例后，使得疫情传播的风险显著增加。戈马是一个拥有超过200万人口的主要商业枢纽，且与卢旺达等邻国接壤，一旦病毒在此地蔓延，后果将不堪设想。PHEIC的宣布是世界卫生组织在其《国际卫生条例》框架下能采取的最高级别警戒，用于应对那些可能跨越国界传播并需要国际社会协调一致应对的严重公共卫生事件。此前的PHEIC包括2009年的H1N1流感、2014年的西非埃博拉疫情、2016年的寨卡病毒以及2020年爆发的新冠疫情。通过宣布PHEIC，世界卫生组织旨在提升国际社会对该疫情的关注度，呼吁成员国提供更多资金、人力和技术援助，并加强边境卫生筛查和旅行建议，以防止疫情进一步蔓延。刚果民主共和国东部的埃博拉疫情是该国历史上第二大规模的疫情，也是全球第二大规模的埃博拉疫情，仅次于2014-2016年重创西非的疫情。疫情的防控工作面临着多重挑战，包括地区武装冲突频繁，导致卫生工作者难以安全抵达受影响区域；当地社区对埃博拉疫苗接种和治疗存在不信任感；以及针对医疗设施和医护人员的暴力袭击事件时有发生，这些都严重阻碍了疫情的有效控制。例如，去年以来，已有数十起针对埃博拉应对中心的袭击事件，导致数名卫生工作者丧生。世界卫生组织此前曾三次召开紧急委员会会议，讨论是否将刚果（金）的埃博拉疫情升级为全球紧急状态，但均未通过。此次宣布PHEIC的决定，反映出专家们对疫情演变，尤其是向人口稠密地区蔓延的风险的深切担忧。谭德塞博士敦促国际社会立即采取行动，为受影响区域提供紧急支持，包括但不限于增加疫苗接种覆盖率、加强社区参与、确保患者得到及时隔离和治疗、以及改进病毒检测能力。他强调，控制此次疫情不仅是刚果民主共和国的责任，更是全球的共同责任，任何国家的疏忽都可能导致疫情在全球范围内扩散。世界卫生组织将继续与刚果（金）政府和国际伙伴紧密合作，共同应对这一严峻挑战，力求在最短时间内将疫情控制住，保护当地居民和全球民众的健康安全。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss",
-    "time": "1小时前",
-    "published_iso": "2026-05-17T07:08:26+00:00",
-    "id": "n18",
+    "id": "n24",
     "lead": false
   }
 ]
