@@ -1,5 +1,19 @@
 [
   {
+    "headline": "Robo-top: The machines that could make your next t-shirt",
+    "deck": "Most clothes are made in Asia, but new machines could bring some of that work back to the West.",
+    "cnTitle": "机器人技术革新或重塑服装制造业",
+    "cnDeck": "当前的全球服装制造业版图正经历一场潜在的深刻变革，由先进的自动化和机器人技术驱动。长期以来，亚洲地区凭借其低廉的劳动力成本和成熟的供应链体系，一直是全球服装生产的中心，承载了绝大多数的服装制造业务。然而，随着一项被称为“Robo-top”的新技术以及其他相关自动化解决方案的兴起，这种模式面临着被颠覆的可能性。这些创新型机器，特别是那些能够处理复杂纺织品和缝纫任务的机器人系统，有望将一部分服装制造工作重新带回西方国家，从而重塑全球供应链，并对劳动力市场和经济结构产生深远影响。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c0q2gkj97eko?at_medium=RSS&at_campaign=rss",
+    "time": "5小时前",
+    "published_iso": "2026-05-18T23:04:14+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
     "headline": "Trump says he's postponing 'scheduled attack of Iran tomorrow' at Middle East leaders' request",
     "deck": "The U.S. and Iran are in a stalemate centered on the Strait of Hormuz, the global oil pathway whose closure due to the war has caused an energy supply shock.",
     "cnTitle": "特朗普应请求推迟袭击伊朗计划",
@@ -9,9 +23,8 @@
     "url": "https://www.cnbc.com/2026/05/18/trump-iran-attack-saudi-uae-qatar-deal.html",
     "time": "刚刚",
     "published_iso": "2026-05-18T20:06:47+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n2",
+    "lead": false
   },
   {
     "headline": "Elon Musk just lost another lawsuit. Will he keep fighting?",
@@ -23,8 +36,7 @@
     "url": "https://www.bbc.com/news/articles/cqlpz4w6v13o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-18T19:24:05+00:00",
-    "is_new": true,
-    "id": "n2",
+    "id": "n3",
     "lead": false
   },
   {
@@ -37,8 +49,21 @@
     "url": "https://www.bbc.com/news/articles/cewpyv79pw1o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-18T19:18:58+00:00",
+    "id": "n4",
+    "lead": false
+  },
+  {
+    "headline": "Former Google CEO Eric Schmidt booed by graduates at mention of AI",
+    "deck": "The reaction underscores a growing anxiety among students over AI's impact on jobs and their future careers.",
+    "cnTitle": "前谷歌CEO谈AI引毕业生焦虑遭嘘声",
+    "cnDeck": "前谷歌CEO埃里克·施密特（Eric Schmidt）近日在一场备受关注的毕业典礼上，因提及人工智能（AI）而遭遇现场毕业生发出的嘘声。这一事件迅速引起了广泛讨论，凸显出当前学生群体对AI技术对未来就业市场及其职业生涯影响日益增长的深切焦虑。据现场目击者和媒体报道，施密特在演讲中谈及AI的创新潜力及其将如何重塑世界时，部分毕业生开始发出不满的声音，最终演变为明显的嘘声，打断了他的发言。虽然施密特试图继续阐述AI的积极面，如提高生产力、创造新行业等，但现场的负面反应显示出许多毕业生对此持有截然不同的看法。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/ce8pqd54qneo?at_medium=RSS&at_campaign=rss",
+    "time": "13小时前",
+    "published_iso": "2026-05-18T15:16:00+00:00",
     "is_new": true,
-    "id": "n3",
+    "id": "n5",
     "lead": false
   },
   {
@@ -51,7 +76,7 @@
     "url": "https://www.bbc.com/news/articles/cm2p72mmddyo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-05-18T13:04:20+00:00",
-    "id": "n4",
+    "id": "n6",
     "lead": false
   },
   {
@@ -64,7 +89,7 @@
     "url": "https://www.cnbc.com/2026/05/18/oil-today-brent-wti-iran-trump-hormuz-iea-supply-crude-.html",
     "time": "刚刚",
     "published_iso": "2026-05-18T10:23:34+00:00",
-    "id": "n5",
+    "id": "n7",
     "lead": false
   },
   {
@@ -77,7 +102,7 @@
     "url": "https://www.bbc.com/news/articles/c142vz80553o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-18T10:00:47+00:00",
-    "id": "n6",
+    "id": "n8",
     "lead": false
   },
   {
@@ -90,7 +115,7 @@
     "url": "https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-18T09:58:35+00:00",
-    "id": "n7",
+    "id": "n9",
     "lead": false
   },
   {
@@ -103,7 +128,7 @@
     "url": "https://www.bbc.com/news/articles/cm2p0n44drvo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-18T09:40:27+00:00",
-    "id": "n8",
+    "id": "n10",
     "lead": false
   },
   {
@@ -116,7 +141,7 @@
     "url": "https://www.bbc.com/news/articles/c2023l60370o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-18T09:33:53+00:00",
-    "id": "n9",
+    "id": "n11",
     "lead": false
   },
   {
@@ -129,7 +154,7 @@
     "url": "https://www.bbc.com/news/articles/c7591gq10qko?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-05-18T03:08:13+00:00",
-    "id": "n10",
+    "id": "n12",
     "lead": false
   },
   {
@@ -142,7 +167,7 @@
     "url": "https://www.bbc.com/news/articles/czx2ne2ryppo?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-18T02:23:24+00:00",
-    "id": "n11",
+    "id": "n13",
     "lead": false
   },
   {
@@ -155,7 +180,7 @@
     "url": "https://www.bbc.com/news/articles/cg7p5nr307mo?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-05-17T23:54:57+00:00",
-    "id": "n12",
+    "id": "n14",
     "lead": false
   },
   {
@@ -168,7 +193,7 @@
     "url": "https://www.bbc.com/news/articles/cn8p392nl7yo?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-05-17T23:02:56+00:00",
-    "id": "n13",
+    "id": "n15",
     "lead": false
   },
   {
@@ -181,7 +206,7 @@
     "url": "https://www.bbc.com/news/articles/cwy27pkj1l1o?at_medium=RSS&at_campaign=rss",
     "time": "14小时前",
     "published_iso": "2026-05-17T20:53:45+00:00",
-    "id": "n14",
+    "id": "n16",
     "lead": false
   },
   {
@@ -194,7 +219,7 @@
     "url": "https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-17T07:21:03+00:00",
-    "id": "n15",
+    "id": "n17",
     "lead": false
   },
   {
@@ -207,32 +232,6 @@
     "url": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-17T07:08:26+00:00",
-    "id": "n16",
-    "lead": false
-  },
-  {
-    "headline": "Trump-backed challenger defeats Republican senator who voted to convict president",
-    "deck": "Trump threw his full support behind Julia Letlow in Louisiana's high-stakes contest, branding the incumbent \"disloyal\".",
-    "cnTitle": "特朗普支持者击败弹劾共和党参议员",
-    "cnDeck": "在路易斯安那州一场备受瞩目的选举中，得到前总统唐纳德·特朗普全力支持的挑战者朱莉娅·莱特洛（Julia Letlow）击败了一位曾投票支持弹劾并认定特朗普有罪的共和党现任参议员。这场选举被广泛视为对特朗普在共和党内部持续影响力的关键考验。特朗普此前明确表态，将他对莱特洛的“全力支持”作为一项重要政治行动，并公开将这位现任参议员标记为“不忠诚”的。这一言论突显了特朗普对其党内批评者的零容忍态度，以及他通过支持忠诚盟友来巩固自身政治遗产的策略。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cx21d4pxq23o?at_medium=RSS&at_campaign=rss",
-    "time": "5小时前",
-    "published_iso": "2026-05-17T03:23:08+00:00",
-    "id": "n17",
-    "lead": false
-  },
-  {
-    "headline": "Hezbollah drone strike videos show evolving tactics against Israel",
-    "deck": "BBC Verify has examined dozens of videos of fibre-optic drone attacks carried out by the Lebanese armed group.",
-    "cnTitle": "真主党无人机战术升级，以色列面临新挑战",
-    "cnDeck": "BBC Verify 经过深入分析，对黎巴嫩武装组织真主党针对以色列实施的数十起光纤制导无人机袭击视频进行了详细审查。这项研究揭示了真主党在冲突中采用的战术正在显著演变，对其在未来军事行动中的能力提供了新的视角。传统上，真主党主要依赖火箭弹和迫击炮发动袭击，但近期出现的无人机袭击，特别是利用光纤制导技术的攻击，标志着其作战策略的重大转变。光纤制",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c1j2zwe9g5no?at_medium=RSS&at_campaign=rss",
-    "time": "9小时前",
-    "published_iso": "2026-05-16T23:10:19+00:00",
     "id": "n18",
     "lead": false
   }
