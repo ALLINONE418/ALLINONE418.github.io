@@ -1,5 +1,33 @@
 [
   {
+    "headline": "Tech Life",
+    "deck": "We talk to an expert about the risks from AI hackers.",
+    "cnTitle": "专家警示AI黑客潜在威胁",
+    "cnDeck": "近日，在一场名为“科技生活”的专题讨论中，我们有幸与一位在人工智能（AI）安全领域享有盛誉的专家进行了深入对话，共同探讨了人工智能技术飞速发展背后所隐藏的潜在黑客风险。这位专家详细阐述了AI系统在各个层面可能面临的威胁，并强调了这些风险对个人隐私、企业安全乃至国家关键基础设施构成的严峻挑战。专家指出，AI黑客的威胁主要体现在两大核心方向。首先，是恶意利用AI技术本身来执行更高级别、更具破坏性的网络攻击。传统网络攻击手段，如钓鱼邮件和恶意软件分发，在AI的赋能下，能够实现前所未有的精准度、自动化水平和隐蔽性。例如，AI驱动的钓鱼邮件可以根据目标对象的数字足迹、个人兴趣和行为模式，量身定制高度个性化且极具迷惑性的诱导内容，从而大幅提高攻击成功率。此外，AI还可能被用于开发能够自主学习和进化的新型恶意软件，这些智能恶意程序能够有效规避现有安全防御系统，对企业网络造成长期且深远的破坏。更令人担忧的是，深度伪造（Deepfake）技术若被恶意利用，制造出高度逼真的虚假音视频信息，不仅可能导致个人声誉受损、引发大规模金融欺诈，甚至可能在政治领域造成混乱，影响社会稳定。",
+    "cat": "tech",
+    "source": "BBC",
+    "url": "https://www.bbc.co.uk/sounds/play/w3ct8jxw?at_medium=RSS&at_campaign=rss",
+    "time": "刚刚",
+    "published_iso": "2026-05-19T20:00:00+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "NS&I to begin contacting victims of lost funds scandal",
+    "deck": "Over 30,000 estates could not be accessed due to an error identifying all of a late customer's NS&amp;I products.",
+    "cnTitle": "英国NS&I遗产金丑闻：将联系数万受害者",
+    "cnDeck": "英国国家储蓄与投资（NS&I），一家由英国政府财政部全资拥有的非银行金融机构，近日宣布将着手联系数万名受“遗产金错失丑闻”影响的受害者。这一丑闻的核心是一项严重的行政管理失误，导致超过30,000个已故客户的遗产无法被其合法继承人正常访问或提取。具体而言，该错误源于NS&I的内部系统在识别和整合已故客户名下所有NS&I产品时出现了重大缺陷。这意味着，当客户去世后，尽管其在NS&I持有多种储蓄账户、投资产品或高级奖金储蓄凭证（Premium Bonds），但由于系统未能全面识别这些资产，导致部分资金在遗产清算过程中被遗漏，使得继承人无法顺利掌握和管理这些本应属于他们的资金。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cvgzrz59yz2o?at_medium=RSS&at_campaign=rss",
+    "time": "2小时前",
+    "published_iso": "2026-05-19T17:41:23+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
     "headline": "Petrol hits highest price since start of Iran war",
     "deck": "The average price of unleaded has risen to 158.52p a litre, according to the RAC, who warn that it could rise further in the coming weeks.",
     "cnTitle": "油价创伊朗战争以来新高",
@@ -9,9 +37,8 @@
     "url": "https://www.bbc.com/news/articles/cdep64555wzo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-19T15:12:31+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n3",
+    "lead": false
   },
   {
     "headline": "Ebola may be spreading faster than first thought, WHO doctor warns",
@@ -23,7 +50,7 @@
     "url": "https://www.bbc.com/news/articles/ceqp11gn1l8o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-19T10:15:46+00:00",
-    "id": "n2",
+    "id": "n4",
     "lead": false
   },
   {
@@ -36,7 +63,7 @@
     "url": "https://www.cnbc.com/2026/05/19/ai-hiring-slowdown-skilled-trade-workers.html",
     "time": "1小时前",
     "published_iso": "2026-05-19T09:00:01+00:00",
-    "id": "n3",
+    "id": "n5",
     "lead": false
   },
   {
@@ -49,7 +76,7 @@
     "url": "https://www.bbc.com/news/articles/czx2plkvg45o?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-19T08:17:52+00:00",
-    "id": "n4",
+    "id": "n6",
     "lead": false
   },
   {
@@ -62,7 +89,7 @@
     "url": "https://www.bbc.com/news/articles/crep3v8vzglo?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-05-19T02:50:55+00:00",
-    "id": "n5",
+    "id": "n7",
     "lead": false
   },
   {
@@ -75,7 +102,7 @@
     "url": "https://www.bbc.com/news/articles/c4g8kpkjkl0o?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-05-18T23:06:55+00:00",
-    "id": "n6",
+    "id": "n8",
     "lead": false
   },
   {
@@ -88,7 +115,7 @@
     "url": "https://www.bbc.com/news/articles/c0q2gkj97eko?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-05-18T23:04:14+00:00",
-    "id": "n7",
+    "id": "n9",
     "lead": false
   },
   {
@@ -101,7 +128,7 @@
     "url": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss",
     "time": "12小时前",
     "published_iso": "2026-05-18T22:30:58+00:00",
-    "id": "n8",
+    "id": "n10",
     "lead": false
   },
   {
@@ -114,7 +141,7 @@
     "url": "https://www.bbc.com/news/articles/c0q25dwj807o?at_medium=RSS&at_campaign=rss",
     "time": "13小时前",
     "published_iso": "2026-05-18T21:09:07+00:00",
-    "id": "n9",
+    "id": "n11",
     "lead": false
   },
   {
@@ -127,7 +154,7 @@
     "url": "https://www.cnbc.com/2026/05/18/trump-iran-attack-saudi-uae-qatar-deal.html",
     "time": "刚刚",
     "published_iso": "2026-05-18T20:06:47+00:00",
-    "id": "n10",
+    "id": "n12",
     "lead": false
   },
   {
@@ -140,7 +167,7 @@
     "url": "https://www.bbc.com/news/articles/cqlpz4w6v13o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-18T19:24:05+00:00",
-    "id": "n11",
+    "id": "n13",
     "lead": false
   },
   {
@@ -153,7 +180,7 @@
     "url": "https://www.bbc.com/news/articles/cewpyv79pw1o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-18T19:18:58+00:00",
-    "id": "n12",
+    "id": "n14",
     "lead": false
   },
   {
@@ -166,7 +193,7 @@
     "url": "https://www.bbc.com/news/articles/c1e24z2q7xqo?at_medium=RSS&at_campaign=rss",
     "time": "15小时前",
     "published_iso": "2026-05-18T18:58:33+00:00",
-    "id": "n13",
+    "id": "n15",
     "lead": false
   },
   {
@@ -179,7 +206,7 @@
     "url": "https://www.bbc.com/news/articles/ce8pqd54qneo?at_medium=RSS&at_campaign=rss",
     "time": "13小时前",
     "published_iso": "2026-05-18T15:16:00+00:00",
-    "id": "n14",
+    "id": "n16",
     "lead": false
   },
   {
@@ -192,7 +219,7 @@
     "url": "https://www.bbc.com/news/articles/cm2p72mmddyo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-05-18T13:04:20+00:00",
-    "id": "n15",
+    "id": "n17",
     "lead": false
   },
   {
@@ -205,7 +232,7 @@
     "url": "https://www.cnbc.com/2026/05/18/oil-today-brent-wti-iran-trump-hormuz-iea-supply-crude-.html",
     "time": "刚刚",
     "published_iso": "2026-05-18T10:23:34+00:00",
-    "id": "n16",
+    "id": "n18",
     "lead": false
   },
   {
@@ -218,7 +245,7 @@
     "url": "https://www.bbc.com/news/articles/c142vz80553o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-18T10:00:47+00:00",
-    "id": "n17",
+    "id": "n19",
     "lead": false
   },
   {
@@ -231,7 +258,7 @@
     "url": "https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-18T09:58:35+00:00",
-    "id": "n18",
+    "id": "n20",
     "lead": false
   },
   {
@@ -244,7 +271,7 @@
     "url": "https://www.bbc.com/news/articles/cm2p0n44drvo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-18T09:40:27+00:00",
-    "id": "n19",
+    "id": "n21",
     "lead": false
   },
   {
@@ -257,7 +284,7 @@
     "url": "https://www.bbc.com/news/articles/c2023l60370o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-18T09:33:53+00:00",
-    "id": "n20",
+    "id": "n22",
     "lead": false
   },
   {
@@ -270,7 +297,7 @@
     "url": "https://www.bbc.com/news/articles/c7591gq10qko?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-05-18T03:08:13+00:00",
-    "id": "n21",
+    "id": "n23",
     "lead": false
   },
   {
@@ -283,7 +310,7 @@
     "url": "https://www.bbc.com/news/articles/czx2ne2ryppo?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-18T02:23:24+00:00",
-    "id": "n22",
+    "id": "n24",
     "lead": false
   },
   {
@@ -296,7 +323,7 @@
     "url": "https://www.bbc.com/news/articles/cg7p5nr307mo?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-05-17T23:54:57+00:00",
-    "id": "n23",
+    "id": "n25",
     "lead": false
   },
   {
@@ -309,7 +336,7 @@
     "url": "https://www.bbc.com/news/articles/cn8p392nl7yo?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-05-17T23:02:56+00:00",
-    "id": "n24",
+    "id": "n26",
     "lead": false
   },
   {
@@ -322,7 +349,7 @@
     "url": "https://www.bbc.com/news/articles/cwy27pkj1l1o?at_medium=RSS&at_campaign=rss",
     "time": "14小时前",
     "published_iso": "2026-05-17T20:53:45+00:00",
-    "id": "n25",
+    "id": "n27",
     "lead": false
   }
 ]
