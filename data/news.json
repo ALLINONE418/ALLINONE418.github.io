@@ -1,5 +1,33 @@
 [
   {
+    "headline": "UK loosens Russian oil sanctions as fuel prices rise",
+    "deck": "The waiver reflects increasing supply concerns over certain fuels due to the effective blockade of the Strait of Hormuz.",
+    "cnTitle": "英国放宽俄油制裁缓解能源担忧",
+    "cnDeck": "英国政府近日宣布，将放宽对俄罗斯石油的部分制裁措施。此项决定是在全球燃料价格持续上涨、市场对燃料供应日益担忧的背景下做出的，旨在缓解英国乃至全球范围内的能源供应紧张局面。此次豁免政策的出台，直接反映出对特定燃料供应的高度关切，尤其是由于霍尔木兹海峡“有效封锁”所导致的供应不确定性。霍尔木兹海峡是连接波斯湾与印度洋的战略要道，承担着全球约五分之一的原油及液化天然气（LNG）贸易量。任何对该海峡的运输中断或严重受阻，都将对全球能源供应链造成灾难性影响，引发原油及成品油价格的急剧飙升，进而对全球经济稳定构成严重威胁。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cy42x3g7r89o?at_medium=RSS&at_campaign=rss",
+    "time": "2小时前",
+    "published_iso": "2026-05-20T01:58:01+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "Google to release first smart glasses since Google Glass flop",
+    "deck": "The glasses will go on sale sometime in autumn and allow Google's artificial intelligence product to interact with a user.",
+    "cnTitle": "谷歌秋季将推AI智能眼镜",
+    "cnDeck": "Alphabet旗下科技巨头谷歌(Google)计划在今年秋季发布其自Google Glass项目以来的首款智能眼镜产品。此举标志着谷歌在智能穿戴设备领域，尤其是在AR（增强现实）眼镜赛道上的卷土重来。这款即将上市的智能眼镜将深度整合谷歌最新的人工智能（AI）技术，旨在彻底改变用户与数字世界的交互方式，实现更自然、更沉浸式的体验。回溯历史，谷歌在2013年首次推出Google Glass探索版，尽管在技术创新方面曾引发轰动，但由于高昂的价格、有限的功能、隐私争议（如摄像头录像功能引发的担忧），以及消费者对其外观接受度不高等多重原因，最终未能成功推向大众市场，被普遍视为一次“失败”（flop）。此次谷歌重返智能眼镜市场，显然吸取了过去的教训，并将AI作为其核心卖点。据消息人士透露，新款智能眼镜预计将实现多项先进的AI功能。用户可能通过语音指令与谷歌的AI助手进行实时互动，获取信息、翻译语言、导航、日程管理，甚至进行图像识别和增强现实叠加。例如，在旅行时，眼镜可能会实时显示地标信息或翻译路牌；在日常生活中，则能提供即时通知或健康数据。这种“与用户互动”的能力，预示着一个更加无缝、解放双手的计算范式。在当前AI技术飞速发展的背景下，谷歌的这一举动具有战略意义。随着大语言模型和多模态AI的成熟，智能眼镜能够处理更复杂的指令和数据，从而提供比以往任何时候都更加个性化和有用的服务。这款产品的发布，也是谷歌在硬件生态系统中进一步巩固其AI领导地位的关键一步，与亚马逊、苹果（Apple）和Meta等其他科技巨头在AR/VR领域的布局形成竞争。Meta已与雷朋合作推出多款智能眼镜，而苹果也被传正在开发自家的AR眼镜产品。市场分析人士普遍认为，新的AI智能眼镜能否成功，将取决于其能否提供真正独特且有价值的用户体验，解决实际痛点，同时兼顾设计、舒适度、电池续航以及最重要的用户隐私问题。谷歌需要在大众接受度与尖端技术之间找到完美的平衡点，以避免重蹈Google Glass的覆辙，真正将智能眼镜从科幻概念转变为日常生活的必需品。这款产品预计在今年秋季某个时间点上市销售，具体日期和详细规格尚未公布，但无疑已在全球科技界引发了广泛期待和讨论。",
+    "cat": "tech",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cvgz1ynq1nqo?at_medium=RSS&at_campaign=rss",
+    "time": "7小时前",
+    "published_iso": "2026-05-19T21:00:12+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
     "headline": "Tech Life",
     "deck": "We talk to an expert about the risks from AI hackers.",
     "cnTitle": "专家警示AI黑客潜在威胁",
@@ -9,9 +37,8 @@
     "url": "https://www.bbc.co.uk/sounds/play/w3ct8jxw?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-19T20:00:00+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n3",
+    "lead": false
   },
   {
     "headline": "NS&I to begin contacting victims of lost funds scandal",
@@ -23,8 +50,7 @@
     "url": "https://www.bbc.com/news/articles/cvgzrz59yz2o?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-19T17:41:23+00:00",
-    "is_new": true,
-    "id": "n2",
+    "id": "n4",
     "lead": false
   },
   {
@@ -37,7 +63,7 @@
     "url": "https://www.bbc.com/news/articles/cdep64555wzo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-19T15:12:31+00:00",
-    "id": "n3",
+    "id": "n5",
     "lead": false
   },
   {
@@ -50,7 +76,7 @@
     "url": "https://www.bbc.com/news/articles/ceqp11gn1l8o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-19T10:15:46+00:00",
-    "id": "n4",
+    "id": "n6",
     "lead": false
   },
   {
@@ -63,7 +89,7 @@
     "url": "https://www.cnbc.com/2026/05/19/ai-hiring-slowdown-skilled-trade-workers.html",
     "time": "1小时前",
     "published_iso": "2026-05-19T09:00:01+00:00",
-    "id": "n5",
+    "id": "n7",
     "lead": false
   },
   {
@@ -76,7 +102,7 @@
     "url": "https://www.bbc.com/news/articles/czx2plkvg45o?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-19T08:17:52+00:00",
-    "id": "n6",
+    "id": "n8",
     "lead": false
   },
   {
@@ -89,7 +115,7 @@
     "url": "https://www.bbc.com/news/articles/crep3v8vzglo?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-05-19T02:50:55+00:00",
-    "id": "n7",
+    "id": "n9",
     "lead": false
   },
   {
@@ -102,7 +128,7 @@
     "url": "https://www.bbc.com/news/articles/c4g8kpkjkl0o?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-05-18T23:06:55+00:00",
-    "id": "n8",
+    "id": "n10",
     "lead": false
   },
   {
@@ -115,7 +141,7 @@
     "url": "https://www.bbc.com/news/articles/c0q2gkj97eko?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-05-18T23:04:14+00:00",
-    "id": "n9",
+    "id": "n11",
     "lead": false
   },
   {
@@ -128,7 +154,7 @@
     "url": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss",
     "time": "12小时前",
     "published_iso": "2026-05-18T22:30:58+00:00",
-    "id": "n10",
+    "id": "n12",
     "lead": false
   },
   {
@@ -141,7 +167,7 @@
     "url": "https://www.bbc.com/news/articles/c0q25dwj807o?at_medium=RSS&at_campaign=rss",
     "time": "13小时前",
     "published_iso": "2026-05-18T21:09:07+00:00",
-    "id": "n11",
+    "id": "n13",
     "lead": false
   },
   {
@@ -154,7 +180,7 @@
     "url": "https://www.cnbc.com/2026/05/18/trump-iran-attack-saudi-uae-qatar-deal.html",
     "time": "刚刚",
     "published_iso": "2026-05-18T20:06:47+00:00",
-    "id": "n12",
+    "id": "n14",
     "lead": false
   },
   {
@@ -167,7 +193,7 @@
     "url": "https://www.bbc.com/news/articles/cqlpz4w6v13o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-18T19:24:05+00:00",
-    "id": "n13",
+    "id": "n15",
     "lead": false
   },
   {
@@ -180,7 +206,7 @@
     "url": "https://www.bbc.com/news/articles/cewpyv79pw1o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-18T19:18:58+00:00",
-    "id": "n14",
+    "id": "n16",
     "lead": false
   },
   {
@@ -193,7 +219,7 @@
     "url": "https://www.bbc.com/news/articles/c1e24z2q7xqo?at_medium=RSS&at_campaign=rss",
     "time": "15小时前",
     "published_iso": "2026-05-18T18:58:33+00:00",
-    "id": "n15",
+    "id": "n17",
     "lead": false
   },
   {
@@ -206,7 +232,7 @@
     "url": "https://www.bbc.com/news/articles/ce8pqd54qneo?at_medium=RSS&at_campaign=rss",
     "time": "13小时前",
     "published_iso": "2026-05-18T15:16:00+00:00",
-    "id": "n16",
+    "id": "n18",
     "lead": false
   },
   {
@@ -219,7 +245,7 @@
     "url": "https://www.bbc.com/news/articles/cm2p72mmddyo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-05-18T13:04:20+00:00",
-    "id": "n17",
+    "id": "n19",
     "lead": false
   },
   {
@@ -232,7 +258,7 @@
     "url": "https://www.cnbc.com/2026/05/18/oil-today-brent-wti-iran-trump-hormuz-iea-supply-crude-.html",
     "time": "刚刚",
     "published_iso": "2026-05-18T10:23:34+00:00",
-    "id": "n18",
+    "id": "n20",
     "lead": false
   },
   {
@@ -245,7 +271,7 @@
     "url": "https://www.bbc.com/news/articles/c142vz80553o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-18T10:00:47+00:00",
-    "id": "n19",
+    "id": "n21",
     "lead": false
   },
   {
@@ -258,7 +284,7 @@
     "url": "https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-18T09:58:35+00:00",
-    "id": "n20",
+    "id": "n22",
     "lead": false
   },
   {
@@ -271,7 +297,7 @@
     "url": "https://www.bbc.com/news/articles/cm2p0n44drvo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-18T09:40:27+00:00",
-    "id": "n21",
+    "id": "n23",
     "lead": false
   },
   {
@@ -284,72 +310,7 @@
     "url": "https://www.bbc.com/news/articles/c2023l60370o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-18T09:33:53+00:00",
-    "id": "n22",
-    "lead": false
-  },
-  {
-    "headline": "Taiwan will not provoke conflict nor give up sovereignty, says president",
-    "deck": "Lai Ching-te made his first direct response to Trump and Xi's meeting where they discussed Taiwan independence.",
-    "cnTitle": "台湾不挑衅不放弃主权",
-    "cnDeck": "台湾总统赖清德近日针对前美国总统唐纳德·特朗普与中国国家主席习近平会晤中讨论台湾独立议题一事，首次做出了直接回应，明确阐明了台湾的立场。赖清德总统强调，台湾不会挑衅，但也不会放弃其主权。此番表态是在国际社会高度关注台海局势的背景下发表的，被视为对当前区域紧张局势以及大国之间复杂博弈的审慎回应。特朗普与习近平的会晤，无论其具体时间和地点如何，通常都会涉及台湾问题，这反映出台湾问题在中美关系中的核心地位和敏感性。中国大陆视台湾为其不可分割的一部分，并多次重申不放弃使用武力解决台湾问题的可能性。而美国则遵循其“一个中国政策”，同时通过《台湾关系法》承诺协助台湾维持自卫能力，并反对任何单方面改变台海现状的行为。在这种复杂而微妙的地缘政治格局中，赖清德总统的言论具有重要的信号意义，它试图在国际社会中塑造台湾负责任且坚定的形象。赖清德指出，“台湾不会挑衅”旨在向国际社会表明，台湾是一个负责任的地区行为者，致力于维护台海和平稳定，不会采取可能加剧冲突或改变现状的单边行动。这与此前台湾政府一贯的维持现状、避免冲突升级的立场相符。此番言论旨在消除外界对台湾可能采取激进政策的担忧，尤其是在其新任期开始之际，向地区及全球传递和平意愿。与此同时，赖清德总统强调“台湾也不会放弃主权”，则坚决捍卫了台湾作为民主自治实体的地位和民众的自决权利。这意味着台湾不会屈服于外部压力，不会接受任何可能损害其民主制度和生活方式的政治安排。这明确拒绝了中国大陆提出的“一国两制”框架，并重申了台湾人民对自己未来的决定权。这一表态也旨在提振岛内民众的信心，并向国际社会展示台湾坚守民主自由的决心和意志。此言论的背景还包括中国大陆近期在台海周边进行的军事演习以及日益增加的军事压力。在这种局势下，赖清德的表态既展现了克制，又显示了坚定，旨在寻求一种平衡，即在不激怒北京的前提下，最大程度地维护台湾的国际空间和安全。国际分析人士普遍认为，赖清德的这一立场，反映了台湾政府在面对强大外部压力时所采取的务实策略，即寻求国际支持，同时避免给中国大陆提供采取军事行动的借口。此外，此事件也再次凸显了台湾问题在全球地缘政治中的重要性。中美两国作为全球主要大国，其对台湾问题的立场和互动，直接影响着地区乃至全球的安全与稳定。赖清德总统的此次直接回应，无疑将引发各方的进一步关注和解读，对未来的台海局势和中美关系走向产生深远影响。各国政府和国际组织将密切关注台湾下一步的行动，以及北京和华盛顿对此的反应，以评估潜在的风险和机遇。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c7591gq10qko?at_medium=RSS&at_campaign=rss",
-    "time": "7小时前",
-    "published_iso": "2026-05-18T03:08:13+00:00",
-    "id": "n23",
-    "lead": false
-  },
-  {
-    "headline": "Oil prices rise after Trump warns 'clock is ticking' on Iran peace talks",
-    "deck": "Energy markets have been on a wild ride as the key Strait of Hormuz waterway remains effectively closed.",
-    "cnTitle": "特朗普警告伊朗，油价飙升海峡关闭",
-    "cnDeck": "美国前总统唐纳德·特朗普近日就伊朗问题发表强硬警告，称与伊朗的和平谈判“时间所剩无几”（clock is ticking），此言论立即在全球能源市场引发剧烈波动，国际油价应声上涨。与此同时，作为全球关键原油运输咽喉的霍尔木兹海峡，据报道目前仍处于“实际关闭”状态，进一步加剧了市场对原油供应中断的担忧。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/czx2ne2ryppo?at_medium=RSS&at_campaign=rss",
-    "time": "2小时前",
-    "published_iso": "2026-05-18T02:23:24+00:00",
     "id": "n24",
-    "lead": false
-  },
-  {
-    "headline": "Why does Amazon have no Western rivals?",
-    "deck": "The internet giant dwarfs other online retailers on both sides of the Atlantic.",
-    "cnTitle": "亚马逊何以称霸西方电商零售业",
-    "cnDeck": "“Why does Amazon have no Western rivals？”这一问题直指电商巨头亚马逊在全球，尤其是在西方市场的独特地位和压倒性优势。原文指出，这家互联网巨头在欧美两岸的在线零售商中占据着主导地位，使得其他竞争者相形见绌。亚马逊的这种无与伦比的规模和影响力，是其通过数十年的战略投资、技术创新以及对客户体验的持续关注而逐步建立起来的。亚马逊的成功可以归因于多个关键因素。首先是其庞大且高效的物流网络。该公司在全球范围内建立了数千个配送中心和仓库，辅以先进的自动化技术和庞大的运输车队，确保了商品能够快速、可靠地送达消费者手中。这种“最后一英里”的配送能力是许多传统零售商和新兴电商难以复制的壁垒。其次，亚马逊提供了极其广泛的产品品类，从书籍、电子产品到服装、家居用品，几乎无所不包，满足了消费者“一站式购物”的需求。其Prime会员服务更是通过提供免费快速配送、独家折扣和Prime Video等数字内容，极大地提升了客户的忠诚度和黏性。在技术层面，亚马逊的投资远超其竞争对手。它在人工智能、大数据分析和云计算（通过其Amazon Web Services, AWS）领域的深厚积累，使其能够不断优化平台运行效率，个性化推荐商品，并提供卓越的客户服务。AWS的成功本身也为亚马逊提供了稳定的现金流，支持其在核心电商业务上的持续投入和扩张。此外，亚马逊通过收购如全食超市（Whole Foods Market）等，进一步拓宽了其业务范围，深入到实体零售和生鲜配送领域，构建了一个多元化的商业生态系统。相比之下，尽管西方市场不乏大型零售商，如沃尔玛（Walmart）、塔吉特（Target）和eBay，但它们要么在规模上难以与亚马逊匹敌，要么在业务模式上存在差异，无法形成直接且全面的挑战。例如，沃尔玛虽是零售巨头，但在电商领域的物流和技术整合上仍面临挑战；eBay则更侧重于C2C和二手商品交易。新兴的西方线上零售商往往专注于特定利基市场，或者在资本和基础设施方面难以与亚马逊抗衡。因此，亚马逊的“无西方竞争对手”现象并非偶然，而是其在规模经济、技术创新、用户体验和生态系统建设方面长期投入的必然结果。这种垄断地位也引发了对市场公平竞争、消费者选择权以及数据隐私等方面的讨论，促使监管机构对其市场行为保持密切关注。亚马逊的这种强势地位，不仅重塑了全球零售业格局，也对其他行业产生了深远影响，迫使其不断适应新的商业模式和消费者预期。",
-    "cat": "tech",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cg7p5nr307mo?at_medium=RSS&at_campaign=rss",
-    "time": "5小时前",
-    "published_iso": "2026-05-17T23:54:57+00:00",
-    "id": "n25",
-    "lead": false
-  },
-  {
-    "headline": "'This may be the last time you hear my voice': Political executions surge in Iran since start of war",
-    "deck": "Since the US and Israel attacked Iran on  28 February, the UN says it’s verified the execution of at least 32 political prisoners.",
-    "cnTitle": "美以袭击后伊朗政治犯处决数骤升",
-    "cnDeck": "联合国报告指出，自2月28日美国和以色列对伊朗发动袭击以来，伊朗境内政治犯的处决数量显著增加。联合国方面已核实至少有32名政治犯被处决。这一消息在全球范围内引发了对伊朗人权状况的深切忧虑。新闻中引述的“这可能是我最后一次发声”的绝望言论，暗示了被捕者在被处决前所面临的巨大压力，凸显了伊朗政府对异见",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cn8p392nl7yo?at_medium=RSS&at_campaign=rss",
-    "time": "11小时前",
-    "published_iso": "2026-05-17T23:02:56+00:00",
-    "id": "n26",
-    "lead": false
-  },
-  {
-    "headline": "UAE reports strike near Abu Dhabi nuclear power plant",
-    "deck": "The country is investigating the source of the strike, which it calls a \"dangerous escalation\".",
-    "cnTitle": "阿联酋核电站附近遭袭击",
-    "cnDeck": "阿拉伯联合酋长国（UAE）官方报告称，其首都阿布扎比附近的一座核电站遭遇了一次袭击。阿联酋将此次事件定性为一次“危险升级”，并已立即启动全面调查，以查明袭击的源头、性质以及责任方。尽管新闻原文未详细说明袭击的具体细节，例如是无人机、导弹还是其他方式的攻击，以及核电站是否遭受了实质性损害，但事件的敏感性及其潜在的地缘政治影响已引发国际社会的高度关注。此次袭击地点靠近阿布扎比，是阿联酋经济和政治的中心地带，且涉及核电站这一高度敏感的关键基础设施。任何针对核设施的攻击都被视为对国际安全和地区稳定的严重威胁。阿联酋当局强调，当前正在全力以赴进行调查，致力于揭露幕后黑手，并将根据调查结果采取必要措施。目前，没有关于核电站运营受到实质性影响或放射性物质泄漏的报告，阿联酋原子能机构和国际原子能机构（IAEA）可能将对此保持密切沟通，确保核安全万无一失。近年来，中东地区的地缘政治局势持续紧张，武装冲突和代理人战争频发。阿联酋和沙特阿拉伯等海湾国家曾多次成为也门胡塞武装无人机和导弹袭击的目标。虽然此次袭击的责任方尚未明确，但外界普遍猜测可能与地区内的敌对势力有关，意图通过攻击关键设施来制造恐慌、施加压力或报复。胡塞武装此前曾声称对阿联酋境内目标发动过袭击，并扬言将进一步扩大其打击范围，包括针对战略性基础设施。此次事件不仅可能影响国际原油市场，因为阿联酋是全球重要的石油出口国，其安全局势的任何风吹草动都可能引发市场波动。同时，这也对全球能源供应的稳定性构成潜在威胁。此外，事件也将促使阿联酋及其盟友重新评估并加强对本国关键基础设施，特别是核电站等敏感目标的安全防护措施。国际社会，包括联合国和主要大国，预计将呼吁各方保持克制，避免采取任何可能导致局势进一步恶化的行动，并敦促迅速、透明地完成调查，将责任人绳之以法。阿联酋外交部可能会就此事件与相关国家进行沟通和交涉，强调维护地区和平与安全的重要性，并呼吁国际社会共同谴责此类针对民用关键基础设施的恐怖主义或军事行动。这起“危险升级”的袭击提醒了国际社会，在当前复杂的地缘政治环境下，任何一个火花都可能点燃更广泛的冲突，对全球经济和安全造成不可预测的后果。未来几天内，随着调查进展和更多信息的披露，此次事件的深层影响和地区各方的反应将成为全球关注的焦点。阿联酋将如何应对，以及国际社会将采取何种协调行动，都将对中东地区的未来走向产生深远影响。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cwy27pkj1l1o?at_medium=RSS&at_campaign=rss",
-    "time": "14小时前",
-    "published_iso": "2026-05-17T20:53:45+00:00",
-    "id": "n27",
     "lead": false
   }
 ]
