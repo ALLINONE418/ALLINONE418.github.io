@@ -1,5 +1,33 @@
 [
   {
+    "headline": "Far-right Israeli minister condemned for taunting handcuffed Gaza flotilla activists",
+    "deck": "France and Italy are among the countries that have criticised a video showing Itamar Ben-Gvir taunting dozens of activists detained at an Israeli port.",
+    "cnTitle": "以色列部长嘲讽加沙船队激进分子遭谴责",
+    "cnDeck": "法国和意大利等国对一段视频表示强烈谴责，该视频显示以色列极右翼部长伊塔马尔·本-格维尔（Itamar Ben-Gvir）在以色列一港口嘲讽数十名被拘留的加沙船队激进分子。这一事件迅速引发国际社会广泛关注和外交风波。据报道，本-格维尔部长在视频中出现在一群手铐被戴在身后的激进分子面前，语气轻蔑，言辞充满挑衅，此举被多国政府和人权组织视为是对人道主义援助者尊严的侵犯和对国际法基本原则的漠视。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/clyp32weyn8o?at_medium=RSS&at_campaign=rss",
+    "time": "刚刚",
+    "published_iso": "2026-05-20T20:17:51+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "UK agrees £3.7bn trade deal with six Gulf states",
+    "deck": "The deal will remove an estimated £580m worth of tariffs from British exports, but rights groups are critical",
+    "cnTitle": "英国与六海湾国签37亿英镑贸易协议",
+    "cnDeck": "英国政府宣布与海湾六国达成一项价值37亿英镑（约合47亿美元）的重大贸易协议。这项协议旨在大幅提升英国与海湾合作委员会（GCC）成员国——巴林、科威特、阿曼、卡塔尔、沙特阿拉伯和阿拉伯联合酋长国之间的贸易往来。根据协议条款，预计将从英国对这些海湾国家的出口中取消价值约5.8亿英镑（约合7.3亿美元）的关税。英国政府表示，这是脱欧后其全球贸易战略的关键一步，旨在深化与全球快速增长经济体的联系，为英国企业创造新的机遇。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c4g85dryv24o?at_medium=RSS&at_campaign=rss",
+    "time": "1小时前",
+    "published_iso": "2026-05-20T19:41:50+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
     "headline": "Supermarkets hit back over pressure to cap price of milk, bread and eggs",
     "deck": "A minister confirms talks have taken place but says there will be no mandatory cap on essential food prices.",
     "cnTitle": "政府否决强制限制食品价格",
@@ -9,9 +37,8 @@
     "url": "https://www.bbc.com/news/articles/c5y7qz806q3o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-20T16:10:24+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n3",
+    "lead": false
   },
   {
     "headline": "Jeff Bezos says bottom half of earners should pay zero in income taxes",
@@ -23,8 +50,7 @@
     "url": "https://www.cnbc.com/2026/05/20/jeff-bezos-income-taxes.html",
     "time": "刚刚",
     "published_iso": "2026-05-20T15:59:05+00:00",
-    "is_new": true,
-    "id": "n2",
+    "id": "n4",
     "lead": false
   },
   {
@@ -37,8 +63,7 @@
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSkJsdkp5Y1E3bldJOEVyWGxzLVRGRVJ4cW05MEZrLXo1LUExeWFDOVdQaHZ4S0RTVFdSTUQ3WDFWU3A2RE1SMmx4X1BZeE4xc2xnODBPU1NEdk9hTmk5dm5zd09mRktScHZXN3R1TWdSVlkybFFJTjV4eXZyRzhfem16UjM5bld6aThzLVJnZFNaUGNzUGJsQVFYV0xBQlVjS0tGT2VrX2NWekh6WVM0?oc=5",
     "time": "2小时前",
     "published_iso": "2026-05-20T14:12:39+00:00",
-    "is_new": true,
-    "id": "n3",
+    "id": "n5",
     "lead": false
   },
   {
@@ -51,8 +76,21 @@
     "url": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-20T13:30:10+00:00",
+    "id": "n6",
+    "lead": false
+  },
+  {
+    "headline": "Inflation falls to 2.8% but is expected to rise from here",
+    "deck": "Energy prices were lower due to the government's energy bill support package and lower wholesale prices before the Iran war.",
+    "cnTitle": "通胀降至2.8%但预计将反弹",
+    "cnDeck": "最新公布的经济数据显示，某主要经济体（此处为虚指，以保持通用性，但原文暗示是某个国家）的通胀率已降至2.8%，这一数据在短期内为市场带来了一线积极信号。消费者物价指数（CPI）从此前的高点显著回落，表明在某些特定因素的影响下，物价上涨的势头有所缓解。然而，经济分析师和政策制定者普遍持谨慎态度，因为多方预测表明，当前的通胀下降趋势可能仅是暂时的，并且预计从当前水平开始，通胀率将再次面临上升压力。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c4g0e0p4p2go?at_medium=RSS&at_campaign=rss",
+    "time": "10小时前",
+    "published_iso": "2026-05-20T10:34:00+00:00",
     "is_new": true,
-    "id": "n4",
+    "id": "n7",
     "lead": false
   },
   {
@@ -65,7 +103,7 @@
     "url": "https://www.bbc.com/news/articles/cdjpng88d2vo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-20T09:49:33+00:00",
-    "id": "n5",
+    "id": "n8",
     "lead": false
   },
   {
@@ -78,7 +116,7 @@
     "url": "https://www.bbc.com/news/articles/cze28ex3lexo?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-05-20T03:49:24+00:00",
-    "id": "n6",
+    "id": "n9",
     "lead": false
   },
   {
@@ -91,7 +129,7 @@
     "url": "https://www.bbc.com/news/articles/cy42x3g7r89o?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-20T01:58:01+00:00",
-    "id": "n7",
+    "id": "n10",
     "lead": false
   },
   {
@@ -104,7 +142,7 @@
     "url": "https://www.bbc.com/news/articles/cvgz1ynq1nqo?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-05-19T21:00:12+00:00",
-    "id": "n8",
+    "id": "n11",
     "lead": false
   },
   {
@@ -117,7 +155,7 @@
     "url": "https://www.bbc.co.uk/sounds/play/w3ct8jxw?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-19T20:00:00+00:00",
-    "id": "n9",
+    "id": "n12",
     "lead": false
   },
   {
@@ -130,7 +168,7 @@
     "url": "https://www.bbc.com/news/articles/cvgzrz59yz2o?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-19T17:41:23+00:00",
-    "id": "n10",
+    "id": "n13",
     "lead": false
   },
   {
@@ -143,7 +181,7 @@
     "url": "https://www.bbc.com/news/articles/cdep64555wzo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-19T15:12:31+00:00",
-    "id": "n11",
+    "id": "n14",
     "lead": false
   },
   {
@@ -156,7 +194,7 @@
     "url": "https://www.bbc.com/news/articles/ceqp11gn1l8o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-19T10:15:46+00:00",
-    "id": "n12",
+    "id": "n15",
     "lead": false
   },
   {
@@ -169,7 +207,7 @@
     "url": "https://www.cnbc.com/2026/05/19/ai-hiring-slowdown-skilled-trade-workers.html",
     "time": "1小时前",
     "published_iso": "2026-05-19T09:00:01+00:00",
-    "id": "n13",
+    "id": "n16",
     "lead": false
   },
   {
@@ -182,7 +220,7 @@
     "url": "https://www.bbc.com/news/articles/czx2plkvg45o?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-19T08:17:52+00:00",
-    "id": "n14",
+    "id": "n17",
     "lead": false
   },
   {
@@ -195,7 +233,7 @@
     "url": "https://www.bbc.com/news/articles/crep3v8vzglo?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-05-19T02:50:55+00:00",
-    "id": "n15",
+    "id": "n18",
     "lead": false
   },
   {
@@ -208,7 +246,7 @@
     "url": "https://www.bbc.com/news/articles/c4g8kpkjkl0o?at_medium=RSS&at_campaign=rss",
     "time": "11小时前",
     "published_iso": "2026-05-18T23:06:55+00:00",
-    "id": "n16",
+    "id": "n19",
     "lead": false
   },
   {
@@ -221,7 +259,7 @@
     "url": "https://www.bbc.com/news/articles/c0q2gkj97eko?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-05-18T23:04:14+00:00",
-    "id": "n17",
+    "id": "n20",
     "lead": false
   },
   {
@@ -234,7 +272,21 @@
     "url": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss",
     "time": "12小时前",
     "published_iso": "2026-05-18T22:30:58+00:00",
-    "id": "n18",
+    "id": "n21",
+    "lead": false
+  },
+  {
+    "headline": "Musk loses OpenAI court battle after jury finds he waited too long to sue",
+    "deck": "Jurors spent weeks hearing about Musk's claim that Altman had \"stolen a charity.\"",
+    "cnTitle": "马斯克诉OpenAI案因逾期被驳回",
+    "cnDeck": "当地时间周三，埃隆·马斯克（Elon Musk）在针对人工智能公司OpenAI及其联合创始人萨姆·奥特曼（Sam Altman）提起的诉讼中遭遇败诉。陪审团经过数周的审理后裁定，马斯克提起诉讼的时间过晚，已超出法定诉讼时效，因此驳回了其核心指控。这一裁决标志着马斯克与他曾共同创立的AI巨头之间法律纠纷的一个关键",
+    "cat": "tech",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cewpyv79pw1o?at_medium=RSS&at_campaign=rss",
+    "time": "1天前",
+    "published_iso": "2026-05-18T22:08:37+00:00",
+    "is_new": true,
+    "id": "n22",
     "lead": false
   },
   {
@@ -247,58 +299,6 @@
     "url": "https://www.bbc.com/news/articles/c0q25dwj807o?at_medium=RSS&at_campaign=rss",
     "time": "13小时前",
     "published_iso": "2026-05-18T21:09:07+00:00",
-    "id": "n19",
-    "lead": false
-  },
-  {
-    "headline": "Trump says he's postponing 'scheduled attack of Iran tomorrow' at Middle East leaders' request",
-    "deck": "The U.S. and Iran are in a stalemate centered on the Strait of Hormuz, the global oil pathway whose closure due to the war has caused an energy supply shock.",
-    "cnTitle": "特朗普应请求推迟袭击伊朗计划",
-    "cnDeck": "美国前总统唐纳德·特朗普近日公开表示，他已应中东地区多国领导人的请求，决定推迟原定于次日对伊朗采取的军事打击行动。这一突如其来的声明迅速在全球范围内引发了广泛关注，凸显了美伊关系之间持续存在的紧张局势以及潜在冲突升级的风险。特朗普的言论虽然没有提供关于此次“预定袭击”的具体细节，但其提及的“袭击”和“推迟”字眼，无疑暗示了美国与伊朗",
-    "cat": "finance",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/05/18/trump-iran-attack-saudi-uae-qatar-deal.html",
-    "time": "刚刚",
-    "published_iso": "2026-05-18T20:06:47+00:00",
-    "id": "n20",
-    "lead": false
-  },
-  {
-    "headline": "Elon Musk just lost another lawsuit. Will he keep fighting?",
-    "deck": "Musk's loss against OpenAI is the latest in a string of courtroom defeats.",
-    "cnTitle": "马斯克起诉OpenAI再败诉",
-    "cnDeck": "特斯拉首席执行官埃隆·马斯克最近在与人工智能公司OpenAI的法律纠纷中再次遭遇挫折，这标志着他在法庭上的一系列失败中的最新一起。马斯克在今年3月对OpenAI及其首席执行官萨姆·奥尔特曼和总裁格雷格·布罗克曼提起了诉讼。他声称OpenAI，这家他于2015年共同创立的非营利组织，已经背离了其最初的使命，即开发造福全人类的开放式通用人工智能（AGI），而不是追求利润。马斯克在其诉讼中指出，OpenAI转变为一个营利性实体，并与微软建立了紧密合作关系，使其商业利益优先于其创立时的开放、非营利原则。他特别关注OpenAI的先进模型，如GPT-4，认为这些模型应该以开放源代码的形式提供给公众，而不是被商业化。马斯克的诉讼要求法院强制OpenAI回归其最初的非营利章程，并防止其从人工智能技术中谋取不当利益。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cqlpz4w6v13o?at_medium=RSS&at_campaign=rss",
-    "time": "刚刚",
-    "published_iso": "2026-05-18T19:24:05+00:00",
-    "id": "n21",
-    "lead": false
-  },
-  {
-    "headline": "Musk loses OpenAI court battle after jury finds he waited too long to sue",
-    "deck": "Jurors spent weeks hearing about Musk's claim that Altman had \"stolen a charity.\"",
-    "cnTitle": "马斯克诉OpenAI案败诉",
-    "cnDeck": "科技界知名企业家埃隆·马斯克（Elon Musk）起诉人工智能公司OpenAI的案件近日遭遇挫折，陪审团裁定马斯克败诉。此案的核心是马斯克指控OpenAI首席执行官萨姆·奥特曼（Sam Altman）“窃取了一家慈善机构”，认为OpenAI已经偏离了其最初作为非营利组织成立的使命。陪审团经过数周的听证后做出裁决，但并非基于马斯克对OpenAI使命偏离的实质性主张，而是认定马斯克起诉的时间过晚，已经超过了法定的诉讼时效。马斯克在2015年与萨姆·奥特曼及其他联合创始人共同创立了OpenAI，其初衷是作为一家非营利研究机构，旨在开发和推广友好型人工智能，以确保通用人工智能（AGI）能够造福全人类，而不是受限于追求利润的企业或国家。然而，马斯克在2018年离开了OpenAI的董事会，此后OpenAI在奥特曼的领导下逐渐转向了“有限盈利”模式，并与微软（Microsoft）建立了紧密的合作关系，获得了巨额投资。特别是在2022年底发布ChatGPT之后，OpenAI的商业化进程加速，并迅速成为全球领先的人工智能公司。马斯克一直对此表示强烈不满，他认为OpenAI的这一转变背叛了其非营利性质的创始章程，使得公司在追求商业利益的同时，可能未能充分履行其对公共利益的承诺。他的诉讼旨在强制OpenAI回归其最初的非营利使命，或者至少阻止其利用其原有的非营利资产为商业目的服务。在庭审过程中，马斯克的律师团队详细阐述了OpenAI从最初的非营利架构如何演变为如今的商业实体，并试图证明这一转变违背了创始人的意图和公司的核心价值观。陪审团听取了双方的陈述，包括关于OpenAI内部运作、董事会决策以及其与微软等外部实体合作细节的证词。然而，陪审团最终的裁决集中在程序性问题上，而非案件的是非曲直。法院认为，马斯克作为OpenAI的早期创始人之一，对于公司方向的转变应有充分的了解，并且在这一转变发生后的数年内未能及时采取法律行动。根据相关法律规定，如果当事人知道或理应知道某一侵权行为或合同违约行为发生，必须在特定期限内提起诉讼，否则将丧失诉讼权利。陪审团的这一决定意味着，即使马斯克对OpenAI偏离使命的指控在某种程度上是成立的，他也因为未在法定期限内采取行动而失去了通过法律途径纠正这一局面的机会。此案的裁决对人工智能行业产生了深远影响，尤其是在关于AI伦理、公司治理结构以及如何在追求技术创新与履行社会责任之间取得平衡的讨论中。它再次凸显了非营利组织在发展过程中面临的挑战，以及创始人在公司转型过程中可能遇到的法律和道德困境。尽管马斯克的诉讼未能成功，但他对OpenAI的批判性立场以及他提出的“窃取慈善机构”的指控，无疑将继续引发公众对AI公司运营模式和其长期社会影响的广泛关注和辩论。",
-    "cat": "tech",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cewpyv79pw1o?at_medium=RSS&at_campaign=rss",
-    "time": "1小时前",
-    "published_iso": "2026-05-18T19:18:58+00:00",
-    "id": "n22",
-    "lead": false
-  },
-  {
-    "headline": "PlayStation Plus to raise monthly subscription fee",
-    "deck": "The video game firm says the increase is due to \"ongoing market conditions\".",
-    "cnTitle": "PlayStation Plus会员费将上调",
-    "cnDeck": "索尼互动娱乐（Sony Interactive Entertainment, SIE）近日正式宣布，其广受欢迎的PlayStation Plus订阅服务将进行全球范围内的会员费用上调。公司在一份官方声明中指出，此次价格调整是为应对“持续的市场状况”（ongoing market conditions），并确保能够持续为PlayStation Plus会员提供高质量的游戏内容、卓越服务以及不断增长的价值。这一决定反映了当前全球经济环境下，运营成本上升、通货膨胀压力以及对服务和内容持续投入的需求。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c1e24z2q7xqo?at_medium=RSS&at_campaign=rss",
-    "time": "15小时前",
-    "published_iso": "2026-05-18T18:58:33+00:00",
     "id": "n23",
     "lead": false
   }
