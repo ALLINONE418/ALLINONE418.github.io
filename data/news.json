@@ -1,5 +1,19 @@
 [
   {
+    "headline": "SpaceX files for IPO that could make Elon Musk a trillionaire",
+    "deck": "Musk's rocket-maker and satellite internet provider will trade under the ticker SPCX",
+    "cnTitle": "SpaceX提交IPO申请",
+    "cnDeck": "太空探索技术公司SpaceX已提交了首次公开募股（IPO）申请。此举标志着这家由埃隆·马斯克（Elon Musk）创立的火箭制造商和卫星互联网提供商，迈向资本市场的重要一步。根据提交的初步文件，SpaceX未来将在证券交易所上市交易，股票代码为SPCX。市场普遍预期，如果SpaceX成功上市并达到预期的估值，其创始人马斯克所持股份的价值将大幅飙升，可能使其成为全球首位个人净资产突破",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cg4pe2953q1o?at_medium=RSS&at_campaign=rss",
+    "time": "5小时前",
+    "published_iso": "2026-05-20T23:11:58+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
     "headline": "Far-right Israeli minister condemned for taunting handcuffed Gaza flotilla activists",
     "deck": "France and Italy are among the countries that have criticised a video showing Itamar Ben-Gvir taunting dozens of activists detained at an Israeli port.",
     "cnTitle": "以色列部长嘲讽加沙船队激进分子遭谴责",
@@ -9,9 +23,8 @@
     "url": "https://www.bbc.com/news/articles/clyp32weyn8o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-20T20:17:51+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n2",
+    "lead": false
   },
   {
     "headline": "UK agrees £3.7bn trade deal with six Gulf states",
@@ -23,8 +36,7 @@
     "url": "https://www.bbc.com/news/articles/c4g85dryv24o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-20T19:41:50+00:00",
-    "is_new": true,
-    "id": "n2",
+    "id": "n3",
     "lead": false
   },
   {
@@ -37,7 +49,7 @@
     "url": "https://www.bbc.com/news/articles/c5y7qz806q3o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-20T16:10:24+00:00",
-    "id": "n3",
+    "id": "n4",
     "lead": false
   },
   {
@@ -50,7 +62,7 @@
     "url": "https://www.cnbc.com/2026/05/20/jeff-bezos-income-taxes.html",
     "time": "刚刚",
     "published_iso": "2026-05-20T15:59:05+00:00",
-    "id": "n4",
+    "id": "n5",
     "lead": false
   },
   {
@@ -63,7 +75,7 @@
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSkJsdkp5Y1E3bldJOEVyWGxzLVRGRVJ4cW05MEZrLXo1LUExeWFDOVdQaHZ4S0RTVFdSTUQ3WDFWU3A2RE1SMmx4X1BZeE4xc2xnODBPU1NEdk9hTmk5dm5zd09mRktScHZXN3R1TWdSVlkybFFJTjV4eXZyRzhfem16UjM5bld6aThzLVJnZFNaUGNzUGJsQVFYV0xBQlVjS0tGT2VrX2NWekh6WVM0?oc=5",
     "time": "2小时前",
     "published_iso": "2026-05-20T14:12:39+00:00",
-    "id": "n5",
+    "id": "n6",
     "lead": false
   },
   {
@@ -76,7 +88,7 @@
     "url": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-20T13:30:10+00:00",
-    "id": "n6",
+    "id": "n7",
     "lead": false
   },
   {
@@ -89,8 +101,7 @@
     "url": "https://www.bbc.com/news/articles/c4g0e0p4p2go?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-05-20T10:34:00+00:00",
-    "is_new": true,
-    "id": "n7",
+    "id": "n8",
     "lead": false
   },
   {
@@ -103,7 +114,21 @@
     "url": "https://www.bbc.com/news/articles/cdjpng88d2vo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-20T09:49:33+00:00",
-    "id": "n8",
+    "id": "n9",
+    "lead": false
+  },
+  {
+    "headline": "China confirms it will buy 200 Boeing jets after Trump-Xi summit",
+    "deck": "The two sides will also work towards an extension to the tariffs truce they agreed in October, China's Commerce Ministry said.",
+    "cnTitle": "中方确认购200架波音 延长关税休战",
+    "cnDeck": "中国商务部于周三正式确认，在中美两国元首唐纳德·特朗普总统与习近平主席举行了备受瞩目的峰会之后，中方已经明确表示将从美国波音公司采购200架飞机。此项重大的商业协议被广泛视为两国在努力化解长期贸易摩擦方面取得的实质性进展和具体成果。此前，特朗普总统和习近平主席在全球二十国集团（G20）峰会期间进行了面对面的高级",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c98rjydlgp4o?at_medium=RSS&at_campaign=rss",
+    "time": "1天前",
+    "published_iso": "2026-05-20T04:59:40+00:00",
+    "is_new": true,
+    "id": "n10",
     "lead": false
   },
   {
@@ -116,7 +141,7 @@
     "url": "https://www.bbc.com/news/articles/cze28ex3lexo?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-05-20T03:49:24+00:00",
-    "id": "n9",
+    "id": "n11",
     "lead": false
   },
   {
@@ -129,7 +154,7 @@
     "url": "https://www.bbc.com/news/articles/cy42x3g7r89o?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-20T01:58:01+00:00",
-    "id": "n10",
+    "id": "n12",
     "lead": false
   },
   {
@@ -142,7 +167,7 @@
     "url": "https://www.bbc.com/news/articles/cvgz1ynq1nqo?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-05-19T21:00:12+00:00",
-    "id": "n11",
+    "id": "n13",
     "lead": false
   },
   {
@@ -155,7 +180,7 @@
     "url": "https://www.bbc.co.uk/sounds/play/w3ct8jxw?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-19T20:00:00+00:00",
-    "id": "n12",
+    "id": "n14",
     "lead": false
   },
   {
@@ -168,7 +193,7 @@
     "url": "https://www.bbc.com/news/articles/cvgzrz59yz2o?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-19T17:41:23+00:00",
-    "id": "n13",
+    "id": "n15",
     "lead": false
   },
   {
@@ -181,7 +206,7 @@
     "url": "https://www.bbc.com/news/articles/cdep64555wzo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-19T15:12:31+00:00",
-    "id": "n14",
+    "id": "n16",
     "lead": false
   },
   {
@@ -194,7 +219,7 @@
     "url": "https://www.bbc.com/news/articles/ceqp11gn1l8o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-19T10:15:46+00:00",
-    "id": "n15",
+    "id": "n17",
     "lead": false
   },
   {
@@ -207,7 +232,7 @@
     "url": "https://www.cnbc.com/2026/05/19/ai-hiring-slowdown-skilled-trade-workers.html",
     "time": "1小时前",
     "published_iso": "2026-05-19T09:00:01+00:00",
-    "id": "n16",
+    "id": "n18",
     "lead": false
   },
   {
@@ -220,86 +245,7 @@
     "url": "https://www.bbc.com/news/articles/czx2plkvg45o?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-19T08:17:52+00:00",
-    "id": "n17",
-    "lead": false
-  },
-  {
-    "headline": "Standard Chartered to cut thousands of roles as AI use increases",
-    "deck": "The UK-headquartered banking giant aims to move some of the effected workers to other roles in the business.",
-    "cnTitle": "渣打银行AI应用致数千人被裁",
-    "cnDeck": "渣打银行，这家总部位于英国的全球性银行巨头，计划削减数千个工作岗位。此项裁员决定的主要驱动因素是银行内部人工智能（AI）技术应用的日益增加。渣打银行的目标是通过自动化和数字化转型，显著提升运营效率，降低成本，并优化其在全球范围内的业务结构。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/crep3v8vzglo?at_medium=RSS&at_campaign=rss",
-    "time": "7小时前",
-    "published_iso": "2026-05-19T02:50:55+00:00",
-    "id": "n18",
-    "lead": false
-  },
-  {
-    "headline": "What really holds China and Russia together",
-    "deck": "The relationship endures despite a power imbalance, with both sides recognising that it is too important to fail.",
-    "cnTitle": "中俄关系持续发展的重要性",
-    "cnDeck": "“中俄关系经受住了权力不平衡的考验，双方都认识到其重要性不容失败。”这句新闻内容简洁地揭示了当前全球地缘政治格局中一个至关重要的双边关系的核心特质。中俄两国在国际舞台上扮演着举足轻重的角色，尽管两国在经济体量、军事现代化程度以及全球影响力等多个维度存在明显的“权力不平衡”，但其战略伙伴关系不仅没有因此瓦解，反而展现出惊人的韧性与持续性。具体而言，这种权力不平衡主要体现在经济层面。中国经济总量已跃居世界第二，是全球最大的贸易国和制造业中心，其科技创新能力也在迅速崛起。相比之下，俄罗斯经济规模相对较小，主要依赖能源出口，并在西方制裁下承受压力。然而，在军事和安全领域，俄罗斯依然是强大的核大国，拥有先进的军事技术，并在全球战略平衡中占据一席之地。这种互补性使得两国在各自的优势领域形成支撑，而非竞争。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c4g8kpkjkl0o?at_medium=RSS&at_campaign=rss",
-    "time": "11小时前",
-    "published_iso": "2026-05-18T23:06:55+00:00",
     "id": "n19",
-    "lead": false
-  },
-  {
-    "headline": "Robo-top: The machines that could make your next t-shirt",
-    "deck": "Most clothes are made in Asia, but new machines could bring some of that work back to the West.",
-    "cnTitle": "机器人技术革新或重塑服装制造业",
-    "cnDeck": "当前的全球服装制造业版图正经历一场潜在的深刻变革，由先进的自动化和机器人技术驱动。长期以来，亚洲地区凭借其低廉的劳动力成本和成熟的供应链体系，一直是全球服装生产的中心，承载了绝大多数的服装制造业务。然而，随着一项被称为“Robo-top”的新技术以及其他相关自动化解决方案的兴起，这种模式面临着被颠覆的可能性。这些创新型机器，特别是那些能够处理复杂纺织品和缝纫任务的机器人系统，有望将一部分服装制造工作重新带回西方国家，从而重塑全球供应链，并对劳动力市场和经济结构产生深远影响。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c0q2gkj97eko?at_medium=RSS&at_campaign=rss",
-    "time": "5小时前",
-    "published_iso": "2026-05-18T23:04:14+00:00",
-    "id": "n20",
-    "lead": false
-  },
-  {
-    "headline": "Trump says he called off new Iran attack at request of Gulf states",
-    "deck": "The US president says he is holding off on an attack planned for Tuesday as \"serious negotiations are now taking place\".",
-    "cnTitle": "特朗普暂停对伊朗军事行动",
-    "cnDeck": "美国总统唐纳德·特朗普（Donald Trump）周二表示，他已决定取消原计划对伊朗实施的军事打击行动。特朗普透露，这一关键决定是在接到海湾地区国家请求后做出的，并且他进一步指出，目前“正在进行严肃的谈判”，这是促使他暂停军事干预的主要原因。此举发生在美国与伊朗之间持续升级的紧张局势背景下。此前，伊朗革命卫队击落了一架美国RQ-4“全球鹰”无人侦察机，引发了华盛顿和德黑兰之间的直接军事对抗威胁。特朗普政府曾多次对伊朗实施严厉经济制裁，并警告如果伊朗继续采取破坏地区稳定的行动，将面临严重后果。海湾地区的盟友，包括沙特阿拉伯和阿拉伯联合酋长国，对潜在的美伊军事冲突可能造成的地区不稳定和经济冲击深感担忧。这些国家担心，任何军事行动都可能导致石油供应中断，引发能源市场剧烈波动，并可能将冲突蔓延至整个中东地区，威胁到它们自身的国家安全和经济繁荣。特朗普没有详细说明这些“严肃的谈判”的具体细节，包括参与方、谈判地点或议题，但他的表态暗示了通过外交途径寻求解决方案的可能性。国际社会普遍呼吁美伊双方保持克制，避免采取任何可能加剧地区紧张局势的行动，并通过对话解决分歧。分析人士认为，特朗普政府的这一决定可能反映出其在军事行动前对潜在区域后果的审慎评估，以及为外交解决途径留出空间的意愿。然而，美伊关系的核心矛盾和互不信任感依然存在，未来的地区局势走向仍充满不确定性。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss",
-    "time": "12小时前",
-    "published_iso": "2026-05-18T22:30:58+00:00",
-    "id": "n21",
-    "lead": false
-  },
-  {
-    "headline": "Musk loses OpenAI court battle after jury finds he waited too long to sue",
-    "deck": "Jurors spent weeks hearing about Musk's claim that Altman had \"stolen a charity.\"",
-    "cnTitle": "马斯克诉OpenAI案因逾期被驳回",
-    "cnDeck": "当地时间周三，埃隆·马斯克（Elon Musk）在针对人工智能公司OpenAI及其联合创始人萨姆·奥特曼（Sam Altman）提起的诉讼中遭遇败诉。陪审团经过数周的审理后裁定，马斯克提起诉讼的时间过晚，已超出法定诉讼时效，因此驳回了其核心指控。这一裁决标志着马斯克与他曾共同创立的AI巨头之间法律纠纷的一个关键",
-    "cat": "tech",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cewpyv79pw1o?at_medium=RSS&at_campaign=rss",
-    "time": "1天前",
-    "published_iso": "2026-05-18T22:08:37+00:00",
-    "is_new": true,
-    "id": "n22",
-    "lead": false
-  },
-  {
-    "headline": "Selling children to survive: Afghan fathers forced to make impossible choices",
-    "deck": "In Afghanistan today, a staggering three in four people cannot meet their basic needs.",
-    "cnTitle": "阿富汗民生崩溃，父亲被迫卖子求生",
-    "cnDeck": "阿富汗正面临一场史无前例的人道主义危机，据估计，高达四分之三的人口——即惊人的75%——无法满足其最基本的生存需求。这种严峻的局势迫使家庭，尤其是父亲们，不得不面对无法想象的选择，其中包括做出令人心碎的决定：出售自己的孩子，只为给其他家人提供食物或住所。这种极度绝望凸显了国家所陷入的深刻经济崩溃和普遍贫困。在经历了数十年的冲突、政治不稳定以及一系列自然灾害之后，加上2021年8月塔利班重新掌权后国际援助的突然撤离和资产冻结，阿富汗的经济已陷入自由落体式下滑。正规银行系统基本处于瘫痪状态，汇款大幅减少，就业机会稀缺。严重依赖人道主义援助的普通阿富汗人民，如今在恶性通货膨胀、粮食不安全和基本服务匮乏的背景下，为日常生存而挣扎。联合国及各国际援助组织多次就不断升级的危机发出警告，称其为全球最严重的人道主义灾难之一。报告显示，数百万儿童严重营养不良，由于医疗系统崩溃，可预防疾病普遍流行。特别是妇女和女童面临不成比例的痛苦，她们受教育和工作的权利受到严格限制，进一步加剧了家庭贫困。作为传统意义上的家庭支柱，父亲们在目睹家人挨饿时承受着巨大的心理和情感负担。出售孩子——通常是年幼的女儿——以换取早婚或劳动，是他们为偿还债务、购买食物或支付其他家庭成员医疗费用的最后手段。这种做法，虽然在文化上受到谴责，却已成为极端经济困境和缺乏任何社会安全网的悲剧性症状。它造成了一种毁灭性的贫困、创伤和侵犯人权循环，将对后代产生深远影响。国际社会面临着一个复杂挑战，即如何在不使现有事实政府合法化的情况下提供援助，同时防止社会彻底崩溃和大规模饥荒。尽管人道主义机构持续努力，但危机的规模远远超过现有资源。若无国际社会援助的显著增加、持续的经济复苏以及更稳定的政治环境，阿富汗的人道主义灾难预计将进一步恶化，迫使更多家庭做出这样不可能且骇人听闻的选择。阿富汗家庭的困境凸显了全球迫切需要采取全面应对措施，以防止更多生命逝去，并保护基本的人类尊严。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c0q25dwj807o?at_medium=RSS&at_campaign=rss",
-    "time": "13小时前",
-    "published_iso": "2026-05-18T21:09:07+00:00",
-    "id": "n23",
     "lead": false
   }
 ]
