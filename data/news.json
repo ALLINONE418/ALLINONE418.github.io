@@ -1,5 +1,33 @@
 [
   {
+    "headline": "Walmart warns US shoppers are cutting spending as higher gas prices bite",
+    "deck": "The retail giant said it expects customers to cut back in the coming months due to higher gas prices.",
+    "cnTitle": "美国消费者因油价上涨削减开支",
+    "cnDeck": "零售巨头沃尔玛警告称，美国消费者正在削减开支，主要原因是汽油价格持续上涨。该公司表示，预计在未来几个月内，由于不断上涨的汽油价格侵蚀家庭预算，其顾客将不得不进一步缩减非必需品的购买，甚至在某些必需品上也会更加精打细算。这一警告是在近期燃料成本持续走高，对普通家庭尤其是中低收入群体构成巨大财务压力的背景下发出的。沃尔玛作为美国最大、也是全球最大的零售商之一，其销售数据和对消费者行为的深刻洞察力，被市场和经济学家普遍视为反映美国经济健康状况和消费趋势的关键领先指标。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cj9prkzwr8vo?at_medium=RSS&at_campaign=rss",
+    "time": "刚刚",
+    "published_iso": "2026-05-21T15:42:00+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "Lawsuit over federal student loan caps highlights impact on nursing shortage",
+    "deck": "Some states are challenging a Trump administration rule that caps student loans for those pursuing graduate degrees in nursing and other healthcare fields.",
+    "cnTitle": "联邦学贷上限被诉 冲击护理短缺",
+    "cnDeck": "美国多个州正对一项特朗普政府时期颁布的联邦法规提起诉讼，该法规对攻读护理及其他医疗保健领域研究生学位的学生贷款设定了上限。各州政府认为，这项政策正在加剧全国范围内日益严峻的护理人员短缺问题。长期以来，美国医疗系统一直面临高级护理专业人才的不足，特别是具备硕士或博士学位、能够承担复杂医疗职责的注册护士（RN）和执业护士（NP）。许多有志",
+    "cat": "finance",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/05/21/student-loan-limits-lawsuit-nursing-shortage.html",
+    "time": "1小时前",
+    "published_iso": "2026-05-21T14:47:26+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
     "headline": "EasyJet boss says summer flights won't  be hit by jet fuel shortages",
     "deck": "The airline has seen no problems with fuel, but says people are booking later because of uncertainty caused by the Iran war.",
     "cnTitle": "燃油无忧，伊朗战事影响预订",
@@ -9,9 +37,8 @@
     "url": "https://www.bbc.com/news/articles/ckgplpd7px4o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-21T09:45:16+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n3",
+    "lead": false
   },
   {
     "headline": "Nvidia's record result fails to impress investors",
@@ -23,8 +50,7 @@
     "url": "https://www.bbc.com/news/articles/c759x9pq3dpo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-21T09:40:38+00:00",
-    "is_new": true,
-    "id": "n2",
+    "id": "n4",
     "lead": false
   },
   {
@@ -37,8 +63,7 @@
     "url": "https://www.cnbc.com/2026/05/21/ubisoft-fy-earnings-profit-loss-assassins-creed.html",
     "time": "1小时前",
     "published_iso": "2026-05-21T08:51:14+00:00",
-    "is_new": true,
-    "id": "n3",
+    "id": "n5",
     "lead": false
   },
   {
@@ -51,8 +76,7 @@
     "url": "https://www.cnbc.com/2026/05/21/iran-war-us-peace-talks-trump-hormuz.html",
     "time": "2小时前",
     "published_iso": "2026-05-21T07:54:49+00:00",
-    "is_new": true,
-    "id": "n4",
+    "id": "n6",
     "lead": false
   },
   {
@@ -65,8 +89,7 @@
     "url": "https://www.bbc.com/news/articles/cm2pxz7de41o?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-21T07:52:24+00:00",
-    "is_new": true,
-    "id": "n5",
+    "id": "n7",
     "lead": false
   },
   {
@@ -79,8 +102,7 @@
     "url": "https://www.bbc.com/news/articles/c4g9r92n3eqo?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-21T07:44:15+00:00",
-    "is_new": true,
-    "id": "n6",
+    "id": "n8",
     "lead": false
   },
   {
@@ -93,8 +115,7 @@
     "url": "https://www.bbc.com/news/articles/cn0pky4zpxxo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-05-21T07:10:42+00:00",
-    "is_new": true,
-    "id": "n7",
+    "id": "n9",
     "lead": false
   },
   {
@@ -107,8 +128,7 @@
     "url": "https://www.bbc.com/news/articles/c626njg32n5o?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-05-21T06:04:48+00:00",
-    "is_new": true,
-    "id": "n8",
+    "id": "n10",
     "lead": false
   },
   {
@@ -121,8 +141,7 @@
     "url": "https://www.bbc.com/news/articles/c4g04qkqlk2o?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-05-21T06:01:54+00:00",
-    "is_new": true,
-    "id": "n9",
+    "id": "n11",
     "lead": false
   },
   {
@@ -135,8 +154,7 @@
     "url": "https://www.cnbc.com/2026/05/21/nvidia-jensen-huang-china-ai-chip-market-huawei.html",
     "time": "5小时前",
     "published_iso": "2026-05-21T05:03:10+00:00",
-    "is_new": true,
-    "id": "n10",
+    "id": "n12",
     "lead": false
   },
   {
@@ -149,8 +167,7 @@
     "url": "https://www.cnbc.com/2026/05/21/walmart-wmt-earnings-q1-2027.html",
     "time": "6小时前",
     "published_iso": "2026-05-21T04:01:02+00:00",
-    "is_new": true,
-    "id": "n11",
+    "id": "n13",
     "lead": false
   },
   {
@@ -163,8 +180,7 @@
     "url": "https://www.bbc.com/news/articles/c3r219yxl5eo?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-05-21T03:01:15+00:00",
-    "is_new": true,
-    "id": "n12",
+    "id": "n14",
     "lead": false
   },
   {
@@ -177,7 +193,7 @@
     "url": "https://www.bbc.com/news/articles/cg4pe2953q1o?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-05-20T23:11:58+00:00",
-    "id": "n13",
+    "id": "n15",
     "lead": false
   },
   {
@@ -190,8 +206,7 @@
     "url": "https://www.cnbc.com/2026/05/20/jeff-bezos-taxes-ai-corporations-trump.html",
     "time": "12小时前",
     "published_iso": "2026-05-20T21:54:15+00:00",
-    "is_new": true,
-    "id": "n14",
+    "id": "n16",
     "lead": false
   },
   {
@@ -204,8 +219,7 @@
     "url": "https://www.cnbc.com/2026/05/20/target-tgt-q1-2026-earnings.html",
     "time": "14小时前",
     "published_iso": "2026-05-20T20:18:28+00:00",
-    "is_new": true,
-    "id": "n15",
+    "id": "n17",
     "lead": false
   },
   {
@@ -218,7 +232,7 @@
     "url": "https://www.bbc.com/news/articles/clyp32weyn8o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-20T20:17:51+00:00",
-    "id": "n16",
+    "id": "n18",
     "lead": false
   },
   {
@@ -231,8 +245,7 @@
     "url": "https://www.cnbc.com/2026/05/20/meta-layoffs-zuckerberg-says-success-isnt-a-given-in-memo.html",
     "time": "14小时前",
     "published_iso": "2026-05-20T19:53:37+00:00",
-    "is_new": true,
-    "id": "n17",
+    "id": "n19",
     "lead": false
   },
   {
@@ -245,7 +258,7 @@
     "url": "https://www.bbc.com/news/articles/c4g85dryv24o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-20T19:41:50+00:00",
-    "id": "n18",
+    "id": "n20",
     "lead": false
   },
   {
@@ -258,8 +271,7 @@
     "url": "https://www.cnbc.com/2026/05/20/uae-pipeline-strait-hormuz-iran-war-oil.html",
     "time": "15小时前",
     "published_iso": "2026-05-20T18:56:33+00:00",
-    "is_new": true,
-    "id": "n19",
+    "id": "n21",
     "lead": false
   },
   {
@@ -272,7 +284,7 @@
     "url": "https://www.bbc.com/news/articles/c5y7qz806q3o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-20T16:10:24+00:00",
-    "id": "n20",
+    "id": "n22",
     "lead": false
   },
   {
@@ -285,7 +297,7 @@
     "url": "https://www.cnbc.com/2026/05/20/jeff-bezos-income-taxes.html",
     "time": "刚刚",
     "published_iso": "2026-05-20T15:59:05+00:00",
-    "id": "n21",
+    "id": "n23",
     "lead": false
   },
   {
@@ -298,7 +310,7 @@
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSkJsdkp5Y1E3bldJOEVyWGxzLVRGRVJ4cW05MEZrLXo1LUExeWFDOVdQaHZ4S0RTVFdSTUQ3WDFWU3A2RE1SMmx4X1BZeE4xc2xnODBPU1NEdk9hTmk5dm5zd09mRktScHZXN3R1TWdSVlkybFFJTjV4eXZyRzhfem16UjM5bld6aThzLVJnZFNaUGNzUGJsQVFYV0xBQlVjS0tGT2VrX2NWekh6WVM0?oc=5",
     "time": "2小时前",
     "published_iso": "2026-05-20T14:12:39+00:00",
-    "id": "n22",
+    "id": "n24",
     "lead": false
   },
   {
@@ -311,7 +323,7 @@
     "url": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-20T13:30:10+00:00",
-    "id": "n23",
+    "id": "n25",
     "lead": false
   },
   {
@@ -324,7 +336,7 @@
     "url": "https://www.bbc.com/news/articles/c4g0e0p4p2go?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-05-20T10:34:00+00:00",
-    "id": "n24",
+    "id": "n26",
     "lead": false
   },
   {
@@ -337,8 +349,7 @@
     "url": "https://www.bbc.com/news/articles/cgqpz809e7lo?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-05-20T10:27:50+00:00",
-    "is_new": true,
-    "id": "n25",
+    "id": "n27",
     "lead": false
   },
   {
@@ -351,7 +362,7 @@
     "url": "https://www.bbc.com/news/articles/cdjpng88d2vo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-20T09:49:33+00:00",
-    "id": "n26",
+    "id": "n28",
     "lead": false
   },
   {
@@ -364,7 +375,7 @@
     "url": "https://www.bbc.com/news/articles/c98rjydlgp4o?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-05-20T04:59:40+00:00",
-    "id": "n27",
+    "id": "n29",
     "lead": false
   },
   {
@@ -377,7 +388,7 @@
     "url": "https://www.bbc.com/news/articles/cze28ex3lexo?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-05-20T03:49:24+00:00",
-    "id": "n28",
+    "id": "n30",
     "lead": false
   },
   {
@@ -390,7 +401,7 @@
     "url": "https://www.bbc.com/news/articles/cy42x3g7r89o?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-20T01:58:01+00:00",
-    "id": "n29",
+    "id": "n31",
     "lead": false
   },
   {
@@ -403,7 +414,7 @@
     "url": "https://www.bbc.com/news/articles/cvgz1ynq1nqo?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-05-19T21:00:12+00:00",
-    "id": "n30",
+    "id": "n32",
     "lead": false
   },
   {
@@ -416,7 +427,7 @@
     "url": "https://www.bbc.co.uk/sounds/play/w3ct8jxw?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-19T20:00:00+00:00",
-    "id": "n31",
+    "id": "n33",
     "lead": false
   },
   {
@@ -429,34 +440,21 @@
     "url": "https://www.bbc.com/news/articles/cvgzrz59yz2o?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-19T17:41:23+00:00",
-    "id": "n32",
-    "lead": false
-  },
-  {
-    "headline": "Petrol hits highest price since start of Iran war",
-    "deck": "The average price of unleaded has risen to 158.52p a litre, according to the RAC, who warn that it could rise further in the coming weeks.",
-    "cnTitle": "油价创伊朗战争以来新高",
-    "cnDeck": "根据英国皇家汽车俱乐部（RAC）的最新数据，英国无铅汽油的平均价格已飙升至每升158.52便士，创下自伊朗战争爆发以来的最高纪录。RAC同时警告称，预计未来几周油价可能还会进一步上涨。这一显著的价格上涨不仅对英国数百万驾驶者造成直接冲击，更预示着更广泛的经济压力。此次油价突破历史参照点，其背景是上世纪70年代末至80年代初的",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cdep64555wzo?at_medium=RSS&at_campaign=rss",
-    "time": "1小时前",
-    "published_iso": "2026-05-19T15:12:31+00:00",
-    "id": "n33",
-    "lead": false
-  },
-  {
-    "headline": "Zoe Kleinman: Why the AI industry is the real winner of the Musk-Altman trial",
-    "deck": "The trial in Oakland, California has helped lift the veil on the AI sector - and the huge egos of the men at the heart of it.",
-    "cnTitle": "马斯克奥特曼诉讼揭示AI行业真相",
-    "cnDeck": "加州奥克兰市的一场备受瞩目的法律诉讼，即埃隆·马斯克对人工智能（AI）巨头OpenAI及其首席执行官萨姆·奥特曼提起的诉讼，正成为全球科技界关注的焦点。这场官司不仅深入剖析了快速发展中的AI行业错综复杂的内部运作，更让公众得以窥见身处其核心的几位关键人物——埃隆·马斯克和萨姆·奥特曼——背后巨大的个人抱负与影响力。新闻评论员佐伊·克莱因曼（Zoe Kleinman）指出，正是这场审判，如同一面透镜，“帮助揭开了AI行业的面纱”，使此前可能不为人知的战略决策、治理结构以及错综复杂的人际关系浮出水面。",
-    "cat": "tech",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/crlp991nw41o?at_medium=RSS&at_campaign=rss",
-    "time": "1天前",
-    "published_iso": "2026-05-19T11:05:09+00:00",
-    "is_new": true,
     "id": "n34",
+    "lead": false
+  },
+  {
+    "headline": "These are the bond yield and oil levels that could break the bull market",
+    "deck": "22V Research sees levels for bond yields and oil prices that could throw cold water on the bull market.",
+    "cnTitle": "债券油价水平或终结牛市",
+    "cnDeck": "根据知名金融研究机构22V Research的最新分析，全球金融市场正面临潜在的转折点，某些关键的债券收益率和原油价格水平一旦触及，可能会对当前的牛市构成严重威胁，甚至可能使其告一段落。该机构的分析师指出，投资者需密切关注这两个关键指标的动向，因为它们是影响企业盈利能力、消费者支出和整体经济增长前景的重要因素。22V Research的报告强调，债券收益率的持续攀升，尤其是长期国债收益率的显著上行，将直接提高企业和个人的借贷成本。这不仅会削弱企业的投资意愿和扩张能力，还会压缩其利润空间，尤其对于那些高度依赖外部融资的科技和成长型公司而言，冲击尤为明显。高收益率还会使固定收益产品相对于股票更具吸引力，从而可能导致资金从股市流向债市，对股票估值形成下行压力。此外，高利率环境通常被视为经济增长的阻力，可能预示着未来经济活动的放缓，从而削弱投资者对股市的信心。与此同时，原油价格的波动也被视为影响牛市健康的关键变量。22V Research指出，如果原油价格突破特定阈值并维持在高位，将不可避免地推高通胀压力。能源成本的上涨会通过运输、生产等多个环节传导至整体经济，导致商品和服务价格普遍上涨，进而侵蚀消费者的实际购买力。消费支出的疲软是经济增长的一大阻碍。对于企业而言，更高的能源成本意味着运营开支增加，盈利能力受损。更重要的是，通胀压力的持续存在可能会迫使全球各大央行，包括美联储在内，维持其紧缩的货币政策立场，甚至考虑进一步加息，这将进一步支撑高利率环境，形成对股市的“双重打击”。分析师们警告称，尽管当前的牛市表现出一定的韧性，但历史经验表明，当债券收益率和原油价格达到并维持在某一临界水平时，市场情绪往往会发生根本性转变。投资者可能会重新评估风险资产的吸引力，导致市场出现大幅调整或进入盘整期。22V Research敦促市场参与者对这些宏观经济信号保持高度警惕，并建议重新审视其投资组合的防御性，以应对可能到来的市场逆风。他们暗示，如果这些“危险水平”被触发，目前的乐观市场预期可能需要大幅修正，市场面临的挑战将变得更加严峻。这一研究结论为当前看似稳定的金融市场注入了一丝警惕，提醒人们不应忽视宏观经济指标对市场走势的潜在决定性影响。",
+    "cat": "finance",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/05/19/these-are-the-bond-yield-and-oil-levels-that-could-break-the-bull-market.html",
+    "time": "1天前",
+    "published_iso": "2026-05-19T17:26:52+00:00",
+    "is_new": true,
+    "id": "n35",
     "lead": false
   }
 ]
