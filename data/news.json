@@ -1,5 +1,19 @@
 [
   {
+    "headline": "Big Tech’s AI Debt Binge Tests High-Grade Market, Barclays Says - Bloomberg.com",
+    "deck": "Big Tech’s AI Debt Binge Tests High-Grade Market, Barclays Says&nbsp;&nbsp;Bloomberg.com",
+    "cnTitle": "科技巨头AI巨额举债挑战高等级债市",
+    "cnDeck": "根据巴克莱银行的分析报告，全球大型科技公司为资助其在人工智能（AI）领域的庞大投资，正以前所未有的速度举债，这一“AI债务狂潮”正在对高等级公司债券市场构成显著考验。报告指出，包括谷歌母公司Alphabet、微软、亚马逊、Meta Platforms和苹果在内的科技巨头，尽管现金流充裕，但由于AI研发、数据中心建设、高性能图形处理器（GPU）采购以及AI人才招聘等方面的资本开支巨大，不得不转向债务市场寻求大规模融资。巴克莱强调，这些科技巨头拥有强大的资产负债表和高信用评级，使其能够以较低的成本发行投资级债券。然而，此类债券发行量的激增，正在改变高等级债券市场的供需格局，可能导致收益率面临上行压力，并影响其他信用等级较低的发行方融资。",
+    "cat": "tech",
+    "source": "Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRzlONndJWjRhRlQ4VnpZY1NsWEFXRzZHTWljbExtajlieGZxcXdpdXczTTIyeGxlRlA0ams3TzZISzh0RVpzN2VaQzUydVo4SzJMTklLcVB6eXlDSVlNT01QeDNSN21fY3lVSWRTSjRnSmdnekxzLUNCODhnaHN5ZWU3eXVMYm1WUVdtTkROT0J0TDhFSmFraDFmZ19UaWN5RGlBemp2UVllekl6VlluVjQ0LV80Z0JHbG0yTE5TczBHWGpUQ1ZuS3ZDVDMzQQ?oc=5",
+    "time": "4小时前",
+    "published_iso": "2026-05-21T16:02:12+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
     "headline": "Walmart warns US shoppers are cutting spending as higher gas prices bite",
     "deck": "The retail giant said it expects customers to cut back in the coming months due to higher gas prices.",
     "cnTitle": "美国消费者因油价上涨削减开支",
@@ -9,9 +23,8 @@
     "url": "https://www.bbc.com/news/articles/cj9prkzwr8vo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-21T15:42:00+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n2",
+    "lead": false
   },
   {
     "headline": "Lawsuit over federal student loan caps highlights impact on nursing shortage",
@@ -23,8 +36,7 @@
     "url": "https://www.cnbc.com/2026/05/21/student-loan-limits-lawsuit-nursing-shortage.html",
     "time": "1小时前",
     "published_iso": "2026-05-21T14:47:26+00:00",
-    "is_new": true,
-    "id": "n2",
+    "id": "n3",
     "lead": false
   },
   {
@@ -37,7 +49,7 @@
     "url": "https://www.bbc.com/news/articles/ckgplpd7px4o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-21T09:45:16+00:00",
-    "id": "n3",
+    "id": "n4",
     "lead": false
   },
   {
@@ -50,7 +62,7 @@
     "url": "https://www.bbc.com/news/articles/c759x9pq3dpo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-21T09:40:38+00:00",
-    "id": "n4",
+    "id": "n5",
     "lead": false
   },
   {
@@ -63,7 +75,7 @@
     "url": "https://www.cnbc.com/2026/05/21/ubisoft-fy-earnings-profit-loss-assassins-creed.html",
     "time": "1小时前",
     "published_iso": "2026-05-21T08:51:14+00:00",
-    "id": "n5",
+    "id": "n6",
     "lead": false
   },
   {
@@ -76,7 +88,7 @@
     "url": "https://www.cnbc.com/2026/05/21/iran-war-us-peace-talks-trump-hormuz.html",
     "time": "2小时前",
     "published_iso": "2026-05-21T07:54:49+00:00",
-    "id": "n6",
+    "id": "n7",
     "lead": false
   },
   {
@@ -89,7 +101,7 @@
     "url": "https://www.bbc.com/news/articles/cm2pxz7de41o?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-21T07:52:24+00:00",
-    "id": "n7",
+    "id": "n8",
     "lead": false
   },
   {
@@ -102,7 +114,7 @@
     "url": "https://www.bbc.com/news/articles/c4g9r92n3eqo?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-21T07:44:15+00:00",
-    "id": "n8",
+    "id": "n9",
     "lead": false
   },
   {
@@ -115,7 +127,7 @@
     "url": "https://www.bbc.com/news/articles/cn0pky4zpxxo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-05-21T07:10:42+00:00",
-    "id": "n9",
+    "id": "n10",
     "lead": false
   },
   {
@@ -128,7 +140,7 @@
     "url": "https://www.bbc.com/news/articles/c626njg32n5o?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-05-21T06:04:48+00:00",
-    "id": "n10",
+    "id": "n11",
     "lead": false
   },
   {
@@ -141,7 +153,7 @@
     "url": "https://www.bbc.com/news/articles/c4g04qkqlk2o?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-05-21T06:01:54+00:00",
-    "id": "n11",
+    "id": "n12",
     "lead": false
   },
   {
@@ -154,7 +166,7 @@
     "url": "https://www.cnbc.com/2026/05/21/nvidia-jensen-huang-china-ai-chip-market-huawei.html",
     "time": "5小时前",
     "published_iso": "2026-05-21T05:03:10+00:00",
-    "id": "n12",
+    "id": "n13",
     "lead": false
   },
   {
@@ -167,7 +179,7 @@
     "url": "https://www.cnbc.com/2026/05/21/walmart-wmt-earnings-q1-2027.html",
     "time": "6小时前",
     "published_iso": "2026-05-21T04:01:02+00:00",
-    "id": "n13",
+    "id": "n14",
     "lead": false
   },
   {
@@ -180,7 +192,7 @@
     "url": "https://www.bbc.com/news/articles/c3r219yxl5eo?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-05-21T03:01:15+00:00",
-    "id": "n14",
+    "id": "n15",
     "lead": false
   },
   {
@@ -193,7 +205,7 @@
     "url": "https://www.bbc.com/news/articles/cg4pe2953q1o?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-05-20T23:11:58+00:00",
-    "id": "n15",
+    "id": "n16",
     "lead": false
   },
   {
@@ -206,7 +218,7 @@
     "url": "https://www.cnbc.com/2026/05/20/jeff-bezos-taxes-ai-corporations-trump.html",
     "time": "12小时前",
     "published_iso": "2026-05-20T21:54:15+00:00",
-    "id": "n16",
+    "id": "n17",
     "lead": false
   },
   {
@@ -219,7 +231,7 @@
     "url": "https://www.cnbc.com/2026/05/20/target-tgt-q1-2026-earnings.html",
     "time": "14小时前",
     "published_iso": "2026-05-20T20:18:28+00:00",
-    "id": "n17",
+    "id": "n18",
     "lead": false
   },
   {
@@ -232,7 +244,7 @@
     "url": "https://www.bbc.com/news/articles/clyp32weyn8o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-20T20:17:51+00:00",
-    "id": "n18",
+    "id": "n19",
     "lead": false
   },
   {
@@ -245,7 +257,7 @@
     "url": "https://www.cnbc.com/2026/05/20/meta-layoffs-zuckerberg-says-success-isnt-a-given-in-memo.html",
     "time": "14小时前",
     "published_iso": "2026-05-20T19:53:37+00:00",
-    "id": "n19",
+    "id": "n20",
     "lead": false
   },
   {
@@ -258,7 +270,7 @@
     "url": "https://www.bbc.com/news/articles/c4g85dryv24o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-20T19:41:50+00:00",
-    "id": "n20",
+    "id": "n21",
     "lead": false
   },
   {
@@ -271,7 +283,7 @@
     "url": "https://www.cnbc.com/2026/05/20/uae-pipeline-strait-hormuz-iran-war-oil.html",
     "time": "15小时前",
     "published_iso": "2026-05-20T18:56:33+00:00",
-    "id": "n21",
+    "id": "n22",
     "lead": false
   },
   {
@@ -284,7 +296,7 @@
     "url": "https://www.bbc.com/news/articles/c5y7qz806q3o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-20T16:10:24+00:00",
-    "id": "n22",
+    "id": "n23",
     "lead": false
   },
   {
@@ -297,7 +309,7 @@
     "url": "https://www.cnbc.com/2026/05/20/jeff-bezos-income-taxes.html",
     "time": "刚刚",
     "published_iso": "2026-05-20T15:59:05+00:00",
-    "id": "n23",
+    "id": "n24",
     "lead": false
   },
   {
@@ -310,7 +322,7 @@
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSkJsdkp5Y1E3bldJOEVyWGxzLVRGRVJ4cW05MEZrLXo1LUExeWFDOVdQaHZ4S0RTVFdSTUQ3WDFWU3A2RE1SMmx4X1BZeE4xc2xnODBPU1NEdk9hTmk5dm5zd09mRktScHZXN3R1TWdSVlkybFFJTjV4eXZyRzhfem16UjM5bld6aThzLVJnZFNaUGNzUGJsQVFYV0xBQlVjS0tGT2VrX2NWekh6WVM0?oc=5",
     "time": "2小时前",
     "published_iso": "2026-05-20T14:12:39+00:00",
-    "id": "n24",
+    "id": "n25",
     "lead": false
   },
   {
@@ -323,7 +335,7 @@
     "url": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-20T13:30:10+00:00",
-    "id": "n25",
+    "id": "n26",
     "lead": false
   },
   {
@@ -336,7 +348,7 @@
     "url": "https://www.bbc.com/news/articles/c4g0e0p4p2go?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-05-20T10:34:00+00:00",
-    "id": "n26",
+    "id": "n27",
     "lead": false
   },
   {
@@ -349,7 +361,7 @@
     "url": "https://www.bbc.com/news/articles/cgqpz809e7lo?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-05-20T10:27:50+00:00",
-    "id": "n27",
+    "id": "n28",
     "lead": false
   },
   {
@@ -362,7 +374,7 @@
     "url": "https://www.bbc.com/news/articles/cdjpng88d2vo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-20T09:49:33+00:00",
-    "id": "n28",
+    "id": "n29",
     "lead": false
   },
   {
@@ -375,7 +387,7 @@
     "url": "https://www.bbc.com/news/articles/c98rjydlgp4o?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-05-20T04:59:40+00:00",
-    "id": "n29",
+    "id": "n30",
     "lead": false
   },
   {
@@ -388,7 +400,7 @@
     "url": "https://www.bbc.com/news/articles/cze28ex3lexo?at_medium=RSS&at_campaign=rss",
     "time": "6小时前",
     "published_iso": "2026-05-20T03:49:24+00:00",
-    "id": "n30",
+    "id": "n31",
     "lead": false
   },
   {
@@ -401,7 +413,7 @@
     "url": "https://www.bbc.com/news/articles/cy42x3g7r89o?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-20T01:58:01+00:00",
-    "id": "n31",
+    "id": "n32",
     "lead": false
   },
   {
@@ -414,47 +426,7 @@
     "url": "https://www.bbc.com/news/articles/cvgz1ynq1nqo?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-05-19T21:00:12+00:00",
-    "id": "n32",
-    "lead": false
-  },
-  {
-    "headline": "Tech Life",
-    "deck": "We talk to an expert about the risks from AI hackers.",
-    "cnTitle": "专家警示AI黑客潜在威胁",
-    "cnDeck": "近日，在一场名为“科技生活”的专题讨论中，我们有幸与一位在人工智能（AI）安全领域享有盛誉的专家进行了深入对话，共同探讨了人工智能技术飞速发展背后所隐藏的潜在黑客风险。这位专家详细阐述了AI系统在各个层面可能面临的威胁，并强调了这些风险对个人隐私、企业安全乃至国家关键基础设施构成的严峻挑战。专家指出，AI黑客的威胁主要体现在两大核心方向。首先，是恶意利用AI技术本身来执行更高级别、更具破坏性的网络攻击。传统网络攻击手段，如钓鱼邮件和恶意软件分发，在AI的赋能下，能够实现前所未有的精准度、自动化水平和隐蔽性。例如，AI驱动的钓鱼邮件可以根据目标对象的数字足迹、个人兴趣和行为模式，量身定制高度个性化且极具迷惑性的诱导内容，从而大幅提高攻击成功率。此外，AI还可能被用于开发能够自主学习和进化的新型恶意软件，这些智能恶意程序能够有效规避现有安全防御系统，对企业网络造成长期且深远的破坏。更令人担忧的是，深度伪造（Deepfake）技术若被恶意利用，制造出高度逼真的虚假音视频信息，不仅可能导致个人声誉受损、引发大规模金融欺诈，甚至可能在政治领域造成混乱，影响社会稳定。",
-    "cat": "tech",
-    "source": "BBC",
-    "url": "https://www.bbc.co.uk/sounds/play/w3ct8jxw?at_medium=RSS&at_campaign=rss",
-    "time": "刚刚",
-    "published_iso": "2026-05-19T20:00:00+00:00",
     "id": "n33",
-    "lead": false
-  },
-  {
-    "headline": "NS&I to begin contacting victims of lost funds scandal",
-    "deck": "Over 30,000 estates could not be accessed due to an error identifying all of a late customer's NS&amp;I products.",
-    "cnTitle": "英国NS&I遗产金丑闻：将联系数万受害者",
-    "cnDeck": "英国国家储蓄与投资（NS&I），一家由英国政府财政部全资拥有的非银行金融机构，近日宣布将着手联系数万名受“遗产金错失丑闻”影响的受害者。这一丑闻的核心是一项严重的行政管理失误，导致超过30,000个已故客户的遗产无法被其合法继承人正常访问或提取。具体而言，该错误源于NS&I的内部系统在识别和整合已故客户名下所有NS&I产品时出现了重大缺陷。这意味着，当客户去世后，尽管其在NS&I持有多种储蓄账户、投资产品或高级奖金储蓄凭证（Premium Bonds），但由于系统未能全面识别这些资产，导致部分资金在遗产清算过程中被遗漏，使得继承人无法顺利掌握和管理这些本应属于他们的资金。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cvgzrz59yz2o?at_medium=RSS&at_campaign=rss",
-    "time": "2小时前",
-    "published_iso": "2026-05-19T17:41:23+00:00",
-    "id": "n34",
-    "lead": false
-  },
-  {
-    "headline": "These are the bond yield and oil levels that could break the bull market",
-    "deck": "22V Research sees levels for bond yields and oil prices that could throw cold water on the bull market.",
-    "cnTitle": "债券油价水平或终结牛市",
-    "cnDeck": "根据知名金融研究机构22V Research的最新分析，全球金融市场正面临潜在的转折点，某些关键的债券收益率和原油价格水平一旦触及，可能会对当前的牛市构成严重威胁，甚至可能使其告一段落。该机构的分析师指出，投资者需密切关注这两个关键指标的动向，因为它们是影响企业盈利能力、消费者支出和整体经济增长前景的重要因素。22V Research的报告强调，债券收益率的持续攀升，尤其是长期国债收益率的显著上行，将直接提高企业和个人的借贷成本。这不仅会削弱企业的投资意愿和扩张能力，还会压缩其利润空间，尤其对于那些高度依赖外部融资的科技和成长型公司而言，冲击尤为明显。高收益率还会使固定收益产品相对于股票更具吸引力，从而可能导致资金从股市流向债市，对股票估值形成下行压力。此外，高利率环境通常被视为经济增长的阻力，可能预示着未来经济活动的放缓，从而削弱投资者对股市的信心。与此同时，原油价格的波动也被视为影响牛市健康的关键变量。22V Research指出，如果原油价格突破特定阈值并维持在高位，将不可避免地推高通胀压力。能源成本的上涨会通过运输、生产等多个环节传导至整体经济，导致商品和服务价格普遍上涨，进而侵蚀消费者的实际购买力。消费支出的疲软是经济增长的一大阻碍。对于企业而言，更高的能源成本意味着运营开支增加，盈利能力受损。更重要的是，通胀压力的持续存在可能会迫使全球各大央行，包括美联储在内，维持其紧缩的货币政策立场，甚至考虑进一步加息，这将进一步支撑高利率环境，形成对股市的“双重打击”。分析师们警告称，尽管当前的牛市表现出一定的韧性，但历史经验表明，当债券收益率和原油价格达到并维持在某一临界水平时，市场情绪往往会发生根本性转变。投资者可能会重新评估风险资产的吸引力，导致市场出现大幅调整或进入盘整期。22V Research敦促市场参与者对这些宏观经济信号保持高度警惕，并建议重新审视其投资组合的防御性，以应对可能到来的市场逆风。他们暗示，如果这些“危险水平”被触发，目前的乐观市场预期可能需要大幅修正，市场面临的挑战将变得更加严峻。这一研究结论为当前看似稳定的金融市场注入了一丝警惕，提醒人们不应忽视宏观经济指标对市场走势的潜在决定性影响。",
-    "cat": "finance",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/05/19/these-are-the-bond-yield-and-oil-levels-that-could-break-the-bull-market.html",
-    "time": "1天前",
-    "published_iso": "2026-05-19T17:26:52+00:00",
-    "is_new": true,
-    "id": "n35",
     "lead": false
   }
 ]
