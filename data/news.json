@@ -22,7 +22,6 @@
     "url": "https://www.bbc.com/news/articles/c9d3v2d6p1eo?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-05-22T00:21:24+00:00",
-    "is_new": true,
     "id": "n2",
     "lead": false
   },
@@ -49,7 +48,6 @@
     "url": "https://www.cnbc.com/2026/05/21/bca-says-the-stock-and-bond-markets-are-on-a-collision-course-and-bonds-may-win.html",
     "time": "14小时前",
     "published_iso": "2026-05-21T20:10:41+00:00",
-    "is_new": true,
     "id": "n4",
     "lead": false
   },
@@ -63,7 +61,6 @@
     "url": "https://www.bbc.com/news/articles/ckgplwg3xk3o?at_medium=RSS&at_campaign=rss",
     "time": "15小时前",
     "published_iso": "2026-05-21T18:40:12+00:00",
-    "is_new": true,
     "id": "n5",
     "lead": false
   },
@@ -276,6 +273,20 @@
     "lead": false
   },
   {
+    "headline": "Anthropic set to hit $10.9 billion in revenue during second quarter, source says",
+    "deck": "If Anthropic hits the revenue target, it will post its first profitable quarter, a source told CNBC",
+    "cnTitle": "Anthropic二季度营收目标百亿 将首获盈利",
+    "cnDeck": "根据美国消费者新闻与商业频道（CNBC）援引一位未透露姓名消息人士的报道，人工智能（AI）领域的领先企业Anthropic公司预计在今年第二季度实现高达109亿美元的营收目标。如果这一目标得以实现，这将标志着Anthropic公司自2021年成立以来首次实现季度盈利，对其未来的发展具有里程碑式的意义。",
+    "cat": "finance",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/05/20/anthropic-revenue-explosive-growth-ipo-profitable-quarter.html",
+    "time": "1天前",
+    "published_iso": "2026-05-20T23:25:28+00:00",
+    "is_new": true,
+    "id": "n22",
+    "lead": false
+  },
+  {
     "headline": "SpaceX files for IPO that could make Elon Musk a trillionaire",
     "deck": "Musk's rocket-maker and satellite internet provider will trade under the ticker SPCX",
     "cnTitle": "SpaceX提交IPO申请",
@@ -285,7 +296,7 @@
     "url": "https://www.bbc.com/news/articles/cg4pe2953q1o?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-05-20T23:11:58+00:00",
-    "id": "n22",
+    "id": "n23",
     "lead": false
   },
   {
@@ -298,7 +309,7 @@
     "url": "https://www.cnbc.com/2026/05/20/jeff-bezos-taxes-ai-corporations-trump.html",
     "time": "12小时前",
     "published_iso": "2026-05-20T21:54:15+00:00",
-    "id": "n23",
+    "id": "n24",
     "lead": false
   },
   {
@@ -311,7 +322,7 @@
     "url": "https://www.cnbc.com/2026/05/20/target-tgt-q1-2026-earnings.html",
     "time": "14小时前",
     "published_iso": "2026-05-20T20:18:28+00:00",
-    "id": "n24",
+    "id": "n25",
     "lead": false
   },
   {
@@ -324,7 +335,7 @@
     "url": "https://www.bbc.com/news/articles/clyp32weyn8o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-20T20:17:51+00:00",
-    "id": "n25",
+    "id": "n26",
     "lead": false
   },
   {
@@ -337,7 +348,7 @@
     "url": "https://www.cnbc.com/2026/05/20/meta-layoffs-zuckerberg-says-success-isnt-a-given-in-memo.html",
     "time": "14小时前",
     "published_iso": "2026-05-20T19:53:37+00:00",
-    "id": "n26",
+    "id": "n27",
     "lead": false
   },
   {
@@ -350,7 +361,7 @@
     "url": "https://www.bbc.com/news/articles/c4g85dryv24o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-20T19:41:50+00:00",
-    "id": "n27",
+    "id": "n28",
     "lead": false
   },
   {
@@ -363,7 +374,7 @@
     "url": "https://www.cnbc.com/2026/05/20/uae-pipeline-strait-hormuz-iran-war-oil.html",
     "time": "15小时前",
     "published_iso": "2026-05-20T18:56:33+00:00",
-    "id": "n28",
+    "id": "n29",
     "lead": false
   },
   {
@@ -376,7 +387,7 @@
     "url": "https://www.bbc.com/news/articles/c5y7qz806q3o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-20T16:10:24+00:00",
-    "id": "n29",
+    "id": "n30",
     "lead": false
   },
   {
@@ -389,59 +400,7 @@
     "url": "https://www.cnbc.com/2026/05/20/jeff-bezos-income-taxes.html",
     "time": "刚刚",
     "published_iso": "2026-05-20T15:59:05+00:00",
-    "id": "n30",
-    "lead": false
-  },
-  {
-    "headline": "Gold Holds Losses as Iran Impasse Keeps Rate Hike Bets High - Bloomberg.com",
-    "deck": "Gold Holds Losses as Iran Impasse Keeps Rate Hike Bets High&nbsp;&nbsp;Bloomberg.com",
-    "cnTitle": "伊朗局势推高加息预期 金价承压",
-    "cnDeck": "国际黄金市场周三延续跌势，贵金属价格未能有效反弹，持续承受压力。全球投资者正密切关注中东地区紧张局势的最新进展，尤其是伊朗相关事态的僵局，这被视为影响市场情绪和资产价格的关键因素之一。伊朗与西方国家之间长期的地缘政治僵局，以及其在地区事务中的角色，正在对原油市场供应稳定构成潜在威胁，从而间接推高了全球通胀预期。分析人士指出，任何",
-    "cat": "finance",
-    "source": "Bloomberg",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSkJsdkp5Y1E3bldJOEVyWGxzLVRGRVJ4cW05MEZrLXo1LUExeWFDOVdQaHZ4S0RTVFdSTUQ3WDFWU3A2RE1SMmx4X1BZeE4xc2xnODBPU1NEdk9hTmk5dm5zd09mRktScHZXN3R1TWdSVlkybFFJTjV4eXZyRzhfem16UjM5bld6aThzLVJnZFNaUGNzUGJsQVFYV0xBQlVjS0tGT2VrX2NWekh6WVM0?oc=5",
-    "time": "2小时前",
-    "published_iso": "2026-05-20T14:12:39+00:00",
     "id": "n31",
-    "lead": false
-  },
-  {
-    "headline": "What's happening to UK petrol and diesel prices?",
-    "deck": "Motoring group RAC warns pump prices could keep rising if there is no resolution to the Iran war.",
-    "cnTitle": "伊朗冲突或推高英国油价",
-    "cnDeck": "英国知名汽车组织RAC（皇家汽车俱乐部）近日发出严峻警告，指出如果伊朗地区的冲突局势无法得到有效解决，英国国内的汽油和柴油零售价格可能会持续上涨，给消费者和经济带来进一步的压力。RAC的警告突显了地缘政治紧张局势对全球能源市场，尤其是对消费者日常开销的直接影响。当前，全球原油市场对中东地区的任何不稳定因素都极为敏感。伊朗作为重要的产油国和霍尔木兹海峡的关键扼守者，其周边地区的军事冲突或紧张升级，极易引发市场对原油供应中断的担忧。霍尔木兹海峡是全球最重要的石油运输要道之一，全球约五分之一的原油和液化天然气通过此海峡运输。一旦该区域的航运安全受到威胁，国际原油价格将迅速飙升，从而传导至各国成品油市场。RAC发言人表示，尽管英国政府已采取措施试图缓解民众的生活成本压力，但全球原油价格的上涨将直接抵消这些努力。过去几个月，英国的汽油和柴油价格已经呈现波动上涨的趋势，给普通家庭和依赖运输的企业造成了不小的负担。例如，数据显示，英国无铅汽油的平均价格已达每升约1.55英镑，柴油价格更高，接近每升1.60英镑，这些价格已远高于疫情前的水平。RAC呼吁政府密切关注国际局势，并研究可能的应对策略，以保护消费者免受国际油价波动的过度冲击。分析人士指出，伊朗与地区其他国家或西方国家之间的任何军事对抗，都可能导致全球原油供应出现缺口，或是增加原油运输的保险和安全成本，这些额外的成本最终都会转嫁到消费者身上，表现为加油站泵价的上涨。此外，能源价格的上涨还将进一步加剧英国乃至全球的通货膨胀压力，对央行目前的货币政策构成挑战。英国央行正努力控制通胀，而能源成本的持续高企无疑将使这一任务变得更加复杂。RAC的警告提醒人们，地缘政治风险并非遥不可及，它能通过全球能源供应链，直接影响到每个国家的经济脉搏和民众的日常生活。解决伊朗冲突，恢复地区稳定，不仅是政治和安全的当务之急，也是全球经济健康发展的重要保障。如果冲突持续甚至升级，英国乃至全球的燃料价格将面临更大的上行风险，进而对经济增长、居民消费能力和企业运营成本产生深远而负面的影响。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-    "time": "2小时前",
-    "published_iso": "2026-05-20T13:30:10+00:00",
-    "id": "n32",
-    "lead": false
-  },
-  {
-    "headline": "Inflation falls to 2.8% but is expected to rise from here",
-    "deck": "Energy prices were lower due to the government's energy bill support package and lower wholesale prices before the Iran war.",
-    "cnTitle": "通胀降至2.8%但预计将反弹",
-    "cnDeck": "最新公布的经济数据显示，某主要经济体（此处为虚指，以保持通用性，但原文暗示是某个国家）的通胀率已降至2.8%，这一数据在短期内为市场带来了一线积极信号。消费者物价指数（CPI）从此前的高点显著回落，表明在某些特定因素的影响下，物价上涨的势头有所缓解。然而，经济分析师和政策制定者普遍持谨慎态度，因为多方预测表明，当前的通胀下降趋势可能仅是暂时的，并且预计从当前水平开始，通胀率将再次面临上升压力。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c4g0e0p4p2go?at_medium=RSS&at_campaign=rss",
-    "time": "10小时前",
-    "published_iso": "2026-05-20T10:34:00+00:00",
-    "id": "n33",
-    "lead": false
-  },
-  {
-    "headline": "US groups urge investigation into child safety and spending on Roblox",
-    "deck": "Roblox said it had \"clear policies\" banning actual and simulated gambling, as well as rules governing paid random items.",
-    "cnTitle": "美国团体呼吁调查Roblox儿童安全",
-    "cnDeck": "“美国团体呼吁调查Roblox儿童安全和消费问题”这一新闻引发了广泛关注，尤其是在儿童网络安全和数字平台责任日益受到审视的当下。据报道，多个美国消费者权益保护和儿童权益倡导团体，包括但不限于加州大学洛杉矶分校健康权益中心（UCLA Center for Health Equity）和数字民主中心（Center for Digital Democracy）等，联合向联邦贸易委员会（FTC）和其他相关监管机构提交了请愿书，敦促对热门在线游戏平台Roblox进行深入调查。这些团体声称，Roblox平台上的某些机制和内容可能对儿童造成潜在危害，尤其是在心理健康和财务方面。请愿书的核心诉求集中在几个关键领域。首先，团体们指出Roblox平台上的“付费随机物品”（paid random items）机制，即俗称的“开箱”（loot boxes），其运作方式与赌博行为高度相似，可能在儿童用户中培养赌博习惯，并导致过度消费。尽管这些虚拟物品并非直接的金钱赌博，但其通过不确定性刺激消费的心理机制，被认为对未成年人具有极强的诱惑性和潜在的成瘾性。其次，有担忧指出，Roblox的用户生成内容（UGC）生态系统可能导致儿童接触到不适合其年龄的内容，包括暴力、色情暗示或宣传极端思想的材料，尽管Roblox声称有严格的审核机制，但由于内容量巨大，审查难度也随之增加。此外，团体们还对平台上的第三方网站或应用提出了警示，这些外部链接有时会以欺骗性的方式诱导儿童用户进行交易或泄露个人信息，进一步增加了儿童面临的网络风险。针对这些指控和呼吁，Roblox公司迅速作出了回应。该公司明确表示，其平台拥有“清晰的政策”（clear policies），严禁任何形式的实际赌博（actual gambling）和模拟赌博（simulated gambling）。Roblox发言人强调，公司致力于为所有用户提供一个安全和积极的环境，并为此投入了大量资源，包括开发先进的内容审核技术、设立专门的安全团队以及与家长和专家合作。关于“付费随机物品”的规则，Roblox也声称有严格规定，确保这些机制符合行业标准和法律法规。该公司表示，其平台上的虚拟物品交易旨在丰富用户体验，而非诱导赌博。Roblox还指出，他们为家长提供了强大的工具和控制选项，允许家长管理孩子的消费、限制游戏时间以及筛选内容，确保孩子在Roblox上的体验是安全和可控的。然而，倡导团体认为，Roblox现有的政策和执行力度可能不足以有效保护儿童。他们呼吁监管机构对Roblox的商业模式、内容审核流程、用户协议以及第三方开发者政策进行全面审查。如果调查证实存在违规行为或对儿童用户构成重大风险，监管机构可能会对Roblox处以罚款，并要求其修改平台设计和运营策略。这一事件不仅关乎Roblox一家公司，也折射出整个在线游戏和社交媒体行业在未成年人保护方面面临的共同挑战。随着数字经济的深入发展，如何在创新与保护之间取得平衡，如何确保儿童在享受数字世界乐趣的同时免受潜在危害，已成为全球社会和政府需要共同面对的重要议题。此事件的后续发展，无疑将对其他类似平台的运营策略产生示范效应。",
-    "cat": "tech",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cgqpz809e7lo?at_medium=RSS&at_campaign=rss",
-    "time": "1天前",
-    "published_iso": "2026-05-20T10:27:50+00:00",
-    "id": "n34",
     "lead": false
   }
 ]
