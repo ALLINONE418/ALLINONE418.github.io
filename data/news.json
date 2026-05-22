@@ -1,5 +1,33 @@
 [
   {
+    "headline": "'No means no': Greenlanders protest against Trump outside new US consulate",
+    "deck": "The inauguration of the new consulate comes amid a push by the US president for greater control over the island.",
+    "cnTitle": "特朗普格陵兰设领馆引民众抗议",
+    "cnDeck": "美国总统唐纳德·特朗普政府在格陵兰岛设立新领事馆的举动，引发了当地民众的强烈抗议。此次领事馆的启用，正值特朗普总统积极寻求加强对这个战略要地岛屿控制权之际。格陵兰岛是丹麦的一个自治领土，位于北极地区，拥有丰富的自然资源和极其重要的地缘战略位置，尤其是在全球气候变化导致北极航道和资源开发日益成为焦点之时。长期以来，美国一直将格陵兰岛视为其北极战略的关键组成部分，并拥有在该岛的图勒空军基地。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cwy2gxvnq1zo?at_medium=RSS&at_campaign=rss",
+    "time": "3小时前",
+    "published_iso": "2026-05-22T01:37:02+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "Stop blaming young people for being unemployed, says Amazon's UK boss",
+    "deck": "John Boumphrey says the education system \"isn't necessarily producing young people who are ready for work\".",
+    "cnTitle": "教育体系致青年失业",
+    "cnDeck": "亚马逊英国区总裁约翰·布姆弗里（John Boumphrey）近期发表了一项引人关注的言论，他呼吁社会停止指责年轻人失业，并直言当前的教育体系“不一定能培养出为工作做好准备的年轻人”。这一声明在英国乃至全球范围内，引发了关于青年就业、技能差距以及教育与劳动力市场衔接问题的广泛讨论，尤其是在高通胀和经济不确定性背景下，青年就业挑战日益严峻。布姆弗",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c0l2x5351n4o?at_medium=RSS&at_campaign=rss",
+    "time": "5小时前",
+    "published_iso": "2026-05-21T23:01:37+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
     "headline": "Big Tech’s AI Debt Binge Tests High-Grade Market, Barclays Says - Bloomberg.com",
     "deck": "Big Tech’s AI Debt Binge Tests High-Grade Market, Barclays Says&nbsp;&nbsp;Bloomberg.com",
     "cnTitle": "科技巨头AI巨额举债挑战高等级债市",
@@ -9,9 +37,8 @@
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRzlONndJWjRhRlQ4VnpZY1NsWEFXRzZHTWljbExtajlieGZxcXdpdXczTTIyeGxlRlA0ams3TzZISzh0RVpzN2VaQzUydVo4SzJMTklLcVB6eXlDSVlNT01QeDNSN21fY3lVSWRTSjRnSmdnekxzLUNCODhnaHN5ZWU3eXVMYm1WUVdtTkROT0J0TDhFSmFraDFmZ19UaWN5RGlBemp2UVllekl6VlluVjQ0LV80Z0JHbG0yTE5TczBHWGpUQ1ZuS3ZDVDMzQQ?oc=5",
     "time": "4小时前",
     "published_iso": "2026-05-21T16:02:12+00:00",
-    "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n3",
+    "lead": false
   },
   {
     "headline": "Walmart warns US shoppers are cutting spending as higher gas prices bite",
@@ -23,7 +50,7 @@
     "url": "https://www.bbc.com/news/articles/cj9prkzwr8vo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-21T15:42:00+00:00",
-    "id": "n2",
+    "id": "n4",
     "lead": false
   },
   {
@@ -36,7 +63,21 @@
     "url": "https://www.cnbc.com/2026/05/21/student-loan-limits-lawsuit-nursing-shortage.html",
     "time": "1小时前",
     "published_iso": "2026-05-21T14:47:26+00:00",
-    "id": "n3",
+    "id": "n5",
+    "lead": false
+  },
+  {
+    "headline": "Stocks making the biggest moves premarket: IBM, Walmart, Rocket Lab, Nvidia & more",
+    "deck": "These are the stocks posting the largest moves in the premarket.",
+    "cnTitle": "IBM沃尔玛英伟达等盘前股价异动",
+    "cnDeck": "今日盘前交易中，包括IBM、沃尔玛（Walmart）、Rocket Lab和英伟达（Nvidia）在内的多家知名公司股票表现活跃，涨跌幅居前，引发了市场广泛关注。盘前交易是指股票市场在常规交易时段（通常是美国东部时间上午9:30至下午4:00）开始之前和结束之后进行的交易。在这一时段，投资者可以根据前一晚或当日早晨发布的新闻、公司财报、分析师评级调整、宏观经济数据或特定行业动态，对股票进行买卖决策。由于盘前交易的流动性通常低于常规交易时段，较小的交易量也可能导致股价出现相对较大的波动，从而成为当日市场情绪和特定板块走势的重要风向标。",
+    "cat": "tech",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/05/21/stocks-making-the-biggest-moves-premarket-ibm-wmt-rklb-nvda.html",
+    "time": "17小时前",
+    "published_iso": "2026-05-21T12:00:45+00:00",
+    "is_new": true,
+    "id": "n6",
     "lead": false
   },
   {
@@ -49,7 +90,7 @@
     "url": "https://www.bbc.com/news/articles/ckgplpd7px4o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-21T09:45:16+00:00",
-    "id": "n4",
+    "id": "n7",
     "lead": false
   },
   {
@@ -62,7 +103,7 @@
     "url": "https://www.bbc.com/news/articles/c759x9pq3dpo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-21T09:40:38+00:00",
-    "id": "n5",
+    "id": "n8",
     "lead": false
   },
   {
@@ -75,7 +116,7 @@
     "url": "https://www.cnbc.com/2026/05/21/ubisoft-fy-earnings-profit-loss-assassins-creed.html",
     "time": "1小时前",
     "published_iso": "2026-05-21T08:51:14+00:00",
-    "id": "n6",
+    "id": "n9",
     "lead": false
   },
   {
@@ -88,7 +129,7 @@
     "url": "https://www.cnbc.com/2026/05/21/iran-war-us-peace-talks-trump-hormuz.html",
     "time": "2小时前",
     "published_iso": "2026-05-21T07:54:49+00:00",
-    "id": "n7",
+    "id": "n10",
     "lead": false
   },
   {
@@ -101,7 +142,7 @@
     "url": "https://www.bbc.com/news/articles/cm2pxz7de41o?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-21T07:52:24+00:00",
-    "id": "n8",
+    "id": "n11",
     "lead": false
   },
   {
@@ -114,7 +155,7 @@
     "url": "https://www.bbc.com/news/articles/c4g9r92n3eqo?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-21T07:44:15+00:00",
-    "id": "n9",
+    "id": "n12",
     "lead": false
   },
   {
@@ -127,7 +168,7 @@
     "url": "https://www.bbc.com/news/articles/cn0pky4zpxxo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-05-21T07:10:42+00:00",
-    "id": "n10",
+    "id": "n13",
     "lead": false
   },
   {
@@ -140,7 +181,7 @@
     "url": "https://www.bbc.com/news/articles/c626njg32n5o?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-05-21T06:04:48+00:00",
-    "id": "n11",
+    "id": "n14",
     "lead": false
   },
   {
@@ -153,7 +194,7 @@
     "url": "https://www.bbc.com/news/articles/c4g04qkqlk2o?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-05-21T06:01:54+00:00",
-    "id": "n12",
+    "id": "n15",
     "lead": false
   },
   {
@@ -166,7 +207,7 @@
     "url": "https://www.cnbc.com/2026/05/21/nvidia-jensen-huang-china-ai-chip-market-huawei.html",
     "time": "5小时前",
     "published_iso": "2026-05-21T05:03:10+00:00",
-    "id": "n13",
+    "id": "n16",
     "lead": false
   },
   {
@@ -179,7 +220,7 @@
     "url": "https://www.cnbc.com/2026/05/21/walmart-wmt-earnings-q1-2027.html",
     "time": "6小时前",
     "published_iso": "2026-05-21T04:01:02+00:00",
-    "id": "n14",
+    "id": "n17",
     "lead": false
   },
   {
@@ -192,7 +233,7 @@
     "url": "https://www.bbc.com/news/articles/c3r219yxl5eo?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-05-21T03:01:15+00:00",
-    "id": "n15",
+    "id": "n18",
     "lead": false
   },
   {
@@ -205,7 +246,7 @@
     "url": "https://www.bbc.com/news/articles/cg4pe2953q1o?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-05-20T23:11:58+00:00",
-    "id": "n16",
+    "id": "n19",
     "lead": false
   },
   {
@@ -218,7 +259,7 @@
     "url": "https://www.cnbc.com/2026/05/20/jeff-bezos-taxes-ai-corporations-trump.html",
     "time": "12小时前",
     "published_iso": "2026-05-20T21:54:15+00:00",
-    "id": "n17",
+    "id": "n20",
     "lead": false
   },
   {
@@ -231,7 +272,7 @@
     "url": "https://www.cnbc.com/2026/05/20/target-tgt-q1-2026-earnings.html",
     "time": "14小时前",
     "published_iso": "2026-05-20T20:18:28+00:00",
-    "id": "n18",
+    "id": "n21",
     "lead": false
   },
   {
@@ -244,7 +285,7 @@
     "url": "https://www.bbc.com/news/articles/clyp32weyn8o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-20T20:17:51+00:00",
-    "id": "n19",
+    "id": "n22",
     "lead": false
   },
   {
@@ -257,7 +298,7 @@
     "url": "https://www.cnbc.com/2026/05/20/meta-layoffs-zuckerberg-says-success-isnt-a-given-in-memo.html",
     "time": "14小时前",
     "published_iso": "2026-05-20T19:53:37+00:00",
-    "id": "n20",
+    "id": "n23",
     "lead": false
   },
   {
@@ -270,7 +311,7 @@
     "url": "https://www.bbc.com/news/articles/c4g85dryv24o?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-20T19:41:50+00:00",
-    "id": "n21",
+    "id": "n24",
     "lead": false
   },
   {
@@ -283,7 +324,7 @@
     "url": "https://www.cnbc.com/2026/05/20/uae-pipeline-strait-hormuz-iran-war-oil.html",
     "time": "15小时前",
     "published_iso": "2026-05-20T18:56:33+00:00",
-    "id": "n22",
+    "id": "n25",
     "lead": false
   },
   {
@@ -296,7 +337,7 @@
     "url": "https://www.bbc.com/news/articles/c5y7qz806q3o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-20T16:10:24+00:00",
-    "id": "n23",
+    "id": "n26",
     "lead": false
   },
   {
@@ -309,7 +350,7 @@
     "url": "https://www.cnbc.com/2026/05/20/jeff-bezos-income-taxes.html",
     "time": "刚刚",
     "published_iso": "2026-05-20T15:59:05+00:00",
-    "id": "n24",
+    "id": "n27",
     "lead": false
   },
   {
@@ -322,7 +363,7 @@
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSkJsdkp5Y1E3bldJOEVyWGxzLVRGRVJ4cW05MEZrLXo1LUExeWFDOVdQaHZ4S0RTVFdSTUQ3WDFWU3A2RE1SMmx4X1BZeE4xc2xnODBPU1NEdk9hTmk5dm5zd09mRktScHZXN3R1TWdSVlkybFFJTjV4eXZyRzhfem16UjM5bld6aThzLVJnZFNaUGNzUGJsQVFYV0xBQlVjS0tGT2VrX2NWekh6WVM0?oc=5",
     "time": "2小时前",
     "published_iso": "2026-05-20T14:12:39+00:00",
-    "id": "n25",
+    "id": "n28",
     "lead": false
   },
   {
@@ -335,7 +376,7 @@
     "url": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-20T13:30:10+00:00",
-    "id": "n26",
+    "id": "n29",
     "lead": false
   },
   {
@@ -348,7 +389,7 @@
     "url": "https://www.bbc.com/news/articles/c4g0e0p4p2go?at_medium=RSS&at_campaign=rss",
     "time": "10小时前",
     "published_iso": "2026-05-20T10:34:00+00:00",
-    "id": "n27",
+    "id": "n30",
     "lead": false
   },
   {
@@ -361,7 +402,7 @@
     "url": "https://www.bbc.com/news/articles/cgqpz809e7lo?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-05-20T10:27:50+00:00",
-    "id": "n28",
+    "id": "n31",
     "lead": false
   },
   {
@@ -374,7 +415,7 @@
     "url": "https://www.bbc.com/news/articles/cdjpng88d2vo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-20T09:49:33+00:00",
-    "id": "n29",
+    "id": "n32",
     "lead": false
   },
   {
@@ -387,45 +428,6 @@
     "url": "https://www.bbc.com/news/articles/c98rjydlgp4o?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-05-20T04:59:40+00:00",
-    "id": "n30",
-    "lead": false
-  },
-  {
-    "headline": "Trump's Greenland envoy faces uphill battle on mission to make 'friends'",
-    "deck": "Jeff Landry's visit to the territory, a semi-autonomous part of Denmark, has touched a nerve among some Greenlanders.",
-    "cnTitle": "特朗普特使访格陵兰遇阻力",
-    "cnDeck": "前美国总统唐纳德·特朗普的格陵兰特使杰夫·兰德里（Jeff Landry）近日访问格陵兰岛，这一丹麦的半自治领土。兰德里此次出访的任务被形容为“交友之旅”，旨在加强美国与格陵兰的关系，但在部分格陵兰民众中引发了强烈的不安情绪。这一事件凸显了美国在试图深化与格陵兰联系时面临的微妙地缘政治挑战。此次访问的背景是特朗普政府时期",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cze28ex3lexo?at_medium=RSS&at_campaign=rss",
-    "time": "6小时前",
-    "published_iso": "2026-05-20T03:49:24+00:00",
-    "id": "n31",
-    "lead": false
-  },
-  {
-    "headline": "UK loosens Russian oil sanctions as fuel prices rise",
-    "deck": "The waiver reflects increasing supply concerns over certain fuels due to the effective blockade of the Strait of Hormuz.",
-    "cnTitle": "英国放宽俄油制裁缓解能源担忧",
-    "cnDeck": "英国政府近日宣布，将放宽对俄罗斯石油的部分制裁措施。此项决定是在全球燃料价格持续上涨、市场对燃料供应日益担忧的背景下做出的，旨在缓解英国乃至全球范围内的能源供应紧张局面。此次豁免政策的出台，直接反映出对特定燃料供应的高度关切，尤其是由于霍尔木兹海峡“有效封锁”所导致的供应不确定性。霍尔木兹海峡是连接波斯湾与印度洋的战略要道，承担着全球约五分之一的原油及液化天然气（LNG）贸易量。任何对该海峡的运输中断或严重受阻，都将对全球能源供应链造成灾难性影响，引发原油及成品油价格的急剧飙升，进而对全球经济稳定构成严重威胁。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cy42x3g7r89o?at_medium=RSS&at_campaign=rss",
-    "time": "2小时前",
-    "published_iso": "2026-05-20T01:58:01+00:00",
-    "id": "n32",
-    "lead": false
-  },
-  {
-    "headline": "Google to release first smart glasses since Google Glass flop",
-    "deck": "The glasses will go on sale sometime in autumn and allow Google's artificial intelligence product to interact with a user.",
-    "cnTitle": "谷歌秋季将推AI智能眼镜",
-    "cnDeck": "Alphabet旗下科技巨头谷歌(Google)计划在今年秋季发布其自Google Glass项目以来的首款智能眼镜产品。此举标志着谷歌在智能穿戴设备领域，尤其是在AR（增强现实）眼镜赛道上的卷土重来。这款即将上市的智能眼镜将深度整合谷歌最新的人工智能（AI）技术，旨在彻底改变用户与数字世界的交互方式，实现更自然、更沉浸式的体验。回溯历史，谷歌在2013年首次推出Google Glass探索版，尽管在技术创新方面曾引发轰动，但由于高昂的价格、有限的功能、隐私争议（如摄像头录像功能引发的担忧），以及消费者对其外观接受度不高等多重原因，最终未能成功推向大众市场，被普遍视为一次“失败”（flop）。此次谷歌重返智能眼镜市场，显然吸取了过去的教训，并将AI作为其核心卖点。据消息人士透露，新款智能眼镜预计将实现多项先进的AI功能。用户可能通过语音指令与谷歌的AI助手进行实时互动，获取信息、翻译语言、导航、日程管理，甚至进行图像识别和增强现实叠加。例如，在旅行时，眼镜可能会实时显示地标信息或翻译路牌；在日常生活中，则能提供即时通知或健康数据。这种“与用户互动”的能力，预示着一个更加无缝、解放双手的计算范式。在当前AI技术飞速发展的背景下，谷歌的这一举动具有战略意义。随着大语言模型和多模态AI的成熟，智能眼镜能够处理更复杂的指令和数据，从而提供比以往任何时候都更加个性化和有用的服务。这款产品的发布，也是谷歌在硬件生态系统中进一步巩固其AI领导地位的关键一步，与亚马逊、苹果（Apple）和Meta等其他科技巨头在AR/VR领域的布局形成竞争。Meta已与雷朋合作推出多款智能眼镜，而苹果也被传正在开发自家的AR眼镜产品。市场分析人士普遍认为，新的AI智能眼镜能否成功，将取决于其能否提供真正独特且有价值的用户体验，解决实际痛点，同时兼顾设计、舒适度、电池续航以及最重要的用户隐私问题。谷歌需要在大众接受度与尖端技术之间找到完美的平衡点，以避免重蹈Google Glass的覆辙，真正将智能眼镜从科幻概念转变为日常生活的必需品。这款产品预计在今年秋季某个时间点上市销售，具体日期和详细规格尚未公布，但无疑已在全球科技界引发了广泛期待和讨论。",
-    "cat": "tech",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cvgz1ynq1nqo?at_medium=RSS&at_campaign=rss",
-    "time": "7小时前",
-    "published_iso": "2026-05-19T21:00:12+00:00",
     "id": "n33",
     "lead": false
   }
