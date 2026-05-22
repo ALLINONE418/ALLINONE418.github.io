@@ -1,5 +1,19 @@
 [
   {
+    "headline": "Bank boss sorry after describing workers as 'lower value human capital'",
+    "deck": "The Standard Chartered boss said he values all colleagues and is committed to helping them cope with change.",
+    "cnTitle": "渣打银行高管就“低价值人力资本”言论道歉",
+    "cnDeck": "渣打银行（Standard Chartered）一位备受瞩目的高级主管，近日因其在一次公开或内部会议中，不慎将部分员工描述为“低价值人力资本”而引发了轩然大波，随后不得不公开致歉。这一极具争议的言论，在金融圈内部和外部都迅速激起了强烈反响，许多员工和观察人士对这种将员工视为缺乏独特价值或易于替代的“资本”而非有血有肉个体的看法表示了深刻的不满和担忧。据了解，这位渣打银行的高管是在讨论公司战略、成本效率或应对市场变化时，不恰当地使用了这一措辞，具体语境可能与银行正在经历的数字化转型、业务重组或优化运营效率的内部讨论有关。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c98rqld1j3yo?at_medium=RSS&at_campaign=rss",
+    "time": "1小时前",
+    "published_iso": "2026-05-22T18:55:10+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
     "headline": "'No means no': Greenlanders protest against Trump outside new US consulate",
     "deck": "The inauguration of the new consulate comes amid a push by the US president for greater control over the island.",
     "cnTitle": "特朗普格陵兰设领馆引民众抗议",
@@ -9,8 +23,8 @@
     "url": "https://www.bbc.com/news/articles/cwy2gxvnq1zo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-05-22T01:37:02+00:00",
-    "id": "n1",
-    "lead": true
+    "id": "n2",
+    "lead": false
   },
   {
     "headline": "Gaza flotilla activists deported from Israel as backlash over treatment grows",
@@ -22,7 +36,7 @@
     "url": "https://www.bbc.com/news/articles/c9d3v2d6p1eo?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-05-22T00:21:24+00:00",
-    "id": "n2",
+    "id": "n3",
     "lead": false
   },
   {
@@ -35,7 +49,21 @@
     "url": "https://www.bbc.com/news/articles/c0l2x5351n4o?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-05-21T23:01:37+00:00",
-    "id": "n3",
+    "id": "n4",
+    "lead": false
+  },
+  {
+    "headline": "How Cuban-Americans feel about Raúl Castro's indictment",
+    "deck": "The DOJ charged the former leader of Cuba with murder and other crimes for his alleged role in the downing of two civilian aircraft in 1996.",
+    "cnTitle": "美司法部起诉古巴前领导人劳尔·卡斯特罗",
+    "cnDeck": "美司法部周三宣布，正式对古巴前领导人劳尔·卡斯特罗提起刑事诉讼，指控其涉嫌在1996年击落两架民用飞机事件中犯有谋杀罪及其他罪行。这一指控是针对1996年2月24日发生的“救援兄弟会”（Brothers to the Rescue）两架塞斯纳小型飞机被古巴米格战斗机击落的事件。美国司法部的声明指出，劳尔·卡斯特罗在事件发生时担任古巴武装部队总司令，被认为是该命令的幕后决策者之一。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/videos/cy92ge22298o?at_medium=RSS&at_campaign=rss",
+    "time": "23小时前",
+    "published_iso": "2026-05-21T20:52:52+00:00",
+    "is_new": true,
+    "id": "n5",
     "lead": false
   },
   {
@@ -48,7 +76,7 @@
     "url": "https://www.cnbc.com/2026/05/21/bca-says-the-stock-and-bond-markets-are-on-a-collision-course-and-bonds-may-win.html",
     "time": "14小时前",
     "published_iso": "2026-05-21T20:10:41+00:00",
-    "id": "n4",
+    "id": "n6",
     "lead": false
   },
   {
@@ -61,7 +89,7 @@
     "url": "https://www.bbc.com/news/articles/ckgplwg3xk3o?at_medium=RSS&at_campaign=rss",
     "time": "15小时前",
     "published_iso": "2026-05-21T18:40:12+00:00",
-    "id": "n5",
+    "id": "n7",
     "lead": false
   },
   {
@@ -74,7 +102,7 @@
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRzlONndJWjRhRlQ4VnpZY1NsWEFXRzZHTWljbExtajlieGZxcXdpdXczTTIyeGxlRlA0ams3TzZISzh0RVpzN2VaQzUydVo4SzJMTklLcVB6eXlDSVlNT01QeDNSN21fY3lVSWRTSjRnSmdnekxzLUNCODhnaHN5ZWU3eXVMYm1WUVdtTkROT0J0TDhFSmFraDFmZ19UaWN5RGlBemp2UVllekl6VlluVjQ0LV80Z0JHbG0yTE5TczBHWGpUQ1ZuS3ZDVDMzQQ?oc=5",
     "time": "4小时前",
     "published_iso": "2026-05-21T16:02:12+00:00",
-    "id": "n6",
+    "id": "n8",
     "lead": false
   },
   {
@@ -87,7 +115,7 @@
     "url": "https://www.bbc.com/news/articles/cj9prkzwr8vo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-21T15:42:00+00:00",
-    "id": "n7",
+    "id": "n9",
     "lead": false
   },
   {
@@ -100,7 +128,7 @@
     "url": "https://www.cnbc.com/2026/05/21/student-loan-limits-lawsuit-nursing-shortage.html",
     "time": "1小时前",
     "published_iso": "2026-05-21T14:47:26+00:00",
-    "id": "n8",
+    "id": "n10",
     "lead": false
   },
   {
@@ -113,7 +141,7 @@
     "url": "https://www.cnbc.com/2026/05/21/stocks-making-the-biggest-moves-premarket-ibm-wmt-rklb-nvda.html",
     "time": "17小时前",
     "published_iso": "2026-05-21T12:00:45+00:00",
-    "id": "n9",
+    "id": "n11",
     "lead": false
   },
   {
@@ -126,7 +154,7 @@
     "url": "https://www.bbc.com/news/articles/ckgplpd7px4o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-21T09:45:16+00:00",
-    "id": "n10",
+    "id": "n12",
     "lead": false
   },
   {
@@ -139,7 +167,7 @@
     "url": "https://www.bbc.com/news/articles/c759x9pq3dpo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-21T09:40:38+00:00",
-    "id": "n11",
+    "id": "n13",
     "lead": false
   },
   {
@@ -152,7 +180,7 @@
     "url": "https://www.cnbc.com/2026/05/21/ubisoft-fy-earnings-profit-loss-assassins-creed.html",
     "time": "1小时前",
     "published_iso": "2026-05-21T08:51:14+00:00",
-    "id": "n12",
+    "id": "n14",
     "lead": false
   },
   {
@@ -165,7 +193,7 @@
     "url": "https://www.cnbc.com/2026/05/21/iran-war-us-peace-talks-trump-hormuz.html",
     "time": "2小时前",
     "published_iso": "2026-05-21T07:54:49+00:00",
-    "id": "n13",
+    "id": "n15",
     "lead": false
   },
   {
@@ -178,7 +206,7 @@
     "url": "https://www.bbc.com/news/articles/cm2pxz7de41o?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-21T07:52:24+00:00",
-    "id": "n14",
+    "id": "n16",
     "lead": false
   },
   {
@@ -191,7 +219,7 @@
     "url": "https://www.bbc.com/news/articles/c4g9r92n3eqo?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-21T07:44:15+00:00",
-    "id": "n15",
+    "id": "n17",
     "lead": false
   },
   {
@@ -204,7 +232,7 @@
     "url": "https://www.bbc.com/news/articles/cn0pky4zpxxo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-05-21T07:10:42+00:00",
-    "id": "n16",
+    "id": "n18",
     "lead": false
   },
   {
@@ -217,7 +245,7 @@
     "url": "https://www.bbc.com/news/articles/c626njg32n5o?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-05-21T06:04:48+00:00",
-    "id": "n17",
+    "id": "n19",
     "lead": false
   },
   {
@@ -230,7 +258,7 @@
     "url": "https://www.bbc.com/news/articles/c4g04qkqlk2o?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-05-21T06:01:54+00:00",
-    "id": "n18",
+    "id": "n20",
     "lead": false
   },
   {
@@ -243,7 +271,7 @@
     "url": "https://www.cnbc.com/2026/05/21/nvidia-jensen-huang-china-ai-chip-market-huawei.html",
     "time": "5小时前",
     "published_iso": "2026-05-21T05:03:10+00:00",
-    "id": "n19",
+    "id": "n21",
     "lead": false
   },
   {
@@ -256,7 +284,7 @@
     "url": "https://www.cnbc.com/2026/05/21/walmart-wmt-earnings-q1-2027.html",
     "time": "6小时前",
     "published_iso": "2026-05-21T04:01:02+00:00",
-    "id": "n20",
+    "id": "n22",
     "lead": false
   },
   {
@@ -269,7 +297,7 @@
     "url": "https://www.bbc.com/news/articles/c3r219yxl5eo?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-05-21T03:01:15+00:00",
-    "id": "n21",
+    "id": "n23",
     "lead": false
   },
   {
@@ -282,8 +310,7 @@
     "url": "https://www.cnbc.com/2026/05/20/anthropic-revenue-explosive-growth-ipo-profitable-quarter.html",
     "time": "1天前",
     "published_iso": "2026-05-20T23:25:28+00:00",
-    "is_new": true,
-    "id": "n22",
+    "id": "n24",
     "lead": false
   },
   {
@@ -296,7 +323,7 @@
     "url": "https://www.bbc.com/news/articles/cg4pe2953q1o?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-05-20T23:11:58+00:00",
-    "id": "n23",
+    "id": "n25",
     "lead": false
   },
   {
@@ -309,98 +336,7 @@
     "url": "https://www.cnbc.com/2026/05/20/jeff-bezos-taxes-ai-corporations-trump.html",
     "time": "12小时前",
     "published_iso": "2026-05-20T21:54:15+00:00",
-    "id": "n24",
-    "lead": false
-  },
-  {
-    "headline": "Target beats Wall Street estimates, hikes sales outlook as shoppers start to return",
-    "deck": "Target has been struggling with a sales slump and decreased customer traffic, though CEO Michael Fiddelke has said the retailer is poised for a turnaround.",
-    "cnTitle": "塔吉特财报亮眼 销售前景乐观",
-    "cnDeck": "塔吉特公司（Target Corporation）近日公布了其最新季度财报，表现超出了华尔街分析师的普遍预期，并积极上调了对未来销售业绩的展望。这一积极的市场信号明确指出，在经历了一段时期内的销售额持续低迷和客流量明显减少之后，消费者已经开始重新光顾这家大型零售商。此前，塔吉特一直面临着一系列复杂的挑战，包括但不限于消费者支出模式的变化、持续高企的通货膨胀压力、",
-    "cat": "finance",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/05/20/target-tgt-q1-2026-earnings.html",
-    "time": "14小时前",
-    "published_iso": "2026-05-20T20:18:28+00:00",
-    "id": "n25",
-    "lead": false
-  },
-  {
-    "headline": "Far-right Israeli minister condemned for taunting handcuffed Gaza flotilla activists",
-    "deck": "France and Italy are among the countries that have criticised a video showing Itamar Ben-Gvir taunting dozens of activists detained at an Israeli port.",
-    "cnTitle": "以色列部长嘲讽加沙船队激进分子遭谴责",
-    "cnDeck": "法国和意大利等国对一段视频表示强烈谴责，该视频显示以色列极右翼部长伊塔马尔·本-格维尔（Itamar Ben-Gvir）在以色列一港口嘲讽数十名被拘留的加沙船队激进分子。这一事件迅速引发国际社会广泛关注和外交风波。据报道，本-格维尔部长在视频中出现在一群手铐被戴在身后的激进分子面前，语气轻蔑，言辞充满挑衅，此举被多国政府和人权组织视为是对人道主义援助者尊严的侵犯和对国际法基本原则的漠视。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/clyp32weyn8o?at_medium=RSS&at_campaign=rss",
-    "time": "刚刚",
-    "published_iso": "2026-05-20T20:17:51+00:00",
     "id": "n26",
-    "lead": false
-  },
-  {
-    "headline": "Zuckerberg's Meta layoffs memo: 'Success isn't a given' in the AI era",
-    "deck": "Meta on Wednesday commenced its latest round of layoffs, which affect about 10% of the company's workforce or roughly 8,000 jobs.",
-    "cnTitle": "Meta裁员8000人 扎克伯格警示AI时代",
-    "cnDeck": "Facebook母公司Meta Platforms于周三启动了最新一轮大规模裁员，此举是该公司持续进行组织精简和效率提升计划的一部分。本次裁员将影响Meta全球约10%的员工，粗略估算涉及约8,000个工作岗位。这一消息通过首席执行官马克·扎克伯格向全体员工发布的一份内部备忘录得以确认。扎克伯格在备忘录中对公司未来的发展方向进行了阐",
-    "cat": "finance",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/05/20/meta-layoffs-zuckerberg-says-success-isnt-a-given-in-memo.html",
-    "time": "14小时前",
-    "published_iso": "2026-05-20T19:53:37+00:00",
-    "id": "n27",
-    "lead": false
-  },
-  {
-    "headline": "UK agrees £3.7bn trade deal with six Gulf states",
-    "deck": "The deal will remove an estimated £580m worth of tariffs from British exports, but rights groups are critical",
-    "cnTitle": "英国与六海湾国签37亿英镑贸易协议",
-    "cnDeck": "英国政府宣布与海湾六国达成一项价值37亿英镑（约合47亿美元）的重大贸易协议。这项协议旨在大幅提升英国与海湾合作委员会（GCC）成员国——巴林、科威特、阿曼、卡塔尔、沙特阿拉伯和阿拉伯联合酋长国之间的贸易往来。根据协议条款，预计将从英国对这些海湾国家的出口中取消价值约5.8亿英镑（约合7.3亿美元）的关税。英国政府表示，这是脱欧后其全球贸易战略的关键一步，旨在深化与全球快速增长经济体的联系，为英国企业创造新的机遇。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c4g85dryv24o?at_medium=RSS&at_campaign=rss",
-    "time": "1小时前",
-    "published_iso": "2026-05-20T19:41:50+00:00",
-    "id": "n28",
-    "lead": false
-  },
-  {
-    "headline": "UAE says new pipeline that will bypass Strait of Hormuz is nearly 50% complete",
-    "deck": "The UAE has redirected some oil exports through an existing pipeline to Fujairah, which has a maximum capacity of 1.8 million barrels per day.",
-    "cnTitle": "阿联酋绕霍尔木兹油管工程近半",
-    "cnDeck": "阿拉伯联合酋长国（UAE）近日宣布，其旨在绕过战略要地霍尔木兹海峡（Strait of Hormuz）的新输油管道项目已完成近50%的工程量。此进展对于阿联酋乃至全球能源安全至关重要。霍尔木兹海峡作为连接波斯湾与国际水域的咽喉，每日承载全球约五分之一的石油供应，其地缘政治敏感性极高。周边局势紧张时，该",
-    "cat": "finance",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/05/20/uae-pipeline-strait-hormuz-iran-war-oil.html",
-    "time": "15小时前",
-    "published_iso": "2026-05-20T18:56:33+00:00",
-    "id": "n29",
-    "lead": false
-  },
-  {
-    "headline": "Supermarkets hit back over pressure to cap price of milk, bread and eggs",
-    "deck": "A minister confirms talks have taken place but says there will be no mandatory cap on essential food prices.",
-    "cnTitle": "政府否决强制限制食品价格",
-    "cnDeck": "一项关于是否对牛奶、面包和鸡蛋等必需食品实施强制性价格上限的激烈辩论在近期达到高潮，政府最终决定不采取此类强制措施。一位部长证实，政府已经与主要超市和食品行业代表进行了深入会谈，但明确表示，不会对必需食品价格设置强制性上限。这一声明在消费者团体、零售商和政府之间引发了广泛关注，反映出在当前通胀高企、生活成本危机加剧的背景下，如何平衡市场机制与消费者承受能力成为一项紧迫的挑战。",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c5y7qz806q3o?at_medium=RSS&at_campaign=rss",
-    "time": "刚刚",
-    "published_iso": "2026-05-20T16:10:24+00:00",
-    "id": "n30",
-    "lead": false
-  },
-  {
-    "headline": "Jeff Bezos says bottom half of earners should pay zero in income taxes",
-    "deck": "Amazon Executive Chairman Jeff Bezos on Wednesday called for zero federal income taxes on the bottom half of earners.",
-    "cnTitle": "贝佐斯呼吁低收入者免联邦所得税",
-    "cnDeck": "亚马逊执行主席杰夫·贝佐斯于周三发表了一项引人注目的提案，他呼吁联邦政府对收入最低的50%人群免除联邦所得税。这一提议迅速引发了广泛关注和热议，因为贝佐斯作为全球最富有的人物之一，其言论往往具有显著的社会影响力。根据贝佐斯的观点，对收入较低的人群免征联邦所得税，将有助于减轻这些家庭的经济负担，促进社会公平，并可能刺激消费支出，从而对整体经济产生积极影响。",
-    "cat": "finance",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/05/20/jeff-bezos-income-taxes.html",
-    "time": "刚刚",
-    "published_iso": "2026-05-20T15:59:05+00:00",
-    "id": "n31",
     "lead": false
   }
 ]
