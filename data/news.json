@@ -1,5 +1,19 @@
 [
   {
+    "headline": "From decades to years - AI could speed search for brain drugs hiding in plain sight",
+    "deck": "Researchers hope the work will help identify affordable, effective drugs to treat conditions like MND.",
+    "cnTitle": "AI加速脑部疾病药物研发",
+    "cnDeck": "人工智能（AI）技术的飞速发展有望彻底改变药物发现的传统模式，特别是对于脑部疾病的治疗，其研发周期有望从数十年缩短至短短数年。科学家们对此项研究寄予厚望，期待AI能够帮助发现那些“藏匿于视线之内”但尚未被充分利用的现有药物，从而为运动神经元疾病（MND）等复杂脑部疾病患者提供可负担且有效的治疗方案。传统的药物研发过程漫长且成本高昂，通常需要10到15年甚至更长时间才能将一个新药从实验室推向市场，投入资金可达数十亿美元。在这一过程中，药物研发的失败率极高，尤其是在神经系统疾病领域。脑部疾病，如阿尔茨海默病、帕金森病、多发性硬化症以及运动神经元疾病（MND），由于其复杂的病理机制、血脑屏障的挑战以及缺乏有效的生物标志物，使得新药研发面临着前所未有的困难。许多在早期临床试验中表现出希望的化合物，最终都在后期阶段因疗效不足或副作用而功亏一篑。此外，现有的许多已获批药物可能拥有未被发现的治疗潜力，即所谓的“老药新用”或药物再利用，但通过传统方法筛选这些潜在用途需要耗费巨大的人力物力。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cdrp3zzzp71o?at_medium=RSS&at_campaign=rss",
+    "time": "7小时前",
+    "published_iso": "2026-05-22T21:30:06+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
     "headline": "Bank boss sorry after describing workers as 'lower value human capital'",
     "deck": "The Standard Chartered boss said he values all colleagues and is committed to helping them cope with change.",
     "cnTitle": "渣打银行高管就“低价值人力资本”言论道歉",
@@ -9,9 +23,22 @@
     "url": "https://www.bbc.com/news/articles/c98rqld1j3yo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-22T18:55:10+00:00",
+    "id": "n2",
+    "lead": false
+  },
+  {
+    "headline": "Musk's SpaceX postpones Starship launch as mega share sale looms",
+    "deck": "It comes just a day after the firm revealed plans for a record-breaking stock market debut.",
+    "cnTitle": "SpaceX星舰发射推迟，IPO计划引关注",
+    "cnDeck": "埃隆·马斯克旗下的太空探索技术公司SpaceX宣布推迟其下一代重型运载火箭星舰（Starship）的发射计划。这一决定正值该公司即将进行一次大规模股权出售之际，引发了外界对公司运营和未来发展的高度关注。就在SpaceX公布这一推迟消息的前一天，该公司刚刚透露了其创纪录的首次公开募股（IPO）或大规模股权交易计划，旨在为公司雄心勃勃的太空项目筹集巨额资金。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cy42w782ejvo?at_medium=RSS&at_campaign=rss",
+    "time": "1天前",
+    "published_iso": "2026-05-22T02:57:12+00:00",
     "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n3",
+    "lead": false
   },
   {
     "headline": "'No means no': Greenlanders protest against Trump outside new US consulate",
@@ -23,7 +50,7 @@
     "url": "https://www.bbc.com/news/articles/cwy2gxvnq1zo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-05-22T01:37:02+00:00",
-    "id": "n2",
+    "id": "n4",
     "lead": false
   },
   {
@@ -36,7 +63,7 @@
     "url": "https://www.bbc.com/news/articles/c9d3v2d6p1eo?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-05-22T00:21:24+00:00",
-    "id": "n3",
+    "id": "n5",
     "lead": false
   },
   {
@@ -49,7 +76,7 @@
     "url": "https://www.bbc.com/news/articles/c0l2x5351n4o?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-05-21T23:01:37+00:00",
-    "id": "n4",
+    "id": "n6",
     "lead": false
   },
   {
@@ -62,8 +89,7 @@
     "url": "https://www.bbc.com/news/videos/cy92ge22298o?at_medium=RSS&at_campaign=rss",
     "time": "23小时前",
     "published_iso": "2026-05-21T20:52:52+00:00",
-    "is_new": true,
-    "id": "n5",
+    "id": "n7",
     "lead": false
   },
   {
@@ -76,7 +102,7 @@
     "url": "https://www.cnbc.com/2026/05/21/bca-says-the-stock-and-bond-markets-are-on-a-collision-course-and-bonds-may-win.html",
     "time": "14小时前",
     "published_iso": "2026-05-21T20:10:41+00:00",
-    "id": "n6",
+    "id": "n8",
     "lead": false
   },
   {
@@ -89,7 +115,7 @@
     "url": "https://www.bbc.com/news/articles/ckgplwg3xk3o?at_medium=RSS&at_campaign=rss",
     "time": "15小时前",
     "published_iso": "2026-05-21T18:40:12+00:00",
-    "id": "n7",
+    "id": "n9",
     "lead": false
   },
   {
@@ -102,7 +128,7 @@
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRzlONndJWjRhRlQ4VnpZY1NsWEFXRzZHTWljbExtajlieGZxcXdpdXczTTIyeGxlRlA0ams3TzZISzh0RVpzN2VaQzUydVo4SzJMTklLcVB6eXlDSVlNT01QeDNSN21fY3lVSWRTSjRnSmdnekxzLUNCODhnaHN5ZWU3eXVMYm1WUVdtTkROT0J0TDhFSmFraDFmZ19UaWN5RGlBemp2UVllekl6VlluVjQ0LV80Z0JHbG0yTE5TczBHWGpUQ1ZuS3ZDVDMzQQ?oc=5",
     "time": "4小时前",
     "published_iso": "2026-05-21T16:02:12+00:00",
-    "id": "n8",
+    "id": "n10",
     "lead": false
   },
   {
@@ -115,7 +141,7 @@
     "url": "https://www.bbc.com/news/articles/cj9prkzwr8vo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-21T15:42:00+00:00",
-    "id": "n9",
+    "id": "n11",
     "lead": false
   },
   {
@@ -128,7 +154,7 @@
     "url": "https://www.cnbc.com/2026/05/21/student-loan-limits-lawsuit-nursing-shortage.html",
     "time": "1小时前",
     "published_iso": "2026-05-21T14:47:26+00:00",
-    "id": "n10",
+    "id": "n12",
     "lead": false
   },
   {
@@ -141,7 +167,7 @@
     "url": "https://www.cnbc.com/2026/05/21/stocks-making-the-biggest-moves-premarket-ibm-wmt-rklb-nvda.html",
     "time": "17小时前",
     "published_iso": "2026-05-21T12:00:45+00:00",
-    "id": "n11",
+    "id": "n13",
     "lead": false
   },
   {
@@ -154,7 +180,7 @@
     "url": "https://www.bbc.com/news/articles/ckgplpd7px4o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-21T09:45:16+00:00",
-    "id": "n12",
+    "id": "n14",
     "lead": false
   },
   {
@@ -167,7 +193,7 @@
     "url": "https://www.bbc.com/news/articles/c759x9pq3dpo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-21T09:40:38+00:00",
-    "id": "n13",
+    "id": "n15",
     "lead": false
   },
   {
@@ -180,7 +206,7 @@
     "url": "https://www.cnbc.com/2026/05/21/ubisoft-fy-earnings-profit-loss-assassins-creed.html",
     "time": "1小时前",
     "published_iso": "2026-05-21T08:51:14+00:00",
-    "id": "n14",
+    "id": "n16",
     "lead": false
   },
   {
@@ -193,7 +219,7 @@
     "url": "https://www.cnbc.com/2026/05/21/iran-war-us-peace-talks-trump-hormuz.html",
     "time": "2小时前",
     "published_iso": "2026-05-21T07:54:49+00:00",
-    "id": "n15",
+    "id": "n17",
     "lead": false
   },
   {
@@ -206,7 +232,7 @@
     "url": "https://www.bbc.com/news/articles/cm2pxz7de41o?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-21T07:52:24+00:00",
-    "id": "n16",
+    "id": "n18",
     "lead": false
   },
   {
@@ -219,7 +245,7 @@
     "url": "https://www.bbc.com/news/articles/c4g9r92n3eqo?at_medium=RSS&at_campaign=rss",
     "time": "2小时前",
     "published_iso": "2026-05-21T07:44:15+00:00",
-    "id": "n17",
+    "id": "n19",
     "lead": false
   },
   {
@@ -232,7 +258,7 @@
     "url": "https://www.bbc.com/news/articles/cn0pky4zpxxo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-05-21T07:10:42+00:00",
-    "id": "n18",
+    "id": "n20",
     "lead": false
   },
   {
@@ -245,7 +271,7 @@
     "url": "https://www.bbc.com/news/articles/c626njg32n5o?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-05-21T06:04:48+00:00",
-    "id": "n19",
+    "id": "n21",
     "lead": false
   },
   {
@@ -258,7 +284,7 @@
     "url": "https://www.bbc.com/news/articles/c4g04qkqlk2o?at_medium=RSS&at_campaign=rss",
     "time": "4小时前",
     "published_iso": "2026-05-21T06:01:54+00:00",
-    "id": "n20",
+    "id": "n22",
     "lead": false
   },
   {
@@ -271,72 +297,7 @@
     "url": "https://www.cnbc.com/2026/05/21/nvidia-jensen-huang-china-ai-chip-market-huawei.html",
     "time": "5小时前",
     "published_iso": "2026-05-21T05:03:10+00:00",
-    "id": "n21",
-    "lead": false
-  },
-  {
-    "headline": "Walmart to report first-quarter earnings before the bell. Here's what Wall Street expects",
-    "deck": "Walmart's fiscal first-quarter earnings report will offer Wall Street a unique view into the health of the U.S. economy",
-    "cnTitle": "沃尔玛发布首季财报 洞察美国经济",
-    "cnDeck": "沃尔玛（Walmart）定于盘前发布其2024财年第一季度财报，这份报告将为华尔街提供一个深入了解美国经济健康状况的独特视角。作为全球最大的零售巨头，沃尔玛的业绩表现被广泛视为衡量消费者支出强度和整体经济活力的关键指标。分析师和投资者将密切关注这份财报，以评估当前通胀压力下消费者行为的变化、零售业的经营状况以及未来的经济走势。市场普遍预计，沃尔玛的销售额和盈利能力将受到多种宏观经济因素的影响，包括持续的通货膨胀、美联储货币政策对消费者可支配收入的潜在影响，以及劳动力市场的最新状况。华尔街分析师将重点关注沃尔玛在美国市场的同店销售额增长，这直接反映了消费者在日常必需品和非必需品上的支出倾向。此外，公司的毛利率、运营成本控制以及电子商务业务的增长速度，也将是评估其经营效率和未来增长潜力的重要指标。财报还将揭示不同收入水平消费者群体的购物习惯变化，例如在物价上涨时是否倾向于购买自有品牌或折扣商品，这将为理解消费者韧性提供关键数据。值得注意的是，沃尔玛的财报不仅关乎其自身业绩，更是整个零售行业乃至美国宏观经济的“晴雨表”。其结果可能影响其他主要零售商的股价，并为政策制定者提供关于经济现状的参考。管理层对未来几个季度的业绩指引，包括对销售预期和利润率展望的评论，将为市场提供关于公司战略和经济前景的重要信号。如果财报数据超出预期，可能提振市场对消费者支出能力的信心，反之，若表现不佳，则可能加剧对经济放缓的担忧。因此，这份财报被视为观察美国经济脉搏的重要窗口，其公布将引发市场的广泛关注和解读。",
-    "cat": "economy",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/05/21/walmart-wmt-earnings-q1-2027.html",
-    "time": "6小时前",
-    "published_iso": "2026-05-21T04:01:02+00:00",
-    "id": "n22",
-    "lead": false
-  },
-  {
-    "headline": "US charges Cuba's Raúl Castro with murder over 1996 downing of two planes",
-    "deck": "Cuba's current president says the charges against Castro - including conspiracy to kill US nationals and destruction of aircraft - are a \"political manoeuvre\".",
-    "cnTitle": "美国起诉劳尔·卡斯特罗击落飞机谋杀罪",
-    "cnDeck": "美国司法部就1996年两架民用飞机被击落事件，正式起诉古巴前国家元首劳尔·卡斯特罗（Raúl Castro），指控他犯有谋杀罪。具体罪名包括密谋杀害美国公民以及破坏飞机。这一指控是在一个大陪审团投票后提出的，反映出美国政府对此事件的持续关注和采取法律行动的决心。事件追溯至1996年2月24日，当时两架由古巴裔美国流亡团体“援救兄弟会”（Brothers to the Rescue）运营的塞斯纳337型飞机在佛罗里达海峡的国际空域被古巴米格-29战斗机击落。此次事件导致机上四名美国公民丧生，他们分别是卡洛斯·科斯塔（Carlos Costa）、阿曼多·亚历山大（Armando Alejandre Jr.）、马里奥·德拉佩尼亚（Mario de la Peña）和帕布罗·莫拉莱斯（Pablo Morales）。“援救兄弟会”是一个总部设在迈阿密的团体，其主要活动是在佛罗里达海峡搜寻试图逃离古巴的船民，但也曾多次飞越古巴领空投撒传单，引发古巴政府的强烈不满和警告。",
-    "cat": "politics",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c3r219yxl5eo?at_medium=RSS&at_campaign=rss",
-    "time": "7小时前",
-    "published_iso": "2026-05-21T03:01:15+00:00",
     "id": "n23",
-    "lead": false
-  },
-  {
-    "headline": "Anthropic set to hit $10.9 billion in revenue during second quarter, source says",
-    "deck": "If Anthropic hits the revenue target, it will post its first profitable quarter, a source told CNBC",
-    "cnTitle": "Anthropic二季度营收目标百亿 将首获盈利",
-    "cnDeck": "根据美国消费者新闻与商业频道（CNBC）援引一位未透露姓名消息人士的报道，人工智能（AI）领域的领先企业Anthropic公司预计在今年第二季度实现高达109亿美元的营收目标。如果这一目标得以实现，这将标志着Anthropic公司自2021年成立以来首次实现季度盈利，对其未来的发展具有里程碑式的意义。",
-    "cat": "finance",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/05/20/anthropic-revenue-explosive-growth-ipo-profitable-quarter.html",
-    "time": "1天前",
-    "published_iso": "2026-05-20T23:25:28+00:00",
-    "id": "n24",
-    "lead": false
-  },
-  {
-    "headline": "SpaceX files for IPO that could make Elon Musk a trillionaire",
-    "deck": "Musk's rocket-maker and satellite internet provider will trade under the ticker SPCX",
-    "cnTitle": "SpaceX提交IPO申请",
-    "cnDeck": "太空探索技术公司SpaceX已提交了首次公开募股（IPO）申请。此举标志着这家由埃隆·马斯克（Elon Musk）创立的火箭制造商和卫星互联网提供商，迈向资本市场的重要一步。根据提交的初步文件，SpaceX未来将在证券交易所上市交易，股票代码为SPCX。市场普遍预期，如果SpaceX成功上市并达到预期的估值，其创始人马斯克所持股份的价值将大幅飙升，可能使其成为全球首位个人净资产突破",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cg4pe2953q1o?at_medium=RSS&at_campaign=rss",
-    "time": "5小时前",
-    "published_iso": "2026-05-20T23:11:58+00:00",
-    "id": "n25",
-    "lead": false
-  },
-  {
-    "headline": "Bezos defends billionaires, hypes AI, talks taxes and praises Trump in CNBC interview",
-    "deck": "Jeff Bezos rejected accusations that Amazon's decision to release a documentary on first lady Melania Trump was an effort to curry favor with the president.",
-    "cnTitle": "贝佐斯受访谈AI、税收与特朗普",
-    "cnDeck": "在一次备受瞩目的CNBC采访中，亚马逊创始人杰夫·贝佐斯就一系列重要议题发表了看法，包括为亿万富翁群体辩护、高度评价人工智能的潜力、讨论税收问题以及对前总统唐纳德·特朗普的赞扬。贝佐斯在采访中直言不讳地驳斥了关于亚马逊决定发布一部关于前第一夫人梅拉尼娅·特朗普的纪录片是为了讨好前总统的指控。",
-    "cat": "finance",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/05/20/jeff-bezos-taxes-ai-corporations-trump.html",
-    "time": "12小时前",
-    "published_iso": "2026-05-20T21:54:15+00:00",
-    "id": "n26",
     "lead": false
   }
 ]
