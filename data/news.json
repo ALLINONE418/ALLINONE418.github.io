@@ -1,5 +1,47 @@
 [
   {
+    "headline": "Putin vows retaliation after accusing Ukraine of hitting student dormitory",
+    "deck": "Ukraine says it struck Russia's elite Rubicon drone military unit in a Moscow-occupied region.",
+    "cnTitle": "普京誓言报复乌克兰袭击行为",
+    "cnDeck": "俄罗斯总统弗拉基米尔·普京日前发表严厉声明，誓言将对乌克兰的袭击行动采取报复措施。据俄罗斯官方消息，普京总统是在收到有关乌克兰炮火击中一处学生宿舍的报告后做出上述表态的，此举被俄方视为对平民设施的蓄意攻击。这一指控若属实，将标志着冲突的进一步升级，并可能引发莫斯科方面更为猛烈的军事回应。俄罗斯外交部发言人随后也重申了这一立场，谴责乌克兰方面无视国际人道法，将民用设施作为袭击目标。俄罗斯国防部亦表示正在收集证据，并警告称将对肇事者进行严厉惩罚。此事件发生在俄罗斯与乌克兰之间持续不断的冲突背景下，双方在前线及后方均不断交火，但针对学生宿舍的袭击无疑将激化局势。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
+    "time": "1小时前",
+    "published_iso": "2026-05-23T07:44:14+00:00",
+    "is_new": true,
+    "id": "n1",
+    "lead": true
+  },
+  {
+    "headline": "SpaceX launches massive Starship V3 rocket on test flight",
+    "deck": "The largest and most powerful rocket in history blasted off after its first attempted launch was postponed.",
+    "cnTitle": "SpaceX星舰V3火箭成功试飞",
+    "cnDeck": "SpaceX公司近日成功完成了其划时代的星舰（Starship）V3火箭的集成飞行测试，这枚被誉为“史上最大、最强大”的巨型火箭在经历了此前一次发射尝试的推迟之后，终于顺利从位于美国德克萨斯州博卡奇卡（Boca Chica）的星际基地（Starbase）升空。此次里程碑式的试飞，不仅是SpaceX公司迈向其宏伟目标——实现火星殖民和月球载人任务的关键一步，也标志着全球可重复使用火箭技术发展的一个重要里程碑。星舰V3系统由两部分组成：名为“超重型”（Super Heavy）的巨大助推器和上层级飞船“星舰”本身。该系统全高接近120米，设计目标是能够将超过100吨的有效载荷送入地球轨道，并最终实现完全可重复使用，以大幅降低太空飞行的成本。这种前所未有的设计理念旨在彻底改变太空探索的经济模式，加速人类成为多行星物种的进程。本次试飞的主要目标是全面测试星舰系统从点火、升空、超重型助推器与星舰飞船分离、星舰在预定轨道高度飞行、直至受控再入地球大气层并最终完成软着陆（或溅落）的整个复杂流程。SpaceX方面透露，在本次发射之前，工程团队对星舰V3进行了多项关键的技术升级和改进。此前几次的星舰试飞虽然提供了大量宝贵数据，但也暴露出了一些技术挑战，例如助推器在返回着陆时遭遇意外，或星舰本体在再入大气层时未能完整保留。这些经验都被用于本次V3版本的迭代优化，特别是在结构强度、猛禽（Raptor）发动机的性能稳定性以及飞行控制系统的精确性方面。星舰V3搭载了33台猛禽发动机，这些发动机以其卓越的推力和高效率著称。此次试飞的成功，对于收集关键的飞行数据、验证设计改进的有效性以及进一步提升星舰系统的整体可靠性至关重要。SpaceX的创始人埃隆·马斯克（Elon Musk）一直将星舰项目视为实现他火星殖民梦想的核心载具。此外，美国国家航空航天局（NASA）也已选中星舰作为其“阿耳忒弥斯”（Artemis）计划中的关键月球着陆器，负责将宇航员从月球轨道运送至月球表面。因此，星舰试飞的成功与否，不仅直接影响SpaceX公司的未来发展，也对NASA的月球探索时间表具有深远影响。全球航天产业分析人士普遍认为，如果星舰能够最终实现其完全可重复使用的设计目标并显著降低发射成本，它将彻底改变现有的卫星发射、国际空间站（ISS）补给乃至未来太空旅游和深空探测的经济格局，从而为更多国家和私人企业参与太空探索打开大门，推动全球太空经济的蓬勃发展。尽管本次试飞取得了积极进展，星舰项目仍面临诸多挑战，包括如何进一步提高火箭回收的可靠性、确保载人飞行的极端安全性，以及如何实现大规模量产以满足未来任务需求等。SpaceX团队将基于本次试飞收集到的海量数据，对星舰系统进行持续的迭代和优化，以为未来的商业运营和载人深空任务铺平道路。",
+    "cat": "tech",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c62d65y16nno?at_medium=RSS&at_campaign=rss",
+    "time": "5小时前",
+    "published_iso": "2026-05-23T03:53:20+00:00",
+    "is_new": true,
+    "id": "n2",
+    "lead": false
+  },
+  {
+    "headline": "Tulsi Gabbard resigning as Trump's intelligence chief",
+    "deck": "Gabbard said she is leaving her post to support her husband, who is battling a rare form of bone cancer.",
+    "cnTitle": "葛蓓德辞任特朗普情报主管",
+    "cnDeck": "前美国国会众议员、曾是2020年民主党总统候选人、现为特朗普坚定支持者的图尔西·葛蓓德（Tulsi Gabbard）宣布，她将辞去“特朗普情报主管”一职。葛蓓德明确指出，此番离任是为了支持她的丈夫，后者正在与一种罕见的骨癌作斗争，需要她的全身心照护。这一消息在美国政治圈引起广泛关注，尤其是在前总统唐纳德·特朗普正在积极准备2",
+    "cat": "finance",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/05/22/tulsi-gabbard-resigns-intelligence-trump-husband.html",
+    "time": "10小时前",
+    "published_iso": "2026-05-22T22:05:04+00:00",
+    "is_new": true,
+    "id": "n3",
+    "lead": false
+  },
+  {
     "headline": "From decades to years - AI could speed search for brain drugs hiding in plain sight",
     "deck": "Researchers hope the work will help identify affordable, effective drugs to treat conditions like MND.",
     "cnTitle": "AI加速脑部疾病药物研发",
@@ -9,9 +51,22 @@
     "url": "https://www.bbc.com/news/articles/cdrp3zzzp71o?at_medium=RSS&at_campaign=rss",
     "time": "7小时前",
     "published_iso": "2026-05-22T21:30:06+00:00",
+    "id": "n4",
+    "lead": false
+  },
+  {
+    "headline": "Dow adds nearly 300 points Friday for new record close; S&P 500 notches eighth winning week: Live updates",
+    "deck": "Volatility picked up this week in the stock and bond markets.",
+    "cnTitle": "道指收盘创新高，标普500连涨八周",
+    "cnDeck": "道琼斯工业平均指数在周五的交易中表现强劲，录得近300点的显著涨幅，并成功创下新的历史收盘高点。这一成就反映出市场对大型蓝筹股的持续信心。与此同时，广泛关注的标准普尔500指数也取得了令人瞩目的进展，实现了连续第八周的上涨。这种持续的上涨势头是自2017年以来首次出现，凸显了当前市场对风险资产的强烈偏好和积极情绪。本周的市场特征之一是股票和债券市场的波动性显著增加，这表明投资者正在对宏观经济前景、货币政策预期以及潜在的地缘政治风险进行复杂的权衡。",
+    "cat": "finance",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/05/21/stock-market-today-live-updates.html",
+    "time": "12小时前",
+    "published_iso": "2026-05-22T20:25:20+00:00",
     "is_new": true,
-    "id": "n1",
-    "lead": true
+    "id": "n5",
+    "lead": false
   },
   {
     "headline": "Bank boss sorry after describing workers as 'lower value human capital'",
@@ -23,7 +78,91 @@
     "url": "https://www.bbc.com/news/articles/c98rqld1j3yo?at_medium=RSS&at_campaign=rss",
     "time": "1小时前",
     "published_iso": "2026-05-22T18:55:10+00:00",
-    "id": "n2",
+    "id": "n6",
+    "lead": false
+  },
+  {
+    "headline": "Trump wants new Fed chair to be 'totally independent'",
+    "deck": "The US president piled major pressure on Kevin Warsh's predecessor to cut interest rates.",
+    "cnTitle": "新任美联储主席需独立",
+    "cnDeck": "前美国总统唐纳德·特朗普近日发表言论，表示他希望未来由他任命的美联储主席能够是“完全独立”的。这一声明引发了广泛关注，尤其是在回顾他第一次担任总统期间对美联储货币政策和其时任主席施加的巨大压力背景下。在特朗普的总统任期内，他曾多次公开且严厉地批评美联储的决策，特别是其在2018年进行的几次加息。当时，美联储在主席杰罗姆·鲍威尔（Jerome Powell）的领导下，逐步提高了联邦基金利率，以应对通胀压力和过热的经济。然而，特朗普认为美联储的紧缩政策不",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cvgz311dq3ko?at_medium=RSS&at_campaign=rss",
+    "time": "14小时前",
+    "published_iso": "2026-05-22T18:16:58+00:00",
+    "is_new": true,
+    "id": "n7",
+    "lead": false
+  },
+  {
+    "headline": "Waymo pauses robotaxis in five US cities after cars drive into flooded roads",
+    "deck": "A Waymo spokesperson said it had expanded the temporary pause \"out of an abundance of caution\".",
+    "cnTitle": "Waymo暂停五城机器人出租车服务",
+    "cnDeck": "Waymo，谷歌母公司Alphabet旗下的自动驾驶技术部门，近日宣布，出于高度谨慎的考量，已暂时中止了其在美国五个城市提供的机器人出租车服务。此次临时暂停是由于该公司旗下的自动驾驶车辆在运营过程中，有驶入积水路段的记录。尽管Waymo在自动驾驶领域被普遍认为是技术最成熟的领先者之一，此次事件再次凸显了全自动驾驶系统在应对复杂且不可预测的真实世界环境，特别是恶劣天气条件时所面临的巨大挑战。公司发言人表示，暂停服务是为了进行全面的审查和评估，以确保其自动驾驶系统在各种天气状况下的感知、决策和执行能力达到最高的安全标准。",
+    "cat": "tech",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/ckgplyxxl75o?at_medium=RSS&at_campaign=rss",
+    "time": "16小时前",
+    "published_iso": "2026-05-22T16:10:21+00:00",
+    "is_new": true,
+    "id": "n8",
+    "lead": false
+  },
+  {
+    "headline": "Rubio tries to reassure Nato allies over US troop deployments",
+    "deck": "President Donald Trump says he wants to send more troops to Poland, a week after his officials cancelled a similar deployment.",
+    "cnTitle": "特朗普计划向波兰增兵",
+    "cnDeck": "美国总统唐纳德·特朗普近日发表声明，表示希望向波兰增派更多美军部队。这一表态迅速引发了国际社会的广泛关注，特别是在此之前仅仅一周，特朗普政府的官员们刚刚取消了一项类似的对波兰的军事部署计划。这一前后矛盾的信号，使得美国在北约（NATO）的盟友之间产生了不安情绪，对于华盛顿对其欧洲防务承诺的坚定性表示担忧。",
+    "cat": "politics",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss",
+    "time": "17小时前",
+    "published_iso": "2026-05-22T15:18:30+00:00",
+    "is_new": true,
+    "id": "n9",
+    "lead": false
+  },
+  {
+    "headline": "Borrowing in April hit highest level since Covid",
+    "deck": "Borrowing was higher than expected last month and retail sales fell as fuel prices surged.",
+    "cnTitle": "4月借贷额创新高 零售销售下滑",
+    "cnDeck": "根据最新发布的数据，4月份的借贷额度达到了自新冠疫情爆发以来的最高水平，这一增长超出了市场普遍预期。分析人士原本预计借贷增长将保持在较为温和的水平，但实际数据显示，消费者和企业对资金的需求显著增加。与此同时，零售销售额在4月份出现了下滑，这与借贷增加的趋势形成了鲜明对比。零售销售的下降部分原因在于燃料价格的急剧上涨。汽油和柴油等燃油价格的飙升直接导致了消费者在交通方面的支出增加，从而挤压了他们在其他非必需品上的消费预算。高企的燃料成本不仅影响了个人消费者的购买力，也增加了企业的运营成本，尤其是那些依赖物流和运输的企业。借贷额度创下新高可能反映了多种经济现象。一方面，在通胀压力持续存在的背景下，消费者可能通过借贷来维持其生活水平，以应对不断上涨的物价，尤其是食品和能源等必需品的价格。这可能表明家庭财务状况正面临压力，一些家庭为了维持日常开销不得不更多地依赖信用卡或其他形式的贷款。另一方面，企业为了应对供应链挑战、原材料成本上升或扩大生产，也可能增加了借贷。这种情况下，借贷的增加可能反映了企业对未来投资的需求，但也伴随着更高的融资成本。零售销售的疲软则进一步印证了消费者信心的下降以及购买力的受损。当通胀侵蚀工资增长时，消费者往往会变得更加谨慎，优先购买必需品并削减可选支出。燃料价格的上涨更是加剧了这一趋势，使得家庭在基础开销上的负担更重。经济学家们正在密切关注这些数据，以判断当前经济是否正在走向滞胀，即经济增长放缓与高通胀并存的局面。这些经济数据对全球金融市场具有重要影响。借贷增加和零售销售下降可能预示着经济增长动能的减弱，这可能会引发对经济衰退的担忧。同时，燃料价格的持续上涨将进一步推高通胀水平，给各国央行带来更大的加息压力，或促使它们在更长时间内维持高利率政策。投资者可能会因此调整其对未来利率路径和企业盈利前景的预期，从而影响股市、债市和汇市的走势。中央银行在制定货币政策时，也将充分考量这些关键经济指标，以平衡通胀控制和经济增长之间的关系。未来数月，消费者支出和借贷行为的演变将成为评估经济健康状况和政策走向的关键参考。",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/ce9py7nx8j4o?at_medium=RSS&at_campaign=rss",
+    "time": "18小时前",
+    "published_iso": "2026-05-22T14:07:45+00:00",
+    "is_new": true,
+    "id": "n10",
+    "lead": false
+  },
+  {
+    "headline": "Morrisons planning to close 100 stores in next few months",
+    "deck": "It said difficulties had been exacerbated by \"significant cost increases resulting from government policy choices\".",
+    "cnTitle": "莫里森超市百店关闭，归咎政府政策",
+    "cnDeck": "英国主要连锁超市莫里森（Morrisons）计划在未来几个月内关闭旗下100家门店。这一重大决定揭示了英国零售业面临的严峻挑战，莫里森方面表示，公司的困境因“政府政策选择导致的显著成本增加”而加剧。作为英国“四大”超市之一（尽管现在已被私募股权公司所有），莫里森的此次大规模门店关闭计划，预计将对英国零售市场、就业以及地方经济产生深远影响。此次关闭的门店数量庞大，凸显了企业运营成本飙升的压力，而这些成本压力被直接归咎于政府的政策方向。分析人士指出，莫里森所指的“显著成本增加”可能涵盖多个方面，包括能源价格的持续高涨（部分归因于政府的能源政策）、通货膨胀导致的供应链成本上升、以及人工",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c3623ny298xo?at_medium=RSS&at_campaign=rss",
+    "time": "20小时前",
+    "published_iso": "2026-05-22T12:28:35+00:00",
+    "is_new": true,
+    "id": "n11",
+    "lead": false
+  },
+  {
+    "headline": "Why thousands of stock trades tied to Trump are raising eyebrows",
+    "deck": "The BBC's Michelle Fleury looks at trades disclosed by the president.",
+    "cnTitle": "特朗普股票交易引发关注",
+    "cnDeck": "BBC记者米歇尔·弗勒里（Michelle Fleury）近期详细审视了前美国总统唐纳德·特朗普（Donald Trump）及其相关人士所披露的大量股票交易，指出这些交易的规模、频率和性质引发了广泛关注与深刻质疑。报道强调，涉及数千笔的股票买卖记录，其交易时机与当时政府的重要决策、国际事件甚至疫情应对措施存在潜在的巧合。这种异常活跃的交易模式，使得外界普遍担忧可能存在利益冲突、内幕交易",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/videos/cd6pzg7z319o?at_medium=RSS&at_campaign=rss",
+    "time": "22小时前",
+    "published_iso": "2026-05-22T10:45:38+00:00",
+    "is_new": true,
+    "id": "n12",
     "lead": false
   },
   {
@@ -36,8 +175,7 @@
     "url": "https://www.bbc.com/news/articles/cy42w782ejvo?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-05-22T02:57:12+00:00",
-    "is_new": true,
-    "id": "n3",
+    "id": "n13",
     "lead": false
   },
   {
@@ -50,7 +188,7 @@
     "url": "https://www.bbc.com/news/articles/cwy2gxvnq1zo?at_medium=RSS&at_campaign=rss",
     "time": "3小时前",
     "published_iso": "2026-05-22T01:37:02+00:00",
-    "id": "n4",
+    "id": "n14",
     "lead": false
   },
   {
@@ -63,7 +201,7 @@
     "url": "https://www.bbc.com/news/articles/c9d3v2d6p1eo?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-05-22T00:21:24+00:00",
-    "id": "n5",
+    "id": "n15",
     "lead": false
   },
   {
@@ -76,7 +214,7 @@
     "url": "https://www.bbc.com/news/articles/c0l2x5351n4o?at_medium=RSS&at_campaign=rss",
     "time": "5小时前",
     "published_iso": "2026-05-21T23:01:37+00:00",
-    "id": "n6",
+    "id": "n16",
     "lead": false
   },
   {
@@ -89,7 +227,7 @@
     "url": "https://www.bbc.com/news/videos/cy92ge22298o?at_medium=RSS&at_campaign=rss",
     "time": "23小时前",
     "published_iso": "2026-05-21T20:52:52+00:00",
-    "id": "n7",
+    "id": "n17",
     "lead": false
   },
   {
@@ -102,7 +240,7 @@
     "url": "https://www.cnbc.com/2026/05/21/bca-says-the-stock-and-bond-markets-are-on-a-collision-course-and-bonds-may-win.html",
     "time": "14小时前",
     "published_iso": "2026-05-21T20:10:41+00:00",
-    "id": "n8",
+    "id": "n18",
     "lead": false
   },
   {
@@ -115,7 +253,21 @@
     "url": "https://www.bbc.com/news/articles/ckgplwg3xk3o?at_medium=RSS&at_campaign=rss",
     "time": "15小时前",
     "published_iso": "2026-05-21T18:40:12+00:00",
-    "id": "n9",
+    "id": "n19",
+    "lead": false
+  },
+  {
+    "headline": "Cheaper theme park tickets and children's meals as VAT to be cut for some attractions this summer",
+    "deck": "Chancellor Rachel Reeves made a series of announcements aimed at relieving cost-of-living pressures.",
+    "cnTitle": "英财长宣布夏季下调部分景点增值税",
+    "cnDeck": "英国财政大臣雷切尔·里夫斯（Rachel Reeves）近日宣布了一系列旨在缓解民众生活成本压力的重要措施。其中最受关注的是，政府计划在本夏季对部分景点，特别是主题公园门票和儿童餐，实施增值税（VAT）削减政策。此举旨在多方面减轻家庭的经济负担，同时刺激国内旅游业的复苏与发展。里夫斯大臣指出，当前英国民众正面临持续高企的通胀和日益增长的生活开支",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/cd7pzr88de1o?at_medium=RSS&at_campaign=rss",
+    "time": "1天前",
+    "published_iso": "2026-05-21T18:29:30+00:00",
+    "is_new": true,
+    "id": "n20",
     "lead": false
   },
   {
@@ -128,7 +280,7 @@
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRzlONndJWjRhRlQ4VnpZY1NsWEFXRzZHTWljbExtajlieGZxcXdpdXczTTIyeGxlRlA0ams3TzZISzh0RVpzN2VaQzUydVo4SzJMTklLcVB6eXlDSVlNT01QeDNSN21fY3lVSWRTSjRnSmdnekxzLUNCODhnaHN5ZWU3eXVMYm1WUVdtTkROT0J0TDhFSmFraDFmZ19UaWN5RGlBemp2UVllekl6VlluVjQ0LV80Z0JHbG0yTE5TczBHWGpUQ1ZuS3ZDVDMzQQ?oc=5",
     "time": "4小时前",
     "published_iso": "2026-05-21T16:02:12+00:00",
-    "id": "n10",
+    "id": "n21",
     "lead": false
   },
   {
@@ -141,7 +293,7 @@
     "url": "https://www.bbc.com/news/articles/cj9prkzwr8vo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-21T15:42:00+00:00",
-    "id": "n11",
+    "id": "n22",
     "lead": false
   },
   {
@@ -154,7 +306,21 @@
     "url": "https://www.cnbc.com/2026/05/21/student-loan-limits-lawsuit-nursing-shortage.html",
     "time": "1小时前",
     "published_iso": "2026-05-21T14:47:26+00:00",
-    "id": "n12",
+    "id": "n23",
+    "lead": false
+  },
+  {
+    "headline": "Chris Mason: VAT cut on summer fun - the announcement that didn't leak",
+    "deck": "Chancellor Rachel Reeves unveils measures aimed at helping families with the cost of living - but is it enough?",
+    "cnTitle": "英国财长公布生活成本救助措施",
+    "cnDeck": "英国财政大臣雷切尔·里夫斯（Rachel Reeves）近日宣布了一系列旨在缓解家庭生活成本压力的措施，其中包括对“夏季乐趣”相关消费实施增值税（VAT）减免。此举是政府应对当前高通胀和民众购买力下降挑战的最新尝试。里夫斯大臣指出，英国经济正经历严峻考验，通货膨胀居高不下，能源和食品价格飙升，已对普通家庭的预算造成巨大冲击。在这种背景下，政府有责任采取积极措施，减轻民众负担，并刺激经济活动。具体而言，针对“夏季乐趣”的增值税减免预计将涵盖旅游、酒店、餐饮、文化娱乐等多个与休闲度假相关的行业。例如，酒店住宿、餐厅用餐、主题公园门票、博物馆和画廊参观费用，以及其他夏季娱乐活动的价格可能会因此有所下降。政府希望通过降低这些服务的价格，鼓励家庭在夏季进行更多的消费，从而提振相关行业的收入和就业。此项政策的目标是多方面的：首先，直接降低家庭的休闲娱乐成本，使其能够更好地享受夏季，提升生活品质；其次，为在新冠疫情和经济下行中遭受重创的旅游和酒店业提供急需的支撑，帮助它们恢复元气，并防止进一步的失业；第三，通过刺激消费，为整体经济注入活力，促进经济增长。然而，对于这些措施的有效性和充分性，社会各界存在不同的看法。一部分分析人士认为，虽然增值税减免能够带来一定程度的缓解，但其覆盖范围相对有限，主要惠及那些仍有能力进行休闲消费的家庭，对于那些连基本生活开支都难以维持的最贫困家庭来说，帮助可能不大。批评者指出，解决生活成本",
+    "cat": "economy",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/articles/c4g9r92n3eqo?at_medium=RSS&at_campaign=rss",
+    "time": "1天前",
+    "published_iso": "2026-05-21T12:11:05+00:00",
+    "is_new": true,
+    "id": "n24",
     "lead": false
   },
   {
@@ -167,7 +333,7 @@
     "url": "https://www.cnbc.com/2026/05/21/stocks-making-the-biggest-moves-premarket-ibm-wmt-rklb-nvda.html",
     "time": "17小时前",
     "published_iso": "2026-05-21T12:00:45+00:00",
-    "id": "n13",
+    "id": "n25",
     "lead": false
   },
   {
@@ -180,7 +346,7 @@
     "url": "https://www.bbc.com/news/articles/ckgplpd7px4o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-21T09:45:16+00:00",
-    "id": "n14",
+    "id": "n26",
     "lead": false
   },
   {
@@ -193,111 +359,7 @@
     "url": "https://www.bbc.com/news/articles/c759x9pq3dpo?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-21T09:40:38+00:00",
-    "id": "n15",
-    "lead": false
-  },
-  {
-    "headline": "Ubisoft shares plunge 14% after Assassin’s Creed maker warns of annual profit loss",
-    "deck": "Ubisoft shares plunged on Thursday after the Assassin's Creed maker warned of further losses this year.",
-    "cnTitle": "育碧股价大跌14% 预警年度亏损",
-    "cnDeck": "育碧（Ubisoft）股价在周四交易中大幅下挫14%，此前这家以《刺客信条》（Assassin’s Creed）系列闻名的法国电子游戏巨头，就本财年利润表现发出严峻警告。该公司在盘后交易中披露，预计本财年将录得进一步的亏损，此消息立即引发市场震动，投资者信心受到严重打击，导致股价在巴黎证券交易所开盘后迅速跳水。此次股价暴跌不仅是公司历史上的单日最大跌幅之一，也反映出市场对育碧未来盈利能力的高度担忧。在此之前，育碧已面临多重挑战，包括新游戏发布延迟、部分主力游戏表现不及预期以及行业竞争日益激烈等。据知情人士透露，此次盈利预警可能与旗下几款重点新作的开发成本超支以及市场反馈平平有关，尤其是此前备受期待的某款游戏在发售后未能达到预期的销售目标，导致公司整体收入承压。分析师普遍认为，育碧面临的困境并非孤立事件，而是整个游戏行业在疫情后经历高速增长期后，回归理性甚至面临调整期的缩影。消费者支出模式的变化、宏观经济的不确定性以及日益增长的开发成本，都给游戏开发商带来了巨大压力。育碧管理层在随后的投资者电话会议中表示，公司正在采取一系列措施来应对当前的挑战，包括重新评估开发管线、优化成本结构以及更加专注于核心品牌和具有高潜力的IP。然而，这些措施能否在短期内扭转颓势，市场仍持谨慎态度。华尔街分析师指出，育碧的股价表现与其同业竞争者如艺电（EA）和动视暴雪（Activision Blizzard）相比，显得更为脆弱。尽管整个行业都面临一些逆风，但育碧似乎在内容产出和市场策略上未能有效应对。此外，有报道称，育碧内部也存在一些管理和开发流程上的问题，这些都可能影响其游戏项目的按时交付和质量。此次年度亏损预警，无疑给公司的转型之路蒙上了一层阴影，也促使投资者重新审视其长期增长前景。市场观察人士认为，育碧需要尽快推出能带动收入增长的爆款游戏，并有效控制成本，才能重新赢回市场信任。未来的几个季度将是育碧的关键时期，其能否成功推出《星球大战：亡命之徒》等重量级作品，并提升现有游戏的生命周期，将对其业绩表现和股价走势产生决定性影响。此次股价暴跌也对持有育碧股票的机构投资者造成不小的账面损失，他们将密切关注公司管理层后续的战略调整和执行情况。",
-    "cat": "finance",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/05/21/ubisoft-fy-earnings-profit-loss-assassins-creed.html",
-    "time": "1小时前",
-    "published_iso": "2026-05-21T08:51:14+00:00",
-    "id": "n16",
-    "lead": false
-  },
-  {
-    "headline": "Iran reviews U.S. peace proposal as Trump says he’s willing to wait 'a few days'",
-    "deck": "It comes after President Donald Trump said he was prepared to wait a few more days to \"get the right answers\" from Tehran.",
-    "cnTitle": "伊朗审议美国和平提议 特朗普称愿等待",
-    "cnDeck": "据报道，伊朗目前正在审议一项来自美国的和平提议，这一进展是在美国总统唐纳德·特朗普表示他准备再等“几天”，以期从德黑兰“获得正确答复”之后出现的。这一表态和伊朗的行动标志着长期紧张的美伊关系中可能出现的一个重要外交窗口，也为国际社会观察两国未来走向提供了新的视角。在特朗普政府执政期间，美国与伊朗的关系一直处于高度紧张状态，其特征是频繁的言语交锋、军事对峙以及经济制裁。特别是在2018年，美国单方面退出了伊朗与世界六大国（包括美国、英国、法国、德国、俄罗斯、中国）于2015年达成的里程碑式的核协议，即《联合全面行动计划》（JCPOA），并随后对伊朗重新实施了“史上最严厉”的经济制裁，旨在彻底切断伊朗的石油出口收入并迫使其回到谈判桌。此举导致伊朗经济遭受重创，并促使德黑兰方面逐步减少其在核协议中的承诺。特朗普总统此次发表的“愿意等待几天”的言论，被广泛解读为华盛顿方面在处理伊核问题和中东地区安全问题上，正寻求通过外交途径解决僵局的最新信号。他提及的“正确答复”可能涵盖了伊朗核计划的未来走向，包括铀浓缩水平和离心机数量的限制；其在中东地区的军事行动，特别是对也门胡塞武装、黎巴嫩真主党等地区代理人的支持力度；以及确保霍尔木兹海峡这一关键石油运输航道的自由航行等一系列美国长期关注的核心议题。对于伊朗而言，审议美国的和平提议无疑是一项复杂而敏感的政治决策。这不仅关乎到如何在维护国家主权、发展核能力权利以及缓解国际制裁压力之间取得微妙的平衡，也涉及到伊朗国内强硬派与温和派之间在外交策略上的分歧。一些强硬派可能反对与美国进行任何形式的直接谈判，而温和派则可能更倾向于通过外交手段缓解紧张局势并改善经济状况。国际社会普遍对这一发展持谨慎乐观态度，希望美伊两国能够抓住这一潜在的机会，通过建设性对话而非持续的对抗来解决长期存在的分歧。许多国际关系分析人士认为，如果这一和平提议能够取得实质性进展，将有助于显著缓和中东地区的紧张局势，为全球能源市场带来更大的稳定性，并促进更广泛的地区和平进程。然而，历史经验表明，美伊两国之间存在根深蒂固的互不信任，任何外交突破都将面临巨大挑战和复杂障碍。特朗普政府此前一直对伊朗采取“极限施压”政策，因此，此次“愿意等待”的姿态被视为一种策略上的调整，旨在为潜在的外交解决方案留出有限的时间和空间。但如果伊朗的答复未能满足美国的核心要求，不排除美国将继续甚至加大对伊朗的施压。未来几天将是美伊关系发展的关键时期，全球各国和主要国际组织都在密切关注双方的下一步行动以及德黑兰最终的",
-    "cat": "finance",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/05/21/iran-war-us-peace-talks-trump-hormuz.html",
-    "time": "2小时前",
-    "published_iso": "2026-05-21T07:54:49+00:00",
-    "id": "n17",
-    "lead": false
-  },
-  {
-    "headline": "Wes Streeting pledges 'wealth tax that works'",
-    "deck": "Wes Streeting is proposing reforms to capital gains tax, as part of his pitch for the Labour leadership.",
-    "cnTitle": "韦斯·斯特里廷提议改革资本利得税",
-    "cnDeck": "英国工党影子卫生大臣韦斯·斯特里廷（Wes Streeting）近日提出了一项重要的财政政策改革提议，旨在作为其竞选工党领袖纲领的一部分。他承诺推行一项他称之为“有效的财富税”（'wealth tax that works'），其核心内容是对英国的资本利得税进行改革。此举标志着斯特里廷在英国政治舞台上寻求更高领导地位的决心，并试图通过对国家税收体系进行重大调整来吸引",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cm2pxz7de41o?at_medium=RSS&at_campaign=rss",
-    "time": "2小时前",
-    "published_iso": "2026-05-21T07:52:24+00:00",
-    "id": "n18",
-    "lead": false
-  },
-  {
-    "headline": "Chris Mason: Reeves' summer savings drive won't stretch to energy bills",
-    "deck": "The chancellor is announcing measures aimed at easing the cost of living - but no help yet with energy bills.",
-    "cnTitle": "财相瑞夫斯夏季节约计划不含能源补贴",
-    "cnDeck": "英国工党影子财政大臣蕾切尔·瑞夫斯（Rachel Reeves）近日宣布了一系列旨在缓解民众生活成本压力的“夏季节约计划”措施。然而，值得关注的是，尽管这些措施旨在帮助英国家庭应对日益增长的开支，但其中并未包含针对能源账单的直接援助。此消息由资深政治记者克里斯·梅森（Chris Mason）报道，迅速引发了关于工党未来经济策略及其对英国当前生活成本危机应对能力的",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c4g9r92n3eqo?at_medium=RSS&at_campaign=rss",
-    "time": "2小时前",
-    "published_iso": "2026-05-21T07:44:15+00:00",
-    "id": "n19",
-    "lead": false
-  },
-  {
-    "headline": "TikTok and YouTube 'not safe enough' for kids, says Ofcom",
-    "deck": "YouTube said it worked with experts to provide appropriate experiences. TikTok said it was disappointed Ofcom had not acknowledged its safety features.",
-    "cnTitle": "Ofcom：TikTok/YouTube儿童安全不足",
-    "cnDeck": "英国通信管理局（Ofcom）近日发布了一份重要报告，明确指出全球两大科技巨头——字节跳动旗下的短视频平台TikTok和谷歌旗下的视频分享平台YouTube——对儿童来说“不够安全”。这一评估是Ofcom在对当前数字环境及未成年人在线行为进行深入研究后得出的结论，显著反映了监管机构对在线平台未能充分保障青少年用户安全的持续深切担忧。报告可能详细阐述了儿童在这些平台上可能面临的多种风险，包括但不限于接触",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cn0pky4zpxxo?at_medium=RSS&at_campaign=rss",
-    "time": "3小时前",
-    "published_iso": "2026-05-21T07:10:42+00:00",
-    "id": "n20",
-    "lead": false
-  },
-  {
-    "headline": "Elon Musk's X fined for not complying with Australia's child protection laws",
-    "deck": "The social media giant will pay A$650,000 plus legal costs, ending a three-year legal saga.",
-    "cnTitle": "X平台因违反澳儿童保护法被罚",
-    "cnDeck": "社交媒体巨头X（前身为Twitter），由知名企业家埃隆·马斯克所有，近日被澳大利亚当局处以65万澳元（A$650,000）的罚款，并须承担额外的法律费用。这一裁决的背景是X平台未能有效遵守澳大利亚的儿童保护法律，从而结束了公司与澳大利亚监管机构之间长达三年的法律纠纷。此事件再次强调了全球科技公司在不同司法管辖区内，尤其是在保护未成年",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c626njg32n5o?at_medium=RSS&at_campaign=rss",
-    "time": "4小时前",
-    "published_iso": "2026-05-21T06:04:48+00:00",
-    "id": "n21",
-    "lead": false
-  },
-  {
-    "headline": "Samsung strike on hold as workers push for AI bonus",
-    "deck": "The walkout, which was due to start on Thursday, has been suspended while union members vote on a tentative deal.",
-    "cnTitle": "三星罢工暂停，工人要求AI奖金",
-    "cnDeck": "韩国科技巨头三星电子的工会与公司达成了一项临时协议，原定于本周四开始的罢工行动已因此暂停。目前，工会成员正在对这项暂定协议进行投票表决。此次罢工由韩国全国三星电子工会（National Samsung Electronics Union, NSEU）组织，是三星电子公司历史上面临的首次大规模工人罢工。该工会代表了公司超过28,000名员工，约占三星电子总员工数的五分之一",
-    "cat": "economy",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c4g04qkqlk2o?at_medium=RSS&at_campaign=rss",
-    "time": "4小时前",
-    "published_iso": "2026-05-21T06:01:54+00:00",
-    "id": "n22",
-    "lead": false
-  },
-  {
-    "headline": "Nvidia says it has ‘largely conceded’ China’s AI chip market to Huawei",
-    "deck": "Nvidia CEO Jensen Huang said the company has \"largely conceded\" China's advanced artificial intelligence chip market to Huawei.",
-    "cnTitle": "中国AI芯片市场不敌华为",
-    "cnDeck": "英伟达公司首席执行官詹森·黄（Jensen Huang）近日发表声明，承认公司已“基本将”中国先进人工智能（AI）芯片市场“拱手让给”华为。这一表态揭示了在地缘政治紧张和美国出口管制日益严格的背景下，全球科技巨头在中国市场所面临的复杂局面和深刻转变。黄仁勋的言论明确指出，由于华盛顿对先进半导体技术对华出口施加的限制，英伟达在中国市场的竞争策略和实际市场份额受到了严重影响，使得本土竞争对手华为在这一关键领域占据了主导地位。",
-    "cat": "finance",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/05/21/nvidia-jensen-huang-china-ai-chip-market-huawei.html",
-    "time": "5小时前",
-    "published_iso": "2026-05-21T05:03:10+00:00",
-    "id": "n23",
+    "id": "n27",
     "lead": false
   }
 ]
