@@ -9,7 +9,6 @@
     "url": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss",
     "time": "刚刚",
     "published_iso": "2026-05-24T03:59:51+00:00",
-    "is_new": true,
     "id": "n1",
     "lead": true
   },
@@ -23,7 +22,6 @@
     "url": "https://www.bbc.com/news/articles/c759knxln0wo?at_medium=RSS&at_campaign=rss",
     "time": "9小时前",
     "published_iso": "2026-05-23T19:55:16+00:00",
-    "is_new": true,
     "id": "n2",
     "lead": false
   },
@@ -180,7 +178,6 @@
     "url": "https://www.bbc.com/news/articles/c0l2x5351n4o?at_medium=RSS&at_campaign=rss",
     "time": "1天前",
     "published_iso": "2026-05-22T10:56:32+00:00",
-    "is_new": true,
     "id": "n14",
     "lead": false
   },
