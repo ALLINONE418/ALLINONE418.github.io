@@ -180,21 +180,6 @@
     "is_new": true
   },
   {
-    "id": "larry_fink",
-    "cat": "invest",
-    "name": "Larry Fink",
-    "nameZh": "拉里·芬克",
-    "role": "BlackRock CEO",
-    "color": "#2c2c2c",
-    "quote": "Direct quote not fully provided in the article excerpt, but the core message is: \"No one is close\" to having saved enough for retirement, according to Larry Fink, CEO of BlackRock which manages $14 trillion in assets. This reflects his concern about global retirement preparedness.",
-    "quoteZh": "拉里·芬克表示，人们为退休储蓄的金额\"远远不够\"，\"没有人接近\"足够的退休储蓄水平。作为管理资产14万亿美元的全球最大投资公司黑石集团的CEO，他对全球退休准备情况表示担忧。",
-    "source": "Entrepreneur (citing Larry Fink's statement on retirement savings crisis)",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUDRFaHNsa1NLLTJjNjN3VmxfbUdSM3JGQWxtU1BCbjI1THVUUGZkYUNhMkQ2S3gwb1hQUVJ2QW9sajVRV0R6UUNJNzV3REpwQVFmQ01QamZCSVV2LXUtU2pZbjYwUGRIRi1OeVNsNEItSTlUbXFXZ19UTGp1WHUxb1pqMVBxODZKNWhUd1VhcDFoeGpMQlBnQXNNNndtdUpOb2lNVnNhTmNoQQ?oc=5",
-    "date": "Feb 19, 2026",
-    "published_iso": "2026-02-19T08:00:00+00:00",
-    "is_new": true
-  },
-  {
     "id": "elon_musk",
     "cat": "biz",
     "name": "Elon Musk",
