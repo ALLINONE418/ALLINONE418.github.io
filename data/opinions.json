@@ -165,21 +165,6 @@
     "is_new": true
   },
   {
-    "id": "dario_amodei",
-    "cat": "biz",
-    "name": "Dario Amodei",
-    "nameZh": "达里奥·阿莫迪",
-    "role": "Anthropic CEO",
-    "color": "#c41230",
-    "quote": "Disagreeing with the government is the most American thing in the world.",
-    "quoteZh": "与政府意见不一致是最具美国精神的事情。",
-    "source": "Business Insider",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5EM25OMDkzaFM5WnBseGNSQVg0cEQ0eTktYWxHV1ZJTDNKNzQtTmFnQXR1bUhfYzBxQmZIUmVNM1lrQS1saVNkczlYUmxwMFNYdWJqOUFYYUQ0T3UtLTBjSVR4czFfTVBpZGg3bHRIWG42QWfSAXhBVV95cUxQc0ZhdEJsY3RDSFlFczJuREhPSlBmcG9RTGVLWlFQcjAyOWw2MTdydDJMUTMtdkE2QTdYeVdzM29QMXh2ck5CazBDa3pKYXkwaktKeXNxRE1UQnF4anlvb3RqbExDTzNjRzctbWE3NFd4LTY5S1V4cmQ?oc=5",
-    "date": "Feb 26, 2026",
-    "published_iso": "2026-02-26T08:00:00+00:00",
-    "is_new": true
-  },
-  {
     "id": "elon_musk",
     "cat": "biz",
     "name": "Elon Musk",
