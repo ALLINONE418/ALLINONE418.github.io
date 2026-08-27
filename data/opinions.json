@@ -135,21 +135,6 @@
     "is_new": true
   },
   {
-    "id": "dario_amodei",
-    "cat": "biz",
-    "name": "Dario Amodei",
-    "nameZh": "达里奥·阿莫迪",
-    "role": "Anthropic CEO",
-    "color": "#c41230",
-    "quote": "Disagreeing with the government is the most American thing in the world.",
-    "quoteZh": "与政府意见不合是最美国的事情。",
-    "source": "Business Insider",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWWt0Sl9qQlZVQTBiNWJVWDFwTHJPNnRnckFWM0pUVjlHLUcyOEZXNU43Um16UVJmY0ZueVNiUkQ5MXJvRlRhMnpHZkZ3amFpUlctbDd4c2tGbW0wdUNFZ3BTN3NjM09OeWFEdGg3ZHRKak9hU0dZaXh3RVJpVHNCdGl0dl9CY1F0VmNDQWlkWEp4Mkx6Q05ZMFhUclFPNHRmb2FNTnZLa1FCZ25hbUkwdkd4RVNsdi1vQjFfLWxDZFJQMUNBZjUxSA?oc=5",
-    "date": "Feb 28, 2026",
-    "published_iso": "2026-02-28T08:00:00+00:00",
-    "is_new": true
-  },
-  {
     "id": "elon_musk",
     "cat": "biz",
     "name": "Elon Musk",
@@ -189,6 +174,21 @@
     "quote": "Geopolitical risk is at a level I haven't seen in my career.",
     "quoteZh": "地缘政治风险处于我职业生涯中从未见过的水平。",
     "source": "JPMorgan Annual Letter",
+    "url": "",
+    "date": "2025",
+    "published_iso": "2025-01-01T00:00:00+00:00",
+    "is_new": false
+  },
+  {
+    "id": "dario_amodei",
+    "cat": "biz",
+    "name": "Dario Amodei",
+    "nameZh": "达里奥·阿莫迪",
+    "role": "Anthropic CEO",
+    "color": "#c41230",
+    "quote": "We genuinely believe we might be building one of the most dangerous technologies ever.",
+    "quoteZh": "我们真心认为自己可能正在构建有史以来最危险的技术之一。",
+    "source": "Lex Fridman Podcast",
     "url": "",
     "date": "2025",
     "published_iso": "2025-01-01T00:00:00+00:00",
