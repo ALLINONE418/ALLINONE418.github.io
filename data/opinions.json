@@ -120,21 +120,6 @@
     "is_new": true
   },
   {
-    "id": "cathie_wood",
-    "cat": "invest",
-    "name": "Cathie Wood",
-    "nameZh": "凯茜·伍德",
-    "role": "ARK Invest CEO",
-    "color": "#6a0dad",
-    "quote": "We believe Bitcoin is a better store of value than gold because it's portable, divisible, and can't be confiscated by governments during conflicts.",
-    "quoteZh": "我们认为比特币是比黄金更好的价值储存手段，因为它便于携带、可分割，且在冲突中无法被政府没收。",
-    "source": "Yellow.com",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORnRTeDZYU2tuNU9tWGZfTVZvTWFFSnIwYVZucE5NQnhrQmtwRXpyWGltR2NxeG5ZSHVUbUVYUHc3MjRlNkcwYTZsSTRsTWZMd2lmMEVBWGIwNV9fSFZCa0JsZ0VKR1BWMVVPMXFBQ2VlZ0Y0Z1lIVHd0UGs2cm1LNDVZN29USTZQMHhRcWdtZnVaWXJ1eld0MkJqVFBQVlpkYzdjQTd5S3FDcUxadVAzc3FDY3BjcHI3czA5bnVDLV90ZUVROENJ?oc=5",
-    "date": "Mar 01, 2026",
-    "published_iso": "2026-03-01T08:00:00+00:00",
-    "is_new": true
-  },
-  {
     "id": "elon_musk",
     "cat": "biz",
     "name": "Elon Musk",
