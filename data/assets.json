@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-06T04:12:50.198698+00:00",
-  "updated_display": "Sep 06, 2026 04:12 UTC",
+  "updated_at": "2026-09-06T15:20:03.316357+00:00",
+  "updated_display": "Sep 06, 2026 15:20 UTC",
   "sections": [
     {
       "title": "Equities 股票",
@@ -248,9 +248,9 @@
           "key": "btc",
           "name": "Bitcoin",
           "sub": "BTC/USD",
-          "price": "$79,983",
-          "chg": "+0.56%",
-          "up": true,
+          "price": "$79,556",
+          "chg": "-0.17%",
+          "up": false,
           "chg_6m": "N/A",
           "up_6m": true,
           "chg_1y": "N/A",
@@ -258,14 +258,14 @@
           "chg_3y": "N/A",
           "up_3y": true,
           "range52": "N/A",
-          "raw_price": 79983
+          "raw_price": 79556
         },
         {
           "key": "eth",
           "name": "Ethereum",
           "sub": "ETH/USD",
-          "price": "$2,508",
-          "chg": "+2.32%",
+          "price": "$2,477",
+          "chg": "+0.84%",
           "up": true,
           "chg_6m": "N/A",
           "up_6m": true,
@@ -274,14 +274,14 @@
           "chg_3y": "N/A",
           "up_3y": true,
           "range52": "N/A",
-          "raw_price": 2507.98
+          "raw_price": 2476.85
         },
         {
           "key": "sol",
           "name": "Solana",
           "sub": "SOL/USD",
-          "price": "$106.21",
-          "chg": "+4.39%",
+          "price": "$105.49",
+          "chg": "+2.70%",
           "up": true,
           "chg_6m": "N/A",
           "up_6m": true,
@@ -290,15 +290,15 @@
           "chg_3y": "N/A",
           "up_3y": true,
           "range52": "N/A",
-          "raw_price": 106.21
+          "raw_price": 105.49
         },
         {
           "key": "bnb",
           "name": "BNB",
           "sub": "BNB/USD",
-          "price": "$764.95",
-          "chg": "+5.90%",
-          "up": true,
+          "price": "$743.31",
+          "chg": "-3.26%",
+          "up": false,
           "chg_6m": "N/A",
           "up_6m": true,
           "chg_1y": "N/A",
@@ -306,15 +306,15 @@
           "chg_3y": "N/A",
           "up_3y": true,
           "range52": "N/A",
-          "raw_price": 764.95
+          "raw_price": 743.31
         },
         {
           "key": "xrp",
           "name": "XRP",
           "sub": "XRP/USD",
-          "price": "$1.42",
-          "chg": "+1.92%",
-          "up": true,
+          "price": "$1.41",
+          "chg": "-0.29%",
+          "up": false,
           "chg_6m": "N/A",
           "up_6m": true,
           "chg_1y": "N/A",
@@ -322,7 +322,7 @@
           "chg_3y": "N/A",
           "up_3y": true,
           "range52": "N/A",
-          "raw_price": 1.42
+          "raw_price": 1.41
         }
       ]
     },
