@@ -105,21 +105,6 @@
     "is_new": true
   },
   {
-    "id": "jensen_huang",
-    "cat": "biz",
-    "name": "Jensen Huang",
-    "nameZh": "黄仁勋",
-    "role": "NVIDIA CEO",
-    "color": "#76b900",
-    "quote": "Every company in the world needs to have a strategy on AI agents. The markets got it wrong on AI threat to software companies. AI is going to be everywhere - this is just the beginning of the AI boom.",
-    "quoteZh": "每家公司都需要制定关于AI代理的战略。市场对AI对软件公司的威胁的看法是错误的。AI将无处不在——这只是AI繁荣的开始。",
-    "source": "Business Insider / The Times of India / CNBC / Fox Business (Recent statements)",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNGExb1dJVFpRc3lWRnctUWdjSDJCUjJBTGtVanZVdFAxWUlPbnhCY1VQQmhnVEFIOHFISXZBV1YzOEFGZkZMUGRMdW95OEpnRzgycmJMU3JEMmIxY3RjYjN4U3lqeGRER2VyY0YwX3hZLUtFNGNqRWVyb1RFNWZQa2k0QzhEcXRVMEdB?oc=5",
-    "date": "Mar 16, 2026",
-    "published_iso": "2026-03-16T23:10:00+00:00",
-    "is_new": true
-  },
-  {
     "id": "elon_musk",
     "cat": "biz",
     "name": "Elon Musk",
