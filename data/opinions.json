@@ -60,21 +60,6 @@
     "is_new": true
   },
   {
-    "id": "jensen_huang",
-    "cat": "biz",
-    "name": "Jensen Huang",
-    "nameZh": "黄仁勋",
-    "role": "NVIDIA CEO",
-    "color": "#76b900",
-    "quote": "根据提供的新闻摘要，我能找到的最具价值的核心观点是：\n\n[Every company in the world needs a strategy on the AI agent. Companies must understand and prepare for AI agents, as they represent a fundamental shift in how businesses will operate.",
-    "quoteZh": "每家公司都需要制定关于AI代理的战略。公司必须理解并为AI代理做好准备，因为它代表了企业运营方式的根本转变。",
-    "source": "The Times of India (Nvidia CEO Jensen Huang's recent statement about AI agents)\n\n**说明：** 提供的新闻内容均为标题和链接摘要，缺乏完整的直接引语原文。上述提取基于标题信息的合理概括。如需获得完整的原始引语，建议查阅The Times of India的原始文章。",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNM0Jhek1lQVdFamJwN2QxdFM0azc2U2FnQm5YaDV5dFdWV2l3SmRMSmx4bEFuRkRtcU8wNm1RdkZJcU85V0tqYm5XVGlOdmRCZm5Fd3dFTnZ5QWhfWG5SZmh0M3BpVkJBaTdjZHk5YmY5bXJOcy1iTXZFRWNPdks4NVZQZXJTUdIBiwFBVV95cUxOdkMxSHJYdGFGZzJtSjl0T0w0aDJpN202N0VqSWUzcnpMR0JyQ1pFcTR0TC1lUjhJZUFLME0tNTBlUkNnc0hOZjNSbGlxbGh6Q0puX2xaRkZFV0I5blJoc283ZGtDNHFsZlBRYXU4NEEtelFxQ0xib3lNS1k3OUU3REJBem03bXBXcWpZ?oc=5",
-    "date": "Mar 18, 2026",
-    "published_iso": "2026-03-18T12:24:15+00:00",
-    "is_new": true
-  },
-  {
     "id": "elon_musk",
     "cat": "biz",
     "name": "Elon Musk",
