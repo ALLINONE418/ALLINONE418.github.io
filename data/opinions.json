@@ -45,21 +45,6 @@
     "is_new": true
   },
   {
-    "id": "jensen_huang",
-    "cat": "biz",
-    "name": "Jensen Huang",
-    "nameZh": "黄仁勋",
-    "role": "NVIDIA CEO",
-    "color": "#76b900",
-    "quote": "Every industrial company will become a robotics company.",
-    "quoteZh": "每一家工业公司都将成为机器人公司。",
-    "source": "Manufacturing Dive",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd2EwNHBwMjJ0dkFmMFctSDJHVjQ3NkdSRWJJNU44WGkwVlNnb25CQ01hcDV4QWlOcENyY0dwUEZXYk4wMXVKbWVtcmpQelMzS1p0VG1pc09JNnNqTWRxdldUc1lMek83VU1PTnBEWS0xMkJXNXNERVhxak9wNk9lbi1tbkRWN1RlQ0Z4czlRcXdyV196VXAyZVlzSFNxUdIBowFBVV95cUxPTEdWbkdtMGZ4TGVaR0wwMDZ0VUZ4bHNBSjhrNGZrR3dKSEd6MS01eUI2bGEzdGdCNmRHMU8yVUVxeXo2bVR4anR3c1ZBS1RhZ0xqRUdVYXktY28yc3M2Uk1MR1hkWWdreERxeXU0cmZ2RGRnd1ViQWhzMklQMS1GcjFBd2hXMlZZcURzZzk3TnpyR2FCNXJjQ2hmNXRNekRZNEhR?oc=5",
-    "date": "Mar 19, 2026",
-    "published_iso": "2026-03-19T22:21:28+00:00",
-    "is_new": true
-  },
-  {
     "id": "elon_musk",
     "cat": "biz",
     "name": "Elon Musk",
