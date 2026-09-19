@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-19T04:17:17.096306+00:00",
-  "updated_display": "Sep 19, 2026 04:17 UTC",
+  "updated_at": "2026-09-19T15:45:55.483288+00:00",
+  "updated_display": "Sep 19, 2026 15:45 UTC",
   "sections": [
     {
       "title": "Equities 股票",
@@ -135,7 +135,7 @@
           "up_1y": true,
           "chg_3y": "N/A",
           "up_3y": true,
-          "range52": "3.51% – 3.97%",
+          "range52": "3.51% – 3.98%",
           "raw_price": 3.9779999256134033
         }
       ]
@@ -248,8 +248,8 @@
           "key": "btc",
           "name": "Bitcoin",
           "sub": "BTC/USD",
-          "price": "$81,178",
-          "chg": "+5.11%",
+          "price": "$81,859",
+          "chg": "+1.64%",
           "up": true,
           "chg_6m": "N/A",
           "up_6m": true,
@@ -258,14 +258,14 @@
           "chg_3y": "N/A",
           "up_3y": true,
           "range52": "N/A",
-          "raw_price": 81178
+          "raw_price": 81859
         },
         {
           "key": "eth",
           "name": "Ethereum",
           "sub": "ETH/USD",
-          "price": "$2,625",
-          "chg": "+6.12%",
+          "price": "$2,648",
+          "chg": "+2.99%",
           "up": true,
           "chg_6m": "N/A",
           "up_6m": true,
@@ -274,14 +274,14 @@
           "chg_3y": "N/A",
           "up_3y": true,
           "range52": "N/A",
-          "raw_price": 2624.8
+          "raw_price": 2648.02
         },
         {
           "key": "sol",
           "name": "Solana",
           "sub": "SOL/USD",
-          "price": "$113.33",
-          "chg": "+8.29%",
+          "price": "$111.88",
+          "chg": "+1.57%",
           "up": true,
           "chg_6m": "N/A",
           "up_6m": true,
@@ -290,14 +290,14 @@
           "chg_3y": "N/A",
           "up_3y": true,
           "range52": "N/A",
-          "raw_price": 113.33
+          "raw_price": 111.88
         },
         {
           "key": "bnb",
           "name": "BNB",
           "sub": "BNB/USD",
-          "price": "$763.35",
-          "chg": "+1.94%",
+          "price": "$769.14",
+          "chg": "+1.91%",
           "up": true,
           "chg_6m": "N/A",
           "up_6m": true,
@@ -306,14 +306,14 @@
           "chg_3y": "N/A",
           "up_3y": true,
           "range52": "N/A",
-          "raw_price": 763.35
+          "raw_price": 769.14
         },
         {
           "key": "xrp",
           "name": "XRP",
           "sub": "XRP/USD",
-          "price": "$1.42",
-          "chg": "+7.97%",
+          "price": "$1.44",
+          "chg": "+4.70%",
           "up": true,
           "chg_6m": "N/A",
           "up_6m": true,
@@ -322,7 +322,7 @@
           "chg_3y": "N/A",
           "up_3y": true,
           "range52": "N/A",
-          "raw_price": 1.42
+          "raw_price": 1.44
         }
       ]
     },
@@ -333,8 +333,8 @@
           "key": "eurusd",
           "name": "EUR/USD",
           "sub": "Euro / Dollar",
-          "price": "1.1489",
-          "chg": "+0.07%",
+          "price": "1.1490",
+          "chg": "+0.08%",
           "up": true,
           "chg_6m": "N/A",
           "up_6m": true,
@@ -343,7 +343,7 @@
           "chg_3y": "N/A",
           "up_3y": true,
           "range52": "1.1325 – 1.2024",
-          "raw_price": 1.1488970518112183
+          "raw_price": 1.1490291357040405
         },
         {
           "key": "usdjpy",
@@ -365,7 +365,7 @@
           "key": "gbpusd",
           "name": "GBP/USD",
           "sub": "Cable",
-          "price": "1.3394",
+          "price": "1.3393",
           "chg": "+0.25%",
           "up": true,
           "chg_6m": "N/A",
@@ -375,7 +375,7 @@
           "chg_3y": "N/A",
           "up_3y": true,
           "range52": "1.3012 – 1.3847",
-          "raw_price": 1.3393514156341553
+          "raw_price": 1.3392797708511353
         },
         {
           "key": "dxy",
