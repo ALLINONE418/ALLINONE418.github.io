@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-08T22:40:02.451705+00:00",
+  "updated_at": "2026-10-09T12:18:32.891175+00:00",
   "keep_hours": 0,
-  "total_videos": 377,
+  "total_videos": 375,
   "channels": [
     {
       "channel_name": "小Lin说",
@@ -9,6 +9,18 @@
       "channel_thumb": "https://yt3.ggpht.com/dDOuCyzkVBwGapJot3mAGqq1_2_sng7pgnPtkGF1uSmcleO4p6O4Ox6flFzwF7vYDiuNv2I_mA=s88-c-k-c0x00ffffff-no-rj",
       "lang": "cn",
       "videos": [
+        {
+          "id": "wu0zS1AuI_E",
+          "title": "史上最大现金收购案 富二代如何正确拼爹",
+          "description": "",
+          "thumbnail": "https://i.ytimg.com/vi/wu0zS1AuI_E/maxresdefault.jpg",
+          "published_at": "2026-10-09T11:01:37Z",
+          "url": "https://www.youtube.com/watch?v=wu0zS1AuI_E",
+          "embed_url": "https://www.youtube.com/embed/wu0zS1AuI_E",
+          "duration_seconds": 834,
+          "view_count": 18111,
+          "like_count": 973
+        },
         {
           "id": "R1-j8TFlqCo",
           "title": "【硬核】俄乌打了四年多，到底谁在买单？",
@@ -18,8 +30,8 @@
           "url": "https://www.youtube.com/watch?v=R1-j8TFlqCo",
           "embed_url": "https://www.youtube.com/embed/R1-j8TFlqCo",
           "duration_seconds": 1797,
-          "view_count": 2787629,
-          "like_count": 24490
+          "view_count": 2813414,
+          "like_count": 24626
         },
         {
           "id": "T7z71yENz94",
@@ -30,8 +42,8 @@
           "url": "https://www.youtube.com/watch?v=T7z71yENz94",
           "embed_url": "https://www.youtube.com/embed/T7z71yENz94",
           "duration_seconds": 632,
-          "view_count": 1279175,
-          "like_count": 11649
+          "view_count": 1280912,
+          "like_count": 11656
         },
         {
           "id": "8BN8p5xDkzw",
@@ -42,8 +54,8 @@
           "url": "https://www.youtube.com/watch?v=8BN8p5xDkzw",
           "embed_url": "https://www.youtube.com/embed/8BN8p5xDkzw",
           "duration_seconds": 943,
-          "view_count": 2271314,
-          "like_count": 16626
+          "view_count": 2272862,
+          "like_count": 16631
         },
         {
           "id": "l38ceFOWOAE",
@@ -54,8 +66,8 @@
           "url": "https://www.youtube.com/watch?v=l38ceFOWOAE",
           "embed_url": "https://www.youtube.com/embed/l38ceFOWOAE",
           "duration_seconds": 1359,
-          "view_count": 1854686,
-          "like_count": 19344
+          "view_count": 1858379,
+          "like_count": 19356
         },
         {
           "id": "fKoWrF49Qo8",
@@ -66,8 +78,8 @@
           "url": "https://www.youtube.com/watch?v=fKoWrF49Qo8",
           "embed_url": "https://www.youtube.com/embed/fKoWrF49Qo8",
           "duration_seconds": 1254,
-          "view_count": 769005,
-          "like_count": 14629
+          "view_count": 769589,
+          "like_count": 14637
         },
         {
           "id": "OcKl98ZQbMQ",
@@ -78,8 +90,8 @@
           "url": "https://www.youtube.com/watch?v=OcKl98ZQbMQ",
           "embed_url": "https://www.youtube.com/embed/OcKl98ZQbMQ",
           "duration_seconds": 1169,
-          "view_count": 1505881,
-          "like_count": 29993
+          "view_count": 1507706,
+          "like_count": 30002
         },
         {
           "id": "wpb-DrbhEiY",
@@ -90,8 +102,8 @@
           "url": "https://www.youtube.com/watch?v=wpb-DrbhEiY",
           "embed_url": "https://www.youtube.com/embed/wpb-DrbhEiY",
           "duration_seconds": 1328,
-          "view_count": 1596811,
-          "like_count": 31145
+          "view_count": 1597175,
+          "like_count": 31147
         },
         {
           "id": "7oF-JqEtWDU",
@@ -102,7 +114,7 @@
           "url": "https://www.youtube.com/watch?v=7oF-JqEtWDU",
           "embed_url": "https://www.youtube.com/embed/7oF-JqEtWDU",
           "duration_seconds": 1745,
-          "view_count": 430092,
+          "view_count": 430234,
           "like_count": 6943
         },
         {
@@ -114,7 +126,7 @@
           "url": "https://www.youtube.com/watch?v=mcTAHffEkIw",
           "embed_url": "https://www.youtube.com/embed/mcTAHffEkIw",
           "duration_seconds": 1212,
-          "view_count": 1071118,
+          "view_count": 1071340,
           "like_count": 19087
         },
         {
@@ -126,8 +138,8 @@
           "url": "https://www.youtube.com/watch?v=7qWH7e_AEDs",
           "embed_url": "https://www.youtube.com/embed/7qWH7e_AEDs",
           "duration_seconds": 1728,
-          "view_count": 2067482,
-          "like_count": 27016
+          "view_count": 2071503,
+          "like_count": 27032
         },
         {
           "id": "TxWErg5JBpk",
@@ -138,8 +150,8 @@
           "url": "https://www.youtube.com/watch?v=TxWErg5JBpk",
           "embed_url": "https://www.youtube.com/embed/TxWErg5JBpk",
           "duration_seconds": 2751,
-          "view_count": 469845,
-          "like_count": 10265
+          "view_count": 469934,
+          "like_count": 10266
         },
         {
           "id": "HeVuAKDtWX8",
@@ -150,8 +162,8 @@
           "url": "https://www.youtube.com/watch?v=HeVuAKDtWX8",
           "embed_url": "https://www.youtube.com/embed/HeVuAKDtWX8",
           "duration_seconds": 1256,
-          "view_count": 1832495,
-          "like_count": 41022
+          "view_count": 1833369,
+          "like_count": 41024
         },
         {
           "id": "Lb60mjM5B1U",
@@ -162,8 +174,8 @@
           "url": "https://www.youtube.com/watch?v=Lb60mjM5B1U",
           "embed_url": "https://www.youtube.com/embed/Lb60mjM5B1U",
           "duration_seconds": 926,
-          "view_count": 1238115,
-          "like_count": 32310
+          "view_count": 1238250,
+          "like_count": 32311
         },
         {
           "id": "mU_jDXfjYTA",
@@ -174,7 +186,7 @@
           "url": "https://www.youtube.com/watch?v=mU_jDXfjYTA",
           "embed_url": "https://www.youtube.com/embed/mU_jDXfjYTA",
           "duration_seconds": 1130,
-          "view_count": 1200201,
+          "view_count": 1200468,
           "like_count": 22039
         },
         {
@@ -186,8 +198,8 @@
           "url": "https://www.youtube.com/watch?v=Hbu1xkXcPNU",
           "embed_url": "https://www.youtube.com/embed/Hbu1xkXcPNU",
           "duration_seconds": 2061,
-          "view_count": 1130130,
-          "like_count": 18935
+          "view_count": 1130643,
+          "like_count": 18936
         },
         {
           "id": "gFtlAMEVmcs",
@@ -198,8 +210,8 @@
           "url": "https://www.youtube.com/watch?v=gFtlAMEVmcs",
           "embed_url": "https://www.youtube.com/embed/gFtlAMEVmcs",
           "duration_seconds": 2635,
-          "view_count": 1886674,
-          "like_count": 49429
+          "view_count": 1886842,
+          "like_count": 49430
         },
         {
           "id": "hhtMlRZLJ0g",
@@ -210,7 +222,7 @@
           "url": "https://www.youtube.com/watch?v=hhtMlRZLJ0g",
           "embed_url": "https://www.youtube.com/embed/hhtMlRZLJ0g",
           "duration_seconds": 2149,
-          "view_count": 1369661,
+          "view_count": 1369894,
           "like_count": 18188
         },
         {
@@ -222,7 +234,7 @@
           "url": "https://www.youtube.com/watch?v=P-NmMX9rlYQ",
           "embed_url": "https://www.youtube.com/embed/P-NmMX9rlYQ",
           "duration_seconds": 1235,
-          "view_count": 987249,
+          "view_count": 987481,
           "like_count": 17687
         },
         {
@@ -234,8 +246,8 @@
           "url": "https://www.youtube.com/watch?v=zsFTTKNLcXM",
           "embed_url": "https://www.youtube.com/embed/zsFTTKNLcXM",
           "duration_seconds": 1903,
-          "view_count": 2350138,
-          "like_count": 34229
+          "view_count": 2350819,
+          "like_count": 34233
         },
         {
           "id": "SdZ-hvVdFTk",
@@ -246,8 +258,8 @@
           "url": "https://www.youtube.com/watch?v=SdZ-hvVdFTk",
           "embed_url": "https://www.youtube.com/embed/SdZ-hvVdFTk",
           "duration_seconds": 1146,
-          "view_count": 1396696,
-          "like_count": 34406
+          "view_count": 1396740,
+          "like_count": 34405
         },
         {
           "id": "uQJF5fcjFbg",
@@ -258,8 +270,8 @@
           "url": "https://www.youtube.com/watch?v=uQJF5fcjFbg",
           "embed_url": "https://www.youtube.com/embed/uQJF5fcjFbg",
           "duration_seconds": 1937,
-          "view_count": 4071349,
-          "like_count": 41452
+          "view_count": 4072810,
+          "like_count": 41457
         },
         {
           "id": "HTa1uc_kmHQ",
@@ -270,8 +282,8 @@
           "url": "https://www.youtube.com/watch?v=HTa1uc_kmHQ",
           "embed_url": "https://www.youtube.com/embed/HTa1uc_kmHQ",
           "duration_seconds": 967,
-          "view_count": 981317,
-          "like_count": 16778
+          "view_count": 981403,
+          "like_count": 16777
         },
         {
           "id": "Ylvr5hl6hYo",
@@ -282,8 +294,8 @@
           "url": "https://www.youtube.com/watch?v=Ylvr5hl6hYo",
           "embed_url": "https://www.youtube.com/embed/Ylvr5hl6hYo",
           "duration_seconds": 1624,
-          "view_count": 1356850,
-          "like_count": 43822
+          "view_count": 1357005,
+          "like_count": 43826
         },
         {
           "id": "8qAHj1a0H4c",
@@ -294,8 +306,8 @@
           "url": "https://www.youtube.com/watch?v=8qAHj1a0H4c",
           "embed_url": "https://www.youtube.com/embed/8qAHj1a0H4c",
           "duration_seconds": 1527,
-          "view_count": 1251321,
-          "like_count": 24100
+          "view_count": 1251613,
+          "like_count": 24102
         },
         {
           "id": "tm09cMTBTSU",
@@ -306,20 +318,8 @@
           "url": "https://www.youtube.com/watch?v=tm09cMTBTSU",
           "embed_url": "https://www.youtube.com/embed/tm09cMTBTSU",
           "duration_seconds": 1716,
-          "view_count": 2565133,
-          "like_count": 42046
-        },
-        {
-          "id": "NYs-wpYp0bY",
-          "title": "一口气了解A股上市",
-          "description": "都说A股上市难、门槛高，它到底高在哪？这背后有什么不为人知的门道？今天要带大家来揭秘一下：一家公司想要A股上市，背后到底会经历什么？",
-          "thumbnail": "https://i.ytimg.com/vi/NYs-wpYp0bY/maxresdefault.jpg",
-          "published_at": "2025-07-02T13:00:47Z",
-          "url": "https://www.youtube.com/watch?v=NYs-wpYp0bY",
-          "embed_url": "https://www.youtube.com/embed/NYs-wpYp0bY",
-          "duration_seconds": 1241,
-          "view_count": 605806,
-          "like_count": 10030
+          "view_count": 2565765,
+          "like_count": 42052
         }
       ]
     },
@@ -330,6 +330,18 @@
       "lang": "cn",
       "videos": [
         {
+          "id": "_rFCeRJ2egI",
+          "title": "迪拜航空航班失控高速俯衝 超越機體設計極限的92秒 波音與空客的區別 乘客怎麼做才能脫離俯衝 盤點歷史上的高G拉起事件｜馬克時空",
+          "description": "9月30日，一架從阿聯酋迪拜飛往以色列特拉維夫的波音客機，副駕駛用消防斧襲擊機長，然後讓機頭朝下，以接近音速的速度俯衝。客艙裡，170多名乘客在劇烈的失重中尖叫。最後把飛機從死亡邊緣拉回來的，不是飛行員，而是一名乘客。他說，他的飛行知識全部來自紀錄片《空中浩劫》。這起事件已經被定性為恐怖襲擊，我今天想從工程角度聊聊這次驚魂俯衝，如果這次的飛機不是波音換成空客，乘客還能不能救回飛機，歷史上有哪些類似",
+          "thumbnail": "https://i.ytimg.com/vi/_rFCeRJ2egI/maxresdefault.jpg",
+          "published_at": "2026-10-09T10:00:11Z",
+          "url": "https://www.youtube.com/watch?v=_rFCeRJ2egI",
+          "embed_url": "https://www.youtube.com/embed/_rFCeRJ2egI",
+          "duration_seconds": 873,
+          "view_count": 2068,
+          "like_count": 203
+        },
+        {
           "id": "47Z6FhaMMbI",
           "title": "林肯號航母攻擊中隊發射了421枚精準彈藥 盤點這些武器清單 台灣的精準彈藥是否完備 有哪些短板 又該怎麼補上｜馬克時空",
           "description": "部署在林肯號航母上的第41戰鬥攻擊中隊（VFA-41），在支援史詩怒火行動期間，用F/A-18F「超級大黃蜂」戰機一共發射了421枚各式炸彈和導彈。透過這份武器清單，可以看出美軍的戰術特點和彈藥結構。第一層是「開門」的武器：戰斧、JASSM、JSOW、SLAM-ER這類距外武器。第二層是「轟炸」的武器：以JDAM為代表的精準炸彈。\n\n今天這一集，我們就從這421枚彈藥出發，討論一下美軍作戰的特點和",
@@ -338,8 +350,8 @@
           "url": "https://www.youtube.com/watch?v=47Z6FhaMMbI",
           "embed_url": "https://www.youtube.com/embed/47Z6FhaMMbI",
           "duration_seconds": 734,
-          "view_count": 43450,
-          "like_count": 913
+          "view_count": 45358,
+          "like_count": 944
         },
         {
           "id": "w_yppkeRVNI",
@@ -350,8 +362,8 @@
           "url": "https://www.youtube.com/watch?v=w_yppkeRVNI",
           "embed_url": "https://www.youtube.com/embed/w_yppkeRVNI",
           "duration_seconds": 796,
-          "view_count": 50512,
-          "like_count": 1217
+          "view_count": 51115,
+          "like_count": 1233
         },
         {
           "id": "EdC6fIQNddw",
@@ -362,8 +374,8 @@
           "url": "https://www.youtube.com/watch?v=EdC6fIQNddw",
           "embed_url": "https://www.youtube.com/embed/EdC6fIQNddw",
           "duration_seconds": 830,
-          "view_count": 87261,
-          "like_count": 1448
+          "view_count": 88201,
+          "like_count": 1458
         },
         {
           "id": "6_UQMkU0CpU",
@@ -374,8 +386,8 @@
           "url": "https://www.youtube.com/watch?v=6_UQMkU0CpU",
           "embed_url": "https://www.youtube.com/embed/6_UQMkU0CpU",
           "duration_seconds": 776,
-          "view_count": 107853,
-          "like_count": 1658
+          "view_count": 108354,
+          "like_count": 1660
         },
         {
           "id": "YVncNGdbAPI",
@@ -386,8 +398,8 @@
           "url": "https://www.youtube.com/watch?v=YVncNGdbAPI",
           "embed_url": "https://www.youtube.com/embed/YVncNGdbAPI",
           "duration_seconds": 843,
-          "view_count": 135214,
-          "like_count": 2062
+          "view_count": 135363,
+          "like_count": 2064
         },
         {
           "id": "eUI-QYzudOI",
@@ -398,7 +410,7 @@
           "url": "https://www.youtube.com/watch?v=eUI-QYzudOI",
           "embed_url": "https://www.youtube.com/embed/eUI-QYzudOI",
           "duration_seconds": 627,
-          "view_count": 92673,
+          "view_count": 92725,
           "like_count": 1654
         }
       ]
@@ -418,8 +430,8 @@
           "url": "https://www.youtube.com/watch?v=ZrsBByfOvxI",
           "embed_url": "https://www.youtube.com/embed/ZrsBByfOvxI",
           "duration_seconds": 1685,
-          "view_count": 401434,
-          "like_count": 1916
+          "view_count": 402851,
+          "like_count": 1924
         },
         {
           "id": "jPSsn2IEoOA",
@@ -430,8 +442,8 @@
           "url": "https://www.youtube.com/watch?v=jPSsn2IEoOA",
           "embed_url": "https://www.youtube.com/embed/jPSsn2IEoOA",
           "duration_seconds": 1910,
-          "view_count": 486215,
-          "like_count": 3925
+          "view_count": 486694,
+          "like_count": 3927
         },
         {
           "id": "ak8e5S9R1Qo",
@@ -442,8 +454,8 @@
           "url": "https://www.youtube.com/watch?v=ak8e5S9R1Qo",
           "embed_url": "https://www.youtube.com/embed/ak8e5S9R1Qo",
           "duration_seconds": 2162,
-          "view_count": 300283,
-          "like_count": 2288
+          "view_count": 300426,
+          "like_count": 2289
         },
         {
           "id": "6tjGKAlczHs",
@@ -454,8 +466,8 @@
           "url": "https://www.youtube.com/watch?v=6tjGKAlczHs",
           "embed_url": "https://www.youtube.com/embed/6tjGKAlczHs",
           "duration_seconds": 1593,
-          "view_count": 346462,
-          "like_count": 3416
+          "view_count": 346582,
+          "like_count": 3417
         },
         {
           "id": "mgyLzBv1P90",
@@ -466,7 +478,7 @@
           "url": "https://www.youtube.com/watch?v=mgyLzBv1P90",
           "embed_url": "https://www.youtube.com/embed/mgyLzBv1P90",
           "duration_seconds": 1858,
-          "view_count": 255990,
+          "view_count": 256061,
           "like_count": 2077
         },
         {
@@ -478,8 +490,8 @@
           "url": "https://www.youtube.com/watch?v=d9-0yv1eIHw",
           "embed_url": "https://www.youtube.com/embed/d9-0yv1eIHw",
           "duration_seconds": 1830,
-          "view_count": 667522,
-          "like_count": 5834
+          "view_count": 667622,
+          "like_count": 5833
         },
         {
           "id": "IVYL3LU_rDs",
@@ -490,7 +502,7 @@
           "url": "https://www.youtube.com/watch?v=IVYL3LU_rDs",
           "embed_url": "https://www.youtube.com/embed/IVYL3LU_rDs",
           "duration_seconds": 1812,
-          "view_count": 802316,
+          "view_count": 802429,
           "like_count": 5512
         },
         {
@@ -502,7 +514,7 @@
           "url": "https://www.youtube.com/watch?v=y1XZcvQ23z4",
           "embed_url": "https://www.youtube.com/embed/y1XZcvQ23z4",
           "duration_seconds": 2097,
-          "view_count": 383354,
+          "view_count": 383403,
           "like_count": 2292
         },
         {
@@ -514,7 +526,7 @@
           "url": "https://www.youtube.com/watch?v=280QV9d-RvM",
           "embed_url": "https://www.youtube.com/embed/280QV9d-RvM",
           "duration_seconds": 1583,
-          "view_count": 469190,
+          "view_count": 469222,
           "like_count": 3249
         },
         {
@@ -526,7 +538,7 @@
           "url": "https://www.youtube.com/watch?v=jOiDh9ksDgI",
           "embed_url": "https://www.youtube.com/embed/jOiDh9ksDgI",
           "duration_seconds": 1669,
-          "view_count": 684075,
+          "view_count": 684107,
           "like_count": 4521
         },
         {
@@ -538,7 +550,7 @@
           "url": "https://www.youtube.com/watch?v=ffQ5es_xiWY",
           "embed_url": "https://www.youtube.com/embed/ffQ5es_xiWY",
           "duration_seconds": 1344,
-          "view_count": 294986,
+          "view_count": 294993,
           "like_count": 2181
         },
         {
@@ -550,7 +562,7 @@
           "url": "https://www.youtube.com/watch?v=r1foKjp5bno",
           "embed_url": "https://www.youtube.com/embed/r1foKjp5bno",
           "duration_seconds": 1613,
-          "view_count": 402490,
+          "view_count": 402503,
           "like_count": 3301
         },
         {
@@ -562,7 +574,7 @@
           "url": "https://www.youtube.com/watch?v=wx82fbjMYAw",
           "embed_url": "https://www.youtube.com/embed/wx82fbjMYAw",
           "duration_seconds": 1708,
-          "view_count": 486758,
+          "view_count": 486822,
           "like_count": 5784
         },
         {
@@ -574,7 +586,7 @@
           "url": "https://www.youtube.com/watch?v=tRBsPI6OHvM",
           "embed_url": "https://www.youtube.com/embed/tRBsPI6OHvM",
           "duration_seconds": 1468,
-          "view_count": 297451,
+          "view_count": 297468,
           "like_count": 2770
         },
         {
@@ -586,8 +598,8 @@
           "url": "https://www.youtube.com/watch?v=WDSwyu53iZE",
           "embed_url": "https://www.youtube.com/embed/WDSwyu53iZE",
           "duration_seconds": 1547,
-          "view_count": 885823,
-          "like_count": 7622
+          "view_count": 885894,
+          "like_count": 7621
         },
         {
           "id": "BUbEBE5RkIU",
@@ -598,7 +610,7 @@
           "url": "https://www.youtube.com/watch?v=BUbEBE5RkIU",
           "embed_url": "https://www.youtube.com/embed/BUbEBE5RkIU",
           "duration_seconds": 1674,
-          "view_count": 765057,
+          "view_count": 765096,
           "like_count": 6728
         },
         {
@@ -610,7 +622,7 @@
           "url": "https://www.youtube.com/watch?v=Y2wdtKHg-kc",
           "embed_url": "https://www.youtube.com/embed/Y2wdtKHg-kc",
           "duration_seconds": 1827,
-          "view_count": 306097,
+          "view_count": 306120,
           "like_count": 2456
         },
         {
@@ -622,7 +634,7 @@
           "url": "https://www.youtube.com/watch?v=H7QIMPtlx-k",
           "embed_url": "https://www.youtube.com/embed/H7QIMPtlx-k",
           "duration_seconds": 809,
-          "view_count": 246028,
+          "view_count": 246050,
           "like_count": 1633
         },
         {
@@ -634,7 +646,7 @@
           "url": "https://www.youtube.com/watch?v=kvk_TRbqQtI",
           "embed_url": "https://www.youtube.com/embed/kvk_TRbqQtI",
           "duration_seconds": 1628,
-          "view_count": 586353,
+          "view_count": 586375,
           "like_count": 4565
         },
         {
@@ -646,7 +658,7 @@
           "url": "https://www.youtube.com/watch?v=PKLzSouO-Lo",
           "embed_url": "https://www.youtube.com/embed/PKLzSouO-Lo",
           "duration_seconds": 1668,
-          "view_count": 444239,
+          "view_count": 444278,
           "like_count": 3496
         },
         {
@@ -658,7 +670,7 @@
           "url": "https://www.youtube.com/watch?v=Oi1FSooVJ-M",
           "embed_url": "https://www.youtube.com/embed/Oi1FSooVJ-M",
           "duration_seconds": 2902,
-          "view_count": 550729,
+          "view_count": 550739,
           "like_count": 3337
         },
         {
@@ -670,7 +682,7 @@
           "url": "https://www.youtube.com/watch?v=uV8ea0IJn-E",
           "embed_url": "https://www.youtube.com/embed/uV8ea0IJn-E",
           "duration_seconds": 1635,
-          "view_count": 621768,
+          "view_count": 622379,
           "like_count": 4442
         },
         {
@@ -682,7 +694,7 @@
           "url": "https://www.youtube.com/watch?v=lGTpfbXEejY",
           "embed_url": "https://www.youtube.com/embed/lGTpfbXEejY",
           "duration_seconds": 1708,
-          "view_count": 528949,
+          "view_count": 528975,
           "like_count": 3784
         },
         {
@@ -694,7 +706,7 @@
           "url": "https://www.youtube.com/watch?v=sN6kElkp0wA",
           "embed_url": "https://www.youtube.com/embed/sN6kElkp0wA",
           "duration_seconds": 613,
-          "view_count": 237756,
+          "view_count": 237755,
           "like_count": 1719
         },
         {
@@ -706,7 +718,7 @@
           "url": "https://www.youtube.com/watch?v=eBGh3wo7db4",
           "embed_url": "https://www.youtube.com/embed/eBGh3wo7db4",
           "duration_seconds": 1271,
-          "view_count": 222960,
+          "view_count": 222963,
           "like_count": 1834
         },
         {
@@ -718,7 +730,7 @@
           "url": "https://www.youtube.com/watch?v=WeuOL97cxPw",
           "embed_url": "https://www.youtube.com/embed/WeuOL97cxPw",
           "duration_seconds": 1837,
-          "view_count": 781161,
+          "view_count": 781225,
           "like_count": 4296
         },
         {
@@ -730,7 +742,7 @@
           "url": "https://www.youtube.com/watch?v=dVa6B301TLE",
           "embed_url": "https://www.youtube.com/embed/dVa6B301TLE",
           "duration_seconds": 1477,
-          "view_count": 513362,
+          "view_count": 513444,
           "like_count": 3745
         },
         {
@@ -742,7 +754,7 @@
           "url": "https://www.youtube.com/watch?v=7SbmS8vWehE",
           "embed_url": "https://www.youtube.com/embed/7SbmS8vWehE",
           "duration_seconds": 1561,
-          "view_count": 691715,
+          "view_count": 691713,
           "like_count": 5861
         },
         {
@@ -754,7 +766,7 @@
           "url": "https://www.youtube.com/watch?v=V10dyac7EnM",
           "embed_url": "https://www.youtube.com/embed/V10dyac7EnM",
           "duration_seconds": 709,
-          "view_count": 410851,
+          "view_count": 410855,
           "like_count": 2676
         },
         {
@@ -766,7 +778,7 @@
           "url": "https://www.youtube.com/watch?v=D7dK3C1TB_U",
           "embed_url": "https://www.youtube.com/embed/D7dK3C1TB_U",
           "duration_seconds": 1440,
-          "view_count": 376819,
+          "view_count": 376827,
           "like_count": 4067
         }
       ]
@@ -778,6 +790,18 @@
       "lang": "cn",
       "videos": [
         {
+          "id": "SkAFTvPj1gY",
+          "title": "美国秘密黑进华为，把它推进了习近平怀里，又逼它卖起了车 20261009【新闻大写】",
+          "description": "2015年，习近平在伦敦走进华为展厅，任正非与孟晚舟陪同在侧。但就在三年前，习近平南下深圳考察时，却没有走进这家同样位于深圳的科技巨头。从刻意绕道到国家背书，华为与权力之间，究竟发生了什么？\n\n关于华为，最常见的讲法是任正非白手起家，靠技术、奋斗和自主研发打破西方垄断。但一家没有部委靠山的民营企业，怎样获得第一批订单、熬过资金危机，又怎样成为国家不能轻易舍弃的战略企业？这些问题，光靠“遥遥领先”解",
+          "thumbnail": "https://i.ytimg.com/vi/SkAFTvPj1gY/maxresdefault.jpg",
+          "published_at": "2026-10-09T12:00:27Z",
+          "url": "https://www.youtube.com/watch?v=SkAFTvPj1gY",
+          "embed_url": "https://www.youtube.com/embed/SkAFTvPj1gY",
+          "duration_seconds": 2749,
+          "view_count": 9032,
+          "like_count": 132
+        },
+        {
           "id": "ZPWWUMW7jgA",
           "title": "洪广玉被抓，王海逃亡，网上维权全都成了寻衅滋事？｜王局拍案20261006",
           "description": "1. YouTube 会员平台\n成为本频道的会员，即可尊享专属福利，提前观看节目，直播，专属会员节目。\n点击链接了解详情并加入：https://www.youtube.com/channel/UCBKDRq35-L8xev4O7ZqBeLg/join\n \n2. Patreon 会员平台\n在 Patreon 中加入「王局」会员，您不仅可以观看会员专属视频，直播，更能参与会员社群互动，更贴心的是，Pa",
@@ -786,8 +810,8 @@
           "url": "https://www.youtube.com/watch?v=ZPWWUMW7jgA",
           "embed_url": "https://www.youtube.com/embed/ZPWWUMW7jgA",
           "duration_seconds": 2167,
-          "view_count": 691197,
-          "like_count": 6488
+          "view_count": 785571,
+          "like_count": 7157
         },
         {
           "id": "fVRCLwMUyus",
@@ -798,8 +822,8 @@
           "url": "https://www.youtube.com/watch?v=fVRCLwMUyus",
           "embed_url": "https://www.youtube.com/embed/fVRCLwMUyus",
           "duration_seconds": 1978,
-          "view_count": 722965,
-          "like_count": 4184
+          "view_count": 761355,
+          "like_count": 4313
         },
         {
           "id": "6-ueWbyPVnA",
@@ -810,8 +834,8 @@
           "url": "https://www.youtube.com/watch?v=6-ueWbyPVnA",
           "embed_url": "https://www.youtube.com/embed/6-ueWbyPVnA",
           "duration_seconds": 2226,
-          "view_count": 444495,
-          "like_count": 4221
+          "view_count": 465196,
+          "like_count": 4391
         },
         {
           "id": "zSAwwDEZNsI",
@@ -822,8 +846,8 @@
           "url": "https://www.youtube.com/watch?v=zSAwwDEZNsI",
           "embed_url": "https://www.youtube.com/embed/zSAwwDEZNsI",
           "duration_seconds": 532,
-          "view_count": 528530,
-          "like_count": 2575
+          "view_count": 546227,
+          "like_count": 2637
         },
         {
           "id": "LxpvBvDr21Q",
@@ -834,8 +858,8 @@
           "url": "https://www.youtube.com/watch?v=LxpvBvDr21Q",
           "embed_url": "https://www.youtube.com/embed/LxpvBvDr21Q",
           "duration_seconds": 2111,
-          "view_count": 566223,
-          "like_count": 3434
+          "view_count": 572589,
+          "like_count": 3466
         },
         {
           "id": "acIQpINBJng",
@@ -846,8 +870,8 @@
           "url": "https://www.youtube.com/watch?v=acIQpINBJng",
           "embed_url": "https://www.youtube.com/embed/acIQpINBJng",
           "duration_seconds": 1941,
-          "view_count": 884152,
-          "like_count": 5822
+          "view_count": 891473,
+          "like_count": 5861
         },
         {
           "id": "SYENLmnKd4M",
@@ -858,8 +882,8 @@
           "url": "https://www.youtube.com/watch?v=SYENLmnKd4M",
           "embed_url": "https://www.youtube.com/embed/SYENLmnKd4M",
           "duration_seconds": 2212,
-          "view_count": 1532313,
-          "like_count": 7771
+          "view_count": 1547788,
+          "like_count": 7814
         },
         {
           "id": "eAmLpb28Xc8",
@@ -870,8 +894,8 @@
           "url": "https://www.youtube.com/watch?v=eAmLpb28Xc8",
           "embed_url": "https://www.youtube.com/embed/eAmLpb28Xc8",
           "duration_seconds": 2684,
-          "view_count": 1157293,
-          "like_count": 6365
+          "view_count": 1162971,
+          "like_count": 6392
         },
         {
           "id": "hv2sy8VE54s",
@@ -882,8 +906,8 @@
           "url": "https://www.youtube.com/watch?v=hv2sy8VE54s",
           "embed_url": "https://www.youtube.com/embed/hv2sy8VE54s",
           "duration_seconds": 2177,
-          "view_count": 625642,
-          "like_count": 4629
+          "view_count": 628243,
+          "like_count": 4641
         },
         {
           "id": "IR2i3dton7A",
@@ -894,8 +918,8 @@
           "url": "https://www.youtube.com/watch?v=IR2i3dton7A",
           "embed_url": "https://www.youtube.com/embed/IR2i3dton7A",
           "duration_seconds": 1830,
-          "view_count": 414524,
-          "like_count": 1392
+          "view_count": 414910,
+          "like_count": 1393
         },
         {
           "id": "j6KcEcTXt3Y",
@@ -906,8 +930,8 @@
           "url": "https://www.youtube.com/watch?v=j6KcEcTXt3Y",
           "embed_url": "https://www.youtube.com/embed/j6KcEcTXt3Y",
           "duration_seconds": 870,
-          "view_count": 237111,
-          "like_count": 553
+          "view_count": 237418,
+          "like_count": 554
         },
         {
           "id": "qIHwir4ZBBA",
@@ -918,7 +942,7 @@
           "url": "https://www.youtube.com/watch?v=qIHwir4ZBBA",
           "embed_url": "https://www.youtube.com/embed/qIHwir4ZBBA",
           "duration_seconds": 1298,
-          "view_count": 244897,
+          "view_count": 245064,
           "like_count": 1175
         },
         {
@@ -930,44 +954,8 @@
           "url": "https://www.youtube.com/watch?v=OIZyHCoBdG8",
           "embed_url": "https://www.youtube.com/embed/OIZyHCoBdG8",
           "duration_seconds": 1557,
-          "view_count": 358138,
-          "like_count": 1552
-        },
-        {
-          "id": "tOrlnuJi-8Q",
-          "title": "特朗普带习近平检阅仪仗队｜新闻特写20260925",
-          "description": "1. YouTube 会员平台\n成为本频道的会员，即可尊享专属福利，提前观看节目，直播，专属会员节目。\n点击链接了解详情并加入：https://www.youtube.com/channel/UCBKDRq35-L8xev4O7ZqBeLg/join\n \n2. Patreon 会员平台\n在 Patreon 中加入「王局」会员，您不仅可以观看会员专属视频，直播，更能参与会员社群互动，更贴心的是，Pa",
-          "thumbnail": "https://i.ytimg.com/vi/tOrlnuJi-8Q/maxresdefault.jpg",
-          "published_at": "2026-09-24T20:24:03Z",
-          "url": "https://www.youtube.com/watch?v=tOrlnuJi-8Q",
-          "embed_url": "https://www.youtube.com/embed/tOrlnuJi-8Q",
-          "duration_seconds": 1088,
-          "view_count": 115638,
-          "like_count": 456
-        },
-        {
-          "id": "zNR1vTa-pO8",
-          "title": "习近平到访白宫发表演讲，送一对大熊猫赴美｜新闻特写20260924",
-          "description": "1. YouTube 会员平台\n成为本频道的会员，即可尊享专属福利，提前观看节目，直播，专属会员节目。\n点击链接了解详情并加入：https://www.youtube.com/channel/UCBKDRq35-L8xev4O7ZqBeLg/join\n \n2. Patreon 会员平台\n在 Patreon 中加入「王局」会员，您不仅可以观看会员专属视频，直播，更能参与会员社群互动，更贴心的是，Pa",
-          "thumbnail": "https://i.ytimg.com/vi/zNR1vTa-pO8/maxresdefault.jpg",
-          "published_at": "2026-09-24T15:41:12Z",
-          "url": "https://www.youtube.com/watch?v=zNR1vTa-pO8",
-          "embed_url": "https://www.youtube.com/embed/zNR1vTa-pO8",
-          "duration_seconds": 1931,
-          "view_count": 625021,
-          "like_count": 3173
-        },
-        {
-          "id": "tyE3Mg9C5vM",
-          "title": "礼炮拉到机场，特朗普夫妇亲自迎接习近平夫妇｜新闻特写20260924",
-          "description": "1. YouTube 会员平台\n成为本频道的会员，即可尊享专属福利，提前观看节目，直播，专属会员节目。\n点击链接了解详情并加入：https://www.youtube.com/channel/UCBKDRq35-L8xev4O7ZqBeLg/join\n \n2. Patreon 会员平台\n在 Patreon 中加入「王局」会员，您不仅可以观看会员专属视频，直播，更能参与会员社群互动，更贴心的是，Pa",
-          "thumbnail": "https://i.ytimg.com/vi/tyE3Mg9C5vM/maxresdefault.jpg",
-          "published_at": "2026-09-23T22:36:48Z",
-          "url": "https://www.youtube.com/watch?v=tyE3Mg9C5vM",
-          "embed_url": "https://www.youtube.com/embed/tyE3Mg9C5vM",
-          "duration_seconds": 872,
-          "view_count": 481918,
-          "like_count": 2883
+          "view_count": 358206,
+          "like_count": 1553
         }
       ]
     },
@@ -986,8 +974,8 @@
           "url": "https://www.youtube.com/watch?v=cJ1j9qe3Z_E",
           "embed_url": "https://www.youtube.com/embed/cJ1j9qe3Z_E",
           "duration_seconds": 1711,
-          "view_count": 598807,
-          "like_count": 4382
+          "view_count": 604269,
+          "like_count": 4399
         },
         {
           "id": "e_oqtdd9DUM",
@@ -998,8 +986,8 @@
           "url": "https://www.youtube.com/watch?v=e_oqtdd9DUM",
           "embed_url": "https://www.youtube.com/embed/e_oqtdd9DUM",
           "duration_seconds": 2075,
-          "view_count": 1152755,
-          "like_count": 7822
+          "view_count": 1157527,
+          "like_count": 7846
         },
         {
           "id": "sn2qfuxTNG4",
@@ -1010,8 +998,8 @@
           "url": "https://www.youtube.com/watch?v=sn2qfuxTNG4",
           "embed_url": "https://www.youtube.com/embed/sn2qfuxTNG4",
           "duration_seconds": 2946,
-          "view_count": 1564610,
-          "like_count": 15243
+          "view_count": 1566172,
+          "like_count": 15256
         },
         {
           "id": "nNcJxOd8T9o",
@@ -1022,8 +1010,8 @@
           "url": "https://www.youtube.com/watch?v=nNcJxOd8T9o",
           "embed_url": "https://www.youtube.com/embed/nNcJxOd8T9o",
           "duration_seconds": 3577,
-          "view_count": 1314252,
-          "like_count": 17760
+          "view_count": 1315897,
+          "like_count": 17772
         },
         {
           "id": "XWNzmYt09pQ",
@@ -1034,8 +1022,8 @@
           "url": "https://www.youtube.com/watch?v=XWNzmYt09pQ",
           "embed_url": "https://www.youtube.com/embed/XWNzmYt09pQ",
           "duration_seconds": 1679,
-          "view_count": 776353,
-          "like_count": 8471
+          "view_count": 777138,
+          "like_count": 8474
         },
         {
           "id": "MnYREEJgqtE",
@@ -1046,8 +1034,8 @@
           "url": "https://www.youtube.com/watch?v=MnYREEJgqtE",
           "embed_url": "https://www.youtube.com/embed/MnYREEJgqtE",
           "duration_seconds": 2424,
-          "view_count": 1764482,
-          "like_count": 8829
+          "view_count": 1766344,
+          "like_count": 8830
         },
         {
           "id": "gZ7z5oIOT1s",
@@ -1058,8 +1046,8 @@
           "url": "https://www.youtube.com/watch?v=gZ7z5oIOT1s",
           "embed_url": "https://www.youtube.com/embed/gZ7z5oIOT1s",
           "duration_seconds": 2119,
-          "view_count": 1583580,
-          "like_count": 9790
+          "view_count": 1584406,
+          "like_count": 9791
         },
         {
           "id": "Fh5HeQN5kI8",
@@ -1070,8 +1058,8 @@
           "url": "https://www.youtube.com/watch?v=Fh5HeQN5kI8",
           "embed_url": "https://www.youtube.com/embed/Fh5HeQN5kI8",
           "duration_seconds": 2888,
-          "view_count": 1398911,
-          "like_count": 16086
+          "view_count": 1399587,
+          "like_count": 16088
         },
         {
           "id": "Mros72lMndo",
@@ -1082,8 +1070,8 @@
           "url": "https://www.youtube.com/watch?v=Mros72lMndo",
           "embed_url": "https://www.youtube.com/embed/Mros72lMndo",
           "duration_seconds": 3011,
-          "view_count": 1576360,
-          "like_count": 19677
+          "view_count": 1577341,
+          "like_count": 19685
         },
         {
           "id": "e7_24mA5X8g",
@@ -1094,8 +1082,8 @@
           "url": "https://www.youtube.com/watch?v=e7_24mA5X8g",
           "embed_url": "https://www.youtube.com/embed/e7_24mA5X8g",
           "duration_seconds": 2647,
-          "view_count": 911234,
-          "like_count": 12763
+          "view_count": 911471,
+          "like_count": 12765
         },
         {
           "id": "C0S2jasfCQM",
@@ -1106,7 +1094,7 @@
           "url": "https://www.youtube.com/watch?v=C0S2jasfCQM",
           "embed_url": "https://www.youtube.com/embed/C0S2jasfCQM",
           "duration_seconds": 3168,
-          "view_count": 637203,
+          "view_count": 637344,
           "like_count": 10464
         },
         {
@@ -1118,8 +1106,8 @@
           "url": "https://www.youtube.com/watch?v=riR6jjSLJNA",
           "embed_url": "https://www.youtube.com/embed/riR6jjSLJNA",
           "duration_seconds": 2135,
-          "view_count": 1769704,
-          "like_count": 27147
+          "view_count": 1770237,
+          "like_count": 27153
         },
         {
           "id": "RmpTm4KRWAk",
@@ -1130,8 +1118,8 @@
           "url": "https://www.youtube.com/watch?v=RmpTm4KRWAk",
           "embed_url": "https://www.youtube.com/embed/RmpTm4KRWAk",
           "duration_seconds": 2553,
-          "view_count": 1519332,
-          "like_count": 17672
+          "view_count": 1519856,
+          "like_count": 17679
         },
         {
           "id": "IIx7FnynXJE",
@@ -1142,8 +1130,8 @@
           "url": "https://www.youtube.com/watch?v=IIx7FnynXJE",
           "embed_url": "https://www.youtube.com/embed/IIx7FnynXJE",
           "duration_seconds": 7527,
-          "view_count": 1951895,
-          "like_count": 12323
+          "view_count": 1954797,
+          "like_count": 12335
         },
         {
           "id": "ga4F9-q3k-k",
@@ -1154,8 +1142,8 @@
           "url": "https://www.youtube.com/watch?v=ga4F9-q3k-k",
           "embed_url": "https://www.youtube.com/embed/ga4F9-q3k-k",
           "duration_seconds": 1032,
-          "view_count": 1432942,
-          "like_count": 13851
+          "view_count": 1433937,
+          "like_count": 13856
         },
         {
           "id": "q8FZ7zN-qes",
@@ -1166,8 +1154,8 @@
           "url": "https://www.youtube.com/watch?v=q8FZ7zN-qes",
           "embed_url": "https://www.youtube.com/embed/q8FZ7zN-qes",
           "duration_seconds": 3882,
-          "view_count": 1447487,
-          "like_count": 19440
+          "view_count": 1447961,
+          "like_count": 19446
         },
         {
           "id": "mxSLV51QhDw",
@@ -1178,8 +1166,8 @@
           "url": "https://www.youtube.com/watch?v=mxSLV51QhDw",
           "embed_url": "https://www.youtube.com/embed/mxSLV51QhDw",
           "duration_seconds": 3759,
-          "view_count": 3195512,
-          "like_count": 19150
+          "view_count": 3196793,
+          "like_count": 19152
         },
         {
           "id": "fovmRJVb83g",
@@ -1190,8 +1178,8 @@
           "url": "https://www.youtube.com/watch?v=fovmRJVb83g",
           "embed_url": "https://www.youtube.com/embed/fovmRJVb83g",
           "duration_seconds": 3799,
-          "view_count": 887596,
-          "like_count": 13777
+          "view_count": 887657,
+          "like_count": 13778
         },
         {
           "id": "Bxwx9D8NyeA",
@@ -1202,8 +1190,8 @@
           "url": "https://www.youtube.com/watch?v=Bxwx9D8NyeA",
           "embed_url": "https://www.youtube.com/embed/Bxwx9D8NyeA",
           "duration_seconds": 3461,
-          "view_count": 1472637,
-          "like_count": 29124
+          "view_count": 1472943,
+          "like_count": 29126
         },
         {
           "id": "FQtcnW939Ck",
@@ -1214,8 +1202,8 @@
           "url": "https://www.youtube.com/watch?v=FQtcnW939Ck",
           "embed_url": "https://www.youtube.com/embed/FQtcnW939Ck",
           "duration_seconds": 2203,
-          "view_count": 1640467,
-          "like_count": 29437
+          "view_count": 1640688,
+          "like_count": 29441
         },
         {
           "id": "_cekUfCopMs",
@@ -1226,8 +1214,8 @@
           "url": "https://www.youtube.com/watch?v=_cekUfCopMs",
           "embed_url": "https://www.youtube.com/embed/_cekUfCopMs",
           "duration_seconds": 2898,
-          "view_count": 2538015,
-          "like_count": 43245
+          "view_count": 2539225,
+          "like_count": 43251
         },
         {
           "id": "Db17u8E1t0g",
@@ -1238,7 +1226,7 @@
           "url": "https://www.youtube.com/watch?v=Db17u8E1t0g",
           "embed_url": "https://www.youtube.com/embed/Db17u8E1t0g",
           "duration_seconds": 3198,
-          "view_count": 1519509,
+          "view_count": 1519658,
           "like_count": 28761
         },
         {
@@ -1250,8 +1238,8 @@
           "url": "https://www.youtube.com/watch?v=AhhQ3e8Re1k",
           "embed_url": "https://www.youtube.com/embed/AhhQ3e8Re1k",
           "duration_seconds": 3118,
-          "view_count": 1812691,
-          "like_count": 31987
+          "view_count": 1813037,
+          "like_count": 31989
         },
         {
           "id": "syKWPralGKQ",
@@ -1262,8 +1250,8 @@
           "url": "https://www.youtube.com/watch?v=syKWPralGKQ",
           "embed_url": "https://www.youtube.com/embed/syKWPralGKQ",
           "duration_seconds": 2642,
-          "view_count": 3588819,
-          "like_count": 45250
+          "view_count": 3589263,
+          "like_count": 45257
         },
         {
           "id": "9DVqqctc0qk",
@@ -1274,8 +1262,8 @@
           "url": "https://www.youtube.com/watch?v=9DVqqctc0qk",
           "embed_url": "https://www.youtube.com/embed/9DVqqctc0qk",
           "duration_seconds": 3557,
-          "view_count": 1141741,
-          "like_count": 12101
+          "view_count": 1142024,
+          "like_count": 12103
         },
         {
           "id": "dGA16idg4lg",
@@ -1286,8 +1274,8 @@
           "url": "https://www.youtube.com/watch?v=dGA16idg4lg",
           "embed_url": "https://www.youtube.com/embed/dGA16idg4lg",
           "duration_seconds": 3951,
-          "view_count": 2842468,
-          "like_count": 25658
+          "view_count": 2844057,
+          "like_count": 25664
         },
         {
           "id": "rfEXbAuzKPk",
@@ -1298,8 +1286,8 @@
           "url": "https://www.youtube.com/watch?v=rfEXbAuzKPk",
           "embed_url": "https://www.youtube.com/embed/rfEXbAuzKPk",
           "duration_seconds": 3338,
-          "view_count": 5581166,
-          "like_count": 59734
+          "view_count": 5581961,
+          "like_count": 59741
         },
         {
           "id": "puMZRacbg8w",
@@ -1310,7 +1298,7 @@
           "url": "https://www.youtube.com/watch?v=puMZRacbg8w",
           "embed_url": "https://www.youtube.com/embed/puMZRacbg8w",
           "duration_seconds": 1842,
-          "view_count": 406258,
+          "view_count": 406322,
           "like_count": 8222
         },
         {
@@ -1322,8 +1310,8 @@
           "url": "https://www.youtube.com/watch?v=9L60q0fQHu8",
           "embed_url": "https://www.youtube.com/embed/9L60q0fQHu8",
           "duration_seconds": 2261,
-          "view_count": 2041122,
-          "like_count": 33626
+          "view_count": 2041555,
+          "like_count": 33629
         },
         {
           "id": "L20VBTW615E",
@@ -1334,8 +1322,8 @@
           "url": "https://www.youtube.com/watch?v=L20VBTW615E",
           "embed_url": "https://www.youtube.com/embed/L20VBTW615E",
           "duration_seconds": 1324,
-          "view_count": 359484,
-          "like_count": 12516
+          "view_count": 359514,
+          "like_count": 12517
         }
       ]
     },
@@ -1354,8 +1342,8 @@
           "url": "https://www.youtube.com/watch?v=juSjWoo-q6s",
           "embed_url": "https://www.youtube.com/embed/juSjWoo-q6s",
           "duration_seconds": 1397,
-          "view_count": 451450,
-          "like_count": 7142
+          "view_count": 473697,
+          "like_count": 7330
         },
         {
           "id": "IORzYk7m4Lg",
@@ -1366,8 +1354,8 @@
           "url": "https://www.youtube.com/watch?v=IORzYk7m4Lg",
           "embed_url": "https://www.youtube.com/embed/IORzYk7m4Lg",
           "duration_seconds": 1221,
-          "view_count": 387892,
-          "like_count": 3075
+          "view_count": 391244,
+          "like_count": 3088
         },
         {
           "id": "TuK6oX9BhtQ",
@@ -1378,8 +1366,8 @@
           "url": "https://www.youtube.com/watch?v=TuK6oX9BhtQ",
           "embed_url": "https://www.youtube.com/embed/TuK6oX9BhtQ",
           "duration_seconds": 1222,
-          "view_count": 1039352,
-          "like_count": 16730
+          "view_count": 1055655,
+          "like_count": 16942
         },
         {
           "id": "mUGX7ggMcIU",
@@ -1390,8 +1378,8 @@
           "url": "https://www.youtube.com/watch?v=mUGX7ggMcIU",
           "embed_url": "https://www.youtube.com/embed/mUGX7ggMcIU",
           "duration_seconds": 1041,
-          "view_count": 327310,
-          "like_count": 3467
+          "view_count": 328225,
+          "like_count": 3476
         },
         {
           "id": "Chhd-9Y18EE",
@@ -1402,8 +1390,8 @@
           "url": "https://www.youtube.com/watch?v=Chhd-9Y18EE",
           "embed_url": "https://www.youtube.com/embed/Chhd-9Y18EE",
           "duration_seconds": 1034,
-          "view_count": 262707,
-          "like_count": 1963
+          "view_count": 262986,
+          "like_count": 1967
         },
         {
           "id": "W8WFDiwRy78",
@@ -1414,8 +1402,8 @@
           "url": "https://www.youtube.com/watch?v=W8WFDiwRy78",
           "embed_url": "https://www.youtube.com/embed/W8WFDiwRy78",
           "duration_seconds": 1195,
-          "view_count": 347097,
-          "like_count": 2192
+          "view_count": 348135,
+          "like_count": 2194
         },
         {
           "id": "l8X-uIH9D-A",
@@ -1426,8 +1414,8 @@
           "url": "https://www.youtube.com/watch?v=l8X-uIH9D-A",
           "embed_url": "https://www.youtube.com/embed/l8X-uIH9D-A",
           "duration_seconds": 1767,
-          "view_count": 426254,
-          "like_count": 4144
+          "view_count": 426699,
+          "like_count": 4151
         },
         {
           "id": "F8L_MIYeNbw",
@@ -1438,8 +1426,8 @@
           "url": "https://www.youtube.com/watch?v=F8L_MIYeNbw",
           "embed_url": "https://www.youtube.com/embed/F8L_MIYeNbw",
           "duration_seconds": 1190,
-          "view_count": 616772,
-          "like_count": 5032
+          "view_count": 618104,
+          "like_count": 5045
         },
         {
           "id": "L9LBXl_6HOk",
@@ -1450,8 +1438,8 @@
           "url": "https://www.youtube.com/watch?v=L9LBXl_6HOk",
           "embed_url": "https://www.youtube.com/embed/L9LBXl_6HOk",
           "duration_seconds": 2219,
-          "view_count": 394404,
-          "like_count": 3646
+          "view_count": 395365,
+          "like_count": 3657
         },
         {
           "id": "LhMjcvv29yY",
@@ -1462,8 +1450,8 @@
           "url": "https://www.youtube.com/watch?v=LhMjcvv29yY",
           "embed_url": "https://www.youtube.com/embed/LhMjcvv29yY",
           "duration_seconds": 2327,
-          "view_count": 484132,
-          "like_count": 3993
+          "view_count": 486095,
+          "like_count": 4001
         },
         {
           "id": "GzPWhHbMvpU",
@@ -1474,8 +1462,8 @@
           "url": "https://www.youtube.com/watch?v=GzPWhHbMvpU",
           "embed_url": "https://www.youtube.com/embed/GzPWhHbMvpU",
           "duration_seconds": 2835,
-          "view_count": 345683,
-          "like_count": 3269
+          "view_count": 346659,
+          "like_count": 3279
         },
         {
           "id": "eIvy6aXr4-0",
@@ -1486,8 +1474,8 @@
           "url": "https://www.youtube.com/watch?v=eIvy6aXr4-0",
           "embed_url": "https://www.youtube.com/embed/eIvy6aXr4-0",
           "duration_seconds": 1035,
-          "view_count": 214073,
-          "like_count": 3124
+          "view_count": 214228,
+          "like_count": 3130
         },
         {
           "id": "Lf8JmkrGwo4",
@@ -1498,8 +1486,8 @@
           "url": "https://www.youtube.com/watch?v=Lf8JmkrGwo4",
           "embed_url": "https://www.youtube.com/embed/Lf8JmkrGwo4",
           "duration_seconds": 2114,
-          "view_count": 194369,
-          "like_count": 3156
+          "view_count": 195123,
+          "like_count": 3166
         },
         {
           "id": "PPXEOa4H9Ww",
@@ -1510,8 +1498,8 @@
           "url": "https://www.youtube.com/watch?v=PPXEOa4H9Ww",
           "embed_url": "https://www.youtube.com/embed/PPXEOa4H9Ww",
           "duration_seconds": 1142,
-          "view_count": 534420,
-          "like_count": 7111
+          "view_count": 534818,
+          "like_count": 7115
         },
         {
           "id": "baB4Drqvtvw",
@@ -1522,8 +1510,8 @@
           "url": "https://www.youtube.com/watch?v=baB4Drqvtvw",
           "embed_url": "https://www.youtube.com/embed/baB4Drqvtvw",
           "duration_seconds": 1458,
-          "view_count": 197147,
-          "like_count": 3242
+          "view_count": 197467,
+          "like_count": 3245
         },
         {
           "id": "LHa33vkK-Yg",
@@ -1534,8 +1522,8 @@
           "url": "https://www.youtube.com/watch?v=LHa33vkK-Yg",
           "embed_url": "https://www.youtube.com/embed/LHa33vkK-Yg",
           "duration_seconds": 1774,
-          "view_count": 270066,
-          "like_count": 3554
+          "view_count": 270221,
+          "like_count": 3555
         },
         {
           "id": "IbnHI5-Oqm8",
@@ -1546,8 +1534,8 @@
           "url": "https://www.youtube.com/watch?v=IbnHI5-Oqm8",
           "embed_url": "https://www.youtube.com/embed/IbnHI5-Oqm8",
           "duration_seconds": 1373,
-          "view_count": 503476,
-          "like_count": 5548
+          "view_count": 505887,
+          "like_count": 5573
         },
         {
           "id": "CIA3MJmQdVI",
@@ -1558,8 +1546,8 @@
           "url": "https://www.youtube.com/watch?v=CIA3MJmQdVI",
           "embed_url": "https://www.youtube.com/embed/CIA3MJmQdVI",
           "duration_seconds": 1802,
-          "view_count": 610830,
-          "like_count": 8739
+          "view_count": 614510,
+          "like_count": 8774
         },
         {
           "id": "eLkxtRc9Mqc",
@@ -1570,8 +1558,8 @@
           "url": "https://www.youtube.com/watch?v=eLkxtRc9Mqc",
           "embed_url": "https://www.youtube.com/embed/eLkxtRc9Mqc",
           "duration_seconds": 1820,
-          "view_count": 402065,
-          "like_count": 4852
+          "view_count": 404446,
+          "like_count": 4866
         },
         {
           "id": "Joyn4dB_cbs",
@@ -1582,8 +1570,8 @@
           "url": "https://www.youtube.com/watch?v=Joyn4dB_cbs",
           "embed_url": "https://www.youtube.com/embed/Joyn4dB_cbs",
           "duration_seconds": 1499,
-          "view_count": 225881,
-          "like_count": 1849
+          "view_count": 226084,
+          "like_count": 1852
         },
         {
           "id": "5TT4kSBTF1M",
@@ -1594,7 +1582,7 @@
           "url": "https://www.youtube.com/watch?v=5TT4kSBTF1M",
           "embed_url": "https://www.youtube.com/embed/5TT4kSBTF1M",
           "duration_seconds": 914,
-          "view_count": 196345,
+          "view_count": 196417,
           "like_count": 1750
         },
         {
@@ -1606,8 +1594,8 @@
           "url": "https://www.youtube.com/watch?v=CYtI9tBXUPA",
           "embed_url": "https://www.youtube.com/embed/CYtI9tBXUPA",
           "duration_seconds": 1436,
-          "view_count": 211121,
-          "like_count": 4040
+          "view_count": 211391,
+          "like_count": 4042
         },
         {
           "id": "c9A6olWysBE",
@@ -1618,8 +1606,8 @@
           "url": "https://www.youtube.com/watch?v=c9A6olWysBE",
           "embed_url": "https://www.youtube.com/embed/c9A6olWysBE",
           "duration_seconds": 1375,
-          "view_count": 240129,
-          "like_count": 2558
+          "view_count": 240523,
+          "like_count": 2561
         },
         {
           "id": "hhC0s0gRAsg",
@@ -1630,8 +1618,8 @@
           "url": "https://www.youtube.com/watch?v=hhC0s0gRAsg",
           "embed_url": "https://www.youtube.com/embed/hhC0s0gRAsg",
           "duration_seconds": 1489,
-          "view_count": 102159,
-          "like_count": 1635
+          "view_count": 102238,
+          "like_count": 1636
         },
         {
           "id": "r18DKomdAbI",
@@ -1642,7 +1630,7 @@
           "url": "https://www.youtube.com/watch?v=r18DKomdAbI",
           "embed_url": "https://www.youtube.com/embed/r18DKomdAbI",
           "duration_seconds": 1572,
-          "view_count": 158416,
+          "view_count": 158477,
           "like_count": 2061
         },
         {
@@ -1654,7 +1642,7 @@
           "url": "https://www.youtube.com/watch?v=2tNVygVwDPM",
           "embed_url": "https://www.youtube.com/embed/2tNVygVwDPM",
           "duration_seconds": 721,
-          "view_count": 46218,
+          "view_count": 46236,
           "like_count": 310
         },
         {
@@ -1666,8 +1654,8 @@
           "url": "https://www.youtube.com/watch?v=XRhJCoXvF3Q",
           "embed_url": "https://www.youtube.com/embed/XRhJCoXvF3Q",
           "duration_seconds": 1217,
-          "view_count": 334194,
-          "like_count": 2518
+          "view_count": 334530,
+          "like_count": 2522
         },
         {
           "id": "LgrZXec7YWY",
@@ -1678,8 +1666,8 @@
           "url": "https://www.youtube.com/watch?v=LgrZXec7YWY",
           "embed_url": "https://www.youtube.com/embed/LgrZXec7YWY",
           "duration_seconds": 1390,
-          "view_count": 506635,
-          "like_count": 4178
+          "view_count": 507783,
+          "like_count": 4187
         },
         {
           "id": "G3agHQZAYWY",
@@ -1690,8 +1678,8 @@
           "url": "https://www.youtube.com/watch?v=G3agHQZAYWY",
           "embed_url": "https://www.youtube.com/embed/G3agHQZAYWY",
           "duration_seconds": 1356,
-          "view_count": 640477,
-          "like_count": 5769
+          "view_count": 642059,
+          "like_count": 5786
         },
         {
           "id": "PBSZbiNw5DQ",
@@ -1702,8 +1690,8 @@
           "url": "https://www.youtube.com/watch?v=PBSZbiNw5DQ",
           "embed_url": "https://www.youtube.com/embed/PBSZbiNw5DQ",
           "duration_seconds": 1779,
-          "view_count": 635263,
-          "like_count": 5275
+          "view_count": 636159,
+          "like_count": 5286
         }
       ]
     },
@@ -1722,8 +1710,8 @@
           "url": "https://www.youtube.com/watch?v=JZrDxAlfC5I",
           "embed_url": "https://www.youtube.com/embed/JZrDxAlfC5I",
           "duration_seconds": 1498,
-          "view_count": 410008,
-          "like_count": 7504
+          "view_count": 473707,
+          "like_count": 8202
         },
         {
           "id": "ZEcJafyJETU",
@@ -1734,8 +1722,8 @@
           "url": "https://www.youtube.com/watch?v=ZEcJafyJETU",
           "embed_url": "https://www.youtube.com/embed/ZEcJafyJETU",
           "duration_seconds": 1358,
-          "view_count": 535397,
-          "like_count": 8051
+          "view_count": 553727,
+          "like_count": 8187
         },
         {
           "id": "QMTwj-N-YQc",
@@ -1746,8 +1734,8 @@
           "url": "https://www.youtube.com/watch?v=QMTwj-N-YQc",
           "embed_url": "https://www.youtube.com/embed/QMTwj-N-YQc",
           "duration_seconds": 853,
-          "view_count": 219233,
-          "like_count": 3756
+          "view_count": 221930,
+          "like_count": 3776
         },
         {
           "id": "nVElZfkXnDA",
@@ -1758,8 +1746,8 @@
           "url": "https://www.youtube.com/watch?v=nVElZfkXnDA",
           "embed_url": "https://www.youtube.com/embed/nVElZfkXnDA",
           "duration_seconds": 1416,
-          "view_count": 963868,
-          "like_count": 9834
+          "view_count": 974064,
+          "like_count": 9868
         },
         {
           "id": "KW1fk_JP4lM",
@@ -1770,8 +1758,8 @@
           "url": "https://www.youtube.com/watch?v=KW1fk_JP4lM",
           "embed_url": "https://www.youtube.com/embed/KW1fk_JP4lM",
           "duration_seconds": 1401,
-          "view_count": 739791,
-          "like_count": 9101
+          "view_count": 743174,
+          "like_count": 9122
         },
         {
           "id": "rfBQjSFmPmc",
@@ -1782,8 +1770,8 @@
           "url": "https://www.youtube.com/watch?v=rfBQjSFmPmc",
           "embed_url": "https://www.youtube.com/embed/rfBQjSFmPmc",
           "duration_seconds": 1305,
-          "view_count": 760568,
-          "like_count": 8493
+          "view_count": 762826,
+          "like_count": 8498
         },
         {
           "id": "kQZPgKQ1Zaw",
@@ -1794,8 +1782,8 @@
           "url": "https://www.youtube.com/watch?v=kQZPgKQ1Zaw",
           "embed_url": "https://www.youtube.com/embed/kQZPgKQ1Zaw",
           "duration_seconds": 1374,
-          "view_count": 692461,
-          "like_count": 8809
+          "view_count": 692881,
+          "like_count": 8811
         },
         {
           "id": "IkkAEhqxA3c",
@@ -1806,8 +1794,8 @@
           "url": "https://www.youtube.com/watch?v=IkkAEhqxA3c",
           "embed_url": "https://www.youtube.com/embed/IkkAEhqxA3c",
           "duration_seconds": 1326,
-          "view_count": 892674,
-          "like_count": 9687
+          "view_count": 892985,
+          "like_count": 9689
         },
         {
           "id": "HZxhGjpbSxE",
@@ -1818,8 +1806,8 @@
           "url": "https://www.youtube.com/watch?v=HZxhGjpbSxE",
           "embed_url": "https://www.youtube.com/embed/HZxhGjpbSxE",
           "duration_seconds": 704,
-          "view_count": 469480,
-          "like_count": 9194
+          "view_count": 469701,
+          "like_count": 9195
         },
         {
           "id": "tc_BTgvlm48",
@@ -1830,8 +1818,8 @@
           "url": "https://www.youtube.com/watch?v=tc_BTgvlm48",
           "embed_url": "https://www.youtube.com/embed/tc_BTgvlm48",
           "duration_seconds": 1209,
-          "view_count": 397860,
-          "like_count": 5618
+          "view_count": 398494,
+          "like_count": 5623
         },
         {
           "id": "Z4ctrDNF6aQ",
@@ -1842,7 +1830,7 @@
           "url": "https://www.youtube.com/watch?v=Z4ctrDNF6aQ",
           "embed_url": "https://www.youtube.com/embed/Z4ctrDNF6aQ",
           "duration_seconds": 1212,
-          "view_count": 484829,
+          "view_count": 484965,
           "like_count": 6826
         },
         {
@@ -1854,8 +1842,8 @@
           "url": "https://www.youtube.com/watch?v=3jPkoEPaG9A",
           "embed_url": "https://www.youtube.com/embed/3jPkoEPaG9A",
           "duration_seconds": 1408,
-          "view_count": 692256,
-          "like_count": 9040
+          "view_count": 693637,
+          "like_count": 9054
         },
         {
           "id": "ICFqX2F51eY",
@@ -1866,7 +1854,7 @@
           "url": "https://www.youtube.com/watch?v=ICFqX2F51eY",
           "embed_url": "https://www.youtube.com/embed/ICFqX2F51eY",
           "duration_seconds": 1333,
-          "view_count": 941064,
+          "view_count": 941213,
           "like_count": 9782
         },
         {
@@ -1878,8 +1866,8 @@
           "url": "https://www.youtube.com/watch?v=aUUImHUu_po",
           "embed_url": "https://www.youtube.com/embed/aUUImHUu_po",
           "duration_seconds": 1459,
-          "view_count": 617124,
-          "like_count": 8273
+          "view_count": 617282,
+          "like_count": 8275
         },
         {
           "id": "PZH7sfekXR4",
@@ -1890,8 +1878,8 @@
           "url": "https://www.youtube.com/watch?v=PZH7sfekXR4",
           "embed_url": "https://www.youtube.com/embed/PZH7sfekXR4",
           "duration_seconds": 1561,
-          "view_count": 976963,
-          "like_count": 9194
+          "view_count": 977961,
+          "like_count": 9197
         },
         {
           "id": "3XOLAO3Hi5w",
@@ -1902,7 +1890,7 @@
           "url": "https://www.youtube.com/watch?v=3XOLAO3Hi5w",
           "embed_url": "https://www.youtube.com/embed/3XOLAO3Hi5w",
           "duration_seconds": 1466,
-          "view_count": 332152,
+          "view_count": 332224,
           "like_count": 5987
         },
         {
@@ -1914,8 +1902,8 @@
           "url": "https://www.youtube.com/watch?v=SQA5v0mOYK8",
           "embed_url": "https://www.youtube.com/embed/SQA5v0mOYK8",
           "duration_seconds": 1362,
-          "view_count": 753276,
-          "like_count": 11713
+          "view_count": 753353,
+          "like_count": 11714
         },
         {
           "id": "erCgUAhGoyw",
@@ -1926,7 +1914,7 @@
           "url": "https://www.youtube.com/watch?v=erCgUAhGoyw",
           "embed_url": "https://www.youtube.com/embed/erCgUAhGoyw",
           "duration_seconds": 1299,
-          "view_count": 587488,
+          "view_count": 587722,
           "like_count": 7081
         },
         {
@@ -1938,7 +1926,7 @@
           "url": "https://www.youtube.com/watch?v=9Xwb1XyJsTE",
           "embed_url": "https://www.youtube.com/embed/9Xwb1XyJsTE",
           "duration_seconds": 1371,
-          "view_count": 638348,
+          "view_count": 638372,
           "like_count": 10390
         },
         {
@@ -1950,8 +1938,8 @@
           "url": "https://www.youtube.com/watch?v=5UOuBnwtaNU",
           "embed_url": "https://www.youtube.com/embed/5UOuBnwtaNU",
           "duration_seconds": 1473,
-          "view_count": 1377792,
-          "like_count": 10755
+          "view_count": 1378405,
+          "like_count": 10754
         },
         {
           "id": "KRhUqKZ_wjU",
@@ -1962,7 +1950,7 @@
           "url": "https://www.youtube.com/watch?v=KRhUqKZ_wjU",
           "embed_url": "https://www.youtube.com/embed/KRhUqKZ_wjU",
           "duration_seconds": 1276,
-          "view_count": 491331,
+          "view_count": 491361,
           "like_count": 7455
         },
         {
@@ -1974,7 +1962,7 @@
           "url": "https://www.youtube.com/watch?v=VFDke_ZNTMY",
           "embed_url": "https://www.youtube.com/embed/VFDke_ZNTMY",
           "duration_seconds": 1393,
-          "view_count": 597890,
+          "view_count": 598143,
           "like_count": 10553
         },
         {
@@ -1986,7 +1974,7 @@
           "url": "https://www.youtube.com/watch?v=aiGgRTqUlRI",
           "embed_url": "https://www.youtube.com/embed/aiGgRTqUlRI",
           "duration_seconds": 1395,
-          "view_count": 538340,
+          "view_count": 538395,
           "like_count": 9724
         },
         {
@@ -1998,7 +1986,7 @@
           "url": "https://www.youtube.com/watch?v=4aRvwhuOvis",
           "embed_url": "https://www.youtube.com/embed/4aRvwhuOvis",
           "duration_seconds": 1272,
-          "view_count": 551728,
+          "view_count": 551754,
           "like_count": 8324
         },
         {
@@ -2010,7 +1998,7 @@
           "url": "https://www.youtube.com/watch?v=q1s5QWeR5Y4",
           "embed_url": "https://www.youtube.com/embed/q1s5QWeR5Y4",
           "duration_seconds": 1543,
-          "view_count": 411577,
+          "view_count": 411659,
           "like_count": 8108
         },
         {
@@ -2022,7 +2010,7 @@
           "url": "https://www.youtube.com/watch?v=YXj60RAYmrA",
           "embed_url": "https://www.youtube.com/embed/YXj60RAYmrA",
           "duration_seconds": 1534,
-          "view_count": 244244,
+          "view_count": 244300,
           "like_count": 5032
         },
         {
@@ -2034,7 +2022,7 @@
           "url": "https://www.youtube.com/watch?v=qPR91wHXPvo",
           "embed_url": "https://www.youtube.com/embed/qPR91wHXPvo",
           "duration_seconds": 1405,
-          "view_count": 351782,
+          "view_count": 351804,
           "like_count": 6242
         },
         {
@@ -2046,7 +2034,7 @@
           "url": "https://www.youtube.com/watch?v=KQOxUxIEGv4",
           "embed_url": "https://www.youtube.com/embed/KQOxUxIEGv4",
           "duration_seconds": 1546,
-          "view_count": 669495,
+          "view_count": 669708,
           "like_count": 9574
         },
         {
@@ -2058,8 +2046,8 @@
           "url": "https://www.youtube.com/watch?v=Q2_OjCgnNVY",
           "embed_url": "https://www.youtube.com/embed/Q2_OjCgnNVY",
           "duration_seconds": 1239,
-          "view_count": 455218,
-          "like_count": 10805
+          "view_count": 455269,
+          "like_count": 10806
         },
         {
           "id": "OwnrKvDFWFI",
@@ -2070,8 +2058,8 @@
           "url": "https://www.youtube.com/watch?v=OwnrKvDFWFI",
           "embed_url": "https://www.youtube.com/embed/OwnrKvDFWFI",
           "duration_seconds": 1385,
-          "view_count": 582416,
-          "like_count": 12473
+          "view_count": 582536,
+          "like_count": 12475
         }
       ]
     },
@@ -2082,6 +2070,18 @@
       "lang": "cn",
       "videos": [
         {
+          "id": "4m7tU88BghI",
+          "title": "美国之音中文广播 (2026年10月9日) 特朗普总统排除在中期选举前攻击伊朗的可能性；卢比奥表示乌克兰战争正处于危险的僵持状态；美国拟大幅提高国际学生OPT费用，毕业留美工作或难上加难？",
+          "description": "#美国之音中文广播 今天的重点新闻内容包括：1) 美国总统特朗普排除了在下月初中期选举前对伊朗采取新一轮军事行动的可能性 2) 美国国务卿卢比奥说，俄罗斯在乌克兰的战争正处于危险的僵局，美国将继续致力于寻求解决方案以结束这场冲突3) 美国国土安全部10月7日公布一项拟议规则，将大幅提高一项针对国际学生的工作许可计划的费用机制4) 2026年诺贝尔文学奖揭晓，加拿大诗人、作家安妮·卡森获奖, 瑞典学",
+          "thumbnail": "https://i.ytimg.com/vi/4m7tU88BghI/maxresdefault.jpg",
+          "published_at": "2026-10-08T22:00:04Z",
+          "url": "https://www.youtube.com/watch?v=4m7tU88BghI",
+          "embed_url": "https://www.youtube.com/embed/4m7tU88BghI",
+          "duration_seconds": 1796,
+          "view_count": 6486,
+          "like_count": 55
+        },
+        {
           "id": "n_mxLVQFzmw",
           "title": "VOA今日焦点 (2026年10月9日) 特朗普总统“新黄金时代”峰会 马斯克、黄仁勋、苏姿丰获勋",
           "description": "2026年10月9日《#VOA今日焦点》重点新闻内容包括：特朗普总统在白宫召开“新黄金时代”峰会，为马斯克、黄仁勋、苏姿丰等6位科技领袖颁发国家科学勋章；美国国务卿卢比奥结束访欧，敦促北约强化联盟、減少對华依賴；美国国务院悬赏1000万美元缉拿中国黑客；中国民兵船据报首现台湾东部外海；台湾驻美代表处举办双十酒会，俞大㵢强调美国对台军售不会停止；2026年诺贝尔文学奖揭晓，加拿大女诗人安妮·卡森摘桂",
@@ -2090,8 +2090,8 @@
           "url": "https://www.youtube.com/watch?v=n_mxLVQFzmw",
           "embed_url": "https://www.youtube.com/embed/n_mxLVQFzmw",
           "duration_seconds": 890,
-          "view_count": 1387,
-          "like_count": 42
+          "view_count": 17653,
+          "like_count": 148
         },
         {
           "id": "CE6rsujCb7M",
@@ -2102,8 +2102,8 @@
           "url": "https://www.youtube.com/watch?v=CE6rsujCb7M",
           "embed_url": "https://www.youtube.com/embed/CE6rsujCb7M",
           "duration_seconds": 461,
-          "view_count": 13362,
-          "like_count": 65
+          "view_count": 16790,
+          "like_count": 72
         },
         {
           "id": "wtrPnmirIf0",
@@ -2114,8 +2114,8 @@
           "url": "https://www.youtube.com/watch?v=wtrPnmirIf0",
           "embed_url": "https://www.youtube.com/embed/wtrPnmirIf0",
           "duration_seconds": 1796,
-          "view_count": 8648,
-          "like_count": 78
+          "view_count": 9273,
+          "like_count": 81
         },
         {
           "id": "zFHPr09MSfY",
@@ -2126,8 +2126,8 @@
           "url": "https://www.youtube.com/watch?v=zFHPr09MSfY",
           "embed_url": "https://www.youtube.com/embed/zFHPr09MSfY",
           "duration_seconds": 1736,
-          "view_count": 29068,
-          "like_count": 248
+          "view_count": 33617,
+          "like_count": 266
         },
         {
           "id": "DOeUXxe7aho",
@@ -2138,8 +2138,8 @@
           "url": "https://www.youtube.com/watch?v=DOeUXxe7aho",
           "embed_url": "https://www.youtube.com/embed/DOeUXxe7aho",
           "duration_seconds": 2009,
-          "view_count": 5643,
-          "like_count": 37
+          "view_count": 5920,
+          "like_count": 41
         },
         {
           "id": "nKupgnxM8C4",
@@ -2150,8 +2150,8 @@
           "url": "https://www.youtube.com/watch?v=nKupgnxM8C4",
           "embed_url": "https://www.youtube.com/embed/nKupgnxM8C4",
           "duration_seconds": 1696,
-          "view_count": 18350,
-          "like_count": 164
+          "view_count": 19991,
+          "like_count": 190
         },
         {
           "id": "J23jnBix_Bs",
@@ -2162,7 +2162,7 @@
           "url": "https://www.youtube.com/watch?v=J23jnBix_Bs",
           "embed_url": "https://www.youtube.com/embed/J23jnBix_Bs",
           "duration_seconds": 1794,
-          "view_count": 9072,
+          "view_count": 9154,
           "like_count": 82
         },
         {
@@ -2174,31 +2174,7 @@
           "url": "https://www.youtube.com/watch?v=wBLxf_3qXd8",
           "embed_url": "https://www.youtube.com/embed/wBLxf_3qXd8",
           "duration_seconds": 891,
-          "view_count": 25688,
-          "like_count": 194
-        },
-        {
-          "id": "pmgaB6vaG0s",
-          "title": "美国之音中文广播 (2026年10月6日) 美国科学家卡尔·戴塞罗斯与德国科学家彼得·黑格曼、格奥尔格·纳格尔共同获得2026年诺贝尔生理学或医学奖",
-          "description": "#美国之音中文广播 今天的重点新闻内容包括：1)俄罗斯制导炸弹和无人机10月5日袭击了乌克兰第二大城市哈尔科夫，造成三人死亡 2)美国国务卿卢比奥说，美国正在密切关注有关俄罗斯一处实验室发生鼠疫感染的报道，虽无需引起恐慌，但需要密切关注并保持警觉 3)也门政府说，也门军队已经重新夺回了俯瞰战略要道曼德海峡能源要道的领土 4)美国科学家卡尔·戴塞罗斯与德国科学家彼得·黑格曼、格奥尔格·纳格尔共同获得",
-          "thumbnail": "https://i.ytimg.com/vi/pmgaB6vaG0s/maxresdefault.jpg",
-          "published_at": "2026-10-05T22:00:04Z",
-          "url": "https://www.youtube.com/watch?v=pmgaB6vaG0s",
-          "embed_url": "https://www.youtube.com/embed/pmgaB6vaG0s",
-          "duration_seconds": 1795,
-          "view_count": 8016,
-          "like_count": 68
-        },
-        {
-          "id": "mwAyA09ojFE",
-          "title": "VOA今日焦点 (2026年10月6日) 华裔女子奉中国指使在美监视赖清德儿子，遭FBI逮捕；受伊朗威胁，美轰炸机撤离英国机场，特朗普强调美军在英国仍安全；特朗普总统关注俄罗斯疫情，愿意提供援助",
-          "description": "2026年10月6日《#VOA今日焦点》重点新闻内容包括：特朗普总统关注俄罗斯疫情，并愿意提供援助；华裔女子奉中国指使在美国监视赖清德儿子，在机场遭FBI逮捕；受伊朗威胁，美国轰炸机撤离英国机场，特朗普强调美军在英国仍是安全。",
-          "thumbnail": "https://i.ytimg.com/vi/mwAyA09ojFE/maxresdefault.jpg",
-          "published_at": "2026-10-05T21:17:03Z",
-          "url": "https://www.youtube.com/watch?v=mwAyA09ojFE",
-          "embed_url": "https://www.youtube.com/embed/mwAyA09ojFE",
-          "duration_seconds": 891,
-          "view_count": 30505,
+          "view_count": 25875,
           "like_count": 194
         }
       ]
@@ -2218,7 +2194,7 @@
           "url": "https://www.youtube.com/watch?v=hSNQD-dNugM",
           "embed_url": "https://www.youtube.com/embed/hSNQD-dNugM",
           "duration_seconds": 559,
-          "view_count": 29233,
+          "view_count": 29361,
           "like_count": 367
         },
         {
@@ -2230,8 +2206,8 @@
           "url": "https://www.youtube.com/watch?v=hTAjhC8-en4",
           "embed_url": "https://www.youtube.com/embed/hTAjhC8-en4",
           "duration_seconds": 1026,
-          "view_count": 19227,
-          "like_count": 790
+          "view_count": 19269,
+          "like_count": 791
         },
         {
           "id": "5eNqjK9HwJQ",
@@ -2242,8 +2218,8 @@
           "url": "https://www.youtube.com/watch?v=5eNqjK9HwJQ",
           "embed_url": "https://www.youtube.com/embed/5eNqjK9HwJQ",
           "duration_seconds": 646,
-          "view_count": 18705,
-          "like_count": 545
+          "view_count": 18732,
+          "like_count": 547
         },
         {
           "id": "DscrGKyRU1M",
@@ -2254,7 +2230,7 @@
           "url": "https://www.youtube.com/watch?v=DscrGKyRU1M",
           "embed_url": "https://www.youtube.com/embed/DscrGKyRU1M",
           "duration_seconds": 794,
-          "view_count": 57697,
+          "view_count": 57958,
           "like_count": 1287
         },
         {
@@ -2266,7 +2242,7 @@
           "url": "https://www.youtube.com/watch?v=5rDTfseBNMU",
           "embed_url": "https://www.youtube.com/embed/5rDTfseBNMU",
           "duration_seconds": 816,
-          "view_count": 44290,
+          "view_count": 44303,
           "like_count": 752
         },
         {
@@ -2278,7 +2254,7 @@
           "url": "https://www.youtube.com/watch?v=m9h7y08SGIM",
           "embed_url": "https://www.youtube.com/embed/m9h7y08SGIM",
           "duration_seconds": 733,
-          "view_count": 25835,
+          "view_count": 25842,
           "like_count": 617
         },
         {
@@ -2290,7 +2266,7 @@
           "url": "https://www.youtube.com/watch?v=E0y_eF3iD7k",
           "embed_url": "https://www.youtube.com/embed/E0y_eF3iD7k",
           "duration_seconds": 1456,
-          "view_count": 28851,
+          "view_count": 28853,
           "like_count": 658
         },
         {
@@ -2302,7 +2278,7 @@
           "url": "https://www.youtube.com/watch?v=-r7E6dsi6_E",
           "embed_url": "https://www.youtube.com/embed/-r7E6dsi6_E",
           "duration_seconds": 1897,
-          "view_count": 25925,
+          "view_count": 25931,
           "like_count": 741
         },
         {
@@ -2314,7 +2290,7 @@
           "url": "https://www.youtube.com/watch?v=x-FQC9I_i5U",
           "embed_url": "https://www.youtube.com/embed/x-FQC9I_i5U",
           "duration_seconds": 1449,
-          "view_count": 30944,
+          "view_count": 30949,
           "like_count": 901
         },
         {
@@ -2326,7 +2302,7 @@
           "url": "https://www.youtube.com/watch?v=RM3kESaXpEE",
           "embed_url": "https://www.youtube.com/embed/RM3kESaXpEE",
           "duration_seconds": 940,
-          "view_count": 46954,
+          "view_count": 46961,
           "like_count": 1245
         },
         {
@@ -2338,7 +2314,7 @@
           "url": "https://www.youtube.com/watch?v=KGDpYMOMcOo",
           "embed_url": "https://www.youtube.com/embed/KGDpYMOMcOo",
           "duration_seconds": 1320,
-          "view_count": 51113,
+          "view_count": 51117,
           "like_count": 928
         },
         {
@@ -2350,7 +2326,7 @@
           "url": "https://www.youtube.com/watch?v=HKEzBklE0a8",
           "embed_url": "https://www.youtube.com/embed/HKEzBklE0a8",
           "duration_seconds": 852,
-          "view_count": 34469,
+          "view_count": 34471,
           "like_count": 799
         },
         {
@@ -2362,7 +2338,7 @@
           "url": "https://www.youtube.com/watch?v=E9PuK_HYIrs",
           "embed_url": "https://www.youtube.com/embed/E9PuK_HYIrs",
           "duration_seconds": 1086,
-          "view_count": 147263,
+          "view_count": 147307,
           "like_count": 1819
         },
         {
@@ -2374,7 +2350,7 @@
           "url": "https://www.youtube.com/watch?v=nFKiwGHqpsA",
           "embed_url": "https://www.youtube.com/embed/nFKiwGHqpsA",
           "duration_seconds": 2901,
-          "view_count": 167133,
+          "view_count": 167184,
           "like_count": 3152
         },
         {
@@ -2386,7 +2362,7 @@
           "url": "https://www.youtube.com/watch?v=BjN19kS-8ec",
           "embed_url": "https://www.youtube.com/embed/BjN19kS-8ec",
           "duration_seconds": 2605,
-          "view_count": 75456,
+          "view_count": 75500,
           "like_count": 1599
         },
         {
@@ -2398,8 +2374,8 @@
           "url": "https://www.youtube.com/watch?v=hDnASj_jXsk",
           "embed_url": "https://www.youtube.com/embed/hDnASj_jXsk",
           "duration_seconds": 7260,
-          "view_count": 43785,
-          "like_count": 1215
+          "view_count": 43798,
+          "like_count": 1216
         },
         {
           "id": "65vMspZElCg",
@@ -2410,7 +2386,7 @@
           "url": "https://www.youtube.com/watch?v=65vMspZElCg",
           "embed_url": "https://www.youtube.com/embed/65vMspZElCg",
           "duration_seconds": 918,
-          "view_count": 69771,
+          "view_count": 69775,
           "like_count": 1086
         },
         {
@@ -2422,7 +2398,7 @@
           "url": "https://www.youtube.com/watch?v=Mtjvam8lQUY",
           "embed_url": "https://www.youtube.com/embed/Mtjvam8lQUY",
           "duration_seconds": 2260,
-          "view_count": 51230,
+          "view_count": 51248,
           "like_count": 1223
         },
         {
@@ -2434,7 +2410,7 @@
           "url": "https://www.youtube.com/watch?v=iBdMSwiyuRQ",
           "embed_url": "https://www.youtube.com/embed/iBdMSwiyuRQ",
           "duration_seconds": 3952,
-          "view_count": 138798,
+          "view_count": 138860,
           "like_count": 2831
         },
         {
@@ -2446,7 +2422,7 @@
           "url": "https://www.youtube.com/watch?v=Cn6yAnTlke4",
           "embed_url": "https://www.youtube.com/embed/Cn6yAnTlke4",
           "duration_seconds": 1333,
-          "view_count": 57582,
+          "view_count": 57599,
           "like_count": 1007
         },
         {
@@ -2458,7 +2434,7 @@
           "url": "https://www.youtube.com/watch?v=fNcx3lGoIK4",
           "embed_url": "https://www.youtube.com/embed/fNcx3lGoIK4",
           "duration_seconds": 855,
-          "view_count": 33095,
+          "view_count": 33102,
           "like_count": 753
         },
         {
@@ -2470,7 +2446,7 @@
           "url": "https://www.youtube.com/watch?v=T_Wib-suBsQ",
           "embed_url": "https://www.youtube.com/embed/T_Wib-suBsQ",
           "duration_seconds": 1583,
-          "view_count": 39951,
+          "view_count": 39959,
           "like_count": 1249
         },
         {
@@ -2482,7 +2458,7 @@
           "url": "https://www.youtube.com/watch?v=u9TlDjS-oNI",
           "embed_url": "https://www.youtube.com/embed/u9TlDjS-oNI",
           "duration_seconds": 1278,
-          "view_count": 35664,
+          "view_count": 35667,
           "like_count": 868
         },
         {
@@ -2494,8 +2470,8 @@
           "url": "https://www.youtube.com/watch?v=V0za4BdLtE0",
           "embed_url": "https://www.youtube.com/embed/V0za4BdLtE0",
           "duration_seconds": 2149,
-          "view_count": 107057,
-          "like_count": 2134
+          "view_count": 107107,
+          "like_count": 2135
         },
         {
           "id": "a3XBfMSRC0E",
@@ -2506,8 +2482,8 @@
           "url": "https://www.youtube.com/watch?v=a3XBfMSRC0E",
           "embed_url": "https://www.youtube.com/embed/a3XBfMSRC0E",
           "duration_seconds": 3212,
-          "view_count": 206261,
-          "like_count": 3669
+          "view_count": 206340,
+          "like_count": 3670
         },
         {
           "id": "GAju8MHzZEE",
@@ -2518,7 +2494,7 @@
           "url": "https://www.youtube.com/watch?v=GAju8MHzZEE",
           "embed_url": "https://www.youtube.com/embed/GAju8MHzZEE",
           "duration_seconds": 1930,
-          "view_count": 169382,
+          "view_count": 169448,
           "like_count": 3538
         },
         {
@@ -2530,7 +2506,7 @@
           "url": "https://www.youtube.com/watch?v=x9jAHY4bVtU",
           "embed_url": "https://www.youtube.com/embed/x9jAHY4bVtU",
           "duration_seconds": 1514,
-          "view_count": 28319,
+          "view_count": 28322,
           "like_count": 901
         }
       ]
@@ -2550,8 +2526,8 @@
           "url": "https://www.youtube.com/watch?v=dDgncbBAA0c",
           "embed_url": "https://www.youtube.com/embed/dDgncbBAA0c",
           "duration_seconds": 1822,
-          "view_count": 151677,
-          "like_count": 2661
+          "view_count": 153195,
+          "like_count": 2673
         },
         {
           "id": "aDpIra7NFuE",
@@ -2562,8 +2538,8 @@
           "url": "https://www.youtube.com/watch?v=aDpIra7NFuE",
           "embed_url": "https://www.youtube.com/embed/aDpIra7NFuE",
           "duration_seconds": 2078,
-          "view_count": 198352,
-          "like_count": 3194
+          "view_count": 198633,
+          "like_count": 3196
         },
         {
           "id": "0t-eWrGFZyA",
@@ -2574,7 +2550,7 @@
           "url": "https://www.youtube.com/watch?v=0t-eWrGFZyA",
           "embed_url": "https://www.youtube.com/embed/0t-eWrGFZyA",
           "duration_seconds": 1097,
-          "view_count": 222306,
+          "view_count": 222360,
           "like_count": 2615
         },
         {
@@ -2586,8 +2562,8 @@
           "url": "https://www.youtube.com/watch?v=Kof2VcHTjrk",
           "embed_url": "https://www.youtube.com/embed/Kof2VcHTjrk",
           "duration_seconds": 1635,
-          "view_count": 118474,
-          "like_count": 2270
+          "view_count": 118502,
+          "like_count": 2272
         },
         {
           "id": "S2VJU5DQqlU",
@@ -2598,8 +2574,8 @@
           "url": "https://www.youtube.com/watch?v=S2VJU5DQqlU",
           "embed_url": "https://www.youtube.com/embed/S2VJU5DQqlU",
           "duration_seconds": 1308,
-          "view_count": 241496,
-          "like_count": 3987
+          "view_count": 242749,
+          "like_count": 4015
         },
         {
           "id": "JwTCjarfJYw",
@@ -2610,7 +2586,7 @@
           "url": "https://www.youtube.com/watch?v=JwTCjarfJYw",
           "embed_url": "https://www.youtube.com/embed/JwTCjarfJYw",
           "duration_seconds": 2145,
-          "view_count": 216592,
+          "view_count": 216668,
           "like_count": 3317
         },
         {
@@ -2622,8 +2598,8 @@
           "url": "https://www.youtube.com/watch?v=-KcHn0QcSb0",
           "embed_url": "https://www.youtube.com/embed/-KcHn0QcSb0",
           "duration_seconds": 1211,
-          "view_count": 64857,
-          "like_count": 981
+          "view_count": 64960,
+          "like_count": 983
         },
         {
           "id": "GfPZm9yucQo",
@@ -2634,7 +2610,7 @@
           "url": "https://www.youtube.com/watch?v=GfPZm9yucQo",
           "embed_url": "https://www.youtube.com/embed/GfPZm9yucQo",
           "duration_seconds": 1856,
-          "view_count": 170831,
+          "view_count": 170876,
           "like_count": 3238
         },
         {
@@ -2646,8 +2622,8 @@
           "url": "https://www.youtube.com/watch?v=GGzT7zVrRTU",
           "embed_url": "https://www.youtube.com/embed/GGzT7zVrRTU",
           "duration_seconds": 1172,
-          "view_count": 501726,
-          "like_count": 6928
+          "view_count": 501790,
+          "like_count": 6929
         },
         {
           "id": "Po_Dh7WLgmM",
@@ -2658,7 +2634,7 @@
           "url": "https://www.youtube.com/watch?v=Po_Dh7WLgmM",
           "embed_url": "https://www.youtube.com/embed/Po_Dh7WLgmM",
           "duration_seconds": 1589,
-          "view_count": 98328,
+          "view_count": 98340,
           "like_count": 1634
         },
         {
@@ -2670,7 +2646,7 @@
           "url": "https://www.youtube.com/watch?v=TInwQglNkzo",
           "embed_url": "https://www.youtube.com/embed/TInwQglNkzo",
           "duration_seconds": 1771,
-          "view_count": 142014,
+          "view_count": 142025,
           "like_count": 3466
         },
         {
@@ -2682,8 +2658,8 @@
           "url": "https://www.youtube.com/watch?v=rKo9iLGjUbs",
           "embed_url": "https://www.youtube.com/embed/rKo9iLGjUbs",
           "duration_seconds": 1657,
-          "view_count": 113297,
-          "like_count": 2554
+          "view_count": 113433,
+          "like_count": 2555
         }
       ]
     },
@@ -2702,8 +2678,8 @@
           "url": "https://www.youtube.com/watch?v=rPGJhrunbxo",
           "embed_url": "https://www.youtube.com/embed/rPGJhrunbxo",
           "duration_seconds": 1463,
-          "view_count": 1520749,
-          "like_count": 24156
+          "view_count": 1532620,
+          "like_count": 24347
         },
         {
           "id": "hbsce4HNL7o",
@@ -2714,8 +2690,8 @@
           "url": "https://www.youtube.com/watch?v=hbsce4HNL7o",
           "embed_url": "https://www.youtube.com/embed/hbsce4HNL7o",
           "duration_seconds": 4250,
-          "view_count": 102792,
-          "like_count": 1272
+          "view_count": 103009,
+          "like_count": 1273
         },
         {
           "id": "4Hvkv_I8QDE",
@@ -2726,8 +2702,8 @@
           "url": "https://www.youtube.com/watch?v=4Hvkv_I8QDE",
           "embed_url": "https://www.youtube.com/embed/4Hvkv_I8QDE",
           "duration_seconds": 1477,
-          "view_count": 763172,
-          "like_count": 11123
+          "view_count": 767575,
+          "like_count": 11177
         },
         {
           "id": "NMYQt25otes",
@@ -2738,8 +2714,8 @@
           "url": "https://www.youtube.com/watch?v=NMYQt25otes",
           "embed_url": "https://www.youtube.com/embed/NMYQt25otes",
           "duration_seconds": 653,
-          "view_count": 106658,
-          "like_count": 1519
+          "view_count": 106962,
+          "like_count": 1522
         },
         {
           "id": "1CLc-VeEivk",
@@ -2750,8 +2726,8 @@
           "url": "https://www.youtube.com/watch?v=1CLc-VeEivk",
           "embed_url": "https://www.youtube.com/embed/1CLc-VeEivk",
           "duration_seconds": 984,
-          "view_count": 214718,
-          "like_count": 3917
+          "view_count": 215467,
+          "like_count": 3925
         },
         {
           "id": "--8pJvYNcX4",
@@ -2762,8 +2738,8 @@
           "url": "https://www.youtube.com/watch?v=--8pJvYNcX4",
           "embed_url": "https://www.youtube.com/embed/--8pJvYNcX4",
           "duration_seconds": 1224,
-          "view_count": 168270,
-          "like_count": 4983
+          "view_count": 169445,
+          "like_count": 5004
         },
         {
           "id": "sbmP6i-MChk",
@@ -2774,8 +2750,8 @@
           "url": "https://www.youtube.com/watch?v=sbmP6i-MChk",
           "embed_url": "https://www.youtube.com/embed/sbmP6i-MChk",
           "duration_seconds": 651,
-          "view_count": 552272,
-          "like_count": 18701
+          "view_count": 553656,
+          "like_count": 18731
         },
         {
           "id": "5_N84t1rUU0",
@@ -2786,8 +2762,8 @@
           "url": "https://www.youtube.com/watch?v=5_N84t1rUU0",
           "embed_url": "https://www.youtube.com/embed/5_N84t1rUU0",
           "duration_seconds": 1780,
-          "view_count": 647293,
-          "like_count": 14899
+          "view_count": 650425,
+          "like_count": 14947
         },
         {
           "id": "W_wW6AFrqQo",
@@ -2798,8 +2774,8 @@
           "url": "https://www.youtube.com/watch?v=W_wW6AFrqQo",
           "embed_url": "https://www.youtube.com/embed/W_wW6AFrqQo",
           "duration_seconds": 1369,
-          "view_count": 119365,
-          "like_count": 3869
+          "view_count": 119602,
+          "like_count": 3873
         },
         {
           "id": "hR1-I0YPy3U",
@@ -2810,8 +2786,8 @@
           "url": "https://www.youtube.com/watch?v=hR1-I0YPy3U",
           "embed_url": "https://www.youtube.com/embed/hR1-I0YPy3U",
           "duration_seconds": 799,
-          "view_count": 89704,
-          "like_count": 3111
+          "view_count": 89841,
+          "like_count": 3115
         }
       ]
     },
@@ -2830,8 +2806,8 @@
           "url": "https://www.youtube.com/watch?v=db1KRJQEt8w",
           "embed_url": "https://www.youtube.com/embed/db1KRJQEt8w",
           "duration_seconds": 755,
-          "view_count": 98734,
-          "like_count": 740
+          "view_count": 99413,
+          "like_count": 743
         },
         {
           "id": "uapAA5hx5uI",
@@ -2842,7 +2818,7 @@
           "url": "https://www.youtube.com/watch?v=uapAA5hx5uI",
           "embed_url": "https://www.youtube.com/embed/uapAA5hx5uI",
           "duration_seconds": 1182,
-          "view_count": 49960,
+          "view_count": 50078,
           "like_count": 882
         },
         {
@@ -2854,8 +2830,8 @@
           "url": "https://www.youtube.com/watch?v=L0-ezCnX0gs",
           "embed_url": "https://www.youtube.com/embed/L0-ezCnX0gs",
           "duration_seconds": 860,
-          "view_count": 25300,
-          "like_count": 330
+          "view_count": 25350,
+          "like_count": 331
         },
         {
           "id": "yCT8G-iTtgA",
@@ -2866,7 +2842,7 @@
           "url": "https://www.youtube.com/watch?v=yCT8G-iTtgA",
           "embed_url": "https://www.youtube.com/embed/yCT8G-iTtgA",
           "duration_seconds": 907,
-          "view_count": 31644,
+          "view_count": 31655,
           "like_count": 560
         },
         {
@@ -2878,8 +2854,8 @@
           "url": "https://www.youtube.com/watch?v=dZnsz2RYoAQ",
           "embed_url": "https://www.youtube.com/embed/dZnsz2RYoAQ",
           "duration_seconds": 854,
-          "view_count": 30941,
-          "like_count": 449
+          "view_count": 30949,
+          "like_count": 452
         },
         {
           "id": "twFYccH1A_A",
@@ -2890,7 +2866,7 @@
           "url": "https://www.youtube.com/watch?v=twFYccH1A_A",
           "embed_url": "https://www.youtube.com/embed/twFYccH1A_A",
           "duration_seconds": 916,
-          "view_count": 22989,
+          "view_count": 22997,
           "like_count": 349
         },
         {
@@ -2902,7 +2878,7 @@
           "url": "https://www.youtube.com/watch?v=_AyXuJKm8iw",
           "embed_url": "https://www.youtube.com/embed/_AyXuJKm8iw",
           "duration_seconds": 1826,
-          "view_count": 391327,
+          "view_count": 391414,
           "like_count": 3470
         },
         {
@@ -2914,8 +2890,8 @@
           "url": "https://www.youtube.com/watch?v=DdV0f8eu6XI",
           "embed_url": "https://www.youtube.com/embed/DdV0f8eu6XI",
           "duration_seconds": 869,
-          "view_count": 39354,
-          "like_count": 786
+          "view_count": 39414,
+          "like_count": 787
         },
         {
           "id": "yshSzI1rAMs",
@@ -2926,7 +2902,7 @@
           "url": "https://www.youtube.com/watch?v=yshSzI1rAMs",
           "embed_url": "https://www.youtube.com/embed/yshSzI1rAMs",
           "duration_seconds": 749,
-          "view_count": 132667,
+          "view_count": 132704,
           "like_count": 1288
         }
       ]
@@ -2946,8 +2922,8 @@
           "url": "https://www.youtube.com/watch?v=EWvNQjAaOHw",
           "embed_url": "https://www.youtube.com/embed/EWvNQjAaOHw",
           "duration_seconds": 7872,
-          "view_count": 2782688,
-          "like_count": 68584
+          "view_count": 2784031,
+          "like_count": 68600
         },
         {
           "id": "7xTGNNLPyMI",
@@ -2958,8 +2934,8 @@
           "url": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
           "embed_url": "https://www.youtube.com/embed/7xTGNNLPyMI",
           "duration_seconds": 12684,
-          "view_count": 9920379,
-          "like_count": 138307
+          "view_count": 9928358,
+          "like_count": 138365
         },
         {
           "id": "l8pRSuU81PU",
@@ -2970,8 +2946,8 @@
           "url": "https://www.youtube.com/watch?v=l8pRSuU81PU",
           "embed_url": "https://www.youtube.com/embed/l8pRSuU81PU",
           "duration_seconds": 14486,
-          "view_count": 1199608,
-          "like_count": 32661
+          "view_count": 1200277,
+          "like_count": 32677
         },
         {
           "id": "zduSFxRajkE",
@@ -2982,8 +2958,8 @@
           "url": "https://www.youtube.com/watch?v=zduSFxRajkE",
           "embed_url": "https://www.youtube.com/embed/zduSFxRajkE",
           "duration_seconds": 8015,
-          "view_count": 1227024,
-          "like_count": 29368
+          "view_count": 1227580,
+          "like_count": 29372
         },
         {
           "id": "zjkBMFhNj_g",
@@ -2994,8 +2970,8 @@
           "url": "https://www.youtube.com/watch?v=zjkBMFhNj_g",
           "embed_url": "https://www.youtube.com/embed/zjkBMFhNj_g",
           "duration_seconds": 3588,
-          "view_count": 4197516,
-          "like_count": 103799
+          "view_count": 4199467,
+          "like_count": 103827
         },
         {
           "id": "kCc8FmEb1nY",
@@ -3006,8 +2982,8 @@
           "url": "https://www.youtube.com/watch?v=kCc8FmEb1nY",
           "embed_url": "https://www.youtube.com/embed/kCc8FmEb1nY",
           "duration_seconds": 6980,
-          "view_count": 8015160,
-          "like_count": 170547
+          "view_count": 8018904,
+          "like_count": 170575
         },
         {
           "id": "t3YJ5hKiMQ0",
@@ -3018,8 +2994,8 @@
           "url": "https://www.youtube.com/watch?v=t3YJ5hKiMQ0",
           "embed_url": "https://www.youtube.com/embed/t3YJ5hKiMQ0",
           "duration_seconds": 3382,
-          "view_count": 300193,
-          "like_count": 4945
+          "view_count": 300281,
+          "like_count": 4946
         },
         {
           "id": "q8SA3rM6ckI",
@@ -3030,7 +3006,7 @@
           "url": "https://www.youtube.com/watch?v=q8SA3rM6ckI",
           "embed_url": "https://www.youtube.com/embed/q8SA3rM6ckI",
           "duration_seconds": 6924,
-          "view_count": 382489,
+          "view_count": 382577,
           "like_count": 6100
         },
         {
@@ -3042,7 +3018,7 @@
           "url": "https://www.youtube.com/watch?v=P6sfmUTpUmc",
           "embed_url": "https://www.youtube.com/embed/P6sfmUTpUmc",
           "duration_seconds": 6958,
-          "view_count": 558135,
+          "view_count": 558267,
           "like_count": 9159
         },
         {
@@ -3054,7 +3030,7 @@
           "url": "https://www.youtube.com/watch?v=TCH_1BHY58I",
           "embed_url": "https://www.youtube.com/embed/TCH_1BHY58I",
           "duration_seconds": 4540,
-          "view_count": 600290,
+          "view_count": 600482,
           "like_count": 9783
         },
         {
@@ -3066,8 +3042,8 @@
           "url": "https://www.youtube.com/watch?v=PaCmpygFfXo",
           "embed_url": "https://www.youtube.com/embed/PaCmpygFfXo",
           "duration_seconds": 7065,
-          "view_count": 1294110,
-          "like_count": 20924
+          "view_count": 1294476,
+          "like_count": 20926
         },
         {
           "id": "2oKjtvYslMY",
@@ -3078,7 +3054,7 @@
           "url": "https://www.youtube.com/watch?v=2oKjtvYslMY",
           "embed_url": "https://www.youtube.com/embed/2oKjtvYslMY",
           "duration_seconds": 1166,
-          "view_count": 38408,
+          "view_count": 38418,
           "like_count": 634
         },
         {
@@ -3090,8 +3066,8 @@
           "url": "https://www.youtube.com/watch?v=VMj-3S1tku0",
           "embed_url": "https://www.youtube.com/embed/VMj-3S1tku0",
           "duration_seconds": 8752,
-          "view_count": 4241696,
-          "like_count": 83312
+          "view_count": 4244592,
+          "like_count": 83349
         },
         {
           "id": "vEnetcj_728",
@@ -3102,7 +3078,7 @@
           "url": "https://www.youtube.com/watch?v=vEnetcj_728",
           "embed_url": "https://www.youtube.com/embed/vEnetcj_728",
           "duration_seconds": 303,
-          "view_count": 94609,
+          "view_count": 94650,
           "like_count": 668
         }
       ]
@@ -3122,8 +3098,8 @@
           "url": "https://www.youtube.com/watch?v=peP_o66u-vM",
           "embed_url": "https://www.youtube.com/embed/peP_o66u-vM",
           "duration_seconds": 877,
-          "view_count": 143364,
-          "like_count": 1640
+          "view_count": 145765,
+          "like_count": 1658
         },
         {
           "id": "N1Fm4JYae1I",
@@ -3134,8 +3110,8 @@
           "url": "https://www.youtube.com/watch?v=N1Fm4JYae1I",
           "embed_url": "https://www.youtube.com/embed/N1Fm4JYae1I",
           "duration_seconds": 789,
-          "view_count": 113562,
-          "like_count": 1783
+          "view_count": 114953,
+          "like_count": 1801
         },
         {
           "id": "KmcTu2EigTs",
@@ -3146,8 +3122,8 @@
           "url": "https://www.youtube.com/watch?v=KmcTu2EigTs",
           "embed_url": "https://www.youtube.com/embed/KmcTu2EigTs",
           "duration_seconds": 1175,
-          "view_count": 374732,
-          "like_count": 4561
+          "view_count": 377717,
+          "like_count": 4586
         },
         {
           "id": "cEEw1AbeysI",
@@ -3158,8 +3134,8 @@
           "url": "https://www.youtube.com/watch?v=cEEw1AbeysI",
           "embed_url": "https://www.youtube.com/embed/cEEw1AbeysI",
           "duration_seconds": 886,
-          "view_count": 82280,
-          "like_count": 1787
+          "view_count": 82541,
+          "like_count": 1789
         },
         {
           "id": "VeWf0l4ci6Y",
@@ -3170,8 +3146,8 @@
           "url": "https://www.youtube.com/watch?v=VeWf0l4ci6Y",
           "embed_url": "https://www.youtube.com/embed/VeWf0l4ci6Y",
           "duration_seconds": 877,
-          "view_count": 276713,
-          "like_count": 5365
+          "view_count": 278365,
+          "like_count": 5380
         },
         {
           "id": "7GkIWPPC9i0",
@@ -3182,8 +3158,8 @@
           "url": "https://www.youtube.com/watch?v=7GkIWPPC9i0",
           "embed_url": "https://www.youtube.com/embed/7GkIWPPC9i0",
           "duration_seconds": 943,
-          "view_count": 242013,
-          "like_count": 4160
+          "view_count": 242719,
+          "like_count": 4167
         },
         {
           "id": "msFxQ7OYPj8",
@@ -3194,8 +3170,8 @@
           "url": "https://www.youtube.com/watch?v=msFxQ7OYPj8",
           "embed_url": "https://www.youtube.com/embed/msFxQ7OYPj8",
           "duration_seconds": 797,
-          "view_count": 411941,
-          "like_count": 10092
+          "view_count": 413250,
+          "like_count": 10108
         },
         {
           "id": "4wvLHFgnQZQ",
@@ -3206,8 +3182,8 @@
           "url": "https://www.youtube.com/watch?v=4wvLHFgnQZQ",
           "embed_url": "https://www.youtube.com/embed/4wvLHFgnQZQ",
           "duration_seconds": 1070,
-          "view_count": 122687,
-          "like_count": 2449
+          "view_count": 122778,
+          "like_count": 2451
         },
         {
           "id": "0_dSWLOHKng",
@@ -3218,8 +3194,8 @@
           "url": "https://www.youtube.com/watch?v=0_dSWLOHKng",
           "embed_url": "https://www.youtube.com/embed/0_dSWLOHKng",
           "duration_seconds": 1278,
-          "view_count": 425441,
-          "like_count": 9341
+          "view_count": 425785,
+          "like_count": 9347
         },
         {
           "id": "z9rdrNrkvDY",
@@ -3230,8 +3206,8 @@
           "url": "https://www.youtube.com/watch?v=z9rdrNrkvDY",
           "embed_url": "https://www.youtube.com/embed/z9rdrNrkvDY",
           "duration_seconds": 1135,
-          "view_count": 1495055,
-          "like_count": 25960
+          "view_count": 1497219,
+          "like_count": 25993
         },
         {
           "id": "_uXnyhrqmsU",
@@ -3242,7 +3218,7 @@
           "url": "https://www.youtube.com/watch?v=_uXnyhrqmsU",
           "embed_url": "https://www.youtube.com/embed/_uXnyhrqmsU",
           "duration_seconds": 1231,
-          "view_count": 380988,
+          "view_count": 381079,
           "like_count": 9643
         },
         {
@@ -3254,8 +3230,8 @@
           "url": "https://www.youtube.com/watch?v=ZpXN9M0WLQ4",
           "embed_url": "https://www.youtube.com/embed/ZpXN9M0WLQ4",
           "duration_seconds": 773,
-          "view_count": 150507,
-          "like_count": 2406
+          "view_count": 150824,
+          "like_count": 2408
         },
         {
           "id": "s_765enJBy8",
@@ -3266,7 +3242,7 @@
           "url": "https://www.youtube.com/watch?v=s_765enJBy8",
           "embed_url": "https://www.youtube.com/embed/s_765enJBy8",
           "duration_seconds": 732,
-          "view_count": 114540,
+          "view_count": 114565,
           "like_count": 3769
         },
         {
@@ -3278,8 +3254,8 @@
           "url": "https://www.youtube.com/watch?v=aH9ctWaxGgQ",
           "embed_url": "https://www.youtube.com/embed/aH9ctWaxGgQ",
           "duration_seconds": 814,
-          "view_count": 138993,
-          "like_count": 3490
+          "view_count": 139024,
+          "like_count": 3491
         },
         {
           "id": "htZRCE2GgIs",
@@ -3290,8 +3266,8 @@
           "url": "https://www.youtube.com/watch?v=htZRCE2GgIs",
           "embed_url": "https://www.youtube.com/embed/htZRCE2GgIs",
           "duration_seconds": 716,
-          "view_count": 917659,
-          "like_count": 20154
+          "view_count": 918884,
+          "like_count": 20159
         },
         {
           "id": "B23W1gRT9eY",
@@ -3302,8 +3278,8 @@
           "url": "https://www.youtube.com/watch?v=B23W1gRT9eY",
           "embed_url": "https://www.youtube.com/embed/B23W1gRT9eY",
           "duration_seconds": 793,
-          "view_count": 428996,
-          "like_count": 8915
+          "view_count": 429088,
+          "like_count": 8916
         },
         {
           "id": "bTLmt9BKGVc",
@@ -3314,8 +3290,8 @@
           "url": "https://www.youtube.com/watch?v=bTLmt9BKGVc",
           "embed_url": "https://www.youtube.com/embed/bTLmt9BKGVc",
           "duration_seconds": 778,
-          "view_count": 382559,
-          "like_count": 8448
+          "view_count": 382644,
+          "like_count": 8449
         },
         {
           "id": "E7YiKBeOneo",
@@ -3326,8 +3302,8 @@
           "url": "https://www.youtube.com/watch?v=E7YiKBeOneo",
           "embed_url": "https://www.youtube.com/embed/E7YiKBeOneo",
           "duration_seconds": 535,
-          "view_count": 249752,
-          "like_count": 7707
+          "view_count": 249906,
+          "like_count": 7708
         }
       ]
     },
@@ -3346,8 +3322,8 @@
           "url": "https://www.youtube.com/watch?v=LttGyjX-QxE",
           "embed_url": "https://www.youtube.com/embed/LttGyjX-QxE",
           "duration_seconds": 1881,
-          "view_count": 369149,
-          "like_count": 18271
+          "view_count": 1072775,
+          "like_count": 31975
         },
         {
           "id": "t28bEMboL9Y",
@@ -3358,8 +3334,8 @@
           "url": "https://www.youtube.com/watch?v=t28bEMboL9Y",
           "embed_url": "https://www.youtube.com/embed/t28bEMboL9Y",
           "duration_seconds": 1538,
-          "view_count": 1697706,
-          "like_count": 25273
+          "view_count": 1784967,
+          "like_count": 25869
         },
         {
           "id": "ijFSEb2W6_8",
@@ -3370,8 +3346,8 @@
           "url": "https://www.youtube.com/watch?v=ijFSEb2W6_8",
           "embed_url": "https://www.youtube.com/embed/ijFSEb2W6_8",
           "duration_seconds": 832,
-          "view_count": 1574698,
-          "like_count": 36199
+          "view_count": 1600196,
+          "like_count": 36468
         },
         {
           "id": "79s8O7Cipl0",
@@ -3382,8 +3358,8 @@
           "url": "https://www.youtube.com/watch?v=79s8O7Cipl0",
           "embed_url": "https://www.youtube.com/embed/79s8O7Cipl0",
           "duration_seconds": 1811,
-          "view_count": 1568083,
-          "like_count": 23071
+          "view_count": 1599150,
+          "like_count": 23315
         },
         {
           "id": "1H20xp8Brnc",
@@ -3394,8 +3370,8 @@
           "url": "https://www.youtube.com/watch?v=1H20xp8Brnc",
           "embed_url": "https://www.youtube.com/embed/1H20xp8Brnc",
           "duration_seconds": 1264,
-          "view_count": 1814930,
-          "like_count": 28100
+          "view_count": 1825599,
+          "like_count": 28179
         },
         {
           "id": "y1hZ3EalPQU",
@@ -3406,8 +3382,8 @@
           "url": "https://www.youtube.com/watch?v=y1hZ3EalPQU",
           "embed_url": "https://www.youtube.com/embed/y1hZ3EalPQU",
           "duration_seconds": 1625,
-          "view_count": 2016683,
-          "like_count": 43531
+          "view_count": 2026389,
+          "like_count": 43635
         },
         {
           "id": "1gxnANAbLuE",
@@ -3418,8 +3394,8 @@
           "url": "https://www.youtube.com/watch?v=1gxnANAbLuE",
           "embed_url": "https://www.youtube.com/embed/1gxnANAbLuE",
           "duration_seconds": 1529,
-          "view_count": 2033758,
-          "like_count": 30761
+          "view_count": 2039513,
+          "like_count": 30845
         },
         {
           "id": "DLOQOUWmRpI",
@@ -3430,8 +3406,8 @@
           "url": "https://www.youtube.com/watch?v=DLOQOUWmRpI",
           "embed_url": "https://www.youtube.com/embed/DLOQOUWmRpI",
           "duration_seconds": 715,
-          "view_count": 1325394,
-          "like_count": 17088
+          "view_count": 1328797,
+          "like_count": 17120
         },
         {
           "id": "XM04mbymDsE",
@@ -3442,8 +3418,8 @@
           "url": "https://www.youtube.com/watch?v=XM04mbymDsE",
           "embed_url": "https://www.youtube.com/embed/XM04mbymDsE",
           "duration_seconds": 1760,
-          "view_count": 3014971,
-          "like_count": 45092
+          "view_count": 3021751,
+          "like_count": 45136
         },
         {
           "id": "GaX0frxNwfQ",
@@ -3454,8 +3430,8 @@
           "url": "https://www.youtube.com/watch?v=GaX0frxNwfQ",
           "embed_url": "https://www.youtube.com/embed/GaX0frxNwfQ",
           "duration_seconds": 633,
-          "view_count": 1707430,
-          "like_count": 20858
+          "view_count": 1709058,
+          "like_count": 20871
         },
         {
           "id": "Z1sqWFs86uU",
@@ -3466,8 +3442,8 @@
           "url": "https://www.youtube.com/watch?v=Z1sqWFs86uU",
           "embed_url": "https://www.youtube.com/embed/Z1sqWFs86uU",
           "duration_seconds": 13091,
-          "view_count": 1123046,
-          "like_count": 8576
+          "view_count": 1128897,
+          "like_count": 8591
         },
         {
           "id": "qgLaCZyKv_8",
@@ -3478,8 +3454,8 @@
           "url": "https://www.youtube.com/watch?v=qgLaCZyKv_8",
           "embed_url": "https://www.youtube.com/embed/qgLaCZyKv_8",
           "duration_seconds": 1043,
-          "view_count": 1619955,
-          "like_count": 21930
+          "view_count": 1626393,
+          "like_count": 21948
         },
         {
           "id": "zg-rMHEqg-4",
@@ -3490,8 +3466,8 @@
           "url": "https://www.youtube.com/watch?v=zg-rMHEqg-4",
           "embed_url": "https://www.youtube.com/embed/zg-rMHEqg-4",
           "duration_seconds": 1197,
-          "view_count": 4529853,
-          "like_count": 68931
+          "view_count": 4540730,
+          "like_count": 69070
         },
         {
           "id": "3xngArcFpek",
@@ -3502,8 +3478,8 @@
           "url": "https://www.youtube.com/watch?v=3xngArcFpek",
           "embed_url": "https://www.youtube.com/embed/3xngArcFpek",
           "duration_seconds": 584,
-          "view_count": 2289493,
-          "like_count": 32214
+          "view_count": 2292779,
+          "like_count": 32234
         },
         {
           "id": "3PGKMwgjla0",
@@ -3514,8 +3490,8 @@
           "url": "https://www.youtube.com/watch?v=3PGKMwgjla0",
           "embed_url": "https://www.youtube.com/embed/3PGKMwgjla0",
           "duration_seconds": 1426,
-          "view_count": 5248519,
-          "like_count": 72180
+          "view_count": 5251872,
+          "like_count": 72210
         },
         {
           "id": "i_nj_vkD03g",
@@ -3526,8 +3502,8 @@
           "url": "https://www.youtube.com/watch?v=i_nj_vkD03g",
           "embed_url": "https://www.youtube.com/embed/i_nj_vkD03g",
           "duration_seconds": 1542,
-          "view_count": 1867659,
-          "like_count": 44447
+          "view_count": 1869235,
+          "like_count": 44464
         },
         {
           "id": "pvSdeU13hKc",
@@ -3538,8 +3514,8 @@
           "url": "https://www.youtube.com/watch?v=pvSdeU13hKc",
           "embed_url": "https://www.youtube.com/embed/pvSdeU13hKc",
           "duration_seconds": 1142,
-          "view_count": 1433480,
-          "like_count": 22650
+          "view_count": 1434399,
+          "like_count": 22653
         },
         {
           "id": "VfQdPRyqQW4",
@@ -3550,8 +3526,8 @@
           "url": "https://www.youtube.com/watch?v=VfQdPRyqQW4",
           "embed_url": "https://www.youtube.com/embed/VfQdPRyqQW4",
           "duration_seconds": 1455,
-          "view_count": 1853083,
-          "like_count": 34247
+          "view_count": 1854507,
+          "like_count": 34259
         },
         {
           "id": "sL6OWsT47zc",
@@ -3562,8 +3538,8 @@
           "url": "https://www.youtube.com/watch?v=sL6OWsT47zc",
           "embed_url": "https://www.youtube.com/embed/sL6OWsT47zc",
           "duration_seconds": 1100,
-          "view_count": 4219307,
-          "like_count": 49963
+          "view_count": 4221670,
+          "like_count": 49971
         },
         {
           "id": "2KztkwBYD68",
@@ -3574,8 +3550,8 @@
           "url": "https://www.youtube.com/watch?v=2KztkwBYD68",
           "embed_url": "https://www.youtube.com/embed/2KztkwBYD68",
           "duration_seconds": 919,
-          "view_count": 3159499,
-          "like_count": 33004
+          "view_count": 3160498,
+          "like_count": 33012
         }
       ]
     },
@@ -3594,7 +3570,7 @@
           "url": "https://www.youtube.com/watch?v=0Dv4s2P65YQ",
           "embed_url": "https://www.youtube.com/embed/0Dv4s2P65YQ",
           "duration_seconds": 1420,
-          "view_count": 53385,
+          "view_count": 53387,
           "like_count": 1685
         },
         {
@@ -3606,7 +3582,7 @@
           "url": "https://www.youtube.com/watch?v=cu4439w51ik",
           "embed_url": "https://www.youtube.com/embed/cu4439w51ik",
           "duration_seconds": 3770,
-          "view_count": 13826,
+          "view_count": 13844,
           "like_count": 123
         },
         {
@@ -3618,7 +3594,7 @@
           "url": "https://www.youtube.com/watch?v=5MGq7dSOghY",
           "embed_url": "https://www.youtube.com/embed/5MGq7dSOghY",
           "duration_seconds": 3858,
-          "view_count": 13342,
+          "view_count": 13346,
           "like_count": 245
         },
         {
@@ -3630,7 +3606,7 @@
           "url": "https://www.youtube.com/watch?v=uiMUEiilGmA",
           "embed_url": "https://www.youtube.com/embed/uiMUEiilGmA",
           "duration_seconds": 810,
-          "view_count": 27410,
+          "view_count": 27412,
           "like_count": 968
         },
         {
@@ -3642,7 +3618,7 @@
           "url": "https://www.youtube.com/watch?v=6XidEHVjS1A",
           "embed_url": "https://www.youtube.com/embed/6XidEHVjS1A",
           "duration_seconds": 1505,
-          "view_count": 11537,
+          "view_count": 11538,
           "like_count": 146
         },
         {
@@ -3654,7 +3630,7 @@
           "url": "https://www.youtube.com/watch?v=G6gF-5g1Gg4",
           "embed_url": "https://www.youtube.com/embed/G6gF-5g1Gg4",
           "duration_seconds": 1575,
-          "view_count": 8896,
+          "view_count": 8897,
           "like_count": 152
         },
         {
@@ -3666,7 +3642,7 @@
           "url": "https://www.youtube.com/watch?v=wXFr3zIE8FM",
           "embed_url": "https://www.youtube.com/embed/wXFr3zIE8FM",
           "duration_seconds": 1417,
-          "view_count": 7575,
+          "view_count": 7576,
           "like_count": 151
         },
         {
@@ -3702,7 +3678,7 @@
           "url": "https://www.youtube.com/watch?v=sh79Z8i15PI",
           "embed_url": "https://www.youtube.com/embed/sh79Z8i15PI",
           "duration_seconds": 3989,
-          "view_count": 65809,
+          "view_count": 65811,
           "like_count": 1350
         },
         {
@@ -3750,7 +3726,7 @@
           "url": "https://www.youtube.com/watch?v=zfIGAwD1jOQ",
           "embed_url": "https://www.youtube.com/embed/zfIGAwD1jOQ",
           "duration_seconds": 4031,
-          "view_count": 89751,
+          "view_count": 89752,
           "like_count": 1615
         },
         {
@@ -3798,7 +3774,7 @@
           "url": "https://www.youtube.com/watch?v=6pzBOQAXUB8",
           "embed_url": "https://www.youtube.com/embed/6pzBOQAXUB8",
           "duration_seconds": 4345,
-          "view_count": 30684,
+          "view_count": 30685,
           "like_count": 435
         },
         {
@@ -3846,7 +3822,7 @@
           "url": "https://www.youtube.com/watch?v=ug8YvZOjOCE",
           "embed_url": "https://www.youtube.com/embed/ug8YvZOjOCE",
           "duration_seconds": 3806,
-          "view_count": 10256,
+          "view_count": 10257,
           "like_count": 147
         },
         {
@@ -3894,7 +3870,7 @@
           "url": "https://www.youtube.com/watch?v=xt-AwUrDxQk",
           "embed_url": "https://www.youtube.com/embed/xt-AwUrDxQk",
           "duration_seconds": 5859,
-          "view_count": 19581,
+          "view_count": 19583,
           "like_count": 389
         },
         {
@@ -3906,7 +3882,7 @@
           "url": "https://www.youtube.com/watch?v=wYmlILPsLlY",
           "embed_url": "https://www.youtube.com/embed/wYmlILPsLlY",
           "duration_seconds": 1138,
-          "view_count": 19621,
+          "view_count": 19624,
           "like_count": 338
         }
       ]
@@ -3926,8 +3902,8 @@
           "url": "https://www.youtube.com/watch?v=cQLKVzbwN7I",
           "embed_url": "https://www.youtube.com/embed/cQLKVzbwN7I",
           "duration_seconds": 4149,
-          "view_count": 27919,
-          "like_count": 346
+          "view_count": 27964,
+          "like_count": 347
         },
         {
           "id": "s06mSAGN4gM",
@@ -3938,8 +3914,8 @@
           "url": "https://www.youtube.com/watch?v=s06mSAGN4gM",
           "embed_url": "https://www.youtube.com/embed/s06mSAGN4gM",
           "duration_seconds": 3825,
-          "view_count": 47430,
-          "like_count": 834
+          "view_count": 47468,
+          "like_count": 835
         },
         {
           "id": "m3i2mk5hs8U",
@@ -3950,8 +3926,8 @@
           "url": "https://www.youtube.com/watch?v=m3i2mk5hs8U",
           "embed_url": "https://www.youtube.com/embed/m3i2mk5hs8U",
           "duration_seconds": 5262,
-          "view_count": 40718,
-          "like_count": 696
+          "view_count": 40748,
+          "like_count": 699
         },
         {
           "id": "R6fZR_9kmIw",
@@ -3962,7 +3938,7 @@
           "url": "https://www.youtube.com/watch?v=R6fZR_9kmIw",
           "embed_url": "https://www.youtube.com/embed/R6fZR_9kmIw",
           "duration_seconds": 5541,
-          "view_count": 158696,
+          "view_count": 158752,
           "like_count": 2838
         },
         {
@@ -3974,8 +3950,8 @@
           "url": "https://www.youtube.com/watch?v=Ll-wk8x3G_g",
           "embed_url": "https://www.youtube.com/embed/Ll-wk8x3G_g",
           "duration_seconds": 5383,
-          "view_count": 26023,
-          "like_count": 423
+          "view_count": 26041,
+          "like_count": 422
         },
         {
           "id": "fDQaadKysSA",
@@ -3986,8 +3962,8 @@
           "url": "https://www.youtube.com/watch?v=fDQaadKysSA",
           "embed_url": "https://www.youtube.com/embed/fDQaadKysSA",
           "duration_seconds": 2314,
-          "view_count": 30972,
-          "like_count": 465
+          "view_count": 30989,
+          "like_count": 466
         },
         {
           "id": "vXb2QYOUzl4",
@@ -3998,7 +3974,7 @@
           "url": "https://www.youtube.com/watch?v=vXb2QYOUzl4",
           "embed_url": "https://www.youtube.com/embed/vXb2QYOUzl4",
           "duration_seconds": 2979,
-          "view_count": 33221,
+          "view_count": 33249,
           "like_count": 551
         },
         {
@@ -4010,7 +3986,7 @@
           "url": "https://www.youtube.com/watch?v=VqB8zMujdjM",
           "embed_url": "https://www.youtube.com/embed/VqB8zMujdjM",
           "duration_seconds": 1436,
-          "view_count": 98571,
+          "view_count": 98586,
           "like_count": 2259
         },
         {
@@ -4022,7 +3998,7 @@
           "url": "https://www.youtube.com/watch?v=mmPmNezjCi0",
           "embed_url": "https://www.youtube.com/embed/mmPmNezjCi0",
           "duration_seconds": 1349,
-          "view_count": 50090,
+          "view_count": 50108,
           "like_count": 787
         },
         {
@@ -4034,7 +4010,7 @@
           "url": "https://www.youtube.com/watch?v=urwDLyNa9FU",
           "embed_url": "https://www.youtube.com/embed/urwDLyNa9FU",
           "duration_seconds": 3186,
-          "view_count": 116697,
+          "view_count": 116749,
           "like_count": 1898
         },
         {
@@ -4046,7 +4022,7 @@
           "url": "https://www.youtube.com/watch?v=2rcJdFuNbZQ",
           "embed_url": "https://www.youtube.com/embed/2rcJdFuNbZQ",
           "duration_seconds": 4997,
-          "view_count": 1091998,
+          "view_count": 1092265,
           "like_count": 22725
         },
         {
@@ -4058,8 +4034,8 @@
           "url": "https://www.youtube.com/watch?v=CbIPjrOj2Tc",
           "embed_url": "https://www.youtube.com/embed/CbIPjrOj2Tc",
           "duration_seconds": 8942,
-          "view_count": 46958,
-          "like_count": 461
+          "view_count": 46975,
+          "like_count": 462
         },
         {
           "id": "ccqCDD9LqCA",
@@ -4070,7 +4046,7 @@
           "url": "https://www.youtube.com/watch?v=ccqCDD9LqCA",
           "embed_url": "https://www.youtube.com/embed/ccqCDD9LqCA",
           "duration_seconds": 7396,
-          "view_count": 31013,
+          "view_count": 31033,
           "like_count": 409
         },
         {
@@ -4082,7 +4058,7 @@
           "url": "https://www.youtube.com/watch?v=EnWz5XuOnIQ",
           "embed_url": "https://www.youtube.com/embed/EnWz5XuOnIQ",
           "duration_seconds": 7211,
-          "view_count": 34650,
+          "view_count": 34667,
           "like_count": 428
         },
         {
@@ -4094,7 +4070,7 @@
           "url": "https://www.youtube.com/watch?v=YJoegm7kiUM",
           "embed_url": "https://www.youtube.com/embed/YJoegm7kiUM",
           "duration_seconds": 7115,
-          "view_count": 40644,
+          "view_count": 40670,
           "like_count": 469
         },
         {
@@ -4106,7 +4082,7 @@
           "url": "https://www.youtube.com/watch?v=mPWvAN4hzzY",
           "embed_url": "https://www.youtube.com/embed/mPWvAN4hzzY",
           "duration_seconds": 7586,
-          "view_count": 42826,
+          "view_count": 42846,
           "like_count": 522
         },
         {
@@ -4118,8 +4094,8 @@
           "url": "https://www.youtube.com/watch?v=Taj1eHmZyWw",
           "embed_url": "https://www.youtube.com/embed/Taj1eHmZyWw",
           "duration_seconds": 8648,
-          "view_count": 60188,
-          "like_count": 742
+          "view_count": 60214,
+          "like_count": 743
         },
         {
           "id": "dWQVY_h0YXU",
@@ -4130,7 +4106,7 @@
           "url": "https://www.youtube.com/watch?v=dWQVY_h0YXU",
           "embed_url": "https://www.youtube.com/embed/dWQVY_h0YXU",
           "duration_seconds": 7282,
-          "view_count": 65917,
+          "view_count": 65940,
           "like_count": 677
         },
         {
@@ -4142,7 +4118,7 @@
           "url": "https://www.youtube.com/watch?v=8iFvM7WUUs8",
           "embed_url": "https://www.youtube.com/embed/8iFvM7WUUs8",
           "duration_seconds": 7484,
-          "view_count": 124545,
+          "view_count": 124588,
           "like_count": 1344
         },
         {
@@ -4154,7 +4130,7 @@
           "url": "https://www.youtube.com/watch?v=lVdajtNpaGI",
           "embed_url": "https://www.youtube.com/embed/lVdajtNpaGI",
           "duration_seconds": 6608,
-          "view_count": 177510,
+          "view_count": 177581,
           "like_count": 1908
         },
         {
@@ -4166,8 +4142,8 @@
           "url": "https://www.youtube.com/watch?v=TigfpYPJk1s",
           "embed_url": "https://www.youtube.com/embed/TigfpYPJk1s",
           "duration_seconds": 6315,
-          "view_count": 370274,
-          "like_count": 4874
+          "view_count": 370426,
+          "like_count": 4876
         },
         {
           "id": "VuQUF1VVX40",
@@ -4178,7 +4154,7 @@
           "url": "https://www.youtube.com/watch?v=VuQUF1VVX40",
           "embed_url": "https://www.youtube.com/embed/VuQUF1VVX40",
           "duration_seconds": 1113,
-          "view_count": 131795,
+          "view_count": 131968,
           "like_count": 1874
         },
         {
@@ -4190,7 +4166,7 @@
           "url": "https://www.youtube.com/watch?v=zpRR_A3Thoo",
           "embed_url": "https://www.youtube.com/embed/zpRR_A3Thoo",
           "duration_seconds": 1843,
-          "view_count": 5339,
+          "view_count": 5341,
           "like_count": 82
         },
         {
@@ -4202,7 +4178,7 @@
           "url": "https://www.youtube.com/watch?v=gkAyqoQkOSk",
           "embed_url": "https://www.youtube.com/embed/gkAyqoQkOSk",
           "duration_seconds": 5479,
-          "view_count": 36246,
+          "view_count": 36257,
           "like_count": 546
         },
         {
@@ -4214,7 +4190,7 @@
           "url": "https://www.youtube.com/watch?v=jFUwoCkdqAo",
           "embed_url": "https://www.youtube.com/embed/jFUwoCkdqAo",
           "duration_seconds": 2060,
-          "view_count": 31754,
+          "view_count": 31755,
           "like_count": 484
         },
         {
@@ -4226,7 +4202,7 @@
           "url": "https://www.youtube.com/watch?v=9HPsz7F0mJg",
           "embed_url": "https://www.youtube.com/embed/9HPsz7F0mJg",
           "duration_seconds": 2696,
-          "view_count": 30888,
+          "view_count": 30889,
           "like_count": 419
         },
         {
@@ -4238,7 +4214,7 @@
           "url": "https://www.youtube.com/watch?v=s266BzGNKKc",
           "embed_url": "https://www.youtube.com/embed/s266BzGNKKc",
           "duration_seconds": 1443,
-          "view_count": 26820,
+          "view_count": 26821,
           "like_count": 383
         },
         {
@@ -4250,7 +4226,7 @@
           "url": "https://www.youtube.com/watch?v=ip3XnTpcxoA",
           "embed_url": "https://www.youtube.com/embed/ip3XnTpcxoA",
           "duration_seconds": 1462,
-          "view_count": 26789,
+          "view_count": 26792,
           "like_count": 435
         },
         {
@@ -4262,7 +4238,7 @@
           "url": "https://www.youtube.com/watch?v=bJFtcwLSNxI",
           "embed_url": "https://www.youtube.com/embed/bJFtcwLSNxI",
           "duration_seconds": 4710,
-          "view_count": 66508,
+          "view_count": 66527,
           "like_count": 1072
         }
       ]
@@ -4282,8 +4258,8 @@
           "url": "https://www.youtube.com/watch?v=LwQQ7nBCGSs",
           "embed_url": "https://www.youtube.com/embed/LwQQ7nBCGSs",
           "duration_seconds": 5844,
-          "view_count": 461574,
-          "like_count": 4509
+          "view_count": 476331,
+          "like_count": 4656
         },
         {
           "id": "f6cjAEr08qk",
@@ -4294,8 +4270,8 @@
           "url": "https://www.youtube.com/watch?v=f6cjAEr08qk",
           "embed_url": "https://www.youtube.com/embed/f6cjAEr08qk",
           "duration_seconds": 3160,
-          "view_count": 1222055,
-          "like_count": 13946
+          "view_count": 1236566,
+          "like_count": 14028
         },
         {
           "id": "6AgOfiZOWiY",
@@ -4306,8 +4282,8 @@
           "url": "https://www.youtube.com/watch?v=6AgOfiZOWiY",
           "embed_url": "https://www.youtube.com/embed/6AgOfiZOWiY",
           "duration_seconds": 4810,
-          "view_count": 620845,
-          "like_count": 5404
+          "view_count": 623036,
+          "like_count": 5416
         }
       ]
     },
@@ -4318,6 +4294,18 @@
       "lang": "en",
       "videos": [
         {
+          "id": "thO4Y5RYfHo",
+          "title": "The Best New AI Products and the Key Trends They Represent",
+          "description": "Elon says Grok Bot will route to whatever model wins the task, and OpenAI just made ChatGPT generate its own interfaces. NLW breaks down the week’s biggest launches, from Claude Haiku 5.5 reclaiming t",
+          "thumbnail": "https://i.ytimg.com/vi/thO4Y5RYfHo/hqdefault.jpg",
+          "published_at": "2026-10-09T11:26:16Z",
+          "url": "https://www.youtube.com/watch?v=thO4Y5RYfHo",
+          "embed_url": "https://www.youtube.com/embed/thO4Y5RYfHo",
+          "duration_seconds": 1445,
+          "view_count": 295,
+          "like_count": 9
+        },
+        {
           "id": "HX8Zr1kmLEQ",
           "title": "The Best Way To Test New AI Models",
           "description": "In this Operator’s Cut with Nufar Gaspar learn how to test new AI models against your own tasks, compare outputs, and weigh quality, speed, and cost—a repeatable system for figuring out which models d",
@@ -4326,8 +4314,8 @@
           "url": "https://www.youtube.com/watch?v=HX8Zr1kmLEQ",
           "embed_url": "https://www.youtube.com/embed/HX8Zr1kmLEQ",
           "duration_seconds": 2797,
-          "view_count": 830,
-          "like_count": 14
+          "view_count": 2741,
+          "like_count": 33
         },
         {
           "id": "J3n4IUwmuOM",
@@ -4338,8 +4326,8 @@
           "url": "https://www.youtube.com/watch?v=J3n4IUwmuOM",
           "embed_url": "https://www.youtube.com/embed/J3n4IUwmuOM",
           "duration_seconds": 1431,
-          "view_count": 7530,
-          "like_count": 112
+          "view_count": 8359,
+          "like_count": 121
         },
         {
           "id": "nXKbGxi5tOg",
@@ -4350,8 +4338,8 @@
           "url": "https://www.youtube.com/watch?v=nXKbGxi5tOg",
           "embed_url": "https://www.youtube.com/embed/nXKbGxi5tOg",
           "duration_seconds": 1413,
-          "view_count": 7497,
-          "like_count": 110
+          "view_count": 7703,
+          "like_count": 113
         },
         {
           "id": "WloeFbIX7PU",
@@ -4362,8 +4350,8 @@
           "url": "https://www.youtube.com/watch?v=WloeFbIX7PU",
           "embed_url": "https://www.youtube.com/embed/WloeFbIX7PU",
           "duration_seconds": 1252,
-          "view_count": 9745,
-          "like_count": 127
+          "view_count": 10069,
+          "like_count": 129
         },
         {
           "id": "ft3psYNsdO0",
@@ -4374,8 +4362,8 @@
           "url": "https://www.youtube.com/watch?v=ft3psYNsdO0",
           "embed_url": "https://www.youtube.com/embed/ft3psYNsdO0",
           "duration_seconds": 1496,
-          "view_count": 7195,
-          "like_count": 108
+          "view_count": 7281,
+          "like_count": 109
         },
         {
           "id": "Rx7G-8myrd8",
@@ -4386,7 +4374,7 @@
           "url": "https://www.youtube.com/watch?v=Rx7G-8myrd8",
           "embed_url": "https://www.youtube.com/embed/Rx7G-8myrd8",
           "duration_seconds": 1150,
-          "view_count": 12531,
+          "view_count": 12692,
           "like_count": 130
         },
         {
@@ -4398,7 +4386,7 @@
           "url": "https://www.youtube.com/watch?v=0fZTguKX9xM",
           "embed_url": "https://www.youtube.com/embed/0fZTguKX9xM",
           "duration_seconds": 1744,
-          "view_count": 6601,
+          "view_count": 6669,
           "like_count": 116
         },
         {
@@ -4410,7 +4398,7 @@
           "url": "https://www.youtube.com/watch?v=K9gwvAcz1do",
           "embed_url": "https://www.youtube.com/embed/K9gwvAcz1do",
           "duration_seconds": 1540,
-          "view_count": 11276,
+          "view_count": 11315,
           "like_count": 132
         },
         {
@@ -4422,7 +4410,7 @@
           "url": "https://www.youtube.com/watch?v=SGKEIsN2-nY",
           "embed_url": "https://www.youtube.com/embed/SGKEIsN2-nY",
           "duration_seconds": 1211,
-          "view_count": 11831,
+          "view_count": 11879,
           "like_count": 130
         },
         {
@@ -4434,7 +4422,7 @@
           "url": "https://www.youtube.com/watch?v=Gzt74VA8J5Q",
           "embed_url": "https://www.youtube.com/embed/Gzt74VA8J5Q",
           "duration_seconds": 2305,
-          "view_count": 10065,
+          "view_count": 10121,
           "like_count": 116
         },
         {
@@ -4446,7 +4434,7 @@
           "url": "https://www.youtube.com/watch?v=fXRagdr-Q34",
           "embed_url": "https://www.youtube.com/embed/fXRagdr-Q34",
           "duration_seconds": 1544,
-          "view_count": 9184,
+          "view_count": 9214,
           "like_count": 98
         },
         {
@@ -4458,8 +4446,8 @@
           "url": "https://www.youtube.com/watch?v=uV6h3Uo4Nh8",
           "embed_url": "https://www.youtube.com/embed/uV6h3Uo4Nh8",
           "duration_seconds": 1323,
-          "view_count": 39453,
-          "like_count": 415
+          "view_count": 39805,
+          "like_count": 416
         },
         {
           "id": "KYGscdtRS1Y",
@@ -4470,7 +4458,7 @@
           "url": "https://www.youtube.com/watch?v=KYGscdtRS1Y",
           "embed_url": "https://www.youtube.com/embed/KYGscdtRS1Y",
           "duration_seconds": 1650,
-          "view_count": 13078,
+          "view_count": 13088,
           "like_count": 165
         },
         {
@@ -4482,7 +4470,7 @@
           "url": "https://www.youtube.com/watch?v=WEqCpG206sc",
           "embed_url": "https://www.youtube.com/embed/WEqCpG206sc",
           "duration_seconds": 1643,
-          "view_count": 12877,
+          "view_count": 12891,
           "like_count": 145
         },
         {
@@ -4494,7 +4482,7 @@
           "url": "https://www.youtube.com/watch?v=Fuczz33ZBtI",
           "embed_url": "https://www.youtube.com/embed/Fuczz33ZBtI",
           "duration_seconds": 1409,
-          "view_count": 7268,
+          "view_count": 7274,
           "like_count": 79
         },
         {
@@ -4506,7 +4494,7 @@
           "url": "https://www.youtube.com/watch?v=wDiihXDorIY",
           "embed_url": "https://www.youtube.com/embed/wDiihXDorIY",
           "duration_seconds": 1617,
-          "view_count": 7764,
+          "view_count": 7768,
           "like_count": 99
         },
         {
@@ -4518,7 +4506,7 @@
           "url": "https://www.youtube.com/watch?v=HNFhXFZxMYQ",
           "embed_url": "https://www.youtube.com/embed/HNFhXFZxMYQ",
           "duration_seconds": 1374,
-          "view_count": 10185,
+          "view_count": 10193,
           "like_count": 124
         },
         {
@@ -4530,7 +4518,7 @@
           "url": "https://www.youtube.com/watch?v=NmXhFS39ad0",
           "embed_url": "https://www.youtube.com/embed/NmXhFS39ad0",
           "duration_seconds": 1585,
-          "view_count": 14104,
+          "view_count": 14115,
           "like_count": 158
         },
         {
@@ -4542,7 +4530,7 @@
           "url": "https://www.youtube.com/watch?v=XsOoumeXtm4",
           "embed_url": "https://www.youtube.com/embed/XsOoumeXtm4",
           "duration_seconds": 1479,
-          "view_count": 9234,
+          "view_count": 9242,
           "like_count": 122
         },
         {
@@ -4554,7 +4542,7 @@
           "url": "https://www.youtube.com/watch?v=sdR7FZ0SeqA",
           "embed_url": "https://www.youtube.com/embed/sdR7FZ0SeqA",
           "duration_seconds": 1306,
-          "view_count": 11889,
+          "view_count": 11893,
           "like_count": 169
         },
         {
@@ -4566,7 +4554,7 @@
           "url": "https://www.youtube.com/watch?v=5vh1Vr3QSCY",
           "embed_url": "https://www.youtube.com/embed/5vh1Vr3QSCY",
           "duration_seconds": 1390,
-          "view_count": 6270,
+          "view_count": 6273,
           "like_count": 78
         },
         {
@@ -4578,7 +4566,7 @@
           "url": "https://www.youtube.com/watch?v=5Wivm4gd9YQ",
           "embed_url": "https://www.youtube.com/embed/5Wivm4gd9YQ",
           "duration_seconds": 2008,
-          "view_count": 11263,
+          "view_count": 11267,
           "like_count": 125
         },
         {
@@ -4590,7 +4578,7 @@
           "url": "https://www.youtube.com/watch?v=Y2hE6kYZPg0",
           "embed_url": "https://www.youtube.com/embed/Y2hE6kYZPg0",
           "duration_seconds": 1707,
-          "view_count": 12223,
+          "view_count": 12235,
           "like_count": 128
         },
         {
@@ -4602,7 +4590,7 @@
           "url": "https://www.youtube.com/watch?v=gzMQtm-cIiY",
           "embed_url": "https://www.youtube.com/embed/gzMQtm-cIiY",
           "duration_seconds": 1919,
-          "view_count": 10771,
+          "view_count": 10777,
           "like_count": 133
         },
         {
@@ -4614,7 +4602,7 @@
           "url": "https://www.youtube.com/watch?v=j90tdo5Tjes",
           "embed_url": "https://www.youtube.com/embed/j90tdo5Tjes",
           "duration_seconds": 1839,
-          "view_count": 8087,
+          "view_count": 8088,
           "like_count": 90
         },
         {
@@ -4626,7 +4614,7 @@
           "url": "https://www.youtube.com/watch?v=Wqz2yyUCtiw",
           "embed_url": "https://www.youtube.com/embed/Wqz2yyUCtiw",
           "duration_seconds": 1568,
-          "view_count": 17148,
+          "view_count": 17154,
           "like_count": 205
         },
         {
@@ -4638,7 +4626,7 @@
           "url": "https://www.youtube.com/watch?v=1BqWLLkJym0",
           "embed_url": "https://www.youtube.com/embed/1BqWLLkJym0",
           "duration_seconds": 1335,
-          "view_count": 9497,
+          "view_count": 9519,
           "like_count": 117
         },
         {
@@ -4650,7 +4638,7 @@
           "url": "https://www.youtube.com/watch?v=Qa4juJzo0TY",
           "embed_url": "https://www.youtube.com/embed/Qa4juJzo0TY",
           "duration_seconds": 1467,
-          "view_count": 14775,
+          "view_count": 14810,
           "like_count": 223
         },
         {
@@ -4662,20 +4650,8 @@
           "url": "https://www.youtube.com/watch?v=5MMFeibSkqc",
           "embed_url": "https://www.youtube.com/embed/5MMFeibSkqc",
           "duration_seconds": 1240,
-          "view_count": 8759,
+          "view_count": 8762,
           "like_count": 84
-        },
-        {
-          "id": "dLiXiD8hOAI",
-          "title": "Agentic Loops for Knowledge Workers",
-          "description": "Agentic loops let AI run continuously against a measurable goal instead of waiting on prompt-by-prompt direction, and the technique is finally moving beyond software engineering. NLW and Nufar Gaspar ",
-          "thumbnail": "https://i.ytimg.com/vi/dLiXiD8hOAI/hqdefault.jpg",
-          "published_at": "2026-09-04T14:56:16Z",
-          "url": "https://www.youtube.com/watch?v=dLiXiD8hOAI",
-          "embed_url": "https://www.youtube.com/embed/dLiXiD8hOAI",
-          "duration_seconds": 3191,
-          "view_count": 17697,
-          "like_count": 213
         }
       ]
     }
