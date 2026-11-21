@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-21T06:47:05.912934+00:00",
-  "updated_display": "Nov 21, 2026 06:47 UTC",
+  "updated_at": "2026-11-21T18:59:52.273830+00:00",
+  "updated_display": "Nov 21, 2026 18:59 UTC",
   "sections": [
     {
       "title": "Equities 股票",
@@ -248,9 +248,9 @@
           "key": "btc",
           "name": "Bitcoin",
           "sub": "BTC/USD",
-          "price": "$57,108",
-          "chg": "-7.58%",
-          "up": false,
+          "price": "$60,060",
+          "chg": "+2.66%",
+          "up": true,
           "chg_6m": "N/A",
           "up_6m": true,
           "chg_1y": "N/A",
@@ -258,15 +258,15 @@
           "chg_3y": "N/A",
           "up_3y": true,
           "range52": "N/A",
-          "raw_price": 57108
+          "raw_price": 60060
         },
         {
           "key": "eth",
           "name": "Ethereum",
           "sub": "ETH/USD",
-          "price": "$1,611",
-          "chg": "-7.57%",
-          "up": false,
+          "price": "$1,681",
+          "chg": "+3.63%",
+          "up": true,
           "chg_6m": "N/A",
           "up_6m": true,
           "chg_1y": "N/A",
@@ -274,15 +274,15 @@
           "chg_3y": "N/A",
           "up_3y": true,
           "range52": "N/A",
-          "raw_price": 1610.7
+          "raw_price": 1680.64
         },
         {
           "key": "sol",
           "name": "Solana",
           "sub": "SOL/USD",
-          "price": "$67.37",
-          "chg": "-7.17%",
-          "up": false,
+          "price": "$70.72",
+          "chg": "+2.54%",
+          "up": true,
           "chg_6m": "N/A",
           "up_6m": true,
           "chg_1y": "N/A",
@@ -290,15 +290,15 @@
           "chg_3y": "N/A",
           "up_3y": true,
           "range52": "N/A",
-          "raw_price": 67.37
+          "raw_price": 70.72
         },
         {
           "key": "bnb",
           "name": "BNB",
           "sub": "BNB/USD",
-          "price": "$519.15",
-          "chg": "-9.07%",
-          "up": false,
+          "price": "$547.49",
+          "chg": "+1.58%",
+          "up": true,
           "chg_6m": "N/A",
           "up_6m": true,
           "chg_1y": "N/A",
@@ -306,15 +306,15 @@
           "chg_3y": "N/A",
           "up_3y": true,
           "range52": "N/A",
-          "raw_price": 519.15
+          "raw_price": 547.49
         },
         {
           "key": "xrp",
           "name": "XRP",
           "sub": "XRP/USD",
-          "price": "$0.8858",
-          "chg": "-8.34%",
-          "up": false,
+          "price": "$0.9346",
+          "chg": "+3.00%",
+          "up": true,
           "chg_6m": "N/A",
           "up_6m": true,
           "chg_1y": "N/A",
@@ -322,7 +322,7 @@
           "chg_3y": "N/A",
           "up_3y": true,
           "range52": "N/A",
-          "raw_price": 0.885806
+          "raw_price": 0.934639
         }
       ]
     },
@@ -365,9 +365,9 @@
           "key": "gbpusd",
           "name": "GBP/USD",
           "sub": "Cable",
-          "price": "1.3086",
-          "chg": "+0.01%",
-          "up": true,
+          "price": "1.3082",
+          "chg": "-0.03%",
+          "up": false,
           "chg_6m": "N/A",
           "up_6m": true,
           "chg_1y": "N/A",
@@ -375,7 +375,7 @@
           "chg_3y": "N/A",
           "up_3y": true,
           "range52": "1.3080 – 1.3847",
-          "raw_price": 1.3086435794830322
+          "raw_price": 1.3081814050674438
         },
         {
           "key": "dxy",
@@ -397,9 +397,9 @@
           "key": "usdcny",
           "name": "USD/CNY",
           "sub": "Offshore CNH",
-          "price": "6.6772",
-          "chg": "+0.16%",
-          "up": true,
+          "price": "6.6623",
+          "chg": "-0.06%",
+          "up": false,
           "chg_6m": "N/A",
           "up_6m": true,
           "chg_1y": "N/A",
@@ -407,7 +407,7 @@
           "chg_3y": "N/A",
           "up_3y": true,
           "range52": "6.6480 – 7.1066",
-          "raw_price": 6.677199840545654
+          "raw_price": 6.662300109863281
         },
         {
           "key": "usdchf",
